@@ -1,5 +1,5 @@
 from datasets import load_dataset
-from tokenizer import tokenize_text
+from .tokenizer import tokenize_text
 
 
 def count_words(dataset_split):

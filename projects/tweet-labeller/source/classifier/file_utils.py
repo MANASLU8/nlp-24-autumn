@@ -1,6 +1,5 @@
 import os
-
-from annotation import create_annotation
+from .annotation import create_annotation
 
 
 def create_directories(base_dir, labels):

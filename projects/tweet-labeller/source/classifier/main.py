@@ -1,8 +1,5 @@
-# main.py
-
 from datasets import load_dataset
-from file_utils import process_and_save_annotations, create_directories
-
+from .file_utils import process_and_save_annotations, create_directories
 import os
 
 def main():

@@ -1,4 +1,4 @@
-from tokenizer import tokenize_text
+from .tokenizer import tokenize_text
 from nltk.stem import SnowballStemmer
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
