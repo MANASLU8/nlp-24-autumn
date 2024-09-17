@@ -1,20 +1,13 @@
-# source/classifier/file_utils.py
-
 import os
 
 from annotation import create_annotation
 
 
-# Функция для создания директории для классов
 def create_directories(base_dir, labels):
     for label in labels:
         dir_path = os.path.join(base_dir, label)
         os.makedirs(dir_path, exist_ok=True)
 
-
-# Функция для сохранения аннотаций
-
-# source/classifier/file_utils.py
 
 def save_annotation(directory, label, doc_id, annotation):
     file_path = os.path.join(directory, label, f"{doc_id}.tsv")

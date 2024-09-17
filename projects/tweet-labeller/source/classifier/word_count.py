@@ -1,5 +1,3 @@
-# source/classifier/word_count.py
-
 from datasets import load_dataset
 from tokenizer import tokenize_text
 
