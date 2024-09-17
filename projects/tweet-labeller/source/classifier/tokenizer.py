@@ -2,7 +2,7 @@
 
 import re
 
-email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+email_pattern = r'(?:"[a-zA-Z0-9!#$%&\'*+/=?^_`{|}~.]+")|[a-zA-Z0-9!#$%&\'*+/=?^_`{|}~]+(?:\.[a-zA-Z0-9!#$%&\'*+/=?^_`{|}~]+)*@(?:(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}|(?:\[[0-9]{1,3}(?:\.[0-9]{1,3}){3}\])|(?:\[IPv6:[a-fA-F0-9:]+\]))'
 phone_pattern = r'\+?\d{1,4}[\s-]?\(?\d{1,4}\)?[\s-]?\d{1,4}[\s-]?\d{1,4}[\s-]?\d{1,4}'
 emoticon_pattern = r'[:;=8][\-o\*]?[)\](\]DPOp]'
 
@@ -31,10 +31,11 @@ def tokenize_text(text):
         # [^\w\s] - для знаков препинания
         tokens = re.findall(r'###TOKEN\d+###|\w+|[^\w\s]', temp_sentence)
 
-        # меняем временные метки обратно на оригинальные сложные токены
         for match in matches:
-            token_idx = tokens.index(f"###TOKEN{match.start()}###")
-            tokens[token_idx] = match.group(0)
+            token_placeholder = f"###TOKEN{match.start()}###"
+            for i, token in enumerate(tokens):
+                if token == token_placeholder:
+                    tokens[i] = match.group(0)
 
         tokenized_sentences.append(tokens)
 

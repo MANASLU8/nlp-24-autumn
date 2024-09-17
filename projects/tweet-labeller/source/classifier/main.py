@@ -1,7 +1,7 @@
 # main.py
 
 from datasets import load_dataset
-from file_utils import process_and_save_annotations
+from file_utils import process_and_save_annotations, create_directories
 
 import os
 
@@ -19,6 +19,13 @@ def main():
         1: 'neutral',
         2: 'positive'
     }
+
+    # Создание директорий для классов в train и test
+    train_labels = [label_map[label] for label in ds['train']['label']]
+    test_labels = [label_map[label] for label in ds['test']['label']]
+
+    create_directories(train_dir, train_labels)
+    create_directories(test_dir, test_labels)
 
     process_and_save_annotations(ds, 'train', label_map, train_dir)
     process_and_save_annotations(ds, 'test', label_map, test_dir)
