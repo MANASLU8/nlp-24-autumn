@@ -1,0 +1,491 @@
+from	from	from
+:	:	:
+nickh@cs.cmu.edu	nickh@cs.cmu.edu	nickh@cs.cmu.edu
+(	(	(
+nick	nick	nick
+haines	hain	haines
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+level	level	level
+5	5	5
+?	?	?
+
+in	in	in
+-	-	-
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+18084tm@msu.edu	18084tm@msu.edu	18084tm@msu.edu
+'	'	'
+s	s	s
+message	messag	message
+of	of	of
+tue	tue	tue
+,	,	,
+20	20	20
+apr	apr	apr
+1993	1993	1993
+21	21	21
+:	:	:
+37	37	37
+:	:	:
+55	55	55
+gmt	gmt	gmt
+
+originator	origin	originator
+:	:	:
+nickh@snow.fox.cs.cmu.edu	nickh@snow.fox.cs.cmu.edu	nickh@snow.fox.cs.cmu.edu
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+snow	snow	snow
+.	.	.
+fox	fox	fox
+.	.	.
+cs	cs	c
+.	.	.
+cmu	cmu	cmu
+.	.	.
+edu	edu	edu
+
+organization	organ	organization
+:	:	:
+school	school	school
+of	of	of
+computer	comput	computer
+science	scienc	science
+,	,	,
+carnegie	carnegi	carnegie
+mellon	mellon	mellon
+university	univers	university
+
+distribution	distribut	distribution
+:	:	:
+sci	sci	sci
+
+lines	line	line
+:	:	:
+50	50	50
+
+in	in	in
+article	articl	article
+<	<	<
+c5sy4s.4x2.1@cs.cmu.edu	c5sy4s.4x2.1@cs.cmu.edu	c5sy4s.4x2.1@cs.cmu.edu
+>	>	>
+18084tm@msu.edu	18084tm@msu.edu	18084tm@msu.edu
+(	(	(
+tom	tom	tom
+)	)	)
+writes	write	writes
+:	:	:
+
+nick	nick	nick
+haines	hain	haines
+sez	sez	sez
+;	;	;
+
+>	>	>
+(	(	(
+given	given	given
+that	that	that
+i	i	i
+'	'	'
+ve	ve	ve
+heard	heard	heard
+the	the	the
+shuttle	shuttl	shuttle
+software	softwar	software
+rated	rate	rated
+as	as	a
+level	level	level
+5	5	5
+in	in	in
+
+>	>	>
+maturity	matur	maturity
+,	,	,
+i	i	i
+strongly	strong	strongly
+doubt	doubt	doubt
+that	that	that
+this	this	this
+[	[	[
+having	have	having
+lots	lot	lot
+of	of	of
+bugs	bug	bug
+]	]	]
+is	is	is
+the	the	the
+case	case	case
+)	)	)
+.	.	.
+
+level	level	level
+5	5	5
+?	?	?
+
+out	out	out
+of	of	of
+how	how	how
+many	mani	many
+?	?	?
+
+what	what	what
+are	are	are
+the	the	the
+different	differ	different
+levels	level	level
+?	?	?
+
+i	i	i
+'	'	'
+ve	ve	ve
+never	never	never
+
+heard	heard	heard
+of	of	of
+this	this	this
+rating	rate	rating
+system	system	system
+.	.	.
+
+anyone	anyon	anyone
+care	care	care
+to	to	to
+clue	clue	clue
+me	me	me
+in	in	in
+?	?	?
+
+this	this	this
+is	is	is
+a	a	a
+rating	rate	rating
+system	system	system
+used	use	used
+by	by	by
+arpa	arpa	arpa
+and	and	and
+other	other	other
+organisations	organis	organisation
+to	to	to
+measure	measur	measure
+the	the	the
+maturity	matur	maturity
+of	of	of
+a	a	a
+`	`	`
+software	softwar	software
+process	process	process
+'	'	'
+i	i	i
+.	.	.
+e	e	e
+.	.	.
+the	the	the
+entire	entir	entire
+process	process	process
+by	by	by
+which	which	which
+software	softwar	software
+gets	get	get
+designed	design	designed
+,	,	,
+written	written	written
+,	,	,
+tested	test	tested
+,	,	,
+delivered	deliv	delivered
+,	,	,
+supported	support	supported
+etc	etc	etc
+.	.	.
+
+see	see	see
+`	`	`
+managing	manag	managing
+the	the	the
+software	softwar	software
+process	process	process
+'	'	'
+,	,	,
+by	by	by
+watts	watt	watt
+s	s	s
+.	.	.
+
+humphrey	humphrey	humphrey
+,	,	,
+addison	addison	addison
+wesley	wesley	wesley
+1989	1989	1989
+.	.	.
+
+an	an	an
+excellent	excel	excellent
+software	softwar	software
+engineering	engin	engineering
+text	text	text
+.	.	.
+
+the	the	the
+5	5	5
+levels	level	level
+of	of	of
+software	softwar	software
+process	process	process
+maturity	matur	maturity
+are	are	are
+:	:	:
+
+1	1	1
+.	.	.
+
+initial	initi	initial
+2	2	2
+.	.	.
+
+repeatable	repeat	repeatable
+3	3	3
+.	.	.
+
+defined	defin	defined
+4	4	4
+.	.	.
+
+managed	manag	managed
+5	5	5
+.	.	.
+
+optimizing	optim	optimizing
+
+the	the	the
+levels	level	level
+are	are	are
+approximately	approxim	approximately
+characterized	character	characterized
+as	as	a
+follows	follow	follows
+:	:	:
+
+1	1	1
+.	.	.
+
+no	no	no
+statistically	statist	statistically
+software	softwar	software
+process	process	process
+control	control	control
+.	.	.
+
+have	have	have
+no	no	no
+statistical	statist	statistical
+
+basis	basi	basis
+for	for	for
+estimating	estim	estimating
+how	how	how
+large	larg	large
+software	softwar	software
+will	will	will
+be	be	be
+,	,	,
+how	how	how
+long	long	long
+it	it	it
+will	will	will
+
+take	take	take
+to	to	to
+produce	produc	produce
+,	,	,
+how	how	how
+expensive	expens	expensive
+it	it	it
+will	will	will
+be	be	be
+,	,	,
+or	or	or
+how	how	how
+reliable	reliabl	reliable
+it	it	it
+will	will	will
+
+be	be	be
+.	.	.
+
+most	most	most
+software	softwar	software
+production	product	production
+is	is	is
+at	at	at
+this	this	this
+level	level	level
+.	.	.
+
+2	2	2
+.	.	.
+
+stable	stabl	stable
+process	process	process
+with	with	with
+statistical	statist	statistical
+controls	control	control
+,	,	,
+rigorous	rigor	rigorous
+project	project	project
+
+management	manag	management
+;	;	;
+having	have	having
+done	done	done
+something	someth	something
+once	onc	once
+,	,	,
+can	can	can
+do	do	do
+it	it	it
+again	again	again
+.	.	.
+
+projects	project	project
+
+are	are	are
+planned	plan	planned
+in	in	in
+detail	detail	detail
+,	,	,
+and	and	and
+there	there	there
+is	is	is
+software	softwar	software
+configuration	configur	configuration
+
+management	manag	management
+and	and	and
+quality	qualiti	quality
+assurance	assur	assurance
+.	.	.
+
+3	3	3
+.	.	.
+
+the	the	the
+process	process	process
+is	is	is
+defined	defin	defined
+and	and	and
+understood	understood	understood
+,	,	,
+implementation	implement	implementation
+is	is	is
+
+consistent	consist	consistent
+.	.	.
+
+this	this	this
+includes	includ	includes
+things	thing	thing
+like	like	like
+software	softwar	software
+inspection	inspect	inspection
+,	,	,
+a	a	a
+
+rigorous	rigor	rigorous
+software	softwar	software
+testing	test	testing
+framework	framework	framework
+,	,	,
+more	more	more
+configuration	configur	configuration
+management	manag	management
+,	,	,
+and	and	and
+typically	typic	typically
+a	a	a
+`	`	`
+software	softwar	software
+engineering	engin	engineering
+process	process	process
+group	group	group
+'	'	'
+within	within	within
+the	the	the
+
+project	project	project
+.	.	.
+
+4	4	4
+.	.	.
+
+statistical	statist	statistical
+information	inform	information
+on	on	on
+the	the	the
+software	softwar	software
+is	is	is
+systematically	systemat	systematically
+gathered	gather	gathered
+
+and	and	and
+analysed	analys	analysed
+,	,	,
+and	and	and
+the	the	the
+process	process	process
+is	is	is
+controlled	control	controlled
+on	on	on
+the	the	the
+basis	basi	basis
+of	of	of
+this	this	this
+
+information	inform	information
+.	.	.
+
+software	softwar	software
+quality	qualiti	quality
+is	is	is
+measured	measur	measured
+and	and	and
+has	has	ha
+goals	goal	goal
+.	.	.
+
+5	5	5
+.	.	.
+
+defects	defect	defect
+are	are	are
+prevented	prevent	prevented
+,	,	,
+the	the	the
+process	process	process
+is	is	is
+automated	autom	automated
+,	,	,
+software	softwar	software
+contracts	contract	contract
+
+are	are	are
+effective	effect	effective
+and	and	and
+certified	certifi	certified
+.	.	.
+
+nick	nick	nick
+haines	hain	haines
+nickh@cmu.edu	nickh@cmu.edu	nickh@cmu.edu

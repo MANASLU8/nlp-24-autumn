@@ -1,0 +1,246 @@
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+reseting	reset	reseting
+lw	lw	lw
+iig	iig	iig
+to	to	to
+factory	factori	factory
+defaults	default	default
+
+from	from	from
+:	:	:
+robert	robert	robert
+grapes	grape	grape
+<	<	<
+r.grapes@massey.ac.nz	r.grapes@massey.ac.nz	r.grapes@massey.ac.nz
+>	>	>
+
+organization	organ	organization
+:	:	:
+massey	massey	massey
+university	univers	university
+
+x	x	x
+-	-	-
+xxdate	xxdate	xxdate
+:	:	:
+mon	mon	mon
+,	,	,
+19	19	19
+apr	apr	apr
+93	93	93
+08	08	08
+:	:	:
+03	03	03
+:	:	:
+45	45	45
+gmt	gmt	gmt
+
+x	x	x
+-	-	-
+useragent	userag	useragent
+:	:	:
+nuntius	nuntius	nuntius
+v1	v1	v1
+.	.	.
+1	1	1
+.	.	.
+1d17	1d17	1d17
+
+lines	line	line
+:	:	:
+21	21	21
+
+in	in	in
+article	articl	article
+<	<	<
+1qpir1	1qpir1	1qpir1
+$	$	$
+762@slab.mtholyoke.edu	762@slab.mtholyoke.edu	762@slab.mtholyoke.edu
+>	>	>
+jurgen	jurgen	jurgen
+botz	botz	botz
+,	,	,
+jbotz@mtholyoke.edu	jbotz@mtholyoke.edu	jbotz@mtholyoke.edu
+writes	write	writes
+:	:	:
+
+>	>	>
+i	i	i
+have	have	have
+a	a	a
+laserwriter	laserwrit	laserwriter
+iig	iig	iig
+that	that	that
+has	has	ha
+disappeared	disappear	disappeared
+completely	complet	completely
+from	from	from
+the	the	the
+
+>	>	>
+network	network	network
+,	,	,
+i	i	i
+.	.	.
+e	e	e
+.	.	.
+it	it	it
+'	'	'
+s	s	s
+name	name	name
+doesn	doesn	doesn
+'	'	'
+t	t	t
+show	show	show
+up	up	up
+in	in	in
+any	ani	any
+zone	zone	zone
+.	.	.
+
+(	(	(
+you	you	you
+can	can	can
+print	print	print
+
+>	>	>
+to	to	to
+it	it	it
+from	from	from
+it	it	it
+'	'	'
+s	s	s
+serial	serial	serial
+interface	interfac	interface
+,	,	,
+tho	tho	tho
+!	!	!
+)	)	)
+i	i	i
+have	have	have
+seen	seen	seen
+some	some	some
+discussion	discuss	discussion
+
+>	>	>
+here	here	here
+about	about	about
+changing	chang	changing
+the	the	the
+zone	zone	zone
+a	a	a
+iig	iig	iig
+is	is	is
+in	in	in
+.	.	.
+.	.	.
+.	.	.
+
+including	includ	including
+some	some	some
+ps	ps	p
+code	code	code
+
+>	>	>
+that	that	that
+lets	let	let
+you	you	you
+change	chang	change
+the	the	the
+zone	zone	zone
+.	.	.
+
+is	is	is
+there	there	there
+maybe	mayb	maybe
+some	some	some
+ps	ps	p
+code	code	code
+you	you	you
+can	can	can
+
+>	>	>
+use	use	use
+to	to	to
+have	have	have
+it	it	it
+go	go	go
+back	back	back
+to	to	to
+all	all	all
+its	it	it
+factory	factori	factory
+default	default	default
+settings	set	setting
+?	?	?
+
+i	i	i
+have	have	have
+
+>	>	>
+a	a	a
+feeling	feel	feeling
+that	that	that
+'	'	'
+s	s	s
+what	what	what
+needed	need	needed
+to	to	to
+heal	heal	heal
+ours	our	ours
+.	.	.
+
+the	the	the
+following	follow	following
+postscript	postscript	postscript
+works	work	work
+for	for	for
+laserwriter	laserwrit	laserwriter
+iig	iig	iig
+'	'	'
+s	s	s
+with	with	with
+version	version	version
+2	2	2
+roms	rom	rom
+
+%	%	%
+!	!	!
+
+0	0	0
+serverdict	serverdict	serverdict
+begin	begin	begin
+exitserver	exitserv	exitserver
+
+<	<	<
+<	<	<
+/	/	/
+factorydefaults	factorydefault	factorydefaults
+true	true	true
+>	>	>
+>	>	>
+setsystemparams	setsystemparam	setsystemparams
+systemdict	systemdict	systemdict
+begin	begin	begin
+realtime	realtim	realtime
+10000	10000	10000
+add	add	add
+
+{	{	{
+dup	dup	dup
+realtime	realtim	realtime
+le	le	le
+{	{	{
+pop	pop	pop
+exit	exit	exit
+}	}	}
+if	if	if
+}	}	}
+loop	loop	loop
+quit	quit	quit
+
+rob	rob	rob
+.	.	.

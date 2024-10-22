@@ -1,0 +1,821 @@
+from	from	from
+:	:	:
+earle@isolar.tujunga.ca.us	earle@isolar.tujunga.ca.us	earle@isolar.tujunga.ca.us
+(	(	(
+greg	greg	greg
+earle	earl	earle
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+tvtwm	tvtwm	tvtwm
+&	&	&
+xsetroot	xsetroot	xsetroot
+,	,	,
+x11r5	x11r5	x11r5
+and	and	and
+sparcstation	sparcstat	sparcstation
+10	10	10
+keyboard	keyboard	keyboard
+
+organization	organ	organization
+:	:	:
+personal	person	personal
+usenet	usenet	usenet
+site	site	site
+,	,	,
+tujunga	tujunga	tujunga
+,	,	,
+ca	ca	ca
+usa	usa	usa
+
+lines	line	line
+:	:	:
+89	89	89
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+isolar	isolar	isolar
+.	.	.
+tujunga	tujunga	tujunga
+.	.	.
+ca	ca	ca
+.	.	.
+us	us	u
+
+in	in	in
+article	articl	article
+<	<	<
+1r1q5g	1r1q5g	1r1q5g
+$	$	$
+cv4@genesis.ait.psu.edu	cv4@genesis.ait.psu.edu	cv4@genesis.ait.psu.edu
+>	>	>
+barr@pop.psu.edu	barr@pop.psu.edu	barr@pop.psu.edu
+(	(	(
+david	david	david
+barr	barr	barr
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+in	in	in
+article	articl	article
+<	<	<
+mailqueue-101.930420145015.384@oak.shu.ac.uk	mailqueue-101.930420145015.384@oak.shu.ac.uk	mailqueue-101.930420145015.384@oak.shu.ac.uk
+>	>	>
+d.haywood@sheffield-hallam.ac.uk	d.haywood@sheffield-hallam.ac.uk	d.haywood@sheffield-hallam.ac.uk
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+environment	environ	environment
+:	:	:
+sun	sun	sun
+sparc	sparc	sparc
+10	10	10
+,	,	,
+sunos	suno	sunos
+4	4	4
+.	.	.
+1	1	1
+.	.	.
+3	3	3
+.	.	.
+x11r5	x11r5	x11r5
+patch	patch	patch
+level	level	level
+23	23	23
+.	.	.
+
+my	my	my
+x	x	x
+
+>	>	>
+>	>	>
+process	process	process
+is	is	is
+started	start	started
+by	by	by
+xdm	xdm	xdm
+.	.	.
+
+>	>	>
+
+>	>	>
+okay	okay	okay
+,	,	,
+that	that	that
+'	'	'
+s	s	s
+good	good	good
+.	.	.
+
+i	i	i
+'	'	'
+m	m	m
+typing	type	typing
+this	this	this
+from	from	from
+exactly	exact	exactly
+the	the	the
+same	same	same
+setup	setup	setup
+.	.	.
+
+>	>	>
+(	(	(
+us	us	u
+-	-	-
+unix	unix	unix
+layout	layout	layout
+keyboard	keyboard	keyboard
+)	)	)
+i	i	i
+did	did	did
+install	instal	install
+the	the	the
+sunkbd	sunkbd	sunkbd
+patch	patch	patch
+,	,	,
+though	though	though
+.	.	.
+
+.	.	.
+.	.	.
+.	.	.
+
+>	>	>
+>	>	>
+ii	ii	ii
+)	)	)
+when	when	when
+i	i	i
+open	open	open
+an	an	an
+xterm	xterm	xterm
+on	on	on
+the	the	the
+sparc	sparc	sparc
+10	10	10
+,	,	,
+not	not	not
+all	all	all
+of	of	of
+the	the	the
+keys	key	key
+are	are	are
+recognised	recognis	recognised
+
+>	>	>
+>	>	>
+and	and	and
+some	some	some
+keys	key	key
+on	on	on
+the	the	the
+keyboard	keyboard	keyboard
+are	are	are
+not	not	not
+sending	send	sending
+the	the	the
+correct	correct	correct
+characters	charact	character
+.	.	.
+
+>	>	>
+
+>	>	>
+did	did	did
+you	you	you
+install	instal	install
+the	the	the
+sunkbd	sunkbd	sunkbd
+patch	patch	patch
+?	?	?
+
+it	it	it
+'	'	'
+s	s	s
+in	in	in
+the	the	the
+contrib	contrib	contrib
+directory	directori	directory
+on	on	on
+export	export	export
+.	.	.
+
+>	>	>
+all	all	all
+the	the	the
+keys	key	key
+on	on	on
+my	my	my
+keyboard	keyboard	keyboard
+send	send	send
+events	event	event
+properly	proper	properly
+,	,	,
+except	except	except
+the	the	the
+following	follow	following
+:	:	:
+
+>	>	>
+the	the	the
+end	end	end
+,	,	,
+pageup	pageup	pageup
+,	,	,
+pagedown	pagedown	pagedown
+on	on	on
+the	the	the
+6	6	6
+-	-	-
+key	key	key
+cluster	cluster	cluster
+aren	aren	aren
+'	'	'
+t	t	t
+recognized	recogn	recognized
+.	.	.
+
+>	>	>
+even	even	even
+the	the	the
+compose	compos	compose
+key	key	key
+works	work	work
+.	.	.
+
+(	(	(
+though	though	though
+i	i	i
+can	can	can
+'	'	'
+t	t	t
+seem	seem	seem
+to	to	to
+get	get	get
+the	the	the
+composed	compos	composed
+
+>	>	>
+characters	charact	character
+in	in	in
+an	an	an
+xterm	xterm	xterm
+to	to	to
+get	get	get
+passed	pass	passed
+.	.	.
+)	)	)
+
+>	>	>
+
+>	>	>
+anyone	anyon	anyone
+have	have	have
+a	a	a
+fix	fix	fix
+for	for	for
+the	the	the
+last	last	last
+two	two	two
+?	?	?
+
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+know	know	know
+anything	anyth	anything
+about	about	about
+a	a	a
+"	"	"
+sunkbd	sunkbd	sunkbd
+"	"	"
+patch	patch	patch
+,	,	,
+but	but	but
+i	i	i
+use	use	use
+the	the	the
+following	follow	following
+
+.	.	.
+xmodmap	xmodmap	xmodmap
+file	file	file
+(	(	(
+run	run	run
+from	from	from
+.	.	.
+xinitrc	xinitrc	xinitrc
+via	via	via
+"	"	"
+xmodmap	xmodmap	xmodmap
+$	$	$
+home	home	home
+/	/	/
+.	.	.
+xmodmap	xmodmap	xmodmap
+"	"	"
+,	,	,
+of	of	of
+course	cours	course
+)	)	)
+for	for	for
+my	my	my
+type	type	type
+-	-	-
+5	5	5
+unix	unix	unix
+keyboard	keyboard	keyboard
+:	:	:
+(	(	(
+it	it	it
+'	'	'
+s	s	s
+a	a	a
+bit	bit	bit
+"	"	"
+brute	brute	brute
+force	forc	force
+"	"	"
+,	,	,
+however	howev	however
+.	.	.
+)	)	)
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+
+!	!	!
+
+!	!	!
+
+sun	sun	sun
+type	type	type
+-	-	-
+5	5	5
+unix	unix	unix
+keyboard	keyboard	keyboard
+remappings	remap	remappings
+
+!	!	!
+
+!	!	!
+
+this	this	this
+remaps	remap	remaps
+the	the	the
+arrow	arrow	arrow
+keys	key	key
+properly	proper	properly
+
+!	!	!
+
+!	!	!
+
+by	by	by
+default	default	default
+,	,	,
+the	the	the
+arrow	arrow	arrow
+keys	key	key
+on	on	on
+the	the	the
+keypad	keypad	keypad
+(	(	(
+shift	shift	shift
+-	-	-
+8	8	8
+=	=	=
+up	up	up
+,	,	,
+shift	shift	shift
+-	-	-
+4	4	4
+=	=	=
+left	left	left
+,	,	,
+!	!	!
+
+shift	shift	shift
+-	-	-
+6	6	6
+=	=	=
+right	right	right
+,	,	,
+and	and	and
+shift	shift	shift
+-	-	-
+2	2	2
+=	=	=
+down	down	down
+)	)	)
+work	work	work
+,	,	,
+but	but	but
+the	the	the
+arrow	arrow	arrow
+keys	key	key
+are	are	are
+not	not	not
+
+!	!	!
+
+assigned	assign	assigned
+to	to	to
+any	ani	any
+keysym	keysym	keysym
+
+!	!	!
+
+keycode	keycod	keycode
+27	27	27
+=	=	=
+up	up	up
+keycode	keycod	keycode
+31	31	31
+=	=	=
+left	left	left
+keycode	keycod	keycode
+34	34	34
+=	=	=
+down	down	down
+keycode	keycod	keycode
+35	35	35
+=	=	=
+right	right	right
+
+!	!	!
+
+!	!	!
+
+now	now	now
+we	we	we
+want	want	want
+the	the	the
+back	back	back
+space	space	space
+key	key	key
+to	to	to
+emit	emit	emit
+the	the	the
+"	"	"
+delete	delet	delete
+"	"	"
+keysym	keysym	keysym
+
+!	!	!
+
+keycode	keycod	keycode
+50	50	50
+=	=	=
+delete	delet	delete
+
+!	!	!
+
+!	!	!
+
+other	other	other
+random	random	random
+mappings	map	mapping
+that	that	that
+aren	aren	aren
+'	'	'
+t	t	t
+on	on	on
+by	by	by
+default	default	default
+
+!	!	!
+
+!	!	!
+
+sysrq	sysrq	sysrq
+/	/	/
+print	print	print
+screen	screen	screen
+key	key	key
+keycode	keycod	keycode
+29	29	29
+=	=	=
+sunsys_req	sunsys_req	sunsys_req
+print	print	print
+
+!	!	!
+
+break	break	break
+/	/	/
+pause	paus	pause
+key	key	key
+keycode	keycod	keycode
+28	28	28
+=	=	=
+break	break	break
+pause	paus	pause
+
+!	!	!
+
+alt	alt	alt
+graph	graph	graph
+key	key	key
+keycode	keycod	keycode
+20	20	20
+=	=	=
+mode_switch	mode_switch	mode_switch
+
+!	!	!
+
+pageup	pageup	pageup
+key	key	key
+keycode	keycod	keycode
+103	103	103
+=	=	=
+prior	prior	prior
+
+!	!	!
+
+pagedown	pagedown	pagedown
+key	key	key
+keycode	keycod	keycode
+130	130	130
+=	=	=
+next	next	next
+
+!	!	!
+
+insert	insert	insert
+key	key	key
+keycode	keycod	keycode
+51	51	51
+=	=	=
+insert	insert	insert
+
+!	!	!
+
+!	!	!
+
+home	home	home
+,	,	,
+end	end	end
+keys	key	key
+=	=	=
+?	?	?
+?	?	?
+?	?	?
+
+!	!	!
+
+!	!	!
+
+open	open	open
+look	look	look
+functions	function	function
+
+!	!	!
+
+!	!	!
+
+stop	stop	stop
+key	key	key
+(	(	(
+sunstop	sunstop	sunstop
+keysym	keysym	keysym
+=	=	=
+=	=	=
+cancel	cancel	cancel
+)	)	)
+keycode	keycod	keycode
+8	8	8
+=	=	=
+sunstop	sunstop	sunstop
+
+!	!	!
+
+again	again	again
+key	key	key
+(	(	(
+sunagain	sunagain	sunagain
+=	=	=
+=	=	=
+redo	redo	redo
+)	)	)
+keycode	keycod	keycode
+10	10	10
+=	=	=
+sunagain	sunagain	sunagain
+
+!	!	!
+
+props	prop	prop
+key	key	key
+keycode	keycod	keycode
+32	32	32
+=	=	=
+sunprops	sunprop	sunprops
+
+!	!	!
+
+undo	undo	undo
+key	key	key
+(	(	(
+sunundo	sunundo	sunundo
+=	=	=
+=	=	=
+undo	undo	undo
+)	)	)
+keycode	keycod	keycode
+33	33	33
+=	=	=
+sunundo	sunundo	sunundo
+
+!	!	!
+
+front	front	front
+key	key	key
+keycode	keycod	keycode
+56	56	56
+=	=	=
+sunfront	sunfront	sunfront
+
+!	!	!
+
+copy	copi	copy
+key	key	key
+keycode	keycod	keycode
+58	58	58
+=	=	=
+suncopy	suncopi	suncopy
+
+!	!	!
+
+open	open	open
+key	key	key
+keycode	keycod	keycode
+79	79	79
+=	=	=
+sunopen	sunopen	sunopen
+
+!	!	!
+
+paste	past	paste
+key	key	key
+keycode	keycod	keycode
+80	80	80
+=	=	=
+sunpaste	sunpast	sunpaste
+
+!	!	!
+
+find	find	find
+key	key	key
+(	(	(
+sunfind	sunfind	sunfind
+=	=	=
+=	=	=
+find	find	find
+)	)	)
+keycode	keycod	keycode
+102	102	102
+=	=	=
+sunfind	sunfind	sunfind
+
+!	!	!
+
+cut	cut	cut
+key	key	key
+keycode	keycod	keycode
+104	104	104
+=	=	=
+suncut	suncut	suncut
+
+-	-	-
+-	-	-
+
+-	-	-
+greg	greg	greg
+earle	earl	earle
+
+phone	phone	phone
+:	:	:
+(	(	(
+818) 353-8695	818) 353-8695	818) 353-8695
+fax	fax	fax
+:	:	:
+(	(	(
+818) 353-1877	818) 353-1877	818) 353-1877
+
+internet	internet	internet
+:	:	:
+earle@isolar.tujunga.ca.us	earle@isolar.tujunga.ca.us	earle@isolar.tujunga.ca.us
+
+uucp	uucp	uucp
+:	:	:
+isolar	isolar	isolar
+!	!	!
+earle@elroy.jpl.nasa.gov	earle@elroy.jpl.nasa.gov	earle@elroy.jpl.nasa.gov
+a	a	a
+.	.	.
+k	k	k
+.	.	.
+a	a	a
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+!	!	!
+elroy	elroy	elroy
+!	!	!
+isolar	isolar	isolar
+!	!	!
+earle	earl	earle

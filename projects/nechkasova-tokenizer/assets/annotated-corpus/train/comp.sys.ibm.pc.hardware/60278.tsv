@@ -1,0 +1,314 @@
+from	from	from
+:	:	:
+balog@eniac.seas.upenn.edu	balog@eniac.seas.upenn.edu	balog@eniac.seas.upenn.edu
+(	(	(
+eric	eric	eric
+j	j	j
+balog	balog	balog
+)	)	)
+
+subject	subject	subject
+:	:	:
+switch	switch	switch
+3	3	3
+.	.	.
+5	5	5
+"	"	"
+to	to	to
+a	a	a
+:	:	:
+?	?	?
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+pennsylvania	pennsylvania	pennsylvania
+
+lines	line	line
+:	:	:
+39	39	39
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+eniac	eniac	eniac
+.	.	.
+seas	sea	sea
+.	.	.
+upenn	upenn	upenn
+.	.	.
+edu	edu	edu
+
+hi	hi	hi
+!	!	!
+
+i	i	i
+'	'	'
+d	d	d
+like	like	like
+to	to	to
+switch	switch	switch
+my	my	my
+floppy	floppi	floppy
+drives	drive	drive
+so	so	so
+that	that	that
+my	my	my
+3	3	3
+.	.	.
+5	5	5
+"	"	"
+b	b	b
+:	:	:
+drive	drive	drive
+becomes	becom	becomes
+a	a	a
+:	:	:
+,	,	,
+while	while	while
+my	my	my
+5	5	5
+.	.	.
+25	25	25
+"	"	"
+a	a	a
+:	:	:
+becomes	becom	becomes
+b	b	b
+:	:	:
+.	.	.
+
+i	i	i
+'	'	'
+m	m	m
+having	have	having
+a	a	a
+few	few	few
+problems	problem	problem
+,	,	,
+though	though	though
+.	.	.
+
+i	i	i
+know	know	know
+that	that	that
+the	the	the
+ribbon	ribbon	ribbon
+cable	cabl	cable
+must	must	must
+be	be	be
+switched	switch	switched
+,	,	,
+as	as	a
+well	well	well
+as	as	a
+the	the	the
+cmos	cmos	cmos
+settings	set	setting
+,	,	,
+to	to	to
+reflect	reflect	reflect
+this	this	this
+change	chang	change
+,	,	,
+and	and	and
+i	i	i
+think	think	think
+that	that	that
+i	i	i
+'	'	'
+ve	ve	ve
+done	done	done
+that	that	that
+correctly	correct	correctly
+.	.	.
+
+however	howev	however
+,	,	,
+the	the	the
+drives	drive	drive
+do	do	do
+not	not	not
+operate	oper	operate
+correctly	correct	correctly
+in	in	in
+this	this	this
+configuration	configur	configuration
+.	.	.
+
+from	from	from
+the	the	the
+c	c	c
+:	:	:
+>	>	>
+prompt	prompt	prompt
+,	,	,
+if	if	if
+
+i	i	i
+type	type	type
+a	a	a
+:	:	:
+,	,	,
+the	the	the
+5	5	5
+.	.	.
+25	25	25
+"	"	"
+drive	drive	drive
+light	light	light
+comes	come	come
+on	on	on
+;	;	;
+if	if	if
+i	i	i
+type	type	type
+b	b	b
+:	:	:
+,	,	,
+both	both	both
+the	the	the
+light	light	light
+for	for	for
+the	the	the
+
+5	5	5
+.	.	.
+25	25	25
+"	"	"
+and	and	and
+3	3	3
+.	.	.
+5	5	5
+"	"	"
+drives	drive	drive
+come	come	come
+on	on	on
+.	.	.
+
+there	there	there
+are	are	are
+some	some	some
+jumpers	jumper	jumper
+on	on	on
+each	each	each
+drive	drive	drive
+:	:	:
+
+5	5	5
+.	.	.
+25	25	25
+"	"	"
+label	label	label
+original	origin	original
+pos	pos	po
+.	.	.
+
+pos	pos	po
+.	.	.
+
+i	i	i
+changed	chang	changed
+it	it	it
+to	to	to
+
+ds0	ds0	ds0
+on	on	on
+off	off	off
+
+ds1	ds1	ds1
+off	off	off
+on	on	on
+
+ds2	ds2	ds2
+on	on	on
+on	on	on
+
+ds3	ds3	ds3
+off	off	off
+off	off	off
+
+io	io	io
+off	off	off
+off	off	off
+
+ms1	ms1	ms1
+off	off	off
+off	off	off
+
+d	d	d
+-	-	-
+r	r	r
+on	on	on
+on	on	on
+
+ms2	ms2	ms2
+on	on	on
+on	on	on
+
+fg	fg	fg
+off	off	off
+off	off	off
+
+3	3	3
+.	.	.
+5	5	5
+"	"	"
+ds0	ds0	ds0
+off	off	off
+on	on	on
+
+ds1	ds1	ds1
+on	on	on
+off	off	off
+
+ds2	ds2	ds2
+off	off	off
+off	off	off
+
+ds3	ds3	ds3
+off	off	off
+off	off	off
+
+mm	mm	mm
+on	on	on
+on	on	on
+
+dc	dc	dc
+on	on	on
+on	on	on
+
+md	md	md
+off	off	off
+off	off	off
+
+ttl	ttl	ttl
+/	/	/
+c	c	c
+-	-	-
+mo8	mo8	mo8
+on	on	on
+on	on	on
+
+any	ani	any
+help	help	help
+or	or	or
+suggestions	suggest	suggestion
+would	would	would
+be	be	be
+greatly	great	greatly
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+in	in	in
+advance	advanc	advance
+.	.	.
+
+eric	eric	eric
+balog	balog	balog
+balog@eniac.seas.upenn.edu	balog@eniac.seas.upenn.edu	balog@eniac.seas.upenn.edu

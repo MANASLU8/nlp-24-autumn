@@ -1,0 +1,401 @@
+from	from	from
+:	:	:
+mwchiu@tigr.org	mwchiu@tigr.org	mwchiu@tigr.org
+(	(	(
+man	man	man
+-	-	-
+wai	wai	wai
+chiu	chiu	chiu
+)	)	)
+
+subject	subject	subject
+:	:	:
+xm1	xm1	xm1
+.	.	.
+2	2	2
+.	.	.
+1	1	1
+and	and	and
+ow	ow	ow
+server	server	server
+
+organization	organ	organization
+:	:	:
+utexas	utexa	utexas
+mail	mail	mail
+-	-	-
+to	to	to
+-	-	-
+news	news	news
+gateway	gateway	gateway
+
+lines	line	line
+:	:	:
+43	43	43
+
+distribution	distribut	distribution
+:	:	:
+inet	inet	inet
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+cs	cs	c
+.	.	.
+utexas	utexa	utexas
+.	.	.
+edu	edu	edu
+
+we	we	we
+have	have	have
+a	a	a
+program	program	program
+written	written	written
+with	with	with
+x11r5	x11r5	x11r5
+and	and	and
+motif	motif	motif
+1	1	1
+.	.	.
+2	2	2
+.	.	.
+1	1	1
+.	.	.
+it	it	it
+runs	run	run
+fine	fine	fine
+on	on	on
+the	the	the
+sun	sun	sun
+x11r5	x11r5	x11r5
+server	server	server
+and	and	and
+macx	macx	macx
+.	.	.
+
+when	when	when
+that	that	that
+program	program	program
+is	is	is
+run	run	run
+under	under	under
+the	the	the
+sparc	sparc	sparc
+2	2	2
+and	and	and
+the	the	the
+ow	ow	ow
+server	server	server
+,	,	,
+the	the	the
+program	program	program
+crashed	crash	crashed
+itself	itself	itself
+along	along	along
+with	with	with
+the	the	the
+server	server	server
+.	.	.
+
+it	it	it
+crashed	crash	crashed
+before	befor	before
+the	the	the
+first	first	first
+window	window	window
+had	had	had
+showed	show	showed
+up	up	up
+.	.	.
+
+i	i	i
+got	got	got
+the	the	the
+following	follow	following
+error	error	error
+from	from	from
+x	x	x
+.	.	.
+
+xio	xio	xio
+:	:	:
+fatal	fatal	fatal
+io	io	io
+error	error	error
+32	32	32
+(	(	(
+broken	broken	broken
+pipe	pipe	pipe
+)	)	)
+on	on	on
+x	x	x
+server	server	server
+"	"	"
+perot	perot	perot
+:	:	:
+0	0	0
+.	.	.
+0	0	0
+"	"	"
+
+after	after	after
+62	62	62
+requests	request	request
+(	(	(
+59	59	59
+known	known	known
+processed	process	processed
+)	)	)
+with	with	with
+0	0	0
+events	event	event
+remaining	remain	remaining
+.	.	.
+
+the	the	the
+connection	connect	connection
+was	was	wa
+probably	probabl	probably
+broken	broken	broken
+by	by	by
+a	a	a
+server	server	server
+shutdown	shutdown	shutdown
+or	or	or
+killclient	killclient	killclient
+.	.	.
+
+i	i	i
+have	have	have
+run	run	run
+the	the	the
+program	program	program
+with	with	with
+xmon	xmon	xmon
+and	and	and
+below	below	below
+is	is	is
+the	the	the
+last	last	last
+twenty	twenti	twenty
+lines	line	line
+or	or	or
+so	so	so
+from	from	from
+xmon	xmon	xmon
+before	befor	before
+both	both	both
+the	the	the
+program	program	program
+and	and	and
+server	server	server
+crashed	crash	crashed
+.	.	.
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+request	request	request
+:	:	:
+getproperty	getproperti	getproperty
+
+delete	delet	delete
+:	:	:
+false	fals	false
+
+window	window	window
+:	:	:
+win	win	win
+00900001	00900001	00900001
+
+property	properti	property
+:	:	:
+atm	atm	atm
+00000074	00000074	00000074
+
+type	type	type
+:	:	:
+atm	atm	atm
+00000074	00000074	00000074
+
+long	long	long
+-	-	-
+offset	offset	offset
+:	:	:
+00000000	00000000	00000000
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+reply	repli	reply
+:	:	:
+getproperty	getproperti	getproperty
+
+format	format	format
+:	:	:
+00	00	00
+
+type	type	type
+:	:	:
+<	<	<
+none	none	none
+>	>	>
+
+bytes	byte	byte
+-	-	-
+after	after	after
+:	:	:
+00000000	00000000	00000000
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+request	request	request
+:	:	:
+getinputfocus	getinputfocus	getinputfocus
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+reply	repli	reply
+:	:	:
+getinputfocus	getinputfocus	getinputfocus
+
+revert	revert	revert
+-	-	-
+to	to	to
+:	:	:
+parent	parent	parent
+
+focus	focus	focus
+:	:	:
+win	win	win
+0040000d	0040000d	0040000d
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+request	request	request
+:	:	:
+changeproperty	changeproperti	changeproperty
+
+mode	mode	mode
+:	:	:
+replace	replac	replace
+
+window	window	window
+:	:	:
+win	win	win
+00900001	00900001	00900001
+
+property	properti	property
+:	:	:
+atm	atm	atm
+00000074	00000074	00000074
+
+type	type	type
+:	:	:
+atm	atm	atm
+00000074	00000074	00000074
+
+format	format	format
+:	:	:
+08	08	08
+
+data	data	data
+:	:	:
+42 00 00 01 00 00 00 10 00 00 00 75 00 00 00 00	42 00 00 01 00 00 00 10 00 00 00 75 00 00 00 00	42 00 00 01 00 00 00 10 00 00 00 75 00 00 00 00
+
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+request	request	request
+:	:	:
+getinputfocus	getinputfocus	getinputfocus
+
+please	pleas	please
+email	email	email
+to	to	to
+me	me	me
+if	if	if
+you	you	you
+have	have	have
+any	ani	any
+idea	idea	idea
+of	of	of
+the	the	the
+above	abov	above
+problem	problem	problem
+.	.	.
+
+thanks	thank	thanks
+in	in	in
+advance	advanc	advance
+.	.	.
+
+-	-	-
+-	-	-
+mw	mw	mw
+chiu	chiu	chiu
+mwchiu@tigr.org	mwchiu@tigr.org	mwchiu@tigr.org

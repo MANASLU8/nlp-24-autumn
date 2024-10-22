@@ -1,0 +1,315 @@
+from	from	from
+:	:	:
+victor@hpfrcu03.france.hp.com	victor@hpfrcu03.france.hp.com	victor@hpfrcu03.france.hp.com
+(	(	(
+victor	victor	victor
+gattegno	gattegno	gattegno
+french	french	french
+crc	crc	crc
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+running	run	running
+dxterm	dxterm	dxterm
+'	'	'
+s	s	s
+onto	onto	onto
+apollo	apollo	apollo
+from	from	from
+dec	dec	dec
+5000	5000	5000
+/	/	/
+240	240	240
+
+organization	organ	organization
+:	:	:
+the	the	the
+internet	internet	internet
+
+lines	line	line
+:	:	:
+61	61	61
+
+to	to	to
+:	:	:
+alf@st.nepean.uws.edu.au	alf@st.nepean.uws.edu.au	alf@st.nepean.uws.edu.au
+
+cc	cc	cc
+:	:	:
+xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu
+
+>	>	>
+apollo	apollo	apollo
+dn2500	dn2500	dn2500
+(	(	(
+domain	domain	domain
+/	/	/
+os	os	o
+10	10	10
+.	.	.
+3	3	3
+,	,	,
+x11r4	x11r4	x11r4
+,	,	,
+motif	motif	motif
+?	?	?
+.	.	.
+?	?	?
+)	)	)
+.	.	.
+
+i	i	i
+think	think	think
+you	you	you
+are	are	are
+running	run	running
+xapollo	xapollo	xapollo
+,	,	,
+it	it	it
+'	'	'
+s	s	s
+a	a	a
+x11r3	x11r3	x11r3
+server	server	server
+.	.	.
+.	.	.
+.	.	.
+
+if	if	if
+you	you	you
+want	want	want
+a	a	a
+x11r4	x11r4	x11r4
+server	server	server
+you	you	you
+should	should	should
+install	instal	install
+pskq3	pskq3	pskq3
+(	(	(
+10	10	10
+.	.	.
+3	3	3
+.	.	.
+5	5	5
+)	)	)
+or	or	or
+10	10	10
+.	.	.
+4	4	4
+
+so	so	so
+you	you	you
+can	can	can
+run	run	run
+xdomain	xdomain	xdomain
+.	.	.
+
+>	>	>
+
+>	>	>
+i	i	i
+get	get	get
+these	these	these
+errors	error	error
+appearing	appear	appearing
+on	on	on
+the	the	the
+decstation	decstat	decstation
+:	:	:
+
+>	>	>
+
+>	>	>
+>	>	>
+dxterm	dxterm	dxterm
+
+>	>	>
+x	x	x
+toolkit	toolkit	toolkit
+warning	warn	warning
+:	:	:
+cannot	cannot	cannot
+convert	convert	convert
+string	string	string
+"	"	"
+<	<	<
+key	key	key
+>	>	>
+apchardel	apchardel	apchardel
+"	"	"
+to	to	to
+type	type	type
+virtualbinding	virtualbind	virtualbinding
+
+>	>	>
+.	.	.
+.	.	.
+.	.	.
+
+>	>	>
+segmentation	segment	segmentation
+fault	fault	fault
+
+>	>	>
+
+>	>	>
+any	ani	any
+ideas	idea	idea
+?	?	?
+
+is	is	is
+it	it	it
+a	a	a
+motif	motif	motif
+problem	problem	problem
+.	.	.
+.	.	.
+.	.	.
+are	are	are
+the	the	the
+dec	dec	dec
+and	and	and
+apollo	apollo	apollo
+versions	version	version
+of	of	of
+motif	motif	motif
+
+>	>	>
+incompatible	incompat	incompatible
+?	?	?
+
+or	or	or
+something	someth	something
+to	to	to
+do	do	do
+with	with	with
+xkeysymdb	xkeysymdb	xkeysymdb
+?	?	?
+
+in	in	in
+xkeysymdb	xkeysymdb	xkeysymdb
+you	you	you
+could	could	could
+add	add	add
+:	:	:
+
+!	!	!
+
+apollo	apollo	apollo
+specific	specif	specific
+keysyms	keysym	keysyms
+
+!	!	!
+
+aplinedel	aplinedel	aplinedel
+:	:	:
+1000ff00	1000ff00	1000ff00
+apchardel	apchardel	apchardel
+:	:	:
+1000ff01	1000ff01	1000ff01
+apcopy	apcopi	apcopy
+:	:	:
+1000ff02	1000ff02	1000ff02
+apcut	apcut	apcut
+:	:	:
+1000ff03	1000ff03	1000ff03
+appaste	appast	appaste
+:	:	:
+1000ff04	1000ff04	1000ff04
+apmove	apmov	apmove
+:	:	:
+1000ff05	1000ff05	1000ff05
+apgrow	apgrow	apgrow
+:	:	:
+1000ff06	1000ff06	1000ff06
+apcmd	apcmd	apcmd
+:	:	:
+1000ff07	1000ff07	1000ff07
+apshell	apshel	apshell
+:	:	:
+1000ff08	1000ff08	1000ff08
+apleftbar	apleftbar	apleftbar
+:	:	:
+1000ff09	1000ff09	1000ff09
+aprightbar	aprightbar	aprightbar
+:	:	:
+1000ff0a	1000ff0a	1000ff0a
+apleftbox	apleftbox	apleftbox
+:	:	:
+1000ff0b	1000ff0b	1000ff0b
+aprightbox	aprightbox	aprightbox
+:	:	:
+1000ff0c	1000ff0c	1000ff0c
+apupbox	apupbox	apupbox
+:	:	:
+1000ff0d	1000ff0d	1000ff0d
+apdownbox	apdownbox	apdownbox
+:	:	:
+1000ff0e	1000ff0e	1000ff0e
+appop	appop	appop
+:	:	:
+1000ff0f	1000ff0f	1000ff0f
+apread	apread	apread
+:	:	:
+1000ff10	1000ff10	1000ff10
+apedit	apedit	apedit
+:	:	:
+1000ff11	1000ff11	1000ff11
+apsave	apsav	apsave
+:	:	:
+1000ff12	1000ff12	1000ff12
+apexit	apexit	apexit
+:	:	:
+1000ff13	1000ff13	1000ff13
+aprepeat	aprepeat	aprepeat
+:	:	:
+1000ff14	1000ff14	1000ff14
+apkp_parenleft	apkp_parenleft	apkp_parenleft
+:	:	:
+1000ffa8	1000ffa8	1000ffa8
+apkp_parenright	apkp_parenright	apkp_parenright
+:	:	:
+1000ffa9	1000ffa9	1000ffa9
+
+-	-	-
+-	-	-
+victor	victor	victor
+.	.	.
+
+\	\	\
+/	/	/
+
+^	^	^
+^	^	^
+
+______victor@hpfrcu03.france.hp	______victor@hpfrcu03.france.hp	______victor@hpfrcu03.france.hp
+.	.	.
+com_______oooo_o_oooo_________________	com_______oooo_o_oooo_________________	com_______oooo_o_oooo_________________
+
+victor	victor	victor
+gattegno	gattegno	gattegno
+
+"	"	"
+be	be	be
+yourself	yourself	yourself
+and	and	and
+not	not	not
+what	what	what
+people	peopl	people
+expect	expect	expect
+you	you	you
+to	to	to
+be	be	be
+.	.	.
+"	"	"
+
+______________________________________________________________________	______________________________________________________________________	______________________________________________________________________
+
+(	(	(
+(	(	(
+
+)	)	)
+)	)	)

@@ -1,0 +1,157 @@
+from	from	from
+:	:	:
+rank@winf.uni-passau.de	rank@winf.uni-passau.d	rank@winf.uni-passau.de
+(	(	(
+christian	christian	christian
+rank	rank	rank
+)	)	)
+
+subject	subject	subject
+:	:	:
+xsun	xsun	xsun
+not	not	not
+running	run	running
+on	on	on
+sparcclassic	sparcclass	sparcclassic
+
+organization	organ	organization
+:	:	:
+lehrstuhl	lehrstuhl	lehrstuhl
+fuer	fuer	fuer
+wirtschaftsinformatik	wirtschaftsinformatik	wirtschaftsinformatik
+-	-	-
+universitaet	universitaet	universitaet
+passau	passau	passau
+
+lines	line	line
+:	:	:
+15	15	15
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+jupiter	jupit	jupiter
+.	.	.
+winf	winf	winf
+.	.	.
+uni	uni	uni
+-	-	-
+passau	passau	passau
+.	.	.
+de	de	de
+
+i	i	i
+'	'	'
+ve	ve	ve
+installed	instal	installed
+x11r5	x11r5	x11r5
+with	with	with
+patches	patch	patch
+for	for	for
+solaris	solari	solaris
+2	2	2
+.	.	.
+1	1	1
+on	on	on
+our	our	our
+sparcstation	sparcstat	sparcstation
+lx	lx	lx
+/	/	/
+sparcclassic	sparcclass	sparcclassic
+pool	pool	pool
+.	.	.
+
+on	on	on
+the	the	the
+lx	lx	lx
+,	,	,
+x11r5	x11r5	x11r5
+runs	run	run
+fine	fine	fine
+,	,	,
+but	but	but
+on	on	on
+the	the	the
+classics	classic	classic
+,	,	,
+after	after	after
+giving	give	giving
+the	the	the
+command	command	command
+startx	startx	startx
+,	,	,
+xsun	xsun	xsun
+prints	print	print
+the	the	the
+following	follow	following
+messages	messag	message
+:	:	:
+
+warning	warn	warning
+:	:	:
+cg3_mmap	cg3_mmap	cg3_mmap
+:	:	:
+can	can	can
+'	'	'
+t	t	t
+map	map	map
+dummy	dummi	dummy
+space	space	space
+!	!	!
+
+mapping	map	mapping
+cg3c	cg3c	cg3c
+:	:	:
+no	no	no
+such	such	such
+device	devic	device
+or	or	or
+address	address	address
+
+and	and	and
+exits	exit	exit
+.	.	.
+
+does	doe	doe
+anybody	anybodi	anybody
+know	know	know
+how	how	how
+to	to	to
+fix	fix	fix
+this	this	this
+problem	problem	problem
+?	?	?
+
+thanks	thank	thanks
+in	in	in
+advance	advanc	advance
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+christian	christian	christian
+rank	rank	rank
+lehrstuhl	lehrstuhl	lehrstuhl
+fuer	fuer	fuer
+wirtschaftsinformatik	wirtschaftsinformatik	wirtschaftsinformatik
+*	*	*
+universitaet	universitaet	universitaet
+passau	passau	passau
+*	*	*
+innstr	innstr	innstr
+.	.	.
+
+29	29	29
+*	*	*
+d	d	d
+-	-	-
+8390	8390	8390
+passau	passau	passau

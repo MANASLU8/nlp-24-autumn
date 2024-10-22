@@ -1,0 +1,591 @@
+from	from	from
+:	:	:
+etxonss@ufsa.ericsson.se	etxonss@ufsa.ericsson.s	etxonss@ufsa.ericsson.se
+(	(	(
+staffan	staffan	staffan
+axelsson	axelsson	axelsson
+)	)	)
+
+subject	subject	subject
+:	:	:
+wc	wc	wc
+:	:	:
+scores	score	score
+and	and	and
+standings	stand	standing
+,	,	,
+april	april	april
+18	18	18
+
+organization	organ	organization
+:	:	:
+ericsson	ericsson	ericsson
+telecom	telecom	telecom
+,	,	,
+stockholm	stockholm	stockholm
+,	,	,
+sweden	sweden	sweden
+
+lines	line	line
+:	:	:
+71	71	71
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+uipc104	uipc104	uipc104
+.	.	.
+ericsson	ericsson	ericsson
+.	.	.
+se	se	se
+
+1993	1993	1993
+world	world	world
+championships	championship	championship
+in	in	in
+germany	germani	germany
+:	:	:
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+group	group	group
+a	a	a
+standings	stand	standing
+(	(	(
+munich	munich	munich
+)	)	)
+group	group	group
+b	b	b
+standings	stand	standing
+(	(	(
+dortmund	dortmund	dortmund
+)	)	)
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+
+gp	gp	gp
+w	w	w
+t	t	t
+l	l	l
+gf	gf	gf
+-	-	-
+ga	ga	ga
+p	p	p
+gp	gp	gp
+w	w	w
+t	t	t
+l	l	l
+gf	gf	gf
+-	-	-
+ga	ga	ga
+p	p	p
+
+sweden	sweden	sweden
+1  1 0 0  1-0  2	1  1 0 0  1-0  2	1  1 0 0  1-0  2
+germany	germani	germany
+1  1 0 0  6-0  2	1  1 0 0  6-0  2	1  1 0 0  6-0  2
+
+italy	itali	italy
+1  0 1 0  2-2  1	1  0 1 0  2-2  1	1  0 1 0  2-2  1
+czech	czech	czech
+republic	republ	republic
+1  0 1 0  1-1  1	1  0 1 0  1-1  1	1  0 1 0  1-1  1
+
+russia	russia	russia
+1  0 1 0  2-2  1	1  0 1 0  2-2  1	1  0 1 0  2-2  1
+usa	usa	usa
+1  0 1 0  1-1  1	1  0 1 0  1-1  1	1  0 1 0  1-1  1
+
+canada	canada	canada
+0  0 0 0  0-0  0	0  0 0 0  0-0  0	0  0 0 0  0-0  0
+finland	finland	finland
+0  0 0 0  0-0  0	0  0 0 0  0-0  0	0  0 0 0  0-0  0
+
+switzerland	switzerland	switzerland
+0  0 0 0  0-0  0	0  0 0 0  0-0  0	0  0 0 0  0-0  0
+france	franc	france
+0  0 0 0  0-0  0	0  0 0 0  0-0  0	0  0 0 0  0-0  0
+
+austria	austria	austria
+1  0 0 1  0-1  0	1  0 0 1  0-1  0	1  0 0 1  0-1  0
+norway	norway	norway
+1  0 0 1  0-6  0	1  0 0 1  0-6  0	1  0 0 1  0-6  0
+
+april	april	april
+18	18	18
+:	:	:
+italy	itali	italy
+-	-	-
+russia	russia	russia
+2	2	2
+-	-	-
+2	2	2
+norway	norway	norway
+-	-	-
+germany	germani	germany
+0	0	0
+-	-	-
+6	6	6
+
+sweden	sweden	sweden
+-	-	-
+austria	austria	austria
+1	1	1
+-	-	-
+0	0	0
+usa	usa	usa
+-	-	-
+czech	czech	czech
+republic	republ	republic
+1	1	1
+-	-	-
+1	1	1
+
+april	april	april
+19	19	19
+:	:	:
+canada	canada	canada
+-	-	-
+switzerland	switzerland	switzerland
+15	15	15
+:	:	:
+30	30	30
+
+russia	russia	russia
+-	-	-
+austria	austria	austria
+finland	finland	finland
+-	-	-
+france	franc	france
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+20	20	20
+:	:	:
+sweden	sweden	sweden
+-	-	-
+canada	canada	canada
+czech	czech	czech
+republic	republ	republic
+-	-	-
+germany	germani	germany
+15	15	15
+:	:	:
+30	30	30
+
+switzerland	switzerland	switzerland
+-	-	-
+italy	itali	italy
+finland	finland	finland
+-	-	-
+usa	usa	usa
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+21	21	21
+:	:	:
+germany	germani	germany
+-	-	-
+france	franc	france
+15	15	15
+:	:	:
+30	30	30
+
+italy	itali	italy
+-	-	-
+sweden	sweden	sweden
+czech	czech	czech
+republic	republ	republic
+-	-	-
+norway	norway	norway
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+22	22	22
+:	:	:
+switzerland	switzerland	switzerland
+-	-	-
+russia	russia	russia
+usa	usa	usa
+-	-	-
+france	franc	france
+15	15	15
+:	:	:
+30	30	30
+
+austria	austria	austria
+-	-	-
+canada	canada	canada
+norway	norway	norway
+-	-	-
+finland	finland	finland
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+23	23	23
+:	:	:
+switzerland	switzerland	switzerland
+-	-	-
+austria	austria	austria
+germany	germani	germany
+-	-	-
+finland	finland	finland
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+24	24	24
+:	:	:
+russia	russia	russia
+-	-	-
+sweden	sweden	sweden
+czech	czech	czech
+republic	republ	republic
+-	-	-
+france	franc	france
+15	15	15
+:	:	:
+30	30	30
+
+canada	canada	canada
+-	-	-
+italy	itali	italy
+usa	usa	usa
+-	-	-
+norway	norway	norway
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+25	25	25
+:	:	:
+sweden	sweden	sweden
+-	-	-
+switzerland	switzerland	switzerland
+finland	finland	finland
+-	-	-
+czech	czech	czech
+republic	republ	republic
+15	15	15
+:	:	:
+30	30	30
+
+russia	russia	russia
+-	-	-
+canada	canada	canada
+germany	germani	germany
+-	-	-
+usa	usa	usa
+20	20	20
+:	:	:
+00	00	00
+
+april	april	april
+26	26	26
+:	:	:
+austria	austria	austria
+-	-	-
+italy	itali	italy
+france	franc	france
+-	-	-
+norway	norway	norway
+20	20	20
+:	:	:
+00	00	00
+
+playoffs	playoff	playoff
+:	:	:
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+april	april	april
+27	27	27
+:	:	:
+quarterfinals	quarterfin	quarterfinal
+
+a	a	a
+#	#	#
+2	2	2
+-	-	-
+b	b	b
+#	#	#
+3						15	3						15	3						15
+:	:	:
+30	30	30
+
+a	a	a
+#	#	#
+3	3	3
+-	-	-
+b	b	b
+#	#	#
+2						20	2						20	2						20
+:	:	:
+00	00	00
+
+april	april	april
+28	28	28
+:	:	:
+quarterfinals	quarterfin	quarterfinal
+
+a	a	a
+#	#	#
+1	1	1
+-	-	-
+b	b	b
+#	#	#
+4						15	4						15	4						15
+:	:	:
+30	30	30
+
+a	a	a
+#	#	#
+4	4	4
+-	-	-
+b	b	b
+#	#	#
+1						20	1						20	1						20
+:	:	:
+00	00	00
+
+april	april	april
+29	29	29
+:	:	:
+relegation	releg	relegation
+
+a	a	a
+#	#	#
+5	5	5
+-	-	-
+b	b	b
+#	#	#
+6						15	6						15	6						15
+:	:	:
+30	30	30
+
+a	a	a
+#	#	#
+6	6	6
+-	-	-
+b	b	b
+#	#	#
+5						20	5						20	5						20
+:	:	:
+00	00	00
+
+april	april	april
+30	30	30
+:	:	:
+semifinals	semifin	semifinal
+
+a	a	a
+#	#	#
+1	1	1
+/	/	/
+b	b	b
+#	#	#
+4	4	4
+-	-	-
+a	a	a
+#	#	#
+3	3	3
+/	/	/
+b	b	b
+#	#	#
+2	2	2
+15	15	15
+:	:	:
+30	30	30
+
+a	a	a
+#	#	#
+4	4	4
+/	/	/
+b	b	b
+#	#	#
+1	1	1
+-	-	-
+a	a	a
+#	#	#
+2	2	2
+/	/	/
+b	b	b
+#	#	#
+3	3	3
+20	20	20
+:	:	:
+00	00	00
+
+may	may	may
+1	1	1
+:	:	:
+relegation	releg	relegation
+14	14	14
+:	:	:
+30	30	30
+
+bronze	bronz	bronze
+medal	medal	medal
+game	game	game
+19	19	19
+:	:	:
+00	00	00
+
+may	may	may
+2	2	2
+:	:	:
+final	final	final
+15	15	15
+:	:	:
+00	00	00
+
+-	-	-
+-	-	-
+
+(	(	(
+(	(	(
+\	\	\
+\	\	\
+/	/	/
+/	/	/
+|	|	|
+staffan	staffan	staffan
+axelsson	axelsson	axelsson
+
+\	\	\
+\	\	\
+/	/	/
+/	/	/
+|	|	|
+|	|	|
+etxonss@ufsa.ericsson.se	etxonss@ufsa.ericsson.s	etxonss@ufsa.ericsson.se
+
+\	\	\
+\	\	\
+_	_	_
+)	)	)
+)	)	)
+/	/	/
+/	/	/
+-	-	-
+|	|	|
+|	|	|
+r	r	r
+.	.	.
+s	s	s
+.	.	.
+h	h	h
+.	.	.
+contact	contact	contact
+for	for	for
+swedish	swedish	swedish
+hockey	hockey	hockey

@@ -1,0 +1,2643 @@
+from	from	from
+:	:	:
+mrr@scss3.cl.msu.edu	mrr@scss3.cl.msu.edu	mrr@scss3.cl.msu.edu
+(	(	(
+mark	mark	mark
+riordan	riordan	riordan
+)	)	)
+
+subject	subject	subject
+:	:	:
+list	list	list
+of	of	of
+large	larg	large
+integer	integ	integer
+arithmetic	arithmet	arithmetic
+packages	packag	package
+
+organization	organ	organization
+:	:	:
+michigan	michigan	michigan
+state	state	state
+university	univers	university
+
+lines	line	line
+:	:	:
+285	285	285
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+scss3	scss3	scss3
+.	.	.
+cl	cl	cl
+.	.	.
+msu	msu	msu
+.	.	.
+edu	edu	edu
+
+summary	summari	summary
+:	:	:
+c	c	c
+functions	function	function
+to	to	to
+do	do	do
+arbitrary	arbitrari	arbitrary
+-	-	-
+precision	precis	precision
+arith	arith	arith
+
+x	x	x
+-	-	-
+newsreader	newsread	newsreader
+:	:	:
+tin	tin	tin
+[	[	[
+version	version	version
+1	1	1
+.	.	.
+1	1	1
+pl8	pl8	pl8
+]	]	]
+
+this	this	this
+is	is	is
+the	the	the
+file	file	file
+bignums	bignum	bignums
+.	.	.
+txt	txt	txt
+from	from	from
+ripem	ripem	ripem
+.	.	.
+msu	msu	msu
+.	.	.
+edu	edu	edu
+,	,	,
+last	last	last
+updated	updat	updated
+april	april	april
+1993	1993	1993
+.	.	.
+
+in	in	in
+response	respons	response
+to	to	to
+email	email	email
+requests	request	request
+,	,	,
+i	i	i
+have	have	have
+assembled	assembl	assembled
+this	this	this
+list	list	list
+of	of	of
+large	larg	large
+-	-	-
+integer	integ	integer
+arithmetic	arithmet	arithmetic
+packages	packag	package
+of	of	of
+which	which	which
+i	i	i
+have	have	have
+heard	heard	heard
+.	.	.
+
+most	most	most
+of	of	of
+these	these	these
+are	are	are
+c	c	c
+function	function	function
+libraries	librari	library
+,	,	,
+available	avail	available
+in	in	in
+source	sourc	source
+form	form	form
+.	.	.
+
+for	for	for
+your	your	your
+convenience	conveni	convenience
+,	,	,
+i	i	i
+have	have	have
+placed	place	placed
+copies	copi	copy
+of	of	of
+some	some	some
+of	of	of
+these	these	these
+on	on	on
+ripem	ripem	ripem
+.	.	.
+msu	msu	msu
+.	.	.
+edu	edu	edu
+(	(	(
+35	35	35
+.	.	.
+8	8	8
+.	.	.
+1	1	1
+.	.	.
+178	178	178
+)	)	)
+.	.	.
+
+they	they	they
+are	are	are
+available	avail	available
+for	for	for
+anonymous	anonym	anonymous
+ftp	ftp	ftp
+in	in	in
+the	the	the
+directory	directori	directory
+"	"	"
+pub	pub	pub
+/	/	/
+bignum	bignum	bignum
+"	"	"
+.	.	.
+
+however	howev	however
+,	,	,
+what	what	what
+i	i	i
+have	have	have
+may	may	may
+not	not	not
+be	be	be
+the	the	the
+most	most	most
+current	current	current
+version	version	version
+in	in	in
+all	all	all
+cases	case	case
+.	.	.
+
+here	here	here
+they	they	they
+are	are	are
+,	,	,
+in	in	in
+no	no	no
+particular	particular	particular
+order	order	order
+:	:	:
+
+mp	mp	mp
+
+multiple	multipl	multiple
+precision	precis	precision
+package	packag	package
+that	that	that
+comes	come	come
+with	with	with
+some	some	some
+unixes	unix	unix
+
+multiple	multipl	multiple
+precision	precis	precision
+package	packag	package
+accessed	access	accessed
+via	via	via
+-	-	-
+lmp	lmp	lmp
+flag	flag	flag
+on	on	on
+your	your	your
+
+compiler	compil	compiler
+.	.	.
+
+provides	provid	provides
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+gcd	gcd	gcd
+,	,	,
+exponentiation	exponenti	exponentiation
+,	,	,
+sqrt	sqrt	sqrt
+.	.	.
+
+comes	come	come
+with	with	with
+sunos	suno	sunos
+,	,	,
+next	next	next
+mach	mach	mach
+,	,	,
+bbn	bbn	bbn
+mach	mach	mach
+1000	1000	1000
+,	,	,
+
+and	and	and
+probably	probabl	probably
+a	a	a
+few	few	few
+others	other	others
+.	.	.
+
+see	see	see
+"	"	"
+man	man	man
+mp	mp	mp
+"	"	"
+.	.	.
+
+object	object	object
+code	code	code
+only	onli	only
+,	,	,
+of	of	of
+course	cours	course
+.	.	.
+
+pari	pari	pari
+
+henri	henri	henri
+cohen	cohen	cohen
+,	,	,
+et	et	et
+al	al	al
+.	.	.
+,	,	,
+universite	universit	universite
+bordeaux	bordeaux	bordeaux
+i	i	i
+,	,	,
+paris	pari	paris
+,	,	,
+france	franc	france
+
+multiple	multipl	multiple
+precision	precis	precision
+desk	desk	desk
+calculator	calcul	calculator
+and	and	and
+library	librari	library
+routines	routin	routine
+.	.	.
+
+contains	contain	contains
+optimized	optim	optimized
+assembly	assembl	assembly
+code	code	code
+for	for	for
+motorola	motorola	motorola
+68020	68020	68020
+,	,	,
+
+semi	semi	semi
+-	-	-
+optimized	optim	optimized
+code	code	code
+for	for	for
+sparc	sparc	sparc
+,	,	,
+and	and	and
+apparently	appar	apparently
+rather	rather	rather
+slow	slow	slow
+
+generic	generic	generic
+c	c	c
+version	version	version
+.	.	.
+
+does	doe	doe
+both	both	both
+integers	integ	integer
+and	and	and
+reals	real	real
+.	.	.
+
+does	doe	doe
+vectors	vector	vector
+and	and	and
+matrices	matric	matrix
+as	as	a
+well	well	well
+as	as	a
+scalars	scalar	scalar
+.	.	.
+
+contains	contain	contains
+a	a	a
+number	number	number
+of	of	of
+advanced	advanc	advanced
+functions	function	function
+,	,	,
+some	some	some
+of	of	of
+which	which	which
+i	i	i
+'	'	'
+ve	ve	ve
+
+never	never	never
+heard	heard	heard
+of	of	of
+.	.	.
+
+(	(	(
+"	"	"
+weber	weber	weber
+'	'	'
+s	s	s
+function	function	function
+"	"	"
+?	?	?
+)	)	)
+
+has	has	ha
+a	a	a
+factorization	factor	factorization
+function	function	function
+,	,	,
+primality	primal	primality
+test	test	test
+,	,	,
+&	&	&
+other	other	other
+related	relat	related
+stuff	stuff	stuff
+.	.	.
+
+plenty	plenti	plenty
+of	of	of
+tex	tex	tex
+documentation	document	documentation
+.	.	.
+
+public	public	public
+domain	domain	domain
+,	,	,
+but	but	but
+you	you	you
+can	can	can
+'	'	'
+t	t	t
+distribute	distribut	distribute
+modified	modifi	modified
+versions	version	version
+.	.	.
+
+available	avail	available
+via	via	via
+anonymous	anonym	anonymous
+ftp	ftp	ftp
+from	from	from
+math	math	math
+.	.	.
+ucla	ucla	ucla
+.	.	.
+edu	edu	edu
+.	.	.
+
+there	there	there
+seem	seem	seem
+to	to	to
+
+be	be	be
+mac	mac	mac
+-	-	-
+and	and	and
+next	next	next
+-	-	-
+specific	specif	specific
+versions	version	version
+there	there	there
+in	in	in
+addition	addit	addition
+to	to	to
+:	:	:
+
+filename	filenam	filename
+:	:	:
+pari	pari	pari
+-	-	-
+1	1	1
+.	.	.
+35a	35a	35a
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+arithmetic	arithmet	arithmetic
+in	in	in
+global	global	global
+fields	field	field
+(	(	(
+arith	arith	arith
+)	)	)
+
+kevin	kevin	kevin
+r	r	r
+.	.	.
+
+coombes	coomb	coombes
+,	,	,
+david	david	david
+r	r	r
+.	.	.
+
+grant	grant	grant
+
+package	packag	package
+of	of	of
+routines	routin	routine
+for	for	for
+arbitrary	arbitrari	arbitrary
+precision	precis	precision
+integers	integ	integer
+or	or	or
+
+polynomials	polynomi	polynomial
+over	over	over
+finite	finit	finite
+fields	field	field
+.	.	.
+
+includes	includ	includes
+basic	basic	basic
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+
+and	and	and
+a	a	a
+few	few	few
+others	other	others
+like	like	like
+gcd	gcd	gcd
+.	.	.
+
+source	sourc	source
+code	code	code
+in	in	in
+c	c	c
+.	.	.
+
+distributed	distribut	distributed
+under	under	under
+the	the	the
+terms	term	term
+of	of	of
+the	the	the
+gnu	gnu	gnu
+public	public	public
+license	licens	license
+.	.	.
+
+includes	includ	includes
+man	man	man
+pages	page	page
+and	and	and
+tex	tex	tex
+documentation	document	documentation
+.	.	.
+
+filename	filenam	filename
+:	:	:
+arith	arith	arith
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+arbitrary	arbitrari	arbitrary
+precision	precis	precision
+math	math	math
+library	librari	library
+
+lloyd	lloyd	lloyd
+zusman	zusman	zusman
+los	los	los
+gatos	gato	gatos
+,	,	,
+ca	ca	ca
+
+c	c	c
+package	packag	package
+which	which	which
+supports	support	support
+basic	basic	basic
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+.	.	.
+
+provides	provid	provides
+for	for	for
+radix	radix	radix
+
+points	point	point
+(	(	(
+i	i	i
+.	.	.
+e	e	e
+.	.	.
+,	,	,
+non	non	non
+-	-	-
+integers	integ	integer
+)	)	)
+.	.	.
+
+not	not	not
+as	as	a
+polished	polish	polished
+as	as	a
+the	the	the
+others	other	others
+here	here	here
+.	.	.
+
+posted	post	posted
+to	to	to
+comp	comp	comp
+.	.	.
+sources	sourc	source
+.	.	.
+misc	misc	misc
+in	in	in
+october	octob	october
+1988	1988	1988
+.	.	.
+
+filename	filenam	filename
+:	:	:
+apml	apml	apml
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+bignum	bignum	bignum
+
+j	j	j
+.	.	.
+
+vuillemin	vuillemin	vuillemin
+,	,	,
+inria	inria	inria
+,	,	,
+france	franc	france
+,	,	,
+and	and	and
+others	other	others
+.	.	.
+
+distributed	distribut	distributed
+by	by	by
+digital	digit	digital
+equipment	equip	equipment
+paris	pari	paris
+research	research	research
+lab	lab	lab
+(	(	(
+decprl	decprl	decprl
+)	)	)
+
+a	a	a
+"	"	"
+portable	portabl	portable
+and	and	and
+efficient	effici	efficient
+arbitrary	arbitrari	arbitrary
+-	-	-
+precision	precis	precision
+integer	integ	integer
+"	"	"
+package	packag	package
+.	.	.
+
+c	c	c
+code	code	code
+,	,	,
+with	with	with
+generic	generic	generic
+c	c	c
+"	"	"
+kernel	kernel	kernel
+"	"	"
+,	,	,
+plus	plus	plus
+assembly	assembl	assembly
+"	"	"
+kernels	kernel	kernel
+"	"	"
+for	for	for
+
+mc680x0	mc680x0	mc680x0
+,	,	,
+intel	intel	intel
+i960	i960	i960
+,	,	,
+mips	mip	mips
+,	,	,
+ns32032	ns32032	ns32032
+,	,	,
+pyramid	pyramid	pyramid
+,	,	,
+and	and	and
+of	of	of
+course	cours	course
+vax	vax	vax
+.	.	.
+
+this	this	this
+is	is	is
+probably	probabl	probably
+one	one	one
+of	of	of
+the	the	the
+better	better	better
+-	-	-
+known	known	known
+packages	packag	package
+of	of	of
+this	this	this
+type	type	type
+.	.	.
+
+implements	implement	implement
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+mod	mod	mod
+,	,	,
+plus	plus	plus
+logical	logic	logical
+operations	oper	operation
+or	or	or
+,	,	,
+and	and	and
+,	,	,
+xor	xor	xor
+.	.	.
+
+both	both	both
+signed	sign	signed
+and	and	and
+unsigned	unsign	unsigned
+arithmetic	arithmet	arithmetic
+available	avail	available
+.	.	.
+
+available	avail	available
+via	via	via
+email	email	email
+from	from	from
+librarian@decprl.dec.com	librarian@decprl.dec.com	librarian@decprl.dec.com
+.	.	.
+
+you	you	you
+will	will	will
+receive	receiv	receive
+5	5	5
+shell	shell	shell
+archives	archiv	archive
+.	.	.
+
+give	give	give
+your	your	your
+postal	postal	postal
+address	address	address
+
+and	and	and
+you	you	you
+will	will	will
+also	also	also
+receive	receiv	receive
+printed	print	printed
+documentation	document	documentation
+from	from	from
+france	franc	france
+.	.	.
+
+package	packag	package
+includes	includ	includes
+tex	tex	tex
+documentation	document	documentation
+.	.	.
+
+publicly	public	publicly
+available	avail	available
+for	for	for
+non	non	non
+-	-	-
+commercial	commerci	commercial
+use	use	use
+.	.	.
+
+i	i	i
+removed	remov	removed
+this	this	this
+from	from	from
+my	my	my
+archive	archiv	archive
+when	when	when
+i	i	i
+heard	heard	heard
+a	a	a
+rumor	rumor	rumor
+that	that	that
+prl	prl	prl
+
+doesn	doesn	doesn
+'	'	'
+t	t	t
+like	like	like
+others	other	others
+to	to	to
+distribute	distribut	distribute
+it	it	it
+.	.	.
+
+however	howev	however
+,	,	,
+bignum	bignum	bignum
+*	*	*
+is	is	is
+*	*	*
+
+distributed	distribut	distributed
+as	as	a
+part	part	part
+of	of	of
+ecpp	ecpp	ecpp
+(	(	(
+see	see	see
+below	below	below
+)	)	)
+.	.	.
+
+lenstra	lenstra	lenstra
+'	'	'
+s	s	s
+package	packag	package
+
+arjen	arjen	arjen
+lenstra	lenstra	lenstra
+bellcore	bellcor	bellcore
+
+portable	portabl	portable
+unsigned	unsign	unsigned
+integer	integ	integer
+package	packag	package
+written	written	written
+entirely	entir	entirely
+in	in	in
+c	c	c
+.	.	.
+
+includes	includ	includes
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+exponentiation	exponenti	exponentiation
+,	,	,
+mod	mod	mod
+,	,	,
+primality	primal	primality
+testing	test	testing
+,	,	,
+sqrt	sqrt	sqrt
+,	,	,
+random	random	random
+number	number	number
+generator	generat	generator
+,	,	,
+and	and	and
+a	a	a
+few	few	few
+others	other	others
+.	.	.
+
+the	the	the
+package	packag	package
+
+was	was	wa
+uncommented	uncom	uncommented
+and	and	and
+undocumented	undocu	undocumented
+;	;	;
+i	i	i
+have	have	have
+tried	tri	tried
+to	to	to
+add	add	add
+enough	enough	enough
+
+comments	comment	comment
+to	to	to
+get	get	get
+by	by	by
+.	.	.
+
+this	this	this
+is	is	is
+the	the	the
+only	onli	only
+of	of	of
+these	these	these
+packages	packag	package
+that	that	that
+i	i	i
+
+have	have	have
+actually	actual	actually
+used	use	used
+.	.	.
+
+it	it	it
+works	work	work
+well	well	well
+and	and	and
+is	is	is
+very	veri	very
+portable	portabl	portable
+.	.	.
+
+i	i	i
+haven	haven	haven
+'	'	'
+t	t	t
+done	done	done
+any	ani	any
+benchmarks	benchmark	benchmark
+against	against	against
+the	the	the
+others	other	others
+,	,	,
+but	but	but
+the	the	the
+code	code	code
+
+looks	look	look
+clever	clever	clever
+&	&	&
+lenstra	lenstra	lenstra
+is	is	is
+an	an	an
+accomplished	accomplish	accomplished
+number	number	number
+theorist	theorist	theorist
+.	.	.
+
+unlike	unlik	unlike
+the	the	the
+other	other	other
+packages	packag	package
+here	here	here
+,	,	,
+this	this	this
+one	one	one
+requires	requir	requires
+you	you	you
+to	to	to
+allocate	alloc	allocate
+
+storage	storag	storage
+statically	static	statically
+-	-	-
+-	-	-
+only	onli	only
+a	a	a
+problem	problem	problem
+if	if	if
+your	your	your
+numbers	number	number
+are	are	are
+really	realli	really
+huge	huge	huge
+.	.	.
+
+arjen	arjen	arjen
+has	has	ha
+placed	place	placed
+the	the	the
+code	code	code
+in	in	in
+the	the	the
+public	public	public
+domain	domain	domain
+.	.	.
+
+filename	filenam	filename
+:	:	:
+lenstra	lenstra	lenstra
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+lenstra_3	lenstra_3	lenstra_3
+.	.	.
+1	1	1
+
+arjen	arjen	arjen
+lenstra	lenstra	lenstra
+,	,	,
+bellcore	bellcor	bellcore
+
+an	an	an
+improved	improv	improved
+version	version	version
+of	of	of
+arjen	arjen	arjen
+'	'	'
+s	s	s
+package	packag	package
+above	abov	above
+.	.	.
+
+this	this	this
+one	one	one
+
+does	doe	doe
+signed	sign	signed
+arithmetic	arithmet	arithmetic
+and	and	and
+dynamic	dynam	dynamic
+allocation	alloc	allocation
+(	(	(
+which	which	which
+can	can	can
+be	be	be
+turned	turn	turned
+
+off	off	off
+as	as	a
+an	an	an
+option	option	option
+)	)	)
+.	.	.
+
+has	has	ha
+a	a	a
+few	few	few
+new	new	new
+routines	routin	routine
+,	,	,
+too	too	too
+.	.	.
+
+"	"	"
+lenstra_3	lenstra_3	lenstra_3
+.	.	.
+1	1	1
+"	"	"
+contains	contain	contains
+
+minor	minor	minor
+bugfixes	bugfix	bugfixes
+to	to	to
+the	the	the
+previously	previous	previously
+-	-	-
+available	avail	available
+"	"	"
+lenstra_2	lenstra_2	lenstra_2
+"	"	"
+and	and	and
+"	"	"
+lenstra_3	lenstra_3	lenstra_3
+"	"	"
+.	.	.
+
+filename	filenam	filename
+:	:	:
+lenstra_3	lenstra_3	lenstra_3
+.	.	.
+1	1	1
+.	.	.
+c	c	c
+
+bmp	bmp	bmp
+(	(	(
+brent	brent	brent
+'	'	'
+s	s	s
+multiple	multipl	multiple
+precision	precis	precision
+?	?	?
+)	)	)
+
+r	r	r
+.	.	.
+p	p	p
+.	.	.
+brent	brent	brent
+
+1981	1981	1981
+vintage	vintag	vintage
+fortran	fortran	fortran
+code	code	code
+to	to	to
+do	do	do
+extended	extend	extended
+precision	precis	precision
+floating	float	floating
+&	&	&
+
+fixed	fix	fixed
+point	point	point
+arithmetic	arithmet	arithmetic
+.	.	.
+
+includes	includ	includes
+most	most	most
+of	of	of
+the	the	the
+mathematical	mathemat	mathematical
+
+functions	function	function
+you	you	you
+'	'	'
+d	d	d
+find	find	find
+in	in	in
+a	a	a
+fortran	fortran	fortran
+run	run	run
+-	-	-
+time	time	time
+library	librari	library
+.	.	.
+
+this	this	this
+code	code	code
+is	is	is
+an	an	an
+acm	acm	acm
+algorithm	algorithm	algorithm
+,	,	,
+number	number	number
+524	524	524
+.	.	.
+
+to	to	to
+obtain	obtain	obtain
+,	,	,
+send	send	send
+a	a	a
+mail	mail	mail
+message	messag	message
+to	to	to
+netlib@ornl.gov	netlib@ornl.gov	netlib@ornl.gov
+
+containing	contain	containing
+the	the	the
+line	line	line
+"	"	"
+send	send	send
+mp	mp	mp
+.	.	.
+f	f	f
+from	from	from
+bmp	bmp	bmp
+"	"	"
+or	or	or
+better	better	better
+yet	yet	yet
+,	,	,
+perhaps	perhap	perhaps
+
+just	just	just
+start	start	start
+with	with	with
+"	"	"
+help	help	help
+"	"	"
+.	.	.
+
+spx	spx	spx
+
+kannan	kannan	kannan
+alagappan	alagappan	alagappan
+&	&	&
+joseph	joseph	joseph
+tardo	tardo	tardo
+,	,	,
+dec	dec	dec
+
+this	this	this
+is	is	is
+a	a	a
+huge	huge	huge
+prototype	prototyp	prototype
+public	public	public
+key	key	key
+authentication	authent	authentication
+system	system	system
+
+based	base	based
+on	on	on
+rsa	rsa	rsa
+.	.	.
+
+i	i	i
+mention	mention	mention
+it	it	it
+here	here	here
+because	becaus	because
+those	those	those
+who	who	who
+have	have	have
+heard	heard	heard
+
+of	of	of
+spx	spx	spx
+have	have	have
+probably	probabl	probably
+correctly	correct	correctly
+guessed	guess	guessed
+that	that	that
+it	it	it
+contains	contain	contains
+a	a	a
+large	larg	large
+
+integer	integ	integer
+package	packag	package
+and	and	and
+i	i	i
+want	want	want
+to	to	to
+inform	inform	inform
+you	you	you
+that	that	that
+the	the	the
+large	larg	large
+integer	integ	integer
+
+package	packag	package
+it	it	it
+contains	contain	contains
+is	is	is
+indeed	inde	indeed
+dec	dec	dec
+'	'	'
+s	s	s
+bignum	bignum	bignum
+from	from	from
+france	franc	france
+.	.	.
+
+you	you	you
+can	can	can
+get	get	get
+a	a	a
+beta	beta	beta
+test	test	test
+copy	copi	copy
+of	of	of
+spx	spx	spx
+from	from	from
+crl	crl	crl
+.	.	.
+dec	dec	dec
+.	.	.
+com	com	com
+(	(	(
+192	192	192
+.	.	.
+58	58	58
+.	.	.
+206	206	206
+.	.	.
+2	2	2
+)	)	)
+.	.	.
+
+use	use	use
+it	it	it
+only	onli	only
+for	for	for
+testing	test	testing
+,	,	,
+as	as	a
+it	it	it
+"	"	"
+may	may	may
+"	"	"
+expire	expir	expire
+on	on	on
+a	a	a
+certain	certain	certain
+date	date	date
+.	.	.
+
+(	(	(
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+know	know	know
+whether	whether	whether
+this	this	this
+has	has	ha
+expired	expir	expired
+yet	yet	yet
+.	.	.
+)	)	)
+
+amp	amp	amp
+(	(	(
+antti	antti	antti
+'	'	'
+s	s	s
+multiple	multipl	multiple
+precision	precis	precision
+?	?	?
+)	)	)
+
+antti	antti	antti
+louko	louko	louko
+alo@kampi.hut.fi	alo@kampi.hut.fi	alo@kampi.hut.fi
+
+multiple	multipl	multiple
+precision	precis	precision
+integer	integ	integer
+package	packag	package
+in	in	in
+c	c	c
+.	.	.
+
+includes	includ	includes
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+%	%	%
+,	,	,
+pow	pow	pow
+,	,	,
+mod	mod	mod
+,	,	,
+1	1	1
+/	/	/
+x	x	x
+mod	mod	mod
+y	y	y
+,	,	,
+random	random	random
+,	,	,
+sqrt	sqrt	sqrt
+,	,	,
+gcd	gcd	gcd
+.	.	.
+
+available	avail	available
+for	for	for
+non	non	non
+-	-	-
+commercial	commerci	commercial
+
+use	use	use
+.	.	.
+
+the	the	the
+package	packag	package
+includes	includ	includes
+"	"	"
+share	share	share
+-	-	-
+secret	secret	secret
+"	"	"
+,	,	,
+a	a	a
+public	public	public
+key	key	key
+system	system	system
+based	base	based
+
+on	on	on
+the	the	the
+diffie	diffi	diffie
+-	-	-
+hellman	hellman	hellman
+algorithm	algorithm	algorithm
+.	.	.
+
+this	this	this
+is	is	is
+normally	normal	normally
+part	part	part
+of	of	of
+the	the	the
+well	well	well
+-	-	-
+known	known	known
+"	"	"
+des	des	de
+-	-	-
+dist	dist	dist
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+"	"	"
+,	,	,
+but	but	but
+i	i	i
+have	have	have
+removed	remov	removed
+the	the	the
+des	des	de
+part	part	part
+to	to	to
+avoid	avoid	avoid
+having	have	having
+to	to	to
+deal	deal	deal
+with	with	with
+
+cryptographic	cryptograph	cryptographic
+export	export	export
+laws	law	law
+,	,	,
+and	and	and
+have	have	have
+named	name	named
+the	the	the
+result	result	result
+:	:	:
+
+filename	filenam	filename
+:	:	:
+amp	amp	amp
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+gennum	gennum	gennum
+
+per	per	per
+bothner	bothner	bothner
+u	u	u
+of	of	of
+wisconsin	wisconsin	wisconsin
+-	-	-
+madison	madison	madison
+
+c	c	c
++	+	+
++	+	+
+routines	routin	routine
+and	and	and
+classes	class	class
+to	to	to
+do	do	do
+generic	generic	generic
+arithmetic	arithmet	arithmetic
+,	,	,
+both	both	both
+
+integer	integ	integer
+and	and	and
+rational	ration	rational
+.	.	.
+
+formerly	former	formerly
+available	avail	available
+on	on	on
+sevenlayer	sevenlay	sevenlayer
+.	.	.
+cs	cs	c
+.	.	.
+wis	wis	wi
+.	.	.
+edu	edu	edu
+.	.	.
+
+however	howev	however
+,	,	,
+it	it	it
+
+seems	seem	seems
+to	to	to
+have	have	have
+disappeared	disappear	disappeared
+.	.	.
+
+sorry	sorri	sorry
+.	.	.
+
+miracl	miracl	miracl
+
+(	(	(
+by	by	by
+someone	someon	someone
+in	in	in
+dublin	dublin	dublin
+,	,	,
+ireland	ireland	ireland
+)	)	)
+
+integer	integ	integer
+and	and	and
+fractional	fraction	fractional
+multiple	multipl	multiple
+precision	precis	precision
+package	packag	package
+.	.	.
+
+includes	includ	includes
+factorization	factor	factorization
+,	,	,
+primality	primal	primality
+testing	test	testing
+,	,	,
+encryption	encrypt	encryption
+.	.	.
+
+not	not	not
+public	public	public
+domain	domain	domain
+,	,	,
+apparently	appar	apparently
+.	.	.
+
+it	it	it
+is	is	is
+available	avail	available
+from	from	from
+the	the	the
+austin	austin	austin
+
+code	code	code
+works	work	work
+.	.	.
+
+(	(	(
+see	see	see
+ads	ad	ad
+in	in	in
+byte	byte	byte
+magazine	magazin	magazine
+or	or	or
+dr. dobbs	dr. dobb	dr. dobbs
+.	.	.
+)	)	)
+
+precision	precis	precision
+
+dave	dave	dave
+barrett	barrett	barrett
+barrettd@tigger.colorado.edu	barrettd@tigger.colorado.edu	barrettd@tigger.colorado.edu
+
+multiple	multipl	multiple
+precision	precis	precision
+integer	integ	integer
+package	packag	package
+in	in	in
+c	c	c
+with	with	with
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+sqrt	sqrt	sqrt
+,	,	,
+rand	rand	rand
+,	,	,
+mod	mod	mod
+,	,	,
+pow	pow	pow
+,	,	,
+log	log	log
+.	.	.
+
+simple	simpl	simple
+vector	vector	vector
+support	support	support
+.	.	.
+
+does	doe	doe
+dynamic	dynam	dynamic
+allocation	alloc	allocation
+of	of	of
+memory	memori	memory
+.	.	.
+
+free	free	free
+as	as	a
+long	long	long
+as	as	a
+you	you	you
+don	don	don
+'	'	'
+t	t	t
+sell	sell	sell
+it	it	it
+or	or	or
+any	ani	any
+program	program	program
+that	that	that
+uses	use	us
+it	it	it
+.	.	.
+
+filename	filenam	filename
+:	:	:
+precision	precis	precision
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+ubasic	ubas	ubasic
+
+prof	prof	prof
+.	.	.
+
+yuji	yuji	yuji
+kida	kida	kida
+,	,	,
+rikkyo	rikkyo	rikkyo
+university	univers	university
+,	,	,
+nishi	nishi	nishi
+-	-	-
+ikebukuro	ikebukuro	ikebukuro
+3	3	3
+,	,	,
+tokyo	tokyo	tokyo
+171	171	171
+,	,	,
+japan	japan	japan
+
+kida@rkmath.rikkyo.ac.jp	kida@rkmath.rikkyo.ac.jp	kida@rkmath.rikkyo.ac.jp
+
+multiple	multipl	multiple
+-	-	-
+precision	precis	precision
+version	version	version
+of	of	of
+the	the	the
+basic	basic	basic
+programming	program	programming
+language	languag	language
+,	,	,
+for	for	for
+ms	ms	m
+-	-	-
+dos	dos	do
+.	.	.
+
+includes	includ	includes
+floating	float	floating
+point	point	point
+.	.	.
+
+said	said	said
+(	(	(
+by	by	by
+keith	keith	keith
+briggs	brigg	briggs
+)	)	)
+
+to	to	to
+be	be	be
+pretty	pretti	pretty
+fast	fast	fast
+.	.	.
+
+object	object	object
+only	onli	only
+,	,	,
+i	i	i
+think	think	think
+.	.	.
+
+ervin@morekypr.bitnet	ervin@morekypr.bitnet	ervin@morekypr.bitnet
+
+says	say	say
+:	:	:
+"	"	"
+this	this	this
+is	is	is
+the	the	the
+best	best	best
+package	packag	package
+that	that	that
+i	i	i
+know	know	know
+of	of	of
+for	for	for
+
+fast	fast	fast
+arithmetic	arithmet	arithmetic
+.	.	.
+
+has	has	ha
+a	a	a
+version	version	version
+optimized	optim	optimized
+for	for	for
+386	386	386
+machines	machin	machine
+.	.	.
+
+includes	includ	includes
+
+routines	routin	routine
+to	to	to
+do	do	do
+mpqs	mpqs	mpqs
+,	,	,
+the	the	the
+fastest	fastest	fastest
+currently	current	currently
+known	known	known
+general	general	general
+factoring	factor	factoring
+
+algorithm	algorithm	algorithm
+.	.	.
+
+an	an	an
+additional	addit	additional
+file	file	file
+is	is	is
+at	at	at
+both	both	both
+sites	site	site
+to	to	to
+allow	allow	allow
+mpqs	mpqs	mpqs
+to	to	to
+use	use	use
+
+hard	hard	hard
+drives	drive	drive
+so	so	so
+that	that	that
+it	it	it
+can	can	can
+factor	factor	factor
+up	up	up
+to	to	to
+80	80	80
+digits	digit	digit
+.	.	.
+
+many	mani	many
+number	number	number
+
+theoretical	theoret	theoretical
+functions	function	function
+are	are	are
+included	includ	included
+in	in	in
+ubasic	ubas	ubasic
+.	.	.
+
+it	it	it
+allows	allow	allows
+over	over	over
+2500	2500	2500
+
+digits	digit	digit
+of	of	of
+precision	precis	precision
+.	.	.
+"	"	"
+
+available	avail	available
+via	via	via
+anonymous	anonym	anonymous
+ftp	ftp	ftp
+from	from	from
+shape	shape	shape
+.	.	.
+mps	mps	mp
+.	.	.
+ohio	ohio	ohio
+-	-	-
+state	state	state
+.	.	.
+edu	edu	edu
+,	,	,
+or	or	or
+simtel20	simtel20	simtel20
+.	.	.
+army	armi	army
+.	.	.
+mil	mil	mil
+,	,	,
+or	or	or
+wuarchive	wuarchiv	wuarchive
+.	.	.
+wustl	wustl	wustl
+.	.	.
+edu	edu	edu
+.	.	.
+
+calc_v22	calc_v22	calc_v22
+
+unknown	unknown	unknown
+
+ms	ms	m
+-	-	-
+dos	dos	do
+c	c	c
+-	-	-
+like	like	like
+language	languag	language
+that	that	that
+allows	allow	allows
+"	"	"
+infinite	infinit	infinite
+"	"	"
+precision	precis	precision
+.	.	.
+
+nice	nice	nice
+intrinsic	intrins	intrinsic
+functions	function	function
+.	.	.
+
+ervin@morekypr.bitnet	ervin@morekypr.bitnet	ervin@morekypr.bitnet
+reports	report	report
+problems	problem	problem
+
+when	when	when
+changing	chang	changing
+precision	precis	precision
+on	on	on
+the	the	the
+fly	fli	fly
+.	.	.
+
+see	see	see
+simtel20	simtel20	simtel20
+or	or	or
+wuarchive	wuarchiv	wuarchive
+.	.	.
+
+briggs_arith	briggs_arith	briggs_arith
+
+keith	keith	keith
+briggs	brigg	briggs
+(	(	(
+kbriggs@mundoe.maths.mu.oz.au	kbriggs@mundoe.maths.mu.oz.au	kbriggs@mundoe.maths.mu.oz.au
+)	)	)
+
+turbo	turbo	turbo
+pascal	pascal	pascal
+5	5	5
+source	sourc	source
+for	for	for
+routines	routin	routine
+that	that	that
+do	do	do
+multiple	multipl	multiple
+-	-	-
+precision	precis	precision
+
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+sqrt	sqrt	sqrt
+,	,	,
+gcd	gcd	gcd
+,	,	,
+factoring	factor	factoring
+,	,	,
+rand	rand	rand
+for	for	for
+integers	integ	integer
+;	;	;
+also	also	also
+includes	includ	includes
+
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+and	and	and
+rand	rand	rand
+for	for	for
+rational	ration	rational
+numbers	number	number
+.	.	.
+
+filename	filenam	filename
+:	:	:
+briggs_arith	briggs_arith	briggs_arith
+.	.	.
+pas	pas	pa
+
+institute	institut	institute
+fur	fur	fur
+experimentelle	experimentell	experimentelle
+mathematik	mathematik	mathematik
+
+dr	dr	dr
+gerhard	gerhard	gerhard
+schneider	schneider	schneider
+(	(	(
+?	?	?
+)	)	)
+
+fast	fast	fast
+c	c	c
+multiple	multipl	multiple
+-	-	-
+precision	precis	precision
+subroutine	subroutin	subroutine
+library	librari	library
+.	.	.
+
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+know	know	know
+anything	anyth	anything
+about	about	about
+it	it	it
+;	;	;
+sl25@ely.cl.cam.ac.uk	sl25@ely.cl.cam.ac.uk	sl25@ely.cl.cam.ac.uk
+says	say	say
+
+to	to	to
+contact	contact	contact
+mat420@de0hrz1a.bitnet	mat420@de0hrz1a.bitnet	mat420@de0hrz1a.bitnet
+for	for	for
+more	more	more
+info	info	info
+.	.	.
+
+postal	postal	postal
+address	address	address
+:	:	:
+
+institute	institut	institute
+fur	fur	fur
+experimentelle	experimentell	experimentelle
+mathematik	mathematik	mathematik
+
+ellernstr	ellernstr	ellernstr
+29	29	29
+
+d4300	d4300	d4300
+essen	essen	essen
+-	-	-
+12	12	12
+germany	germani	germany
+
+longint	longint	longint
+
+markus	markus	markus
+mueller	mueller	mueller
+(	(	(
+mueller@komsys.tik.ethz.ch	mueller@komsys.tik.ethz.ch	mueller@komsys.tik.ethz.ch
+)	)	)
+
+"	"	"
+multi	multi	multi
+precision	precis	precision
+arithmetic	arithmet	arithmetic
+written	written	written
+in	in	in
+modula	modula	modula
+-	-	-
+2	2	2
+,	,	,
+with	with	with
+the	the	the
+most	most	most
+time	time	time
+critical	critic	critical
+
+parts	part	part
+written	written	written
+in	in	in
+assembler	assembl	assembler
+.	.	.
+
+includes	includ	includes
+basic	basic	basic
+arithmetics	arithmet	arithmetic
+(	(	(
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+%	%	%
+)	)	)
+as	as	a
+
+well	well	well
+as	as	a
+arithmetics	arithmet	arithmetic
+modulo	modulo	modulo
+a	a	a
+number	number	number
+.	.	.
+
+an	an	an
+additional	addit	additional
+module	modul	module
+provides	provid	provides
+a	a	a
+
+collection	collect	collection
+of	of	of
+procedures	procedur	procedure
+for	for	for
+primality	primal	primality
+testing	test	testing
+,	,	,
+gcd	gcd	gcd
+,	,	,
+multiplicative	multipl	multiplicative
+
+inverse	invers	inverse
+and	and	and
+more	more	more
+.	.	.
+
+the	the	the
+package	packag	package
+is	is	is
+part	part	part
+of	of	of
+a	a	a
+privacy	privaci	privacy
+enhanced	enhanc	enhanced
+mail	mail	mail
+(	(	(
+pem	pem	pem
+)	)	)
+
+package	packag	package
+which	which	which
+includes	includ	includes
+a	a	a
+pem	pem	pem
+mailer	mailer	mailer
+,	,	,
+rsa	rsa	rsa
+key	key	key
+generator	generat	generator
+and	and	and
+certificate	certif	certificate
+
+generation	generat	generation
+tools	tool	tool
+.	.	.
+"	"	"
+
+source	sourc	source
+is	is	is
+in	in	in
+modula	modula	modula
+-	-	-
+2	2	2
+,	,	,
+c	c	c
+,	,	,
+and	and	and
+assembler	assembl	assembler
+for	for	for
+sun	sun	sun
+3	3	3
+.	.	.
+
+longint	longint	longint
+has	has	ha
+
+also	also	also
+been	been	been
+ported	port	ported
+to	to	to
+ms	ms	m
+-	-	-
+dos	dos	do
+under	under	under
+logitech	logitech	logitech
+modula	modula	modula
+-	-	-
+2	2	2
+and	and	and
+turbo	turbo	turbo
+
+assembler	assembl	assembler
+.	.	.
+
+availability	avail	availability
+:	:	:
+free	free	free
+for	for	for
+university	univers	university
+use	use	use
+(	(	(
+research	research	research
+and	and	and
+
+education	educ	education
+)	)	)
+;	;	;
+otherwise	otherwis	otherwise
+,	,	,
+a	a	a
+source	sourc	source
+license	licens	license
+is	is	is
+required	requir	required
+.	.	.
+
+to	to	to
+obtain	obtain	obtain
+,	,	,
+write	write	write
+or	or	or
+email	email	email
+to	to	to
+:	:	:
+
+markus	markus	markus
+mueller	mueller	mueller
+
+bertastrasse	bertastrass	bertastrasse
+7	7	7
+
+ch	ch	ch
+-	-	-
+8953	8953	8953
+dietikon	dietikon	dietikon
+
+switzerland	switzerland	switzerland
+
+email	email	email
+:	:	:
+mueller@komsys.tik.ethz.ch	mueller@komsys.tik.ethz.ch	mueller@komsys.tik.ethz.ch
+
+bignum	bignum	bignum
+-	-	-
+1	1	1
+.	.	.
+2	2	2
+
+henrik.johansson@nexus.comm.se	henrik.johansson@nexus.comm.s	henrik.johansson@nexus.comm.se
+
+bignum	bignum	bignum
+package	packag	package
+written	written	written
+in	in	in
+portable	portabl	portable
+c	c	c
+.	.	.
+
+will	will	will
+in	in	in
+the	the	the
+future	futur	future
+
+conform	conform	conform
+to	to	to
+the	the	the
+common	common	common
+lisp	lisp	lisp
+functions	function	function
+that	that	that
+handles	handl	handle
+integers	integ	integer
+.	.	.
+
+currently	current	currently
+includes	includ	includes
++	+	+
+,	,	,
+-	-	-
+,	,	,
+*	*	*
+,	,	,
+/	/	/
+,	,	,
+exponentiation	exponenti	exponentiation
+,	,	,
+"	"	"
+exptmod	exptmod	exptmod
+"	"	"
+,	,	,
+comparison	comparison	comparison
+,	,	,
+random	random	random
+numbers	number	number
+,	,	,
+and	and	and
+gcd	gcd	gcd
+.	.	.
+
+filename	filenam	filename
+:	:	:
+bignum	bignum	bignum
+-	-	-
+1	1	1
+.	.	.
+2	2	2
+
+gnu	gnu	gnu
+multiple	multipl	multiple
+precision	precis	precision
+
+gnu	gnu	gnu
+(	(	(
+free	free	free
+software	softwar	software
+foundation	foundat	foundation
+)	)	)
+multiple	multipl	multiple
+precision	precis	precision
+package	packag	package
+.	.	.
+
+i	i	i
+haven	haven	haven
+'	'	'
+t	t	t
+looked	look	looked
+at	at	at
+it	it	it
+yet	yet	yet
+.	.	.
+
+this	this	this
+is	is	is
+current	current	current
+as	as	a
+of	of	of
+april	april	april
+1992	1992	1992
+,	,	,
+but	but	but
+there	there	there
+may	may	may
+be	be	be
+a	a	a
+more	more	more
+recent	recent	recent
+version	version	version
+by	by	by
+the	the	the
+time	time	time
+you	you	you
+read	read	read
+
+this	this	this
+.	.	.
+
+this	this	this
+package	packag	package
+is	is	is
+very	veri	very
+widely	wide	widely
+available	avail	available
+on	on	on
+ftp	ftp	ftp
+sites	site	site
+.	.	.
+
+filename	filenam	filename
+:	:	:
+gmp	gmp	gmp
+-	-	-
+1	1	1
+.	.	.
+2	2	2
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+elliptic	ellipt	elliptic
+curve	curv	curve
+primality	primal	primality
+proving	prove	proving
+
+francois	francoi	francois
+morian	morian	morian
+,	,	,
+france	franc	france
+.	.	.
+
+large	larg	large
+package	packag	package
+to	to	to
+prove	prove	prove
+the	the	the
+primality	primal	primality
+of	of	of
+any	ani	any
+prime	prime	prime
+.	.	.
+
+includes	includ	includes
+inria	inria	inria
+'	'	'
+s	s	s
+bignum	bignum	bignum
+package	packag	package
+.	.	.
+
+obtained	obtain	obtained
+from	from	from
+ftp	ftp	ftp
+.	.	.
+inria	inria	inria
+.	.	.
+fr	fr	fr
+(	(	(
+128	128	128
+.	.	.
+93	93	93
+.	.	.
+1	1	1
+.	.	.
+26	26	26
+)	)	)
+.	.	.
+
+filename	filenam	filename
+:	:	:
+ecpp	ecpp	ecpp
+.	.	.
+v3	v3	v3
+.	.	.
+4	4	4
+.	.	.
+1	1	1
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+pgp	pgp	pgp
+(	(	(
+pretty	pretti	pretty
+good	good	good
+privacy	privaci	privacy
+)	)	)
+
+philip	philip	philip
+zimmermann	zimmermann	zimmermann
+prz@sage.cgd.ucar.edu	prz@sage.cgd.ucar.edu	prz@sage.cgd.ucar.edu
+
+intel	intel	intel
+-	-	-
+based	base	based
+crypto	crypto	crypto
+package	packag	package
+that	that	that
+includes	includ	includes
+bignum	bignum	bignum
+routines	routin	routine
+in	in	in
+c	c	c
+,	,	,
+said	said	said
+to	to	to
+be	be	be
+quite	quit	quite
+fast	fast	fast
+for	for	for
+intel	intel	intel
+processors	processor	processor
+.	.	.
+
+unix	unix	unix
+and	and	and
+mac	mac	mac
+
+versions	version	version
+also	also	also
+available	avail	available
+.	.	.
+
+the	the	the
+crypto	crypto	crypto
+package	packag	package
+violates	violat	violates
+rsa	rsa	rsa
+patents	patent	patent
+,	,	,
+but	but	but
+the	the	the
+bignum	bignum	bignum
+routines	routin	routine
+
+can	can	can
+be	be	be
+used	use	used
+without	without	without
+fear	fear	fear
+of	of	of
+legal	legal	legal
+repercussions	repercuss	repercussion
+.	.	.
+
+bell	bell	bell
+'	'	'
+s	s	s
+arbitrary	arbitrari	arbitrary
+precision	precis	precision
+calculator	calcul	calculator
+
+david	david	david
+i	i	i
+.	.	.
+
+bell	bell	bell
+,	,	,
+australia	australia	australia
+(	(	(
+dbell@pdact.pd.necisa.oz.au	dbell@pdact.pd.necisa.oz.au	dbell@pdact.pd.necisa.oz.au
+)	)	)
+
+arbitrary	arbitrari	arbitrary
+-	-	-
+precision	precis	precision
+calculator	calcul	calculator
+with	with	with
+good	good	good
+online	onlin	online
+help	help	help
+,	,	,
+c	c	c
+-	-	-
+like	like	like
+
+language	languag	language
+,	,	,
+many	mani	many
+builtin	builtin	builtin
+functions	function	function
+,	,	,
+support	support	support
+for	for	for
+integers	integ	integer
+,	,	,
+rational	ration	rational
+numbers	number	number
+(	(	(
+they	they	they
+work	work	work
+like	like	like
+floating	float	floating
+point	point	point
+)	)	)
+,	,	,
+complex	complex	complex
+numbers	number	number
+,	,	,
+matrices	matric	matrix
+,	,	,
+strings	string	string
+,	,	,
+lists	list	list
+,	,	,
+files	file	file
+,	,	,
+"	"	"
+objects	object	object
+"	"	"
+.	.	.
+
+includes	includ	includes
+
+gcd	gcd	gcd
+,	,	,
+primality	primal	primality
+testing	test	testing
+,	,	,
+even	even	even
+trig	trig	trig
+functions	function	function
+.	.	.
+
+recommended	recommend	recommended
+.	.	.
+
+(	(	(
+large	larg	large
+package	packag	package
+,	,	,
+though	though	though
+.	.	.
+)	)	)
+obtained	obtain	obtained
+from	from	from
+comp	comp	comp
+.	.	.
+sources	sourc	source
+.	.	.
+unix	unix	unix
+.	.	.
+
+filename	filenam	filename
+:	:	:
+calc	calc	calc
+-	-	-
+1	1	1
+.	.	.
+24	24	24
+.	.	.
+7	7	7
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+built	built	built
+-	-	-
+in	in	in
+support	support	support
+in	in	in
+other	other	other
+languages	languag	language
+
+various	various	various
+
+multiple	multipl	multiple
+precision	precis	precision
+arithmetic	arithmet	arithmetic
+is	is	is
+available	avail	available
+in	in	in
+a	a	a
+number	number	number
+of	of	of
+
+programming	program	programming
+languages	languag	language
+,	,	,
+such	such	such
+as	as	a
+lisp	lisp	lisp
+and	and	and
+abc	abc	abc
+(	(	(
+cf	cf	cf
+.	.	.
+
+mcsun	mcsun	mcsun
+.	.	.
+eu	eu	eu
+.	.	.
+net	net	net
+)	)	)
+.	.	.
+
+perl	perl	perl
+(	(	(
+by	by	by
+larry	larri	larry
+wall	wall	wall
+,	,	,
+available	avail	available
+from	from	from
+devvax	devvax	devvax
+.	.	.
+jpl	jpl	jpl
+.	.	.
+nasa	nasa	nasa
+.	.	.
+gov	gov	gov
+)	)	)
+
+includes	includ	includes
+source	sourc	source
+,	,	,
+in	in	in
+perl	perl	perl
+,	,	,
+for	for	for
+such	such	such
+a	a	a
+package	packag	package
+,	,	,
+but	but	but
+it	it	it
+'	'	'
+s	s	s
+probably	probabl	probably
+
+not	not	not
+suitable	suitabl	suitable
+for	for	for
+serious	serious	serious
+use	use	use
+.	.	.
+
+for	for	for
+some	some	some
+of	of	of
+these	these	these
+,	,	,
+source	sourc	source
+code	code	code
+may	may	may
+be	be	be
+available	avail	available
+.	.	.
+
+this	this	this
+list	list	list
+is	is	is
+
+long	long	long
+enough	enough	enough
+,	,	,
+so	so	so
+i	i	i
+'	'	'
+m	m	m
+not	not	not
+going	go	going
+to	to	to
+pursue	pursu	pursue
+it	it	it
+aggressively	aggress	aggressively
+.	.	.
+
+thanks	thank	thanks
+to	to	to
+ed	ed	ed
+vielmetti	vielmetti	vielmetti
+and	and	and
+several	sever	several
+others	other	others
+who	who	who
+contributed	contribut	contributed
+to	to	to
+this	this	this
+list	list	list
+.	.	.
+
+mark	mark	mark
+riordan	riordan	riordan
+mrr@ripem.msu.edu	mrr@ripem.msu.edu	mrr@ripem.msu.edu

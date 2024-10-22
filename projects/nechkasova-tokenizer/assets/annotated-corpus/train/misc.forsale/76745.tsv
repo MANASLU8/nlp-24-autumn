@@ -1,0 +1,72 @@
+organization	organ	organization
+:	:	:
+penn	penn	penn
+state	state	state
+university	univers	university
+
+from	from	from
+:	:	:
+<	<	<
+hv0@psuvm.psu.edu	hv0@psuvm.psu.edu	hv0@psuvm.psu.edu
+>	>	>
+
+subject	subject	subject
+:	:	:
+nintendo	nintendo	nintendo
+system	system	system
++	+	+
+power	power	power
+pad	pad	pad
++	+	+
+light	light	light
+gun	gun	gun
++	+	+
+games	game	game
+=	=	=
+$	$	$
+80	80	80
+
+lines	line	line
+:	:	:
+8	8	8
+
+nintendo	nintendo	nintendo
+8	8	8
+bit	bit	bit
+system	system	system
+,	,	,
+power	power	power
+pad	pad	pad
+,	,	,
+light	light	light
+gun	gun	gun
+(	(	(
+zapper	zapper	zapper
+)	)	)
+,	,	,
+2	2	2
+controllers	control	controller
+
+games	game	game
+:	:	:
+supermario	supermario	supermario
+,	,	,
+duck	duck	duck
+hunt	hunt	hunt
+,	,	,
+power	power	power
+field	field	field
+,	,	,
+and	and	and
+wings	wing	wing
+.	.	.
+
+asking	ask	asking
+$	$	$
+80	80	80
+.	.	.
+
+please	pleas	please
+reply	repli	reply
+to	to	to
+hv0@psuvm.psu.edu	hv0@psuvm.psu.edu	hv0@psuvm.psu.edu

@@ -1,0 +1,1172 @@
+from	from	from
+:	:	:
+c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca
+(	(	(
+cook	cook	cook
+charlie	charli	charlie
+)	)	)
+
+subject	subject	subject
+:	:	:
+nhl	nhl	nhl
+summary	summari	summary
+parse	pars	parse
+results	result	result
+for	for	for
+games	game	game
+played	play	played
+wed	wed	wed
+,	,	,
+april	april	april
+14	14	14
+,	,	,
+1993	1993	1993
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+new	new	new
+brunswick	brunswick	brunswick
+
+lines	line	line
+:	:	:
+147	147	147
+
+boston	boston	boston
+2	2	2
+2	2	2
+0	0	0
+-	-	-
+-	-	-
+4	4	4
+ottawa	ottawa	ottawa
+0	0	0
+1	1	1
+1	1	1
+-	-	-
+-	-	-
+2	2	2
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+boston	boston	boston
+,	,	,
+roberts	robert	robert
+5	5	5
+(	(	(
+juneau	juneau	juneau
+)	)	)
+7	7	7
+:	:	:
+19	19	19
+.	.	.
+
+2	2	2
+,	,	,
+boston	boston	boston
+,	,	,
+wiemer	wiemer	wiemer
+1	1	1
+(	(	(
+juneau	juneau	juneau
+,	,	,
+oates	oat	oates
+)	)	)
+17	17	17
+:	:	:
+47	47	47
+.	.	.
+
+second	second	second
+period	period	period
+
+3	3	3
+,	,	,
+boston	boston	boston
+,	,	,
+neely	neeli	neely
+11	11	11
+(	(	(
+juneau	juneau	juneau
+,	,	,
+murphy	murphi	murphy
+)	)	)
+6	6	6
+:	:	:
+10	10	10
+.	.	.
+
+4	4	4
+,	,	,
+boston	boston	boston
+,	,	,
+hughes	hugh	hughes
+5	5	5
+(	(	(
+richer	richer	richer
+,	,	,
+kimble	kimbl	kimble
+)	)	)
+7	7	7
+:	:	:
+55	55	55
+.	.	.
+
+5	5	5
+,	,	,
+ottawa	ottawa	ottawa
+,	,	,
+archibald	archibald	archibald
+9	9	9
+(	(	(
+rumble	rumbl	rumble
+,	,	,
+lamb	lamb	lamb
+)	)	)
+11	11	11
+:	:	:
+37	37	37
+.	.	.
+
+third	third	third
+period	period	period
+
+6	6	6
+,	,	,
+ottawa	ottawa	ottawa
+,	,	,
+boschman	boschman	boschman
+9	9	9
+(	(	(
+kudelski	kudelski	kudelski
+)	)	)
+5	5	5
+:	:	:
+10	10	10
+.	.	.
+
+boston	boston	boston
+:	:	:
+4	4	4
+power	power	power
+play	play	play
+:	:	:
+2	2	2
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+hughes	hugh	hughes
+1    0    1	1    0    1	1    0    1
+juneau	juneau	juneau
+0    3    3	0    3    3	0    3    3
+kimble	kimbl	kimble
+0    1    1	0    1    1	0    1    1
+murphy	murphi	murphy
+0    1    1	0    1    1	0    1    1
+neely	neeli	neely
+1    0    1	1    0    1	1    0    1
+oates	oat	oates
+0    1    1	0    1    1	0    1    1
+richer	richer	richer
+0    1    1	0    1    1	0    1    1
+roberts	robert	robert
+1    0    1	1    0    1	1    0    1
+wiemer	wiemer	wiemer
+1    0    1	1    0    1	1    0    1
+
+ottawa	ottawa	ottawa
+:	:	:
+2	2	2
+power	power	power
+play	play	play
+:	:	:
+4	4	4
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+archibald	archibald	archibald
+1    0    1	1    0    1	1    0    1
+boschman	boschman	boschman
+1    0    1	1    0    1	1    0    1
+kudelski	kudelski	kudelski
+0    1    1	0    1    1	0    1    1
+lamb	lamb	lamb
+0    1    1	0    1    1	0    1    1
+rumble	rumbl	rumble
+0    1    1	0    1    1	0    1    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+washington	washington	washington
+0	0	0
+0	0	0
+2	2	2
+-	-	-
+-	-	-
+2	2	2
+ny	ny	ny
+rangers	ranger	ranger
+0	0	0
+0	0	0
+0	0	0
+-	-	-
+-	-	-
+0	0	0
+first	first	first
+period	period	period
+
+no	no	no
+scoring	score	scoring
+.	.	.
+
+second	second	second
+period	period	period
+
+no	no	no
+scoring	score	scoring
+.	.	.
+
+third	third	third
+period	period	period
+
+1	1	1
+,	,	,
+washington	washington	washington
+,	,	,
+bondra	bondra	bondra
+36	36	36
+(	(	(
+pivonka	pivonka	pivonka
+,	,	,
+cavallini	cavallini	cavallini
+)	)	)
+6	6	6
+:	:	:
+54	54	54
+.	.	.
+
+2	2	2
+,	,	,
+washington	washington	washington
+,	,	,
+bondra	bondra	bondra
+37	37	37
+(	(	(
+cote	cote	cote
+,	,	,
+pivonka	pivonka	pivonka
+)	)	)
+10	10	10
+:	:	:
+10	10	10
+.	.	.
+
+washington	washington	washington
+:	:	:
+2	2	2
+power	power	power
+play	play	play
+:	:	:
+2	2	2
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+bondra	bondra	bondra
+2    0    2	2    0    2	2    0    2
+cavallini	cavallini	cavallini
+0    1    1	0    1    1	0    1    1
+cote	cote	cote
+0    1    1	0    1    1	0    1    1
+pivonka	pivonka	pivonka
+0    2    2	0    2    2	0    2    2
+
+ny	ny	ny
+rangers	ranger	ranger
+:	:	:
+0	0	0
+power	power	power
+play	play	play
+:	:	:
+1	1	1
+-	-	-
+0	0	0
+
+no	no	no
+scoring	score	scoring
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+ny	ny	ny
+islanders	island	islander
+2 1 1 0--4	2 1 1 0--4	2 1 1 0--4
+hartford	hartford	hartford
+2 1 1 1--5	2 1 1 1--5	2 1 1 1--5
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+ny	ny	ny
+islanders	island	islander
+,	,	,
+ferraro	ferraro	ferraro
+13	13	13
+(	(	(
+malakhov	malakhov	malakhov
+,	,	,
+king	king	king
+)	)	)
+1	1	1
+:	:	:
+29	29	29
+.	.	.
+
+2	2	2
+,	,	,
+ny	ny	ny
+islanders	island	islander
+,	,	,
+hogue	hogu	hogue
+32	32	32
+(	(	(
+thomas	thoma	thomas
+,	,	,
+turgeon	turgeon	turgeon
+)	)	)
+1	1	1
+:	:	:
+57	57	57
+.	.	.
+
+3	3	3
+,	,	,
+hartford	hartford	hartford
+,	,	,
+yake	yake	yake
+21	21	21
+(	(	(
+poulin	poulin	poulin
+)	)	)
+4	4	4
+:	:	:
+15	15	15
+.	.	.
+
+4	4	4
+,	,	,
+hartford	hartford	hartford
+,	,	,
+yake	yake	yake
+22	22	22
+(	(	(
+nylander	nyland	nylander
+,	,	,
+poulin	poulin	poulin
+)	)	)
+16	16	16
+:	:	:
+44	44	44
+.	.	.
+
+second	second	second
+period	period	period
+
+5	5	5
+,	,	,
+hartford	hartford	hartford
+,	,	,
+verbeek	verbeek	verbeek
+39	39	39
+(	(	(
+cassels	cassel	cassels
+,	,	,
+weinrich	weinrich	weinrich
+)	)	)
+pp	pp	pp
+,	,	,
+2	2	2
+:	:	:
+43	43	43
+.	.	.
+
+6	6	6
+,	,	,
+ny	ny	ny
+islanders	island	islander
+,	,	,
+thomas	thoma	thomas
+35	35	35
+(	(	(
+king	king	king
+,	,	,
+ferraro	ferraro	ferraro
+)	)	)
+7	7	7
+:	:	:
+58	58	58
+.	.	.
+
+third	third	third
+period	period	period
+
+7	7	7
+,	,	,
+hartford	hartford	hartford
+,	,	,
+burt	burt	burt
+5	5	5
+(	(	(
+sanderson	sanderson	sanderson
+,	,	,
+cassels	cassel	cassels
+)	)	)
+13	13	13
+:	:	:
+41	41	41
+.	.	.
+
+8	8	8
+,	,	,
+ny	ny	ny
+islanders	island	islander
+,	,	,
+malakhov	malakhov	malakhov
+14	14	14
+(	(	(
+hogue	hogu	hogue
+)	)	)
+17	17	17
+:	:	:
+45	45	45
+.	.	.
+
+overtime	overtim	overtime
+
+9	9	9
+,	,	,
+hartford	hartford	hartford
+,	,	,
+janssens	janssen	janssens
+12	12	12
+(	(	(
+poulin	poulin	poulin
+)	)	)
+1	1	1
+:	:	:
+08	08	08
+.	.	.
+
+hartford	hartford	hartford
+:	:	:
+5	5	5
+power	power	power
+play	play	play
+:	:	:
+3	3	3
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+burt	burt	burt
+1    0    1	1    0    1	1    0    1
+cassels	cassel	cassels
+0    2    2	0    2    2	0    2    2
+janssens	janssen	janssens
+1    0    1	1    0    1	1    0    1
+nylander	nyland	nylander
+0    1    1	0    1    1	0    1    1
+poulin	poulin	poulin
+0    3    3	0    3    3	0    3    3
+sanderson	sanderson	sanderson
+0    1    1	0    1    1	0    1    1
+verbeek	verbeek	verbeek
+1    0    1	1    0    1	1    0    1
+weinrich	weinrich	weinrich
+0    1    1	0    1    1	0    1    1
+yake	yake	yake
+2    0    2	2    0    2	2    0    2
+
+ny	ny	ny
+islanders	island	islander
+:	:	:
+4	4	4
+power	power	power
+play	play	play
+:	:	:
+3	3	3
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+ferraro	ferraro	ferraro
+1    1    2	1    1    2	1    1    2
+hogue	hogu	hogue
+1    1    2	1    1    2	1    1    2
+king	king	king
+0    2    2	0    2    2	0    2    2
+malakhov	malakhov	malakhov
+1    1    2	1    1    2	1    1    2
+thomas	thoma	thomas
+1    1    2	1    1    2	1    1    2
+turgeon	turgeon	turgeon
+0    1    1	0    1    1	0    1    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+pittsburgh	pittsburgh	pittsburgh
+2 3 1 0--6	2 3 1 0--6	2 3 1 0--6
+new	new	new
+jersey	jersey	jersey
+2 4 0 0--6	2 4 0 0--6	2 4 0 0--6
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+daniels	daniel	daniel
+5	5	5
+(	(	(
+needham	needham	needham
+,	,	,
+tippett	tippett	tippett
+)	)	)
+4	4	4
+:	:	:
+14	14	14
+.	.	.
+
+2	2	2
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+lemieux	lemieux	lemieux
+29	29	29
+(	(	(
+semak	semak	semak
+,	,	,
+driver	driver	driver
+)	)	)
+10	10	10
+:	:	:
+19	19	19
+.	.	.
+
+3	3	3
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+stevens	steven	stevens
+55	55	55
+(	(	(
+tocchet	tocchet	tocchet
+,	,	,
+murphy	murphi	murphy
+)	)	)
+pp	pp	pp
+,	,	,
+12	12	12
+:	:	:
+40	40	40
+.	.	.
+
+4	4	4
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+zelepukin	zelepukin	zelepukin
+22	22	22
+(	(	(
+driver	driver	driver
+,	,	,
+niedermayer	niedermay	niedermayer
+)	)	)
+17	17	17
+:	:	:
+26	26	26
+.	.	.
+
+second	second	second
+period	period	period
+
+5	5	5
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+lemieux	lemieux	lemieux
+68	68	68
+(	(	(
+stevens	steven	stevens
+,	,	,
+tocchet	tocchet	tocchet
+)	)	)
+1	1	1
+:	:	:
+42	42	42
+.	.	.
+
+6	6	6
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+semak	semak	semak
+36	36	36
+(	(	(
+lemieux	lemieux	lemieux
+,	,	,
+zelepukin	zelepukin	zelepukin
+)	)	)
+2	2	2
+:	:	:
+27	27	27
+.	.	.
+
+7	7	7
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+mceachern	mceachern	mceachern
+28	28	28
+(	(	(
+jagr	jagr	jagr
+,	,	,
+barrasso	barrasso	barrasso
+)	)	)
+4	4	4
+:	:	:
+24	24	24
+.	.	.
+
+8	8	8
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+stevens	steven	stevens
+12	12	12
+(	(	(
+guerin	guerin	guerin
+,	,	,
+pellerin	pellerin	pellerin
+)	)	)
+5	5	5
+:	:	:
+45	45	45
+.	.	.
+
+9	9	9
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+lemieux	lemieux	lemieux
+69	69	69
+(	(	(
+unassisted	unassist	unassisted
+)	)	)
+sh	sh	sh
+,	,	,
+12	12	12
+:	:	:
+40	40	40
+.	.	.
+
+10	10	10
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+richer	richer	richer
+37	37	37
+(	(	(
+nicholls	nichol	nicholls
+)	)	)
+15	15	15
+:	:	:
+53	53	53
+.	.	.
+
+11	11	11
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+lemieux	lemieux	lemieux
+30	30	30
+(	(	(
+semak	semak	semak
+,	,	,
+zelepukin	zelepukin	zelepukin
+)	)	)
+17	17	17
+:	:	:
+40	40	40
+.	.	.
+
+third	third	third
+period	period	period
+
+12	12	12
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+mullen	mullen	mullen
+33	33	33
+(	(	(
+jagr	jagr	jagr
+,	,	,
+lemieux	lemieux	lemieux
+)	)	)
+18	18	18
+:	:	:
+54	54	54
+.	.	.
+
+overtime	overtim	overtime
+
+no	no	no
+scoring	score	scoring
+.	.	.
+
+pittsburgh	pittsburgh	pittsburgh
+:	:	:
+6	6	6
+power	power	power
+play	play	play
+:	:	:
+5	5	5
+-	-	-
+1	1	1
+special	special	special
+goals	goal	goal
+:	:	:
+pp	pp	pp
+:	:	:
+1	1	1
+sh	sh	sh
+:	:	:
+1	1	1
+total	total	total
+:	:	:
+2	2	2
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+barrasso	barrasso	barrasso
+0    1    1	0    1    1	0    1    1
+daniels	daniel	daniel
+1    0    1	1    0    1	1    0    1
+jagr	jagr	jagr
+0    2    2	0    2    2	0    2    2
+lemieux	lemieux	lemieux
+2    1    3	2    1    3	2    1    3
+mceachern	mceachern	mceachern
+1    0    1	1    0    1	1    0    1
+mullen	mullen	mullen
+1    0    1	1    0    1	1    0    1
+murphy	murphi	murphy
+0    1    1	0    1    1	0    1    1
+needham	needham	needham
+0    1    1	0    1    1	0    1    1
+stevens	steven	stevens
+1    1    2	1    1    2	1    1    2
+tippett	tippett	tippett
+0    1    1	0    1    1	0    1    1
+tocchet	tocchet	tocchet
+0    2    2	0    2    2	0    2    2
+
+new	new	new
+jersey	jersey	jersey
+:	:	:
+6	6	6
+power	power	power
+play	play	play
+:	:	:
+3	3	3
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+driver	driver	driver
+0    2    2	0    2    2	0    2    2
+guerin	guerin	guerin
+0    1    1	0    1    1	0    1    1
+lemieux	lemieux	lemieux
+2    1    3	2    1    3	2    1    3
+nicholls	nichol	nicholls
+0    1    1	0    1    1	0    1    1
+niedermayer	niedermay	niedermayer
+0    1    1	0    1    1	0    1    1
+pellerin	pellerin	pellerin
+0    1    1	0    1    1	0    1    1
+richer	richer	richer
+1    0    1	1    0    1	1    0    1
+semak	semak	semak
+1    2    3	1    2    3	1    2    3
+stevens	steven	stevens
+1    0    1	1    0    1	1    0    1
+zelepukin	zelepukin	zelepukin
+1    2    3	1    2    3	1    2    3
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-

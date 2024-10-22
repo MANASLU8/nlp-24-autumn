@@ -1,0 +1,125 @@
+organization	organ	organization
+:	:	:
+penn	penn	penn
+state	state	state
+university	univers	university
+
+from	from	from
+:	:	:
+<	<	<
+jer114@psuvm.psu.edu	jer114@psuvm.psu.edu	jer114@psuvm.psu.edu
+>	>	>
+
+subject	subject	subject
+:	:	:
+targa	targa	targa
+format	format	format
+-	-	-
+-	-	-
+>	>	>
+text	text	text
+file	file	file
+
+lines	line	line
+:	:	:
+7	7	7
+
+does	doe	doe
+anyone	anyon	anyone
+know	know	know
+how	how	how
+to	to	to
+convert	convert	convert
+a	a	a
+targa	targa	targa
+or	or	or
+similar	similar	similar
+24	24	24
+bit	bit	bit
+picture	pictur	picture
+into	into	into
+a	a	a
+list	list	list
+
+of	of	of
+r	r	r
+g	g	g
+b	b	b
+values	valu	value
+and	and	and
+then	then	then
+convert	convert	convert
+back	back	back
+to	to	to
+targa	targa	targa
+after	after	after
+doing	do	doing
+operations	oper	operation
+on	on	on
+the	the	the
+p	p	p
+ixels	ixel	ixels
+r	r	r
+g	g	g
+b	b	b
+codes	code	code
+.	.	.
+
+ex	ex	ex
+.	.	.
+
+targa	targa	targa
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+>	>	>
+000100255	000100255	000100255
+pixel	pixel	pixel
+1
+001200201	1
+001200201	1
+001200201
+pixel	pixel	pixel
+2etc	2etc	2etc
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+
+if	if	if
+no	no	no
+one	one	one
+can	can	can
+help	help	help
+me	me	me
+with	with	with
+this	this	this
+could	could	could
+someone	someon	someone
+explain	explain	explain
+how	how	how
+the	the	the
+24	24	24
+bit	bit	bit
+data	data	data
+is	is	is
+st	st	st
+ored	ore	ored
+in	in	in
+the	the	the
+targa	targa	targa
+file	file	file
+and	and	and
+also	also	also
+how	how	how
+its	it	it
+stored	store	stored
+in	in	in
+the	the	the
+8	8	8
+bit	bit	bit
+targas	targa	targas
+.	.	.
+
+thanks	thank	thanks

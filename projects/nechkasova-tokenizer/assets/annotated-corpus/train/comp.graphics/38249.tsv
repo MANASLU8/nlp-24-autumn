@@ -1,0 +1,305 @@
+from	from	from
+:	:	:
+zyeh@caspian.usc.edu	zyeh@caspian.usc.edu	zyeh@caspian.usc.edu
+(	(	(
+zhenghao	zhenghao	zhenghao
+yeh	yeh	yeh
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+point	point	point
+within	within	within
+a	a	a
+polygon	polygon	polygon
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+southern	southern	southern
+california	california	california
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+ca	ca	ca
+
+lines	line	line
+:	:	:
+28	28	28
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+caspian	caspian	caspian
+.	.	.
+usc	usc	usc
+.	.	.
+edu	edu	edu
+
+keywords	keyword	keywords
+:	:	:
+point	point	point
+,	,	,
+polygon	polygon	polygon
+
+in	in	in
+article	articl	article
+<	<	<
+1993apr14.102007.20664@uk03.bull.co.uk	1993apr14.102007.20664@uk03.bull.co.uk	1993apr14.102007.20664@uk03.bull.co.uk
+>	>	>
+,	,	,
+scrowe@hemel.bull.co.uk	scrowe@hemel.bull.co.uk	scrowe@hemel.bull.co.uk
+(	(	(
+simon	simon	simon
+crowe	crow	crowe
+)	)	)
+writes	write	writes
+:	:	:
+
+|	|	|
+>	>	>
+i	i	i
+am	am	am
+looking	look	looking
+for	for	for
+an	an	an
+algorithm	algorithm	algorithm
+to	to	to
+determine	determin	determine
+if	if	if
+a	a	a
+given	given	given
+point	point	point
+is	is	is
+bound	bound	bound
+by	by	by
+a	a	a
+
+|	|	|
+>	>	>
+polygon	polygon	polygon
+.	.	.
+
+does	doe	doe
+anyone	anyon	anyone
+have	have	have
+any	ani	any
+such	such	such
+code	code	code
+or	or	or
+a	a	a
+reference	refer	reference
+to	to	to
+book	book	book
+containing	contain	containing
+
+|	|	|
+>	>	>
+information	inform	information
+on	on	on
+the	the	the
+subject	subject	subject
+?	?	?
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+regards	regard	regard
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+simon	simon	simon
+
+basically	basic	basically
+,	,	,
+there	there	there
+are	are	are
+two	two	two
+algorithms	algorithm	algorithm
+determining	determin	determining
+whether	whether	whether
+a	a	a
+point	point	point
+is	is	is
+inside	insid	inside
+,	,	,
+outside	outsid	outside
+or	or	or
+on	on	on
+the	the	the
+polygon	polygon	polygon
+.	.	.
+
+the	the	the
+first	first	first
+one	one	one
+is	is	is
+ray	ray	ray
+(	(	(
+or	or	or
+half	half	half
+line	line	line
+)	)	)
+method	method	method
+.	.	.
+
+in	in	in
+this	this	this
+method	method	method
+,	,	,
+you	you	you
+can	can	can
+draw	draw	draw
+any	ani	any
+ray	ray	ray
+,	,	,
+if	if	if
+the	the	the
+number	number	number
+of	of	of
+the	the	the
+intersection	intersect	intersection
+point	point	point
+of	of	of
+the	the	the
+ray	ray	ray
+and	and	and
+the	the	the
+polygon	polygon	polygon
+is	is	is
+even	even	even
+,	,	,
+then	then	then
+it	it	it
+is	is	is
+outside	outsid	outside
+.	.	.
+
+if	if	if
+the	the	the
+number	number	number
+is	is	is
+odd	odd	odd
+,	,	,
+then	then	then
+it	it	it
+is	is	is
+inside	insid	inside
+.	.	.
+
+of	of	of
+cause	caus	cause
+,	,	,
+you	you	you
+have	have	have
+to	to	to
+deal	deal	deal
+with	with	with
+the	the	the
+special	special	special
+cases	case	case
+which	which	which
+may	may	may
+make	make	make
+you	you	you
+headache	headach	headache
+.	.	.
+
+the	the	the
+second	second	second
+method	method	method
+is	is	is
+pi	pi	pi
+algorithm	algorithm	algorithm
+.	.	.
+
+draw	draw	draw
+the	the	the
+lines	line	line
+between	between	between
+the	the	the
+point	point	point
+and	and	and
+all	all	all
+the	the	the
+vertices	vertic	vertex
+on	on	on
+the	the	the
+polygon	polygon	polygon
+.	.	.
+
+calculate	calcul	calculate
+and	and	and
+sum	sum	sum
+the	the	the
+angles	angl	angle
+of	of	of
+the	the	the
+successive	success	successive
+lines	line	line
+.	.	.
+
+if	if	if
+the	the	the
+result	result	result
+is	is	is
+2	2	2
+*	*	*
+pi	pi	pi
+,	,	,
+then	then	then
+it	it	it
+is	is	is
+inside	insid	inside
+.	.	.
+
+if	if	if
+pi	pi	pi
+,	,	,
+then	then	then
+it	it	it
+is	is	is
+on	on	on
+the	the	the
+polygon	polygon	polygon
+.	.	.
+
+otherwise	otherwis	otherwise
+it	it	it
+is	is	is
+outside	outsid	outside
+.	.	.
+
+my	my	my
+experience	experi	experience
+tells	tell	tell
+the	the	the
+second	second	second
+method	method	method
+is	is	is
+relible	relibl	relible
+.	.	.
+
+hope	hope	hope
+this	this	this
+helps	help	help
+.	.	.
+
+yeh	yeh	yeh
+usc	usc	usc

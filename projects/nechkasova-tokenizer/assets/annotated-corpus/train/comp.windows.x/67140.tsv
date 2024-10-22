@@ -1,0 +1,295 @@
+from	from	from
+:	:	:
+neuralog@neosoft.com	neuralog@neosoft.com	neuralog@neosoft.com
+(	(	(
+neuralog	neuralog	neuralog
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+compiling	compil	compiling
+on	on	on
+sun4_411	sun4_411	sun4_411
+
+organization	organ	organization
+:	:	:
+neosoft	neosoft	neosoft
+communications	communic	communication
+services	servic	service
+-	-	-
+-	-	-
+(	(	(
+713) 684-5900	713) 684-5900	713) 684-5900
+
+lines	line	line
+:	:	:
+27	27	27
+
+in	in	in
+article	articl	article
+<	<	<
+1993apr20.132914.907@aio.jsc.nasa.gov	1993apr20.132914.907@aio.jsc.nasa.gov	1993apr20.132914.907@aio.jsc.nasa.gov
+>	>	>
+mccoy@gothamcity.jsc.nasa.gov	mccoy@gothamcity.jsc.nasa.gov	mccoy@gothamcity.jsc.nasa.gov
+writes	write	writes
+:	:	:
+
+>	>	>
+in	in	in
+article	articl	article
+qfe00wb2qzz7ez@andrew.cmu.edu	qfe00wb2qzz7ez@andrew.cmu.edu	qfe00wb2qzz7ez@andrew.cmu.edu
+,	,	,
+wilson	wilson	wilson
+swee	swee	swee
+<	<	<
+ws8n+@andrew.cmu.edu	ws8n+@andrew.cmu.edu	ws8n+@andrew.cmu.edu
+>	>	>
+(	(	(
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+|	|	|
+>	>	>
+i	i	i
+have	have	have
+a	a	a
+piece	piec	piece
+of	of	of
+x	x	x
+code	code	code
+that	that	that
+compiles	compil	compiles
+fine	fine	fine
+on	on	on
+pmax	pmax	pmax
+-	-	-
+ul4	ul4	ul4
+,	,	,
+pmax_mach	pmax_mach	pmax_mach
+,	,	,
+as	as	a
+
+>	>	>
+|	|	|
+>	>	>
+well	well	well
+as	as	a
+sun4_mach	sun4_mach	sun4_mach
+,	,	,
+but	but	but
+whenever	whenev	whenever
+it	it	it
+compiles	compil	compiles
+on	on	on
+sun4_411	sun4_411	sun4_411
+,	,	,
+it	it	it
+gives	give	give
+me	me	me
+
+>	>	>
+|	|	|
+>	>	>
+undefined	undefin	undefined
+ld	ld	ld
+errors	error	error
+:	:	:
+
+>	>	>
+|	|	|
+>	>	>
+_sin	_sin	_sin
+
+>	>	>
+|	|	|
+>	>	>
+_cos	_cos	_cos
+
+>	>	>
+|	|	|
+>	>	>
+_pow	_pow	_pow
+
+>	>	>
+|	|	|
+>	>	>
+_floor	_floor	_floor
+
+>	>	>
+|	|	|
+>	>	>
+_get_wmshellwidgetclass	_get_wmshellwidgetclass	_get_wmshellwidgetclass
+
+>	>	>
+|	|	|
+>	>	>
+_get_applicationshellwidgetclass	_get_applicationshellwidgetclass	_get_applicationshellwidgetclass
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+the	the	the
+following	follow	following
+libraries	librari	library
+that	that	that
+i	i	i
+linked	link	linked
+it	it	it
+to	to	to
+are	are	are
+:	:	:
+
+>	>	>
+|	|	|
+>	>	>
+-	-	-
+lxaw	lxaw	lxaw
+-	-	-
+lxmu	lxmu	lxmu
+-	-	-
+lxt	lxt	lxt
+-	-	-
+lxext	lxext	lxext
+-	-	-
+lx11	lx11	lx11
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+the	the	the
+makefile	makefil	makefile
+is	is	is
+generated	generat	generated
+off	off	off
+an	an	an
+imake	imak	imake
+template	templat	template
+.	.	.
+
+>	>	>
+|	|	|
+>	>	>
+can	can	can
+anyone	anyon	anyone
+give	give	give
+me	me	me
+pointers	pointer	pointer
+as	as	a
+to	to	to
+what	what	what
+i	i	i
+'	'	'
+m	m	m
+missing	miss	missing
+out	out	out
+to	to	to
+compile	compil	compile
+on	on	on
+
+>	>	>
+|	|	|
+>	>	>
+a	a	a
+sun4_411	sun4_411	sun4_411
+?	?	?
+
+>	>	>
+
+>	>	>
+well	well	well
+,	,	,
+the	the	the
+first	first	first
+2	2	2
+are	are	are
+easy	easi	easy
+.	.	.
+
+you	you	you
+need	need	need
+the	the	the
+math	math	math
+library	librari	library
+.	.	.
+
+try	tri	try
+adding	ad	adding
+-	-	-
+lm	lm	lm
+after	after	after
+
+>	>	>
+-	-	-
+lx11	lx11	lx11
+.	.	.
+
+don	don	don
+'	'	'
+t	t	t
+know	know	know
+if	if	if
+that	that	that
+'	'	'
+s	s	s
+the	the	the
+whole	whole	whole
+problem	problem	problem
+but	but	but
+it	it	it
+'	'	'
+s	s	s
+a	a	a
+start	start	start
+.	.	.
+
+>	>	>
+
+>	>	>
+-	-	-
+-	-	-
+-	-	-
+i	i	i
+"	"	"
+think	think	think
+"	"	"
+you	you	you
+should	should	should
+try	tri	try
+linking	link	linking
+to	to	to
+/	/	/
+usr	usr	usr
+/	/	/
+lib	lib	lib
+/	/	/
+libxmu	libxmu	libxmu
+.	.	.
+a	a	a
+instead	instead	instead
+of	of	of
+
+-	-	-
+lxmu	lxmu	lxmu
+.	.	.
+
+at	at	at
+least	least	least
+that	that	that
+solved	solv	solved
+the	the	the
+problem	problem	problem
+for	for	for
+me	me	me
+!	!	!

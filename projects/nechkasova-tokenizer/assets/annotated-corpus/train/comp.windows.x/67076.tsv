@@ -1,0 +1,225 @@
+from	from	from
+:	:	:
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com
+(	(	(
+ken	ken	ken
+lee	lee	lee
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+xalloccolor	xalloccolor	xalloccolor
+fails	fail	fails
+to	to	to
+return	return	return
+nearest	nearest	nearest
+match	match	match
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com
+
+organization	organ	organization
+:	:	:
+synoptics	synopt	synoptics
+communications	communic	communication
+,	,	,
+santa	santa	santa
+clara	clara	clara
+ca	ca	ca
+
+lines	line	line
+:	:	:
+19	19	19
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+bugsbunny	bugsbunni	bugsbunny
+.	.	.
+synoptics	synopt	synoptics
+.	.	.
+com	com	com
+
+in	in	in
+article	articl	article
+54297@slate.mines.colorado.edu	54297@slate.mines.colorado.edu	54297@slate.mines.colorado.edu
+,	,	,
+agallagh@slate.mines.colorado.edu	agallagh@slate.mines.colorado.edu	agallagh@slate.mines.colorado.edu
+(	(	(
+gallagher	gallagh	gallagher
+andrea	andrea	andrea
+j	j	j
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+[	[	[
+posted	post	posted
+for	for	for
+a	a	a
+friend	friend	friend
+]	]	]
+
+>	>	>
+
+>	>	>
+okay	okay	okay
+,	,	,
+i	i	i
+looked	look	looked
+through	through	through
+the	the	the
+faqs	faq	faq
+and	and	and
+didn	didn	didn
+'	'	'
+t	t	t
+see	see	see
+this	this	this
+,	,	,
+but	but	but
+i	i	i
+know	know	know
+its	it	it
+
+>	>	>
+come	come	come
+up	up	up
+before	befor	before
+.	.	.
+.	.	.
+.	.	.
+
+>	>	>
+
+>	>	>
+xalloccolor	xalloccolor	xalloccolor
+is	is	is
+supposed	suppos	supposed
+to	to	to
+do	do	do
+the	the	the
+following	follow	following
+in	in	in
+order	order	order
+:	:	:
+
+>	>	>
+try	tri	try
+to	to	to
+find	find	find
+an	an	an
+exact	exact	exact
+match	match	match
+read	read	read
+-	-	-
+only	onli	only
+color	color	color
+cell	cell	cell
+.	.	.
+
+(	(	(
+within	within	within
+hardware	hardwar	hardware
+limits	limit	limit
+)	)	)
+
+>	>	>
+try	tri	try
+to	to	to
+allocate	alloc	allocate
+a	a	a
+read	read	read
+-	-	-
+only	onli	only
+colorcell	colorcel	colorcell
+and	and	and
+set	set	set
+it	it	it
+to	to	to
+match	match	match
+.	.	.
+
+>	>	>
+and	and	and
+when	when	when
+all	all	all
+else	els	else
+fails	fail	fails
+,	,	,
+
+>	>	>
+return	return	return
+the	the	the
+colorcell	colorcel	colorcell
+with	with	with
+the	the	the
+best	best	best
+match	match	match
+from	from	from
+the	the	the
+read	read	read
+-	-	-
+only	onli	only
+colors	color	color
+
+>	>	>
+already	alreadi	already
+allocated	alloc	allocated
+in	in	in
+the	the	the
+colormap	colormap	colormap
+.	.	.
+
+where	where	where
+did	did	did
+you	you	you
+hear	hear	hear
+this	this	this
+?	?	?
+
+if	if	if
+it	it	it
+is	is	is
+printed	print	printed
+in	in	in
+a	a	a
+book	book	book
+somewhere	somewher	somewhere
+,	,	,
+throw	throw	throw
+away	away	away
+the	the	the
+book	book	book
+.	.	.
+
+according	accord	according
+to	to	to
+the	the	the
+mit	mit	mit
+specs	spec	spec
+,	,	,
+only	onli	only
+the	the	the
+first	first	first
+2	2	2
+are	are	are
+true	true	true
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+ken	ken	ken
+lee	lee	lee
+,	,	,
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com

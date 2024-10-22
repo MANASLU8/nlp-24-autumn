@@ -1,0 +1,186 @@
+from	from	from
+:	:	:
+holmertz@ike.navo.navy.mil	holmertz@ike.navo.navy.mil	holmertz@ike.navo.navy.mil
+(	(	(
+steve	steve	steve
+holmertz	holmertz	holmertz
+)	)	)
+
+subject	subject	subject
+:	:	:
+parametric	parametr	parametric
+eq	eq	eq
+(	(	(
+car	car	car
+)	)	)
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+-	-	-
+[	[	[
+nntpd	nntpd	nntpd
+-	-	-
+23809	23809	23809
+]	]	]
+:	:	:
+ike	ike	ike
+.	.	.
+navo	navo	navo
+.	.	.
+navy	navi	navy
+.	.	.
+mil	mil	mil
+
+keywords	keyword	keywords
+:	:	:
+eq	eq	eq
+audio	audio	audio
+stereo	stereo	stereo
+
+organization	organ	organization
+:	:	:
+naval	naval	naval
+oceanographic	oceanograph	oceanographic
+office	offic	office
+
+lines	line	line
+:	:	:
+16	16	16
+
+hifonics	hifon	hifonics
+"	"	"
+ceres	cere	cere
+"	"	"
+3	3	3
+-	-	-
+band	band	band
+parametric	parametr	parametric
+equalizer	equal	equalizer
+
+specs	spec	spec
+:	:	:
+3	3	3
+-	-	-
+bands	band	band
+:	:	:
+1	1	1
+.	.	.
+
+40	40	40
+-	-	-
+640hz	640hz	640hz
+;	;	;
+2	2	2
+.	.	.
+
+100hz	100hz	100hz
+-	-	-
+3khz	3khz	3khz
+;	;	;
+3	3	3
+.	.	.
+
+500hz	500hz	500hz
+-	-	-
+16khz	16khz	16khz
+
+boost	boost	boost
+/	/	/
+cut	cut	cut
+:	:	:
++	+	+
+/	/	/
+-	-	-
+20db	20db	20db
+
+thd	thd	thd
+:	:	:
+less	less	less
+than	than	than
+0	0	0
+.	.	.
+02	02	02
+%	%	%
+
+size	size	size
+(	(	(
+wxhxd	wxhxd	wxhxd
+)	)	)
+:	:	:
+190mmx53mmx120mm	190mmx53mmx120mm	190mmx53mmx120mm
+
+this	this	this
+eq	eq	eq
+has	has	ha
+three	three	three
+variable	variabl	variable
+bands	band	band
+as	as	a
+indicated	indic	indicated
+above	abov	above
+with	with	with
+variable	variabl	variable
+q	q	q
+.	.	.
+
+it	it	it
+also	also	also
+has	has	ha
+a	a	a
+subwoofer	subwoof	subwoofer
+output	output	output
+with	with	with
+variable	variabl	variable
+cutoff	cutoff	cutoff
+frequency	frequenc	frequency
+.	.	.
+
+i	i	i
+originally	origin	originally
+paid	paid	paid
+$	$	$
+129	129	129
+for	for	for
+the	the	the
+unit	unit	unit
+and	and	and
+used	use	used
+it	it	it
+for	for	for
+3	3	3
+months	month	month
+before	befor	before
+selling	sell	selling
+the	the	the
+car	car	car
+.	.	.
+
+it	it	it
+is	is	is
+in	in	in
+excellent	excel	excellent
+condition	condit	condition
+with	with	with
+all	all	all
+the	the	the
+wiring	wire	wiring
+and	and	and
+hardware	hardwar	hardware
+intact	intact	intact
+and	and	and
+manual	manual	manual
+in	in	in
+original	origin	original
+box	box	box
+.	.	.
+
+asking	ask	asking
+price	price	price
+:	:	:
+$	$	$
+75	75	75
+
+holmertz@pops.navo.navy.mil	holmertz@pops.navo.navy.mil	holmertz@pops.navo.navy.mil

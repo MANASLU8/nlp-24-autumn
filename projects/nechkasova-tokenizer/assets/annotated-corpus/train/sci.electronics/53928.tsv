@@ -1,0 +1,303 @@
+from	from	from
+:	:	:
+uli@izfm.uni-stuttgart.de	uli@izfm.uni-stuttgart.d	uli@izfm.uni-stuttgart.de
+(	(	(
+uli	uli	uli
+allgeier	allgeier	allgeier
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+pads	pad	pad
+question	question	question
+-	-	-
+how	how	how
+do	do	do
+i	i	i
+go	go	go
+from	from	from
+a	a	a
+schematic	schemat	schematic
+-	-	-
+>	>	>
+pcb	pcb	pcb
+?	?	?
+
+organization	organ	organization
+:	:	:
+comp	comp	comp
+.	.	.
+center	center	center
+(	(	(
+rus	rus	ru
+)	)	)
+,	,	,
+u	u	u
+of	of	of
+stuttgart	stuttgart	stuttgart
+,	,	,
+frg	frg	frg
+
+lines	line	line
+:	:	:
+38	38	38
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+pc8	pc8	pc8
+.	.	.
+izfm	izfm	izfm
+.	.	.
+uni	uni	uni
+-	-	-
+stuttgart	stuttgart	stuttgart
+.	.	.
+de	de	de
+
+hi	hi	hi
+!	!	!
+
+in	in	in
+article	articl	article
+<	<	<
+c5svup.i4i@news.cso.uiuc.edu	c5svup.i4i@news.cso.uiuc.edu	c5svup.i4i@news.cso.uiuc.edu
+>	>	>
+rky57514@uxa.cso.uiuc.edu	rky57514@uxa.cso.uiuc.edu	rky57514@uxa.cso.uiuc.edu
+(	(	(
+tall	tall	tall
+cool	cool	cool
+one	one	one
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+after	after	after
+i	i	i
+have	have	have
+produced	produc	produced
+a	a	a
+schematic	schemat	schematic
+with	with	with
+pads	pad	pad
+-	-	-
+logic	logic	logic
+,	,	,
+how	how	how
+do	do	do
+i	i	i
+import	import	import
+it	it	it
+into	into	into
+
+>	>	>
+pads	pad	pad
+-	-	-
+pcb	pcb	pcb
+to	to	to
+create	creat	create
+a	a	a
+pcb	pcb	pcb
+pattern	pattern	pattern
+?	?	?
+
+the	the	the
+only	onli	only
+way	way	way
+i	i	i
+'	'	'
+ve	ve	ve
+gotten	gotten	gotten
+it	it	it
+to	to	to
+work	work	work
+is	is	is
+
+>	>	>
+to	to	to
+output	output	output
+a	a	a
+futurenet	futurenet	futurenet
+netlist	netlist	netlist
+,	,	,
+and	and	and
+then	then	then
+import	import	import
+this	this	this
+into	into	into
+pads	pad	pad
+-	-	-
+pcb	pcb	pcb
+.	.	.
+
+is	is	is
+there	there	there
+
+>	>	>
+another	anoth	another
+way	way	way
+of	of	of
+doing	do	doing
+this	this	this
+?	?	?
+
+i	i	i
+didn	didn	didn
+'	'	'
+t	t	t
+see	see	see
+any	ani	any
+information	inform	information
+in	in	in
+the	the	the
+instructions	instruct	instruction
+
+>	>	>
+provided	provid	provided
+,	,	,
+but	but	but
+i	i	i
+might	might	might
+have	have	have
+missed	miss	missed
+something	someth	something
+.	.	.
+
+any	ani	any
+suggestions	suggest	suggestion
+would	would	would
+be	be	be
+
+>	>	>
+greatly	great	greatly
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+!	!	!
+
+sorry	sorri	sorry
+,	,	,
+it	it	it
+'	'	'
+s	s	s
+german	german	german
+,	,	,
+but	but	but
+i	i	i
+hope	hope	hope
+you	you	you
+understand	understand	understand
+it	it	it
+.	.	.
+
+uebertragung	uebertragung	uebertragung
+der	der	der
+schaltplan	schaltplan	schaltplan
+-	-	-
+daten	daten	daten
+(	(	(
+*	*	*
+.	.	.
+sch	sch	sch
+)	)	)
+in	in	in
+die	die	die
+board	board	board
+-	-	-
+daten	daten	daten
+
+(	(	(
+*	*	*
+.	.	.
+job	job	job
+)	)	)
+:	:	:
+
+pads	pad	pad
+-	-	-
+logic	logic	logic
+:	:	:
+
+in	in	in
+/	/	/
+out	out	out
+
+reports	report	report
+
+net	net	net
+list	list	list
+
+select	select	select
+pads	pad	pad
+-	-	-
+pcb	pcb	pcb
+net	net	net
+list	list	list
+output	output	output
+file	file	file
+name	name	name
+
+-	-	-
+>	>	>
+filename	filenam	filename
+angeben	angeben	angeben
+
+pads	pad	pad
+-	-	-
+pcb	pcb	pcb
+:	:	:
+
+in	in	in
+/	/	/
+out	out	out
+
+ascii	ascii	ascii
+in	in	in
+ascii	ascii	ascii
+input	input	input
+file	file	file
+name	name	name
+
+-	-	-
+>	>	>
+filename	filenam	filename
+angeben	angeben	angeben
+errors	error	error
+aoutput	aoutput	aoutput
+file	file	file
+name	name	name
+
+-	-	-
+>	>	>
+filename	filenam	filename
+angeben	angeben	angeben
+,	,	,
+nicht	nicht	nicht
+cr	cr	cr
+
+jetzt	jetzt	jetzt
+sind	sind	sind
+alle	all	alle
+bauteile	bauteil	bauteile
+auf	auf	auf
+einem	einem	einem
+haufen	haufen	haufen
+und	und	und
+muessen	muessen	muessen
+mit	mit	mit
+move	move	move
+verteilt	verteilt	verteilt
+werden	werden	werden
+.	.	.
+
+viele	viel	viele
+gruesse	gruess	gruesse
+
+uli	uli	uli

@@ -1,0 +1,197 @@
+from	from	from
+:	:	:
+huub@cwi.nl	huub@cwi.nl	huub@cwi.nl
+(	(	(
+huub	huub	huub
+bakker	bakker	bakker
+)	)	)
+
+subject	subject	subject
+:	:	:
+waiting	wait	waiting
+for	for	for
+a	a	a
+specific	specif	specific
+event	event	event
+/	/	/
+callback	callback	callback
+
+keywords	keyword	keywords
+:	:	:
+event	event	event
+handling	handl	handling
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+huub.bakker@cwi.nl	huub.bakker@cwi.nl	huub.bakker@cwi.nl
+
+organization	organ	organization
+:	:	:
+cwi	cwi	cwi
+,	,	,
+centre	centr	centre
+for	for	for
+mathematics	mathemat	mathematics
+&	&	&
+computer	comput	computer
+science	scienc	science
+
+lines	line	line
+:	:	:
+30	30	30
+
+hello	hello	hello
+world	world	world
+,	,	,
+i	i	i
+want	want	want
+to	to	to
+write	write	write
+my	my	my
+xt	xt	xt
+-	-	-
+application	applic	application
+code	code	code
+like	like	like
+this	this	this
+:	:	:
+
+{	{	{
+
+do_some_work	do_some_work	do_some_work
+(	(	(
+)	)	)
+;	;	;
+
+/	/	/
+*	*	*
+now	now	now
+i	i	i
+need	need	need
+some	some	some
+user	user	user
+input	input	input
+*	*	*
+/	/	/
+
+xmcreatedialog	xmcreatedialog	xmcreatedialog
+(	(	(
+)	)	)
+;	;	;
+
+wait_for_user_input	wait_for_user_input	wait_for_user_input
+(	(	(
+input	input	input
+)	)	)
+;	;	;
+
+if	if	if
+(	(	(
+input	input	input
+=	=	=
+=	=	=
+"	"	"
+ok	ok	ok
+"	"	"
+)	)	)
+{	{	{
+
+more_work	more_work	more_work
+(	(	(
+)	)	)
+;	;	;
+
+}	}	}
+else	els	else
+{	{	{
+
+other_work	other_work	other_work
+(	(	(
+)	)	)
+;	;	;
+
+}	}	}
+
+}	}	}
+
+so	so	so
+"	"	"
+more_work	more_work	more_work
+(	(	(
+)	)	)
+and	and	and
+other_work	other_work	other_work
+(	(	(
+)	)	)
+"	"	"
+are	are	are
+not	not	not
+in	in	in
+callback	callback	callback
+functions	function	function
+but	but	but
+the	the	the
+application	applic	application
+simply	simpli	simply
+waits	wait	wait
+for	for	for
+the	the	the
+user	user	user
+to	to	to
+answer	answer	answer
+the	the	the
+question	question	question
+.	.	.
+
+how	how	how
+can	can	can
+i	i	i
+code	code	code
+this	this	this
+in	in	in
+my	my	my
+xt	xt	xt
+/	/	/
+motif	motif	motif
+-	-	-
+application	applic	application
+?	?	?
+
+thanks	thank	thanks
+very	veri	very
+much	much	much
+in	in	in
+advance	advanc	advance
+.	.	.
+
+greetings	greet	greeting
+,	,	,
+huub	huub	huub
+.	.	.
+
+-	-	-
+-	-	-
+cwi	cwi	cwi
+,	,	,
+p	p	p
+.	.	.
+o	o	o
+.	.	.
+box	box	box
+4079	4079	4079
+huub	huub	huub
+bakker	bakker	bakker
+(	(	(
+huub@cwi.nl	huub@cwi.nl	huub@cwi.nl
+)	)	)
+1009	1009	1009
+ab	ab	ab
+amsterdam	amsterdam	amsterdam
+the	the	the
+netherlands	netherland	netherlands
+tel	tel	tel
+.	.	.
+
+31 20 5924080	31 20 5924080	31 20 5924080

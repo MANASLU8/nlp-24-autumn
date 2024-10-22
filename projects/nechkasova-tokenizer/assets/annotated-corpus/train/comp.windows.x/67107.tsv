@@ -1,0 +1,589 @@
+from	from	from
+:	:	:
+pfuetz@igd.fhg.de	pfuetz@igd.fhg.d	pfuetz@igd.fhg.de
+(	(	(
+matthias	matthia	matthias
+pfuetzner	pfuetzner	pfuetzner
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+available	avail	available
+memory	memori	memory
+to	to	to
+the	the	the
+xserver	xserver	xserver
+.	.	.
+
+how	how	how
+to	to	to
+get	get	get
+the	the	the
+actual	actual	actual
+size	size	size
+?	?	?
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+pfuetz@igd.fhg.de	pfuetz@igd.fhg.d	pfuetz@igd.fhg.de
+(	(	(
+matthias	matthia	matthias
+pfuetzner	pfuetzner	pfuetzner
+)	)	)
+
+organization	organ	organization
+:	:	:
+zentrum	zentrum	zentrum
+fuer	fuer	fuer
+graphische	graphisch	graphische
+datenverarbeitung	datenverarbeitung	datenverarbeitung
+,	,	,
+darmstadt	darmstadt	darmstadt
+,	,	,
+frg	frg	frg
+
+lines	line	line
+:	:	:
+78	78	78
+
+hello	hello	hello
+!	!	!
+
+in	in	in
+article	articl	article
+<	<	<
+1993apr17.144246.29806@thunder.mcrcim.mcgill.edu	1993apr17.144246.29806@thunder.mcrcim.mcgill.edu	1993apr17.144246.29806@thunder.mcrcim.mcgill.edu
+>	>	>
+,	,	,
+mouse@mcrcim.mcgill.edu	mouse@mcrcim.mcgill.edu	mouse@mcrcim.mcgill.edu
+(	(	(
+der	der	der
+mouse	mous	mouse
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+in	in	in
+article	articl	article
+<	<	<
+1965@igd.fhg.de	1965@igd.fhg.d	1965@igd.fhg.de
+>	>	>
+,	,	,
+pfuetz@igd.fhg.de	pfuetz@igd.fhg.d	pfuetz@igd.fhg.de
+(	(	(
+matthias	matthia	matthias
+pfuetzner	pfuetzner	pfuetzner
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+
+>	>	>
+>	>	>
+is	is	is
+there	there	there
+a	a	a
+possibility	possibl	possibility
+to	to	to
+determine	determin	determine
+via	via	via
+x	x	x
+protocol	protocol	protocol
+calls	call	call
+the	the	the
+size	size	size
+of	of	of
+
+>	>	>
+>	>	>
+free	free	free
+memory	memori	memory
+available	avail	available
+to	to	to
+the	the	the
+xserver	xserver	xserver
+?	?	?
+
+>	>	>
+
+>	>	>
+no	no	no
+.	.	.
+even	even	even
+if	if	if
+you	you	you
+could	could	could
+,	,	,
+the	the	the
+answer	answer	answer
+could	could	could
+be	be	be
+out	out	out
+of	of	of
+date	date	date
+even	even	even
+before	befor	before
+you	you	you
+
+>	>	>
+get	get	get
+it	it	it
+(	(	(
+even	even	even
+if	if	if
+you	you	you
+grab	grab	grab
+the	the	the
+server	server	server
+,	,	,
+it	it	it
+could	could	could
+be	be	be
+taken	taken	taken
+up	up	up
+by	by	by
+buffering	buffer	buffering
+
+>	>	>
+user	user	user
+actions	action	action
+)	)	)
+.	.	.
+
+you	you	you
+should	should	should
+just	just	just
+try	tri	try
+to	to	to
+do	do	do
+whatever	whatev	whatever
+you	you	you
+want	want	want
+;	;	;
+a	a	a
+badalloc	badalloc	badalloc
+
+>	>	>
+error	error	error
+is	is	is
+your	your	your
+indication	indic	indication
+that	that	that
+insufficient	insuffici	insufficient
+server	server	server
+memory	memori	memory
+is	is	is
+available	avail	available
+.	.	.
+
+>	>	>
+
+>	>	>
+der	der	der
+mouse	mous	mouse
+
+this	this	this
+isn	isn	isn
+'	'	'
+t	t	t
+of	of	of
+much	much	much
+help	help	help
+!	!	!
+
+especially	especi	especially
+when	when	when
+doing	do	doing
+phigs	phig	phigs
+(	(	(
+pex	pex	pex
+)	)	)
+via	via	via
+the	the	the
+libphigs	libphig	libphigs
+as	as	a
+supplied	suppli	supplied
+by	by	by
+mit	mit	mit
+,	,	,
+i	i	i
+have	have	have
+much	much	much
+trouble	troubl	trouble
+together	togeth	together
+with	with	with
+pex	pex	pex
+-	-	-
+terminals	termin	terminal
+that	that	that
+don	don	don
+'	'	'
+t	t	t
+have	have	have
+enough	enough	enough
+memory	memori	memory
+!	!	!
+
+performing	perform	performing
+the	the	the
+following	follow	following
+:	:	:
+
+visual	visual	visual
+.	.	.
+visualid	visualid	visualid
+=	=	=
+copyfromparent	copyfrompar	copyfromparent
+;	;	;
+
+bg_pix	bg_pix	bg_pix
+=	=	=
+whitepixel	whitepixel	whitepixel
+(	(	(
+grafik_display	grafik_display	grafik_display
+,	,	,
+defaultscreen	defaultscreen	defaultscreen
+(	(	(
+grafik_display	grafik_display	grafik_display
+)	)	)
+)	)	)
+;	;	;
+
+xswa	xswa	xswa
+.	.	.
+backing_store	backing_stor	backing_store
+=	=	=
+notuseful	notus	notuseful
+;	;	;
+
+xswa	xswa	xswa
+.	.	.
+event_mask	event_mask	event_mask
+=	=	=
+exposuremask	exposuremask	exposuremask
+|	|	|
+structurenotifymask	structurenotifymask	structurenotifymask
+;	;	;
+
+xswa	xswa	xswa
+.	.	.
+background_pixel	background_pixel	background_pixel
+=	=	=
+bg_pix	bg_pix	bg_pix
+;	;	;
+
+graphic_window	graphic_window	graphic_window
+=	=	=
+
+xcreatewindow	xcreatewindow	xcreatewindow
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+rootwindow	rootwindow	rootwindow
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+defaultscreen	defaultscreen	defaultscreen
+(	(	(
+graphic_display	graphic_display	graphic_display
+)	)	)
+)	)	)
+,	,	,
+0	0	0
+,	,	,
+0	0	0
+,	,	,
+displaywidth	displaywidth	displaywidth
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+
+defaultscreen	defaultscreen	defaultscreen
+(	(	(
+graphic_display	graphic_display	graphic_display
+)	)	)
+)	)	)
+,	,	,
+displayheight	displayheight	displayheight
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+
+defaultscreen	defaultscreen	defaultscreen
+(	(	(
+graphic_display	graphic_display	graphic_display
+)	)	)
+)	)	)
+,	,	,
+(	(	(
+unsigned	unsign	unsigned
+int	int	int
+)	)	)
+0	0	0
+,	,	,
+8	8	8
+,	,	,
+inputoutput	inputoutput	inputoutput
+,	,	,
+&	&	&
+visual	visual	visual
+,	,	,
+cweventmask	cweventmask	cweventmask
+|	|	|
+cwbackingstore	cwbackingstor	cwbackingstore
+|	|	|
+cwbackpixel	cwbackpixel	cwbackpixel
+,	,	,
+&	&	&
+xswa	xswa	xswa
+)	)	)
+;	;	;
+
+xmapwindow	xmapwindow	xmapwindow
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+graphic_window	graphic_window	graphic_window
+)	)	)
+;	;	;
+
+/	/	/
+*	*	*
+*	*	*
+sync	sync	sync
+and	and	and
+wait	wait	wait
+for	for	for
+exposure	exposur	exposure
+event	event	event
+*	*	*
+*	*	*
+/	/	/
+
+xsync	xsync	xsync
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+false	fals	false
+)	)	)
+;	;	;
+
+xwindowevent	xwindowev	xwindowevent
+(	(	(
+graphic_display	graphic_display	graphic_display
+,	,	,
+graphic_window	graphic_window	graphic_window
+,	,	,
+exposuremask	exposuremask	exposuremask
+,	,	,
+&	&	&
+exposureevent	exposureev	exposureevent
+)	)	)
+;	;	;
+
+conn	conn	conn
+.	.	.
+display	display	display
+=	=	=
+graphic_display	graphic_display	graphic_display
+;	;	;
+
+conn	conn	conn
+.	.	.
+drawable_id	drawable_id	drawable_id
+=	=	=
+graphic_window	graphic_window	graphic_window
+;	;	;
+
+xinfo	xinfo	xinfo
+.	.	.
+display	display	display
+=	=	=
+graphic_display	graphic_display	graphic_display
+;	;	;
+
+xinfo	xinfo	xinfo
+.	.	.
+flags	flag	flag
+.	.	.
+no_monitor	no_monitor	no_monitor
+=	=	=
+0	0	0
+;	;	;
+/	/	/
+*	*	*
+false	fals	false
+-	-	-
+>	>	>
+monitor	monitor	monitor
+is	is	is
+running	run	running
+!	!	!
+
+*	*	*
+/	/	/
+
+xinfo	xinfo	xinfo
+.	.	.
+flags	flag	flag
+.	.	.
+force_client_ss	force_client_ss	force_client_ss
+=	=	=
+0	0	0
+;	;	;
+/	/	/
+*	*	*
+false	fals	false
+!	!	!
+
+*	*	*
+/	/	/
+
+popen_xphigs	popen_xphig	popen_xphigs
+(	(	(
+null	null	null
+,	,	,
+0	0	0
+,	,	,
+pxphigs_info_flags_no_mon	pxphigs_info_flags_no_mon	pxphigs_info_flags_no_mon
+|	|	|
+
+pxphigs_info_flags_client_ss	pxphigs_info_flags_client_ss	pxphigs_info_flags_client_ss
+|	|	|
+
+pxphigs_info_display	pxphigs_info_display	pxphigs_info_display
+,	,	,
+&	&	&
+xinfo	xinfo	xinfo
+)	)	)
+;	;	;
+
+popen_ws	popen_w	popen_ws
+(	(	(
+1	1	1
+,	,	,
+(	(	(
+pconnid	pconnid	pconnid
+)	)	)
+(	(	(
+&	&	&
+conn	conn	conn
+)	)	)
+,	,	,
+phigs_ws_type_x_drawable	phigs_ws_type_x_draw	phigs_ws_type_x_drawable
+)	)	)
+;	;	;
+
+i	i	i
+get	get	get
+core	core	core
+dumps	dump	dump
+in	in	in
+the	the	the
+popen_ws	popen_w	popen_ws
+call	call	call
+!	!	!
+
+(	(	(
+no	no	no
+badalloc	badalloc	badalloc
+,	,	,
+etc	etc	etc
+.	.	.
+!	!	!
+
+simply	simpli	simply
+a	a	a
+core	core	core
+dump	dump	dump
+!	!	!
+)	)	)
+so	so	so
+i	i	i
+need	need	need
+some	some	some
+way	way	way
+of	of	of
+getting	get	getting
+info	info	info
+about	about	about
+the	the	the
+maximal	maxim	maximal
+available	avail	available
+memory	memori	memory
+to	to	to
+the	the	the
+xserver	xserver	xserver
+!	!	!
+
+but	but	but
+thanks	thank	thanks
+!	!	!
+
+sincerly	sincer	sincerly
+,	,	,
+matthias	matthia	matthias
+
+-	-	-
+-	-	-
+
+matthias	matthia	matthias
+pfuetzner	pfuetzner	pfuetzner
+|	|	|
+@	@	@
+work	work	work
+:	:	:
++49 6151 155-150	+49 6151 155-150	+49 6151 155-150
+|	|	|
+@	@	@
+home	home	home
+:	:	:
++49 6151 75717	+49 6151 75717	+49 6151 75717
+
+6100	6100	6100
+darmstadt	darmstadt	darmstadt
+,	,	,
+frg	frg	frg
+|	|	|
+zgdv	zgdv	zgdv
+,	,	,
+wilhelminenstrasse	wilhelminenstrass	wilhelminenstrasse
+7	7	7
+|	|	|
+lichtenbergstrasse	lichtenbergstrass	lichtenbergstrasse
+73	73	73
+
+pfuetzner@igd.fhg.de	pfuetzner@igd.fhg.d	pfuetzner@igd.fhg.de
+,	,	,
+pfuetzner@zgdvda.uucp	pfuetzner@zgdvda.uucp	pfuetzner@zgdvda.uucp
+|	|	|
+keith	keith	keith
+packard	packard	packard
+said	said	said
+:	:	:
+
+r5	r5	r5
+is	is	is
+different	differ	different
+from	from	from
+r4	r4	r4
+.	.	.
+
+that	that	that
+'	'	'
+s	s	s
+why	whi	why
+we	we	we
+changed	chang	changed
+the	the	the
+release	releas	release
+number	number	number
+:	:	:
+-	-	-
+)	)	)

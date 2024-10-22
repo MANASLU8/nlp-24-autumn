@@ -1,0 +1,77 @@
+from	from	from
+:	:	:
+iris_-_smith@cup.portal.com	iris_-_smith@cup.portal.com	iris_-_smith@cup.portal.com
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+drawing	draw	drawing
+lines	line	line
+(	(	(
+inverse	invers	inverse
+/	/	/
+xor	xor	xor
+)	)	)
+
+organization	organ	organization
+:	:	:
+the	the	the
+portal	portal	portal
+system	system	system
+(	(	(
+tm	tm	tm
+)	)	)
+
+<	<	<
+1993apr21.111919.5281@alf.uib.no	1993apr21.111919.5281@alf.uib.no	1993apr21.111919.5281@alf.uib.no
+>	>	>
+<	<	<
+drand.93apr21114830@spinner.osf.org	drand.93apr21114830@spinner.osf.org	drand.93apr21114830@spinner.osf.org
+>	>	>
+lines	line	line
+:	:	:
+3	3	3
+
+you	you	you
+can	can	can
+also	also	also
+set	set	set
+the	the	the
+foreground	foreground	foreground
+to	to	to
+the	the	the
+xor	xor	xor
+of	of	of
+the	the	the
+foreground	foreground	foreground
+and	and	and
+background	background	background
+
+colors	color	color
+:	:	:
+xsetforeground	xsetforeground	xsetforeground
+(	(	(
+.	.	.
+.	.	.
+.	.	.
+,	,	,
+fg	fg	fg
+^	^	^
+bg	bg	bg
+)	)	)
+;	;	;
+this	this	this
+works	work	work
+great	great	great
+for	for	for
+me	me	me
+(	(	(
+at	at	at
+least	least	least
+
+with	with	with
+truecolor	truecolor	truecolor
+visuals	visual	visuals
+)	)	)
+.	.	.

@@ -1,0 +1,783 @@
+from	from	from
+:	:	:
+club@spektr.msk.su	club@spektr.msk.su	club@spektr.msk.su
+(	(	(
+koltovoy	koltovoy	koltovoy
+nikolay	nikolay	nikolay
+alexeevich	alexeevich	alexeevich
+)	)	)
+
+subject	subject	subject
+:	:	:
+[	[	[
+news	news	news
+]	]	]
+re	re	re
+:	:	:
+list	list	list
+or	or	or
+image	imag	image
+processing	process	processing
+systems	system	system
+?	?	?
+
+distribution	distribut	distribution
+:	:	:
+eunet	eunet	eunet
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+club@spektr.msk.su	club@spektr.msk.su	club@spektr.msk.su
+
+organization	organ	organization
+:	:	:
+moscow	moscow	moscow
+scientific	scientif	scientific
+industrial	industri	industrial
+ass	ass	as
+.	.	.
+
+spectrum	spectrum	spectrum
+lines	line	line
+:	:	:
+137	137	137
+
+moscow	moscow	moscow
+scientific	scientif	scientific
+inductrial	inductri	inductrial
+association	associ	association
+"	"	"
+spectrum	spectrum	spectrum
+"	"	"
+offer	offer	offer
+
+videoscan	videoscan	videoscan
+vision	vision	vision
+system	system	system
+for	for	for
+pc	pc	pc
+/	/	/
+at	at	at
+,	,	,
+wich	wich	wich
+include	includ	include
+software	softwar	software
+and	and	and
+set	set	set
+of	of	of
+
+controllers	control	controller
+.	.	.
+
+software	softwar	software
+
+for	for	for
+support	support	support
+videoscan	videoscan	videoscan
+family	famili	family
+program	program	program
+kit	kit	kit
+was	was	wa
+developed	develop	developed
+.	.	.
+
+kit	kit	kit
+
+includes	includ	includes
+more	more	more
+then	then	then
+200	200	200
+different	differ	different
+functions	function	function
+for	for	for
+image	imag	image
+processing	process	processing
+.	.	.
+
+kit	kit	kit
+works	work	work
+in	in	in
+the	the	the
+interactive	interact	interactive
+regime	regim	regime
+,	,	,
+and	and	and
+has	has	ha
+include	includ	include
+help	help	help
+for	for	for
+
+non	non	non
+professional	profession	professional
+users	user	user
+.	.	.
+
+there	there	there
+are	are	are
+next	next	next
+possibility	possibl	possibility
+:	:	:
+
+-	-	-
+input	input	input
+frame	frame	frame
+by	by	by
+any	ani	any
+board	board	board
+of	of	of
+videoscan	videoscan	videoscan
+family	famili	family
+;	;	;
+
+-	-	-
+read	read	read
+-	-	-
+white	white	white
+image	imag	image
+to	to	to
+-	-	-
+from	from	from
+disk	disk	disk
+;	;	;
+
+-	-	-
+print	print	print
+image	imag	image
+on	on	on
+the	the	the
+printer	printer	printer
+;	;	;
+
+-	-	-
+makes	make	make
+arithmetic	arithmet	arithmetic
+with	with	with
+2	2	2
+frames	frame	frame
+;	;	;
+
+-	-	-
+filter	filter	filter
+image	imag	image
+;	;	;
+
+-	-	-
+work	work	work
+with	with	with
+gistogramme	gistogramm	gistogramme
+;	;	;
+
+-	-	-
+edit	edit	edit
+image	imag	image
+.	.	.
+
+-	-	-
+include	includ	include
+users	user	user
+exe	exe	exe
+modules	modul	module
+.	.	.
+
+controller	control	controller
+vs9	vs9	vs9
+
+the	the	the
+function	function	function
+of	of	of
+vs	vs	v
+-	-	-
+9	9	9
+controller	control	controller
+is	is	is
+to	to	to
+load	load	load
+tv	tv	tv
+-	-	-
+images	imag	image
+into	into	into
+pc	pc	pc
+/	/	/
+at	at	at
+.	.	.
+
+vs	vs	v
+-	-	-
+9	9	9
+controller	control	controller
+allows	allow	allows
+one	one	one
+to	to	to
+load	load	load
+a	a	a
+fragment	fragment	fragment
+of	of	of
+the	the	the
+tv	tv	tv
+-	-	-
+frame	frame	frame
+from	from	from
+
+a	a	a
+field	field	field
+of	of	of
+724x600	724x600	724x600
+pixels	pixel	pixel
+.	.	.
+
+the	the	the
+clock	clock	clock
+rate	rate	rate
+is	is	is
+14	14	14
+,	,	,
+7	7	7
+mhz	mhz	mhz
+when	when	when
+loading	load	loading
+an	an	an
+image	imag	image
+with	with	with
+512	512	512
+pixel	pixel	pixel
+in	in	in
+
+the	the	the
+line	line	line
+and	and	and
+7	7	7
+,	,	,
+4	4	4
+mhz	mhz	mhz
+when	when	when
+loading	load	loading
+a	a	a
+256	256	256
+pixels	pixel	pixel
+image	imag	image
+.	.	.
+
+this	this	this
+
+provides	provid	provides
+the	the	the
+equal	equal	equal
+pixel	pixel	pixel
+size	size	size
+of	of	of
+input	input	input
+image	imag	image
+in	in	in
+both	both	both
+horizontal	horizont	horizontal
+
+and	and	and
+vertical	vertic	vertical
+directions	direct	direction
+.	.	.
+
+the	the	the
+number	number	number
+of	of	of
+gray	gray	gray
+levels	level	level
+in	in	in
+any	ani	any
+input	input	input
+modes	mode	mode
+is	is	is
+256	256	256
+.	.	.
+
+video	video	video
+signal	signal	signal
+capture	captur	capture
+time	time	time
+-	-	-
+2	2	2
+.	.	.
+5s	5s	5
+.	.	.
+
+controller	control	controller
+vs52	vs52	vs52
+
+the	the	the
+purpose	purpos	purpose
+of	of	of
+the	the	the
+controller	control	controller
+is	is	is
+to	to	to
+enter	enter	enter
+the	the	the
+tv	tv	tv
+images	imag	image
+into	into	into
+a	a	a
+ibm	ibm	ibm
+
+pc	pc	pc
+at	at	at
+or	or	or
+any	ani	any
+other	other	other
+machine	machin	machine
+of	of	of
+that	that	that
+type	type	type
+.	.	.
+
+the	the	the
+controller	control	controller
+was	was	wa
+
+created	creat	created
+on	on	on
+the	the	the
+base	base	base
+of	of	of
+modern	modern	modern
+elements	element	element
+,	,	,
+including	includ	including
+user	user	user
+
+programmable	programm	programmable
+gate	gate	gate
+arrays	array	array
+.	.	.
+
+the	the	the
+controller	control	controller
+allows	allow	allows
+to	to	to
+digitize	digit	digitize
+a	a	a
+input	input	input
+signal	signal	signal
+with	with	with
+different	differ	different
+
+resolutions	resolut	resolution
+.	.	.
+
+its	it	it
+flexible	flexibl	flexible
+architecture	architectur	architecture
+makes	make	make
+possible	possibl	possible
+to	to	to
+change	chang	change
+
+technical	technic	technical
+parameters	paramet	parameter
+.	.	.
+
+instead	instead	instead
+of	of	of
+tv	tv	tv
+signal	signal	signal
+one	one	one
+can	can	can
+process	process	process
+any	ani	any
+
+other	other	other
+analog	analog	analog
+signal	signal	signal
+(	(	(
+including	includ	including
+signals	signal	signal
+from	from	from
+slow	slow	slow
+-	-	-
+speed	speed	speed
+scanning	scan	scanning
+
+devices	devic	device
+)	)	)
+.	.	.
+
+the	the	the
+controller	control	controller
+has	has	ha
+the	the	the
+following	follow	following
+technical	technic	technical
+characteristics	characterist	characteristic
+:	:	:
+
+-	-	-
+memory	memori	memory
+volume	volum	volume
+-	-	-
+from	from	from
+256	256	256
+k	k	k
+to	to	to
+2	2	2
+mb	mb	mb
+;	;	;
+
+-	-	-
+resolution	resolut	resolution
+when	when	when
+working	work	working
+with	with	with
+standard	standard	standard
+video	video	video
+signal	signal	signal
+-	-	-
+from	from	from
+64x64	64x64	64x64
+
+to	to	to
+1024x512	1024x512	1024x512
+pixels	pixel	pixel
+;	;	;
+
+-	-	-
+resolution	resolut	resolution
+when	when	when
+working	work	working
+in	in	in
+slow	slow	slow
+input	input	input
+regime	regim	regime
+-	-	-
+up	up	up
+to	to	to
+2048x1024	2048x1024	2048x1024
+
+pixels	pixel	pixel
+;	;	;
+
+-	-	-
+video	video	video
+signal	signal	signal
+capture	captur	capture
+time	time	time
+-	-	-
+40	40	40
+ms	ms	m
+.	.	.
+
+-	-	-
+maximum	maximum	maximum
+size	size	size
+of	of	of
+a	a	a
+screen	screen	screen
+when	when	when
+memory	memori	memory
+volume	volum	volume
+is	is	is
+2mb	2mb	2mb
+-	-	-
+2048x1024	2048x1024	2048x1024
+
+pixels	pixel	pixel
+;	;	;
+
+-	-	-
+number	number	number
+of	of	of
+gray	gray	gray
+level	level	level
+-	-	-
+256	256	256
+;	;	;
+
+-	-	-
+clock	clock	clock
+rate	rate	rate
+for	for	for
+input	input	input
+-	-	-
+up	up	up
+to	to	to
+30	30	30
+mhz	mhz	mhz
+;	;	;
+
+-	-	-
+4	4	4
+input	input	input
+video	video	video
+multiplexer	multiplex	multiplexer
+;	;	;
+
+-	-	-
+input	input	input
+/	/	/
+output	output	output
+lookup	lookup	lookup
+table	tabl	table
+(	(	(
+lut	lut	lut
+)	)	)
+;	;	;
+
+-	-	-
+possibility	possibl	possibility
+to	to	to
+realize	realiz	realize
+"	"	"
+scroll	scroll	scroll
+"	"	"
+and	and	and
+"	"	"
+zoom	zoom	zoom
+"	"	"
+;	;	;
+
+-	-	-
+8	8	8
+lines	line	line
+for	for	for
+external	extern	external
+synchronization	synchron	synchronization
+(	(	(
+an	an	an
+input	input	input
+using	use	using
+external	extern	external
+
+controlling	control	controlling
+signal	signal	signal
+)	)	)
+;	;	;
+
+-	-	-
+electronic	electron	electronic
+adjustment	adjust	adjustment
+of	of	of
+black	black	black
+and	and	and
+white	white	white
+reference	refer	reference
+for	for	for
+analog	analog	analog
+-	-	-
+
+digital	digit	digital
+converter	convert	converter
+;	;	;
+
+-	-	-
+possibility	possibl	possibility
+output	output	output
+image	imag	image
+to	to	to
+the	the	the
+color	color	color
+rgb	rgb	rgb
+monitor	monitor	monitor
+.	.	.
+
+one	one	one
+can	can	can
+change	chang	change
+all	all	all
+listed	list	listed
+above	abov	above
+functions	function	function
+and	and	and
+parameters	paramet	parameter
+of	of	of
+the	the	the
+
+controller	control	controller
+by	by	by
+reprogramming	reprogram	reprogramming
+it	it	it
+.	.	.
+
+image	imag	image
+processor	processor	processor
+vs100	vs100	vs100
+
+image	imag	image
+processor	processor	processor
+vs100	vs100	vs100
+allows	allow	allows
+to	to	to
+digitize	digit	digitize
+and	and	and
+process	process	process
+tv	tv	tv
+
+signal	signal	signal
+in	in	in
+real	real	real
+time	time	time
+.	.	.
+
+it	it	it
+is	is	is
+possible	possibl	possible
+digitize	digit	digitize
+tv	tv	tv
+signal	signal	signal
+with	with	with
+
+512	512	512
+*	*	*
+512	512	512
+*	*	*
+8	8	8
+resolution	resolut	resolution
+and	and	and
+realize	realiz	realize
+arithmetic	arithmet	arithmetic
+and	and	and
+logic	logic	logic
+operation	oper	operation
+
+with	with	with
+two	two	two
+images	imag	image
+.	.	.
+
+processor	processor	processor
+was	was	wa
+created	creat	created
+on	on	on
+the	the	the
+base	base	base
+of	of	of
+modern	modern	modern
+elements	element	element
+
+including	includ	including
+user	user	user
+programmable	programm	programmable
+gate	gate	gate
+arrays	array	array
+and	and	and
+designed	design	designed
+as	as	a
+a	a	a
+board	board	board
+
+for	for	for
+pc	pc	pc
+.	.	.
+
+memory	memori	memory
+volume	volum	volume
+allows	allow	allows
+write	write	write
+to	to	to
+the	the	the
+256	256	256
+frames	frame	frame
+with	with	with
+512	512	512
+*	*	*
+512	512	512
+*	*	*
+8	8	8
+
+format	format	format
+.	.	.
+
+it	it	it
+is	is	is
+possible	possibl	possible
+to	to	to
+accumulate	accumul	accumulate
+until	until	until
+16	16	16
+images	imag	image
+.	.	.
+
+the	the	the
+processor	processor	processor
+has	has	ha
+the	the	the
+following	follow	following
+technical	technic	technical
+characteristics	characterist	characteristic
+:	:	:
+
+-	-	-
+memory	memori	memory
+volume	volum	volume
+to	to	to
+64	64	64
+mb	mb	mb
+;	;	;
+
+-	-	-
+number	number	number
+of	of	of
+the	the	the
+gray	gray	gray
+level	level	level
+-	-	-
+256	256	256
+;	;	;
+
+-	-	-
+4	4	4
+input	input	input
+video	video	video
+multiplexer	multiplex	multiplexer
+;	;	;
+
+-	-	-
+input	input	input
+/	/	/
+output	output	output
+lookup	lookup	lookup
+table	tabl	table
+;	;	;
+
+-	-	-
+electronic	electron	electronic
+adjustment	adjust	adjustment
+for	for	for
+black	black	black
+and	and	and
+white	white	white
+adc	adc	adc
+reference	refer	reference
+;	;	;
+
+-	-	-
+image	imag	image
+size	size	size
+from	from	from
+256	256	256
+*	*	*
+256	256	256
+to	to	to
+8192	8192	8192
+*	*	*
+8192	8192	8192
+;	;	;
+
+-	-	-
+possibility	possibl	possibility
+color	color	color
+and	and	and
+black	black	black
+/	/	/
+white	white	white
+output	output	output
+;	;	;
+
+-	-	-
+possibility	possibl	possibility
+input	input	input
+from	from	from
+slow	slow	slow
+-	-	-
+scan	scan	scan
+video	video	video
+sources	sourc	source
+.	.	.

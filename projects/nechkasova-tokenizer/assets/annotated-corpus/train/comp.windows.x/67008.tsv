@@ -1,0 +1,141 @@
+from	from	from
+:	:	:
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com
+(	(	(
+ken	ken	ken
+lee	lee	lee
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+dec	dec	dec
+pixmap	pixmap	pixmap
+size	size	size
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com
+
+organization	organ	organization
+:	:	:
+synoptics	synopt	synoptics
+communications	communic	communication
+,	,	,
+santa	santa	santa
+clara	clara	clara
+ca	ca	ca
+
+lines	line	line
+:	:	:
+12	12	12
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+bugsbunny	bugsbunni	bugsbunny
+.	.	.
+synoptics	synopt	synoptics
+.	.	.
+com	com	com
+
+in	in	in
+article	articl	article
+1964@igd.fhg.de	1964@igd.fhg.d	1964@igd.fhg.de
+,	,	,
+haase@igd.fhg.de	haase@igd.fhg.d	haase@igd.fhg.de
+(	(	(
+helmut	helmut	helmut
+haase	haas	haase
+(	(	(
+goebel	goebel	goebel
+)	)	)
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+if	if	if
+i	i	i
+try	tri	try
+to	to	to
+create	creat	create
+a	a	a
+pixmap	pixmap	pixmap
+larger	larger	larger
+than	than	than
+the	the	the
+size	size	size
+of	of	of
+my	my	my
+screen	screen	screen
+the	the	the
+program	program	program
+
+>	>	>
+will	will	will
+terminate	termin	terminate
+displaying	display	displaying
+the	the	the
+message	messag	message
+:	:	:
+
+>	>	>
+
+>	>	>
+x	x	x
+error	error	error
+:	:	:
+badalloc	badalloc	badalloc
+-	-	-
+insufficient	insuffici	insufficient
+resources	resourc	resource
+
+many	mani	many
+x	x	x
+servers	server	server
+supporting	support	supporting
+graphics	graphic	graphic
+accelerators	acceler	accelerator
+do	do	do
+not	not	not
+allow	allow	allow
+the	the	the
+creation	creation	creation
+of	of	of
+pixmaps	pixmap	pixmaps
+exeeding	exeed	exeeding
+the	the	the
+size	size	size
+of	of	of
+the	the	the
+screen	screen	screen
+.	.	.
+
+one	one	one
+workaround	workaround	workaround
+is	is	is
+to	to	to
+create	creat	create
+several	sever	several
+smaller	smaller	smaller
+pixmaps	pixmap	pixmaps
+and	and	and
+add	add	add
+the	the	the
+results	result	result
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+ken	ken	ken
+lee	lee	lee
+,	,	,
+klee@synoptics.com	klee@synoptics.com	klee@synoptics.com

@@ -1,0 +1,245 @@
+from	from	from
+:	:	:
+strataki@atalante.csi.forth.gr	strataki@atalante.csi.forth.gr	strataki@atalante.csi.forth.gr
+(	(	(
+manolis	manoli	manolis
+stratakis	strataki	stratakis
+)	)	)
+
+subject	subject	subject
+:	:	:
+any	ani	any
+comments	comment	comment
+on	on	on
+eisa	eisa	eisa
+bus	bus	bus
+book	book	book
+?	?	?
+
+organization	organ	organization
+:	:	:
+forth	forth	forth
+-	-	-
+ics	ic	ic
+,	,	,
+p	p	p
+.	.	.
+o	o	o
+.	.	.
+box	box	box
+1385	1385	1385
+,	,	,
+heraklio	heraklio	heraklio
+,	,	,
+crete	crete	crete
+,	,	,
+greece	greec	greece
+71110	71110	71110
+
+tel	tel	tel
+:	:	:
++30(81)221171	+30(81)221171	+30(81)221171
+,	,	,
+229302	229302	229302
+fax	fax	fax
+:	:	:
++30(81)229342	+30(81)229342	+30(81)229342
+,	,	,
+3	3	3
+tlx	tlx	tlx
+:	:	:
+262389	262389	262389
+cci	cci	cci
+lines	line	line
+:	:	:
+29	29	29
+distribution	distribut	distribution
+:	:	:
+world	world	world
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+atalante	atalant	atalante
+.	.	.
+csi	csi	csi
+.	.	.
+forth	forth	forth
+.	.	.
+gr	gr	gr
+keywords	keyword	keywords
+:	:	:
+eisa	eisa	eisa
+,	,	,
+isa	isa	isa
+
+hello	hello	hello
+,	,	,
+
+i	i	i
+have	have	have
+the	the	the
+following	follow	following
+list	list	list
+of	of	of
+books	book	book
+about	about	about
+isa	isa	isa
+/	/	/
+eisa	eisa	eisa
+buses	buse	bus
+:	:	:
+
+1	1	1
+.	.	.
+
+isa	isa	isa
+system	system	system
+architecture	architectur	architecture
+
+by	by	by
+tom	tom	tom
+shanley	shanley	shanley
+/	/	/
+don	don	don
+anderson	anderson	anderson
+
+mindshare	mindshar	mindshare
+press	press	press
+,	,	,
+1993	1993	1993
+$	$	$
+34	34	34
+.	.	.
+95	95	95
+
+2	2	2
+.	.	.
+
+eisa	eisa	eisa
+system	system	system
+architecture	architectur	architecture
+
+by	by	by
+tom	tom	tom
+shanley	shanley	shanley
+/	/	/
+don	don	don
+anderson	anderson	anderson
+
+mindshare	mindshar	mindshare
+press	press	press
+,	,	,
+1993	1993	1993
+$	$	$
+24	24	24
+.	.	.
+95	95	95
+
+3	3	3
+.	.	.
+
+isa	isa	isa
+,	,	,
+eisa	eisa	eisa
+:	:	:
+pc	pc	pc
+,	,	,
+xt	xt	xt
+,	,	,
+at	at	at
+,	,	,
+e	e	e
+-	-	-
+isa	isa	isa
+,	,	,
+isa	isa	isa
+,	,	,
+and	and	and
+eisa	eisa	eisa
+i	i	i
+/	/	/
+o	o	o
+timing	time	timing
+and	and	and
+specs	spec	spec
+.	.	.
+
+by	by	by
+edward	edward	edward
+solari	solari	solari
+,	,	,
+copyright	copyright	copyright
+1992	1992	1992
+
+isbn	isbn	isbn
+:	:	:
+0-929392-15-9	0-929392-15-9	0-929392-15-9
+
+4	4	4
+.	.	.
+
+at	at	at
+bus	bus	bus
+design	design	design
+
+by	by	by
+edward	edward	edward
+solari	solari	solari
+,	,	,
+copyright	copyright	copyright
+1990	1990	1990
+
+isbn	isbn	isbn
+:	:	:
+0-929392-08-6	0-929392-08-6	0-929392-08-6
+
+5	5	5
+.	.	.
+
+interfacing	interfac	interfacing
+to	to	to
+the	the	the
+ibm	ibm	ibm
+pc	pc	pc
+/	/	/
+xt	xt	xt
+
+by	by	by
+eggebrecht	eggebrecht	eggebrecht
+,	,	,
+lewis	lewi	lewis
+c	c	c
+.	.	.
+
+copyright	copyright	copyright
+1990	1990	1990
+
+do	do	do
+you	you	you
+have	have	have
+any	ani	any
+comments	comment	comment
+on	on	on
+any	ani	any
+of	of	of
+them	them	them
+?	?	?
+
+please	pleas	please
+reply	repli	reply
+by	by	by
+e	e	e
+-	-	-
+mail	mail	mail
+,	,	,
+
+thanks	thank	thanks
+in	in	in
+advance	advanc	advance
+,	,	,
+manolis	manoli	manolis
+stratakis	strataki	stratakis
+.	.	.

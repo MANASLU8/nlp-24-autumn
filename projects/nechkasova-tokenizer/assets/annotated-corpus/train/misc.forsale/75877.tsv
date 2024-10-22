@@ -1,0 +1,447 @@
+from	from	from
+:	:	:
+cychong@magnus.acs.ohio-state.edu	cychong@magnus.acs.ohio-state.edu	cychong@magnus.acs.ohio-state.edu
+(	(	(
+robert	robert	robert
+chong	chong	chong
+)	)	)
+
+subject	subject	subject
+:	:	:
+books	book	book
+for	for	for
+sale	sale	sale
+(	(	(
+cheap	cheap	cheap
+!	!	!
+)	)	)
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+top	top	top
+.	.	.
+magnus	magnus	magnus
+.	.	.
+acs	ac	ac
+.	.	.
+ohio	ohio	ohio
+-	-	-
+state	state	state
+.	.	.
+edu	edu	edu
+
+organization	organ	organization
+:	:	:
+the	the	the
+ohio	ohio	ohio
+state	state	state
+university	univers	university
+
+lines	line	line
+:	:	:
+50	50	50
+
+hi	hi	hi
+,	,	,
+everyone	everyon	everyone
+,	,	,
+
+here	here	here
+are	are	are
+some	some	some
+books	book	book
+for	for	for
+sale	sale	sale
+,	,	,
+all	all	all
+prices	price	price
+are	are	are
+negotiable	negoti	negotiable
+!	!	!
+!	!	!
+
+(	(	(
+*	*	*
+*	*	*
+*	*	*
+*	*	*
+shipping	ship	shipping
+fee	fee	fee
+is	is	is
+not	not	not
+included	includ	included
+!	!	!
+!	!	!
+)	)	)
+
+1	1	1
+.	.	.
+
+signals	signal	signal
+and	and	and
+systems	system	system
+,	,	,
+alexander	alexand	alexander
+p	p	p
+.	.	.
+
+poularik	poularik	poularik
+and	and	and
+samuel	samuel	samuel
+seely	seeli	seely
+
+pws	pws	pws
+-	-	-
+kent	kent	kent
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+10	10	10
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+8	8	8
+.	.	.
+50	50	50
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+2	2	2
+.	.	.
+
+probability	probabl	probability
+:	:	:
+an	an	an
+introduction	introduct	introduction
+,	,	,
+samuel	samuel	samuel
+goldberg	goldberg	goldberg
+
+dover	dover	dover
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+4	4	4
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+2	2	2
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+3	3	3
+.	.	.
+
+digital	digit	digital
+image	imag	image
+processing	process	processing
+and	and	and
+computer	comput	computer
+vision	vision	vision
+,	,	,
+r	r	r
+.	.	.
+
+schalkoff	schalkoff	schalkoff
+
+wiley	wiley	wiley
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+30	30	30
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+26	26	26
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+4	4	4
+.	.	.
+
+digital	digit	digital
+image	imag	image
+processing	process	processing
+,	,	,
+r	r	r
+.	.	.
+
+gonzalz	gonzalz	gonzalz
+and	and	and
+p	p	p
+.	.	.
+
+wintz	wintz	wintz
+,	,	,
+addison	addison	addison
+wesley	wesley	wesley
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+25	25	25
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+22	22	22
+.	.	.
+50	50	50
+!	!	!
+!	!	!
+!	!	!
+
+sold	sold	sold
+!	!	!
+!	!	!
+.	.	.
+.	.	.
+5	5	5
+.	.	.
+
+x	x	x
+window	window	window
+system	system	system
+user	user	user
+guide	guid	guide
+(	(	(
+for	for	for
+x11r4	x11r4	x11r4
+)	)	)
+,	,	,
+o	o	o
+'	'	'
+reilly	reilli	reilly
+associate	associ	associate
+
+6	6	6
+.	.	.
+
+the	the	the
+best	best	best
+book	book	book
+of	of	of
+ms	ms	m
+-	-	-
+dos	dos	do
+5	5	5
+,	,	,
+alan	alan	alan
+simpson	simpson	simpson
+
+sams	sam	sam
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+12	12	12
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+8	8	8
+.	.	.
+50	50	50
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+7	7	7
+.	.	.
+
+elements	element	element
+of	of	of
+modern	modern	modern
+algebra	algebra	algebra
+,	,	,
+hu	hu	hu
+
+holden	holden	holden
+day	day	day
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+8	8	8
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+3	3	3
+.	.	.
+00	00	00
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+8	8	8
+.	.	.
+
+symmetries	symmetri	symmetry
+,	,	,
+asymmetries	asymmetri	asymmetry
+and	and	and
+the	the	the
+world	world	world
+of	of	of
+particles	particl	particle
+,	,	,
+t	t	t
+.	.	.
+d	d	d
+.	.	.
+lee	lee	lee
+
+washington	washington	washington
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+12	12	12
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+9	9	9
+.	.	.
+50	50	50
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+9	9	9
+.	.	.
+
+elementary	elementari	elementary
+particles	particl	particle
+and	and	and
+the	the	the
+laws	law	law
+of	of	of
+physics	physic	physic
+-	-	-
+the	the	the
+1986	1986	1986
+dirac	dirac	dirac
+memorial	memori	memorial
+lectures	lectur	lecture
+,	,	,
+cambridge	cambridg	cambridge
+publisher	publish	publisher
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+8	8	8
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+6	6	6
+.	.	.
+00	00	00
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+10	10	10
+.	.	.
+
+a	a	a
+brief	brief	brief
+history	histori	history
+of	of	of
+time	time	time
+,	,	,
+stephen	stephen	stephen
+w	w	w
+.	.	.
+
+hawking	hawk	hawking
+
+bantam	bantam	bantam
+books	book	book
+(	(	(
+paperback	paperback	paperback
+)	)	)
+,	,	,
+old	old	old
+price	price	price
+:	:	:
+$	$	$
+8	8	8
+
+new	new	new
+price	price	price
+:	:	:
+$	$	$
+4	4	4
+.	.	.
+00	00	00
+!	!	!
+!	!	!
+!	!	!
+!	!	!
+
+-	-	-
+-	-	-
+robert	robert	robert
+chong	chong	chong
+department	depart	department
+of	of	of
+mechanical	mechan	mechanical
+engineering	engin	engineering
+the	the	the
+ohio	ohio	ohio
+state	state	state
+university	univers	university
+email	email	email
+:	:	:
+cychong@magnus.acs.ohio-state.edu	cychong@magnus.acs.ohio-state.edu	cychong@magnus.acs.ohio-state.edu

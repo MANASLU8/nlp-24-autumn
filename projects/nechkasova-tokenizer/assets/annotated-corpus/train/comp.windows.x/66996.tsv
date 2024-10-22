@@ -1,0 +1,453 @@
+from	from	from
+:	:	:
+gerard@dps.co.uk	gerard@dps.co.uk	gerard@dps.co.uk
+(	(	(
+gerard	gerard	gerard
+o	o	o
+'	'	'
+driscoll	driscol	driscoll
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+creating	creat	creating
+8	8	8
+bit	bit	bit
+windows	window	window
+on	on	on
+24	24	24
+bit	bit	bit
+display	display	display
+.	.	.
+.	.	.
+
+how	how	how
+?	?	?
+
+organization	organ	organization
+:	:	:
+the	the	the
+internet	internet	internet
+
+lines	line	line
+:	:	:
+58	58	58
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+enterpoop	enterpoop	enterpoop
+.	.	.
+mit	mit	mit
+.	.	.
+edu	edu	edu
+
+to	to	to
+:	:	:
+xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu
+
+stolk@fwi.uva.nl	stolk@fwi.uva.nl	stolk@fwi.uva.nl
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+
+>	>	>
+>	>	>
+a	a	a
+problem	problem	problem
+occurs	occur	occurs
+when	when	when
+i	i	i
+try	tri	try
+to	to	to
+create	creat	create
+a	a	a
+window	window	window
+with	with	with
+a	a	a
+visual	visual	visual
+that	that	that
+is	is	is
+different	differ	different
+
+>	>	>
+>	>	>
+from	from	from
+the	the	the
+visual	visual	visual
+of	of	of
+the	the	the
+parent	parent	parent
+(	(	(
+which	which	which
+uses	use	us
+the	the	the
+default	default	default
+visual	visual	visual
+which	which	which
+is	is	is
+tc24	tc24	tc24
+)	)	)
+.	.	.
+
+>	>	>
+>	>	>
+
+you	you	you
+'	'	'
+ve	ve	ve
+got	got	got
+to	to	to
+set	set	set
+border_pixel	border_pixel	border_pixel
+in	in	in
+your	your	your
+window	window	window
+attributes	attribut	attribute
+.	.	.
+
+the	the	the
+default	default	default
+is	is	is
+copyfromparent	copyfrompar	copyfromparent
+which	which	which
+gives	give	give
+the	the	the
+badmatch	badmatch	badmatch
+.	.	.
+
+do	do	do
+this	this	this
+:	:	:
+
+.	.	.
+.	.	.
+.	.	.
+
+unsigned	unsign	unsigned
+long	long	long
+valuemask	valuemask	valuemask
+;	;	;
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+*	*	*
+
+*	*	*
+if	if	if
+border_width	border_width	border_width
+is	is	is
+non	non	non
+-	-	-
+zero	zero	zero
+you	you	you
+'	'	'
+d	d	d
+better	better	better
+alloc	alloc	alloc
+a	a	a
+colour	colour	colour
+from	from	from
+cmap	cmap	cmap
+
+*	*	*
+rather	rather	rather
+than	than	than
+use	use	use
+any	ani	any
+old	old	old
+pixel	pixel	pixel
+value	valu	value
+.	.	.
+
+also	also	also
+,	,	,
+use	use	use
+valuemask	valuemask	valuemask
+,	,	,
+it	it	it
+makes	make	make
+
+*	*	*
+the	the	the
+code	code	code
+more	more	more
+obvious	obvious	obvious
+.	.	.
+
+*	*	*
+/	/	/
+
+attr	attr	attr
+.	.	.
+colormap	colormap	colormap
+=	=	=
+cmap	cmap	cmap
+;	;	;
+
+attr	attr	attr
+.	.	.
+border_pixel	border_pixel	border_pixel
+=	=	=
+0	0	0
+;	;	;
+
+valuemask	valuemask	valuemask
+=	=	=
+cwcolormap	cwcolormap	cwcolormap
+|	|	|
+cwborderpixel	cwborderpixel	cwborderpixel
+;	;	;
+
+win	win	win
+=	=	=
+xcreatewindow	xcreatewindow	xcreatewindow
+(	(	(
+
+dpy	dpi	dpy
+,	,	,
+defaultrootwindow	defaultrootwindow	defaultrootwindow
+(	(	(
+dpy	dpi	dpy
+)	)	)
+,	,	,
+10	10	10
+,	,	,
+10	10	10
+,	,	,
+width	width	width
+,	,	,
+height	height	height
+,	,	,
+0	0	0
+,	,	,
+/	/	/
+*	*	*
+border	border	border
+width	width	width
+.	.	.
+
+see	see	see
+comment	comment	comment
+below	below	below
+*	*	*
+/	/	/
+
+8	8	8
+,	,	,
+/	/	/
+*	*	*
+depth	depth	depth
+*	*	*
+/	/	/
+
+inputoutput	inputoutput	inputoutput
+,	,	,
+/	/	/
+*	*	*
+class	class	class
+*	*	*
+/	/	/
+
+vinfo	vinfo	vinfo
+.	.	.
+visual	visual	visual
+,	,	,
+/	/	/
+*	*	*
+visual	visual	visual
+*	*	*
+/	/	/
+
+valuemask	valuemask	valuemask
+,	,	,
+&	&	&
+attr	attr	attr
+
+)	)	)
+;	;	;
+
+a	a	a
+note	note	note
+on	on	on
+border_width	border_width	border_width
+:	:	:
+your	your	your
+code	code	code
+looked	look	looked
+like	like	like
+this	this	this
+:	:	:
+
+>	>	>
+>	>	>
+win	win	win
+=	=	=
+xcreatewindow	xcreatewindow	xcreatewindow
+(	(	(
+
+>	>	>
+>	>	>
+dpy	dpi	dpy
+,	,	,
+>	>	>
+>	>	>
+defaultrootwindow	defaultrootwindow	defaultrootwindow
+(	(	(
+dpy	dpi	dpy
+)	)	)
+,	,	,
+>	>	>
+>	>	>
+10	10	10
+,	,	,
+10	10	10
+,	,	,
+>	>	>
+>	>	>
+width	width	width
+,	,	,
+height	height	height
+,	,	,
+>	>	>
+>	>	>
+copyfromparent	copyfrompar	copyfromparent
+,	,	,
+/	/	/
+*	*	*
+border	border	border
+width	width	width
+*	*	*
+/	/	/
+
+>	>	>
+>	>	>
+8	8	8
+,	,	,
+/	/	/
+*	*	*
+depth	depth	depth
+*	*	*
+/	/	/
+
+>	>	>
+>	>	>
+inputoutput	inputoutput	inputoutput
+,	,	,
+/	/	/
+*	*	*
+class	class	class
+*	*	*
+/	/	/
+
+>	>	>
+>	>	>
+vinfo	vinfo	vinfo
+.	.	.
+visual	visual	visual
+,	,	,
+/	/	/
+*	*	*
+visual	visual	visual
+*	*	*
+/	/	/
+
+>	>	>
+>	>	>
+cwcolormap	cwcolormap	cwcolormap
+,	,	,
+>	>	>
+>	>	>
+&	&	&
+attr	attr	attr
+
+>	>	>
+>	>	>
+)	)	)
+;	;	;
+
+border_width	border_width	border_width
+set	set	set
+to	to	to
+copyfromparent	copyfrompar	copyfromparent
+works	work	work
+but	but	but
+doesn	doesn	doesn
+'	'	'
+t	t	t
+make	make	make
+sense	sens	sense
+.	.	.
+
+border_width	border_width	border_width
+should	should	should
+be	be	be
+an	an	an
+unsigned	unsign	unsigned
+int	int	int
+.	.	.
+
+you	you	you
+get	get	get
+away	away	away
+with	with	with
+it	it	it
+because	becaus	because
+copyfromparent	copyfrompar	copyfromparent
+is	is	is
+#	#	#
+define	defin	define
+'	'	'
+ed	ed	ed
+to	to	to
+be	be	be
+zero	zero	zero
+in	in	in
+x	x	x
+.	.	.
+h	h	h
+.	.	.
+if	if	if
+it	it	it
+happened	happen	happened
+to	to	to
+be	be	be
+defined	defin	defined
+as	as	a
+-	-	-
+1	1	1
+you	you	you
+'	'	'
+d	d	d
+get	get	get
+a	a	a
+very	veri	very
+interesting	interest	interesting
+looking	look	looking
+window	window	window
+!	!	!
+
+gerard	gerard	gerard
+o	o	o
+'	'	'
+driscoll	driscol	driscoll
+(	(	(
+gerard.odriscoll@dps.co.uk	gerard.odriscoll@dps.co.uk	gerard.odriscoll@dps.co.uk
+)	)	)
+
+du	du	du
+pont	pont	pont
+pixel	pixel	pixel
+systems	system	system
+ltd	ltd	ltd
+.	.	.

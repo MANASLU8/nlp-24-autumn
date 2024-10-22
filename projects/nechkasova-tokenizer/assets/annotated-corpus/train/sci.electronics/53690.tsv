@@ -1,0 +1,331 @@
+from	from	from
+:	:	:
+cyberman@toz.buffalo.ny.us	cyberman@toz.buffalo.ny.us	cyberman@toz.buffalo.ny.us
+(	(	(
+cyberman	cyberman	cyberman
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+analog	analog	analog
+switches	switch	switch
+/	/	/
+balan	balan	balan
+
+lines	line	line
+:	:	:
+31	31	31
+
+x	x	x
+-	-	-
+maildoor	maildoor	maildoor
+:	:	:
+waflinemail	waflinemail	waflinemail
+1	1	1
+.	.	.
+00r	00r	00r
+
+{	{	{
+michael	michael	michael
+fulbright	fulbright	fulbright
+}	}	}
+said	said	said
+
+"	"	"
+analog	analog	analog
+switches	switch	switch
+/	/	/
+balanced	balanc	balanced
+"	"	"
+
+to	to	to
+<	<	<
+all	all	all
+>	>	>
+on	on	on
+04-15-93  01	04-15-93  01	04-15-93  01
+:	:	:
+08	08	08
+
+mf	mf	mf
+>	>	>
+i	i	i
+am	am	am
+trying	tri	trying
+to	to	to
+build	build	build
+a	a	a
+synchronous	synchron	synchronous
+demodulator	demodul	demodulator
+and	and	and
+i	i	i
+'	'	'
+ve	ve	ve
+hit	hit	hit
+a	a	a
+snag	snag	snag
+.	.	.
+
+mf	mf	mf
+>	>	>
+in	in	in
+my	my	my
+application	applic	application
+i	i	i
+want	want	want
+to	to	to
+be	be	be
+able	abl	able
+to	to	to
+change	chang	change
+the	the	the
+gain	gain	gain
+of	of	of
+an	an	an
+
+mf	mf	mf
+>	>	>
+op	op	op
+amp	amp	amp
+amplifier	amplifi	amplifier
+from	from	from
+1	1	1
+to	to	to
+-	-	-
+1	1	1
+,	,	,
+controlable	control	controlable
+via	via	via
+a	a	a
+digital	digit	digital
+input	input	input
+.	.	.
+
+mf	mf	mf
+>	>	>
+the	the	the
+most	most	most
+obvious	obvious	obvious
+way	way	way
+i	i	i
+'	'	'
+ve	ve	ve
+come	come	come
+up	up	up
+with	with	with
+is	is	is
+to	to	to
+use	use	use
+analog	analog	analog
+switches	switch	switch
+
+mf	mf	mf
+>	>	>
+to	to	to
+adjust	adjust	adjust
+the	the	the
+gain	gain	gain
+of	of	of
+the	the	the
+op	op	op
+amp	amp	amp
+.	.	.
+
+the	the	the
+only	onli	only
+analog	analog	analog
+switch	switch	switch
+i	i	i
+have	have	have
+
+mf	mf	mf
+>	>	>
+experience	experi	experience
+with	with	with
+it	it	it
+the	the	the
+4066	4066	4066
+.	.	.
+
+unfortunately	unfortun	unfortunately
+i	i	i
+want	want	want
+to	to	to
+switch	switch	switch
+an	an	an
+
+mf	mf	mf
+>	>	>
+ac	ac	ac
+signal	signal	signal
+which	which	which
+goes	goe	go
+from	from	from
+about	about	about
+-	-	-
+5v	5v	5v
+to	to	to
+5v	5v	5v
+,	,	,
+and	and	and
+the	the	the
+4066	4066	4066
+is	is	is
+only	onli	only
+
+mf	mf	mf
+>	>	>
+for	for	for
+positive	posit	positive
+signals	signal	signal
+.	.	.
+
+how	how	how
+about	about	about
+using	use	using
+a	a	a
+4053	4053	4053
+it	it	it
+has	has	ha
+a	a	a
+seperate	seper	seperate
+ground	ground	ground
+for	for	for
+the	the	the
+
+analog	analog	analog
+outputs	output	output
+.	.	.
+
+it	it	it
+would	would	would
+get	get	get
+you	you	you
+3	3	3
+bits	bit	bit
+.	.	.
+
+mf	mf	mf
+>	>	>
+another	anoth	another
+part	part	part
+which	which	which
+caught	caught	caught
+my	my	my
+eye	eye	eye
+was	was	wa
+the	the	the
+analog	analog	analog
+devices	devic	device
+ad630	ad630	ad630
+.	.	.
+
+this	this	this
+
+mf	mf	mf
+>	>	>
+is	is	is
+a	a	a
+balanced	balanc	balanced
+demodulator	demodul	demodulator
+which	which	which
+appears	appear	appears
+to	to	to
+fill	fill	fill
+exactly	exact	exactly
+the	the	the
+need	need	need
+i	i	i
+
+mf	mf	mf
+>	>	>
+have	have	have
+.	.	.
+
+the	the	the
+data	data	data
+sheet	sheet	sheet
+was	was	wa
+somewhat	somewhat	somewhat
+skimpy	skimpi	skimpy
+on	on	on
+application	applic	application
+notes	note	note
+.	.	.
+
+could	could	could
+
+mf	mf	mf
+>	>	>
+someone	someon	someone
+comment	comment	comment
+on	on	on
+using	use	using
+this	this	this
+chip	chip	chip
+for	for	for
+the	the	the
+following	follow	following
+application	applic	application
+?	?	?
+
+or	or	or
+how	how	how
+about	about	about
+a	a	a
+multiplying	multipli	multiplying
+d	d	d
+/	/	/
+a	a	a
+convertor	convertor	convertor
+?	?	?
+
+this	this	this
+is	is	is
+
+essentiallty	essentiallti	essentiallty
+what	what	what
+you	you	you
+are	are	are
+makeing	make	makeing
+.	.	.
+
+stephen	stephen	stephen
+cyberman@toz.buffalo.ny.us	cyberman@toz.buffalo.ny.us	cyberman@toz.buffalo.ny.us
+
+mangled	mangl	mangled
+on	on	on
+fri	fri	fri
+04-16-1993	04-16-1993	04-16-1993
+at	at	at
+13	13	13
+:	:	:
+36	36	36
+:	:	:
+11	11	11
+
+.	.	.
+.	.	.
+.	.	.
+
+catch	catch	catch
+the	the	the
+blue	blue	blue
+wave	wave	wave
+!	!	!
+
+-	-	-
+-	-	-
+-	-	-
+
+*	*	*
+blue	blue	blue
+wave	wave	wave
+/	/	/
+qwk	qwk	qwk
+v2	v2	v2
+.	.	.
+12	12	12
+*	*	*

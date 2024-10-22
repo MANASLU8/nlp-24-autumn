@@ -1,0 +1,184 @@
+from	from	from
+:	:	:
+eialbur@sgies9.sdrc.com	eialbur@sgies9.sdrc.com	eialbur@sgies9.sdrc.com
+(	(	(
+ron	ron	ron
+albury	alburi	albury
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+procomm	procomm	procomm
+plus	plus	plus
+for	for	for
+windows	window	window
+problems	problem	problem
+.	.	.
+.	.	.
+.	.	.
+.	.	.
+
+organization	organ	organization
+:	:	:
+sdrc	sdrc	sdrc
+
+lines	line	line
+:	:	:
+14	14	14
+
+you	you	you
+have	have	have
+a	a	a
+lot	lot	lot
+more	more	more
+problems	problem	problem
+keeping	keep	keeping
+up	up	up
+with	with	with
+hardware	hardwar	hardware
+interrupts	interrupt	interrupt
+in	in	in
+windows	window	window
+than	than	than
+in	in	in
+dos	dos	do
+-	-	-
+regardless	regardless	regardless
+of	of	of
+what	what	what
+communication	communic	communication
+software	softwar	software
+you	you	you
+are	are	are
+using	use	using
+.	.	.
+
+try	tri	try
+the	the	the
+following	follow	following
+:	:	:
+
+1	1	1
+)	)	)
+turn	turn	turn
+off	off	off
+disk	disk	disk
+write	write	write
+cache	cach	cache
+for	for	for
+the	the	the
+disk	disk	disk
+you	you	you
+are	are	are
+downloading	download	downloading
+to	to	to
+.	.	.
+
+the	the	the
+
+cache	cach	cache
+will	will	will
+save	save	save
+up	up	up
+so	so	so
+much	much	much
+that	that	that
+when	when	when
+it	it	it
+grabs	grab	grab
+control	control	control
+of	of	of
+the	the	the
+machine	machin	machine
+
+it	it	it
+takes	take	take
+too	too	too
+long	long	long
+to	to	to
+write	write	write
+to	to	to
+disk	disk	disk
+and	and	and
+you	you	you
+loose	loos	loose
+characters	charact	character
+.	.	.
+
+2	2	2
+)	)	)
+use	use	use
+a	a	a
+different	differ	different
+uart	uart	uart
+for	for	for
+your	your	your
+serial	serial	serial
+line	line	line
+.	.	.
+
+the	the	the
+old	old	old
+uart	uart	uart
+'	'	'
+s	s	s
+(	(	(
+8250	8250	8250
+or	or	or
+16450	16450	16450
+)	)	)
+
+can	can	can
+only	onli	only
+buffer	buffer	buffer
+one	one	one
+character	charact	character
+internally	intern	internally
+.	.	.
+
+the	the	the
+new	new	new
+uart	uart	uart
+'	'	'
+s	s	s
+(	(	(
+16550	16550	16550
+)	)	)
+can	can	can
+
+buffer	buffer	buffer
+16	16	16
+,	,	,
+which	which	which
+should	should	should
+be	be	be
+plenty	plenti	plenty
+for	for	for
+most	most	most
+situations	situat	situation
+.	.	.
+
+you	you	you
+can	can	can
+run	run	run
+
+\	\	\
+windows	window	window
+\	\	\
+msd	msd	msd
+.	.	.
+exe	exe	exe
+to	to	to
+find	find	find
+out	out	out
+what	what	what
+uart	uart	uart
+is	is	is
+on	on	on
+the	the	the
+machine	machin	machine
+.	.	.
+
+ron	ron	ron

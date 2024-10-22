@@ -1,0 +1,1773 @@
+from	from	from
+:	:	:
+c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca
+(	(	(
+cook	cook	cook
+charlie	charli	charlie
+)	)	)
+
+subject	subject	subject
+:	:	:
+nhl	nhl	nhl
+summary	summari	summary
+parse	pars	parse
+results	result	result
+for	for	for
+games	game	game
+played	play	played
+sun	sun	sun
+,	,	,
+april	april	april
+18	18	18
+,	,	,
+1993	1993	1993
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+new	new	new
+brunswick	brunswick	brunswick
+
+lines	line	line
+:	:	:
+219	219	219
+
+new	new	new
+jersey	jersey	jersey
+1	1	1
+0	0	0
+2	2	2
+-	-	-
+-	-	-
+3	3	3
+pittsburgh	pittsburgh	pittsburgh
+2	2	2
+3	3	3
+1	1	1
+-	-	-
+-	-	-
+6	6	6
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+tocchet	tocchet	tocchet
+1	1	1
+(	(	(
+stevens	steven	stevens
+,	,	,
+lemieux	lemieux	lemieux
+)	)	)
+pp	pp	pp
+,	,	,
+1	1	1
+:	:	:
+40	40	40
+.	.	.
+
+2	2	2
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+barr	barr	barr
+1	1	1
+(	(	(
+guerin	guerin	guerin
+,	,	,
+holik	holik	holik
+)	)	)
+6	6	6
+:	:	:
+24	24	24
+.	.	.
+
+3	3	3
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+lemieux	lemieux	lemieux
+1	1	1
+(	(	(
+jagr	jagr	jagr
+,	,	,
+ramsey	ramsey	ramsey
+)	)	)
+9	9	9
+:	:	:
+33	33	33
+.	.	.
+
+second	second	second
+period	period	period
+
+4	4	4
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+lemieux	lemieux	lemieux
+2	2	2
+(	(	(
+stevens	steven	stevens
+,	,	,
+murphy	murphi	murphy
+)	)	)
+pp	pp	pp
+,	,	,
+4	4	4
+:	:	:
+11	11	11
+.	.	.
+
+5	5	5
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+francis	franci	francis
+1	1	1
+(	(	(
+ramsey	ramsey	ramsey
+,	,	,
+mullen	mullen	mullen
+)	)	)
+12	12	12
+:	:	:
+57	57	57
+.	.	.
+
+6	6	6
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+tippett	tippett	tippett
+1	1	1
+(	(	(
+jagr	jagr	jagr
+,	,	,
+mceachern	mceachern	mceachern
+)	)	)
+17	17	17
+:	:	:
+13	13	13
+.	.	.
+
+third	third	third
+period	period	period
+
+7	7	7
+,	,	,
+pittsburgh	pittsburgh	pittsburgh
+,	,	,
+jagr	jagr	jagr
+1	1	1
+(	(	(
+samuelsson	samuelsson	samuelsson
+,	,	,
+lemieux	lemieux	lemieux
+)	)	)
+pp	pp	pp
+,	,	,
+8	8	8
+:	:	:
+35	35	35
+.	.	.
+
+8	8	8
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+stevens	steven	stevens
+1	1	1
+(	(	(
+niedermayer	niedermay	niedermayer
+,	,	,
+driver	driver	driver
+)	)	)
+pp	pp	pp
+,	,	,
+11	11	11
+:	:	:
+48	48	48
+.	.	.
+
+9	9	9
+,	,	,
+new	new	new
+jersey	jersey	jersey
+,	,	,
+stevens	steven	stevens
+2	2	2
+(	(	(
+semak	semak	semak
+,	,	,
+niedermayer	niedermay	niedermayer
+)	)	)
+18	18	18
+:	:	:
+56	56	56
+.	.	.
+
+pittsburgh	pittsburgh	pittsburgh
+:	:	:
+6	6	6
+power	power	power
+play	play	play
+:	:	:
+8	8	8
+-	-	-
+3	3	3
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+francis	franci	francis
+1    0    1	1    0    1	1    0    1
+jagr	jagr	jagr
+1    2    3	1    2    3	1    2    3
+lemieux	lemieux	lemieux
+2    2    4	2    2    4	2    2    4
+mceachern	mceachern	mceachern
+0    1    1	0    1    1	0    1    1
+mullen	mullen	mullen
+0    1    1	0    1    1	0    1    1
+murphy	murphi	murphy
+0    1    1	0    1    1	0    1    1
+ramsey	ramsey	ramsey
+0    2    2	0    2    2	0    2    2
+samuelsson	samuelsson	samuelsson
+0    1    1	0    1    1	0    1    1
+stevens	steven	stevens
+0    2    2	0    2    2	0    2    2
+tippett	tippett	tippett
+1    0    1	1    0    1	1    0    1
+tocchet	tocchet	tocchet
+1    0    1	1    0    1	1    0    1
+
+new	new	new
+jersey	jersey	jersey
+:	:	:
+3	3	3
+power	power	power
+play	play	play
+:	:	:
+8	8	8
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+barr	barr	barr
+1    0    1	1    0    1	1    0    1
+driver	driver	driver
+0    1    1	0    1    1	0    1    1
+guerin	guerin	guerin
+0    1    1	0    1    1	0    1    1
+holik	holik	holik
+0    1    1	0    1    1	0    1    1
+niedermayer	niedermay	niedermayer
+0    2    2	0    2    2	0    2    2
+semak	semak	semak
+0    1    1	0    1    1	0    1    1
+stevens	steven	stevens
+2    0    2	2    0    2	2    0    2
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+st	st	st
+louis	loui	louis
+0	0	0
+2	2	2
+2	2	2
+-	-	-
+-	-	-
+4	4	4
+chicago	chicago	chicago
+1	1	1
+2	2	2
+0	0	0
+-	-	-
+-	-	-
+3	3	3
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+chicago	chicago	chicago
+,	,	,
+noonan	noonan	noonan
+1	1	1
+(	(	(
+larmer	larmer	larmer
+,	,	,
+brown	brown	brown
+)	)	)
+8	8	8
+:	:	:
+17	17	17
+.	.	.
+
+second	second	second
+period	period	period
+
+2	2	2
+,	,	,
+st	st	st
+louis	loui	louis
+,	,	,
+brown	brown	brown
+1	1	1
+(	(	(
+shanahan	shanahan	shanahan
+,	,	,
+emerson	emerson	emerson
+)	)	)
+3	3	3
+:	:	:
+12	12	12
+.	.	.
+
+3	3	3
+,	,	,
+chicago	chicago	chicago
+,	,	,
+noonan	noonan	noonan
+2	2	2
+(	(	(
+roenick	roenick	roenick
+,	,	,
+chelios	chelio	chelios
+)	)	)
+pp	pp	pp
+,	,	,
+5	5	5
+:	:	:
+40	40	40
+.	.	.
+
+4	4	4
+,	,	,
+chicago	chicago	chicago
+,	,	,
+noonan	noonan	noonan
+3	3	3
+(	(	(
+matteau	matteau	matteau
+,	,	,
+sutter	sutter	sutter
+)	)	)
+8	8	8
+:	:	:
+51	51	51
+.	.	.
+
+5	5	5
+,	,	,
+st	st	st
+louis	loui	louis
+,	,	,
+felsner	felsner	felsner
+1	1	1
+(	(	(
+mcrae	mcrae	mcrae
+,	,	,
+janney	janney	janney
+)	)	)
+12	12	12
+:	:	:
+49	49	49
+.	.	.
+
+third	third	third
+period	period	period
+
+6	6	6
+,	,	,
+st	st	st
+louis	loui	louis
+,	,	,
+shanahan	shanahan	shanahan
+1	1	1
+(	(	(
+brown	brown	brown
+,	,	,
+hull	hull	hull
+)	)	)
+pp	pp	pp
+,	,	,
+11	11	11
+:	:	:
+12	12	12
+.	.	.
+
+7	7	7
+,	,	,
+st	st	st
+louis	loui	louis
+,	,	,
+hull	hull	hull
+1	1	1
+(	(	(
+emerson	emerson	emerson
+,	,	,
+brown	brown	brown
+)	)	)
+pp	pp	pp
+,	,	,
+11	11	11
+:	:	:
+29	29	29
+.	.	.
+
+st	st	st
+louis	loui	louis
+:	:	:
+4	4	4
+power	power	power
+play	play	play
+:	:	:
+4	4	4
+-	-	-
+2	2	2
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+brown	brown	brown
+1    2    3	1    2    3	1    2    3
+emerson	emerson	emerson
+0    2    2	0    2    2	0    2    2
+felsner	felsner	felsner
+1    0    1	1    0    1	1    0    1
+hull	hull	hull
+1    1    2	1    1    2	1    1    2
+janney	janney	janney
+0    1    1	0    1    1	0    1    1
+mcrae	mcrae	mcrae
+0    1    1	0    1    1	0    1    1
+shanahan	shanahan	shanahan
+1    1    2	1    1    2	1    1    2
+
+chicago	chicago	chicago
+:	:	:
+3	3	3
+power	power	power
+play	play	play
+:	:	:
+7	7	7
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+brown	brown	brown
+0    1    1	0    1    1	0    1    1
+chelios	chelio	chelios
+0    1    1	0    1    1	0    1    1
+larmer	larmer	larmer
+0    1    1	0    1    1	0    1    1
+matteau	matteau	matteau
+0    1    1	0    1    1	0    1    1
+noonan	noonan	noonan
+3    0    3	3    0    3	3    0    3
+roenick	roenick	roenick
+0    1    1	0    1    1	0    1    1
+sutter	sutter	sutter
+0    1    1	0    1    1	0    1    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+los	los	los
+angeles	angel	angeles
+1	1	1
+3	3	3
+2	2	2
+-	-	-
+-	-	-
+6	6	6
+calgary	calgari	calgary
+0	0	0
+1	1	1
+2	2	2
+-	-	-
+-	-	-
+3	3	3
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+sydor	sydor	sydor
+1	1	1
+(	(	(
+gretzky	gretzki	gretzky
+,	,	,
+sandstrom	sandstrom	sandstrom
+)	)	)
+0	0	0
+:	:	:
+16	16	16
+.	.	.
+
+second	second	second
+period	period	period
+
+2	2	2
+,	,	,
+calgary	calgari	calgary
+,	,	,
+suter	suter	suter
+1	1	1
+(	(	(
+fleury	fleuri	fleury
+)	)	)
+sh	sh	sh
+,	,	,
+2	2	2
+:	:	:
+48	48	48
+.	.	.
+
+3	3	3
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+carson	carson	carson
+1	1	1
+(	(	(
+shuchuk	shuchuk	shuchuk
+,	,	,
+sydor	sydor	sydor
+)	)	)
+pp	pp	pp
+,	,	,
+3	3	3
+:	:	:
+13	13	13
+.	.	.
+
+4	4	4
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+huddy	huddi	huddy
+1	1	1
+(	(	(
+taylor	taylor	taylor
+,	,	,
+rychel	rychel	rychel
+)	)	)
+3	3	3
+:	:	:
+37	37	37
+.	.	.
+
+5	5	5
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+mcsorley	mcsorley	mcsorley
+1	1	1
+(	(	(
+unassisted	unassist	unassisted
+)	)	)
+6	6	6
+:	:	:
+36	36	36
+.	.	.
+
+third	third	third
+period	period	period
+
+6	6	6
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+millen	millen	millen
+1	1	1
+(	(	(
+granato	granato	granato
+,	,	,
+donnelly	donnelli	donnelly
+)	)	)
+1	1	1
+:	:	:
+06	06	06
+.	.	.
+
+7	7	7
+,	,	,
+calgary	calgari	calgary
+,	,	,
+dahlquist	dahlquist	dahlquist
+1	1	1
+(	(	(
+otto	otto	otto
+)	)	)
+4	4	4
+:	:	:
+23	23	23
+.	.	.
+
+8	8	8
+,	,	,
+calgary	calgari	calgary
+,	,	,
+yawney	yawney	yawney
+1	1	1
+(	(	(
+macinnis	macinni	macinnis
+,	,	,
+reichel	reichel	reichel
+)	)	)
+8	8	8
+:	:	:
+47	47	47
+.	.	.
+
+9	9	9
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+carson	carson	carson
+2	2	2
+(	(	(
+sandstrom	sandstrom	sandstrom
+,	,	,
+robitaille	robitaill	robitaille
+)	)	)
+pp	pp	pp
+,	,	,
+10	10	10
+:	:	:
+32	32	32
+.	.	.
+
+los	los	los
+angeles	angel	angeles
+:	:	:
+6	6	6
+power	power	power
+play	play	play
+:	:	:
+10	10	10
+-	-	-
+2	2	2
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+carson	carson	carson
+2    0    2	2    0    2	2    0    2
+donnelly	donnelli	donnelly
+0    1    1	0    1    1	0    1    1
+granato	granato	granato
+0    1    1	0    1    1	0    1    1
+gretzky	gretzki	gretzky
+0    1    1	0    1    1	0    1    1
+huddy	huddi	huddy
+1    0    1	1    0    1	1    0    1
+mcsorley	mcsorley	mcsorley
+1    0    1	1    0    1	1    0    1
+millen	millen	millen
+1    0    1	1    0    1	1    0    1
+robitaille	robitaill	robitaille
+0    1    1	0    1    1	0    1    1
+rychel	rychel	rychel
+0    1    1	0    1    1	0    1    1
+sandstrom	sandstrom	sandstrom
+0    2    2	0    2    2	0    2    2
+shuchuk	shuchuk	shuchuk
+0    1    1	0    1    1	0    1    1
+sydor	sydor	sydor
+1    1    2	1    1    2	1    1    2
+taylor	taylor	taylor
+0    1    1	0    1    1	0    1    1
+
+calgary	calgari	calgary
+:	:	:
+3	3	3
+power	power	power
+play	play	play
+:	:	:
+8	8	8
+-	-	-
+0	0	0
+special	special	special
+goals	goal	goal
+:	:	:
+sh	sh	sh
+:	:	:
+1	1	1
+total	total	total
+:	:	:
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+dahlquist	dahlquist	dahlquist
+1    0    1	1    0    1	1    0    1
+fleury	fleuri	fleury
+0    1    1	0    1    1	0    1    1
+macinnis	macinni	macinnis
+0    1    1	0    1    1	0    1    1
+otto	otto	otto
+0    1    1	0    1    1	0    1    1
+reichel	reichel	reichel
+0    1    1	0    1    1	0    1    1
+suter	suter	suter
+1    0    1	1    0    1	1    0    1
+yawney	yawney	yawney
+1    0    1	1    0    1	1    0    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+ny	ny	ny
+islanders	island	islander
+,	,	,
+ferraro	ferraro	ferraro
+1	1	1
+(	(	(
+flatley	flatley	flatley
+,	,	,
+vaske	vask	vaske
+)	)	)
+5	5	5
+:	:	:
+56	56	56
+.	.	.
+
+second	second	second
+period	period	period
+
+no	no	no
+scoring	score	scoring
+.	.	.
+
+third	third	third
+period	period	period
+
+2	2	2
+,	,	,
+washington	washington	washington
+,	,	,
+hunter	hunter	hunter
+1	1	1
+(	(	(
+elynuik	elynuik	elynuik
+,	,	,
+krygier	krygier	krygier
+)	)	)
+3	3	3
+:	:	:
+18	18	18
+.	.	.
+
+3	3	3
+,	,	,
+washington	washington	washington
+,	,	,
+hunter	hunter	hunter
+2	2	2
+(	(	(
+khristich	khristich	khristich
+,	,	,
+johansson	johansson	johansson
+)	)	)
+pp	pp	pp
+,	,	,
+7	7	7
+:	:	:
+01	01	01
+.	.	.
+
+4	4	4
+,	,	,
+washington	washington	washington
+,	,	,
+khristich	khristich	khristich
+1	1	1
+(	(	(
+pivonka	pivonka	pivonka
+,	,	,
+johansson	johansson	johansson
+)	)	)
+pp	pp	pp
+,	,	,
+15	15	15
+:	:	:
+25	25	25
+.	.	.
+
+washington	washington	washington
+:	:	:
+3	3	3
+power	power	power
+play	play	play
+:	:	:
+5	5	5
+-	-	-
+2	2	2
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+elynuik	elynuik	elynuik
+0    1    1	0    1    1	0    1    1
+hunter	hunter	hunter
+2    0    2	2    0    2	2    0    2
+johansson	johansson	johansson
+0    2    2	0    2    2	0    2    2
+khristich	khristich	khristich
+1    1    2	1    1    2	1    1    2
+krygier	krygier	krygier
+0    1    1	0    1    1	0    1    1
+pivonka	pivonka	pivonka
+0    1    1	0    1    1	0    1    1
+
+ny	ny	ny
+islanders	island	islander
+:	:	:
+1	1	1
+power	power	power
+play	play	play
+:	:	:
+5	5	5
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+ferraro	ferraro	ferraro
+1    0    1	1    0    1	1    0    1
+flatley	flatley	flatley
+0    1    1	0    1    1	0    1    1
+vaske	vask	vaske
+0    1    1	0    1    1	0    1    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+buffalo	buffalo	buffalo
+2 1 1 1--5	2 1 1 1--5	2 1 1 1--5
+boston	boston	boston
+0 2 2 0--4	0 2 2 0--4	0 2 2 0--4
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+buffalo	buffalo	buffalo
+,	,	,
+hannan	hannan	hannan
+1	1	1
+(	(	(
+unassisted	unassist	unassisted
+)	)	)
+2	2	2
+:	:	:
+32	32	32
+.	.	.
+
+2	2	2
+,	,	,
+buffalo	buffalo	buffalo
+,	,	,
+lafontaine	lafontain	lafontaine
+1	1	1
+(	(	(
+mogilny	mogilni	mogilny
+)	)	)
+9	9	9
+:	:	:
+26	26	26
+.	.	.
+
+second	second	second
+period	period	period
+
+3	3	3
+,	,	,
+boston	boston	boston
+,	,	,
+juneau	juneau	juneau
+1	1	1
+(	(	(
+neely	neeli	neely
+,	,	,
+oates	oat	oates
+)	)	)
+pp	pp	pp
+,	,	,
+7	7	7
+:	:	:
+20	20	20
+.	.	.
+
+4	4	4
+,	,	,
+boston	boston	boston
+,	,	,
+neely	neeli	neely
+1	1	1
+(	(	(
+oates	oat	oates
+,	,	,
+juneau	juneau	juneau
+)	)	)
+14	14	14
+:	:	:
+42	42	42
+.	.	.
+
+5	5	5
+,	,	,
+buffalo	buffalo	buffalo
+,	,	,
+mogilny	mogilni	mogilny
+1	1	1
+(	(	(
+hawerchuk	hawerchuk	hawerchuk
+,	,	,
+smehlik	smehlik	smehlik
+)	)	)
+19	19	19
+:	:	:
+55	55	55
+.	.	.
+
+third	third	third
+period	period	period
+
+6	6	6
+,	,	,
+buffalo	buffalo	buffalo
+,	,	,
+mogilny	mogilni	mogilny
+2	2	2
+(	(	(
+unassisted	unassist	unassisted
+)	)	)
+3	3	3
+:	:	:
+46	46	46
+.	.	.
+
+7	7	7
+,	,	,
+boston	boston	boston
+,	,	,
+neely	neeli	neely
+2	2	2
+(	(	(
+juneau	juneau	juneau
+,	,	,
+oates	oat	oates
+)	)	)
+15	15	15
+:	:	:
+44	44	44
+.	.	.
+
+8	8	8
+,	,	,
+boston	boston	boston
+,	,	,
+heinze	heinz	heinze
+1	1	1
+(	(	(
+juneau	juneau	juneau
+)	)	)
+17	17	17
+:	:	:
+00	00	00
+.	.	.
+
+overtime	overtim	overtime
+
+9	9	9
+,	,	,
+buffalo	buffalo	buffalo
+,	,	,
+sweeney	sweeney	sweeney
+1	1	1
+(	(	(
+khmylev	khmylev	khmylev
+,	,	,
+smehlik	smehlik	smehlik
+)	)	)
+11	11	11
+:	:	:
+03	03	03
+.	.	.
+
+buffalo	buffalo	buffalo
+:	:	:
+5	5	5
+power	power	power
+play	play	play
+:	:	:
+3	3	3
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+hannan	hannan	hannan
+1    0    1	1    0    1	1    0    1
+hawerchuk	hawerchuk	hawerchuk
+0    1    1	0    1    1	0    1    1
+khmylev	khmylev	khmylev
+0    1    1	0    1    1	0    1    1
+lafontaine	lafontain	lafontaine
+1    0    1	1    0    1	1    0    1
+mogilny	mogilni	mogilny
+2    1    3	2    1    3	2    1    3
+smehlik	smehlik	smehlik
+0    2    2	0    2    2	0    2    2
+sweeney	sweeney	sweeney
+1    0    1	1    0    1	1    0    1
+
+boston	boston	boston
+:	:	:
+4	4	4
+power	power	power
+play	play	play
+:	:	:
+7	7	7
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+heinze	heinz	heinze
+1    0    1	1    0    1	1    0    1
+juneau	juneau	juneau
+1    3    4	1    3    4	1    3    4
+neely	neeli	neely
+2    1    3	2    1    3	2    1    3
+oates	oat	oates
+0    3    3	0    3    3	0    3    3
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+montreal	montreal	montreal
+1 1 0 0--2	1 1 0 0--2	1 1 0 0--2
+quebec	quebec	quebec
+0 0 2 1--3	0 0 2 1--3	0 0 2 1--3
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+montreal	montreal	montreal
+,	,	,
+dionne	dionn	dionne
+1	1	1
+(	(	(
+dipietro	dipietro	dipietro
+,	,	,
+brunet	brunet	brunet
+)	)	)
+5	5	5
+:	:	:
+52	52	52
+.	.	.
+
+second	second	second
+period	period	period
+
+2	2	2
+,	,	,
+montreal	montreal	montreal
+,	,	,
+bellows	bellow	bellow
+1	1	1
+(	(	(
+muller	muller	muller
+,	,	,
+desjardins	desjardin	desjardins
+)	)	)
+9	9	9
+:	:	:
+58	58	58
+.	.	.
+
+third	third	third
+period	period	period
+
+3	3	3
+,	,	,
+quebec	quebec	quebec
+,	,	,
+rucinsky	rucinski	rucinsky
+1	1	1
+(	(	(
+lapointe	lapoint	lapointe
+,	,	,
+sundin	sundin	sundin
+)	)	)
+pp	pp	pp
+,	,	,
+18	18	18
+:	:	:
+31	31	31
+.	.	.
+
+4	4	4
+,	,	,
+quebec	quebec	quebec
+,	,	,
+sakic	sakic	sakic
+1	1	1
+(	(	(
+lapointe	lapoint	lapointe
+)	)	)
+19	19	19
+:	:	:
+12	12	12
+.	.	.
+
+overtime	overtim	overtime
+
+5	5	5
+,	,	,
+quebec	quebec	quebec
+,	,	,
+young	young	young
+1	1	1
+(	(	(
+ricci	ricci	ricci
+,	,	,
+duchesne	duchesn	duchesne
+)	)	)
+16	16	16
+:	:	:
+49	49	49
+.	.	.
+
+quebec	quebec	quebec
+:	:	:
+3	3	3
+power	power	power
+play	play	play
+:	:	:
+4	4	4
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+duchesne	duchesn	duchesne
+0    1    1	0    1    1	0    1    1
+lapointe	lapoint	lapointe
+0    2    2	0    2    2	0    2    2
+ricci	ricci	ricci
+0    1    1	0    1    1	0    1    1
+rucinsky	rucinski	rucinsky
+1    0    1	1    0    1	1    0    1
+sakic	sakic	sakic
+1    0    1	1    0    1	1    0    1
+sundin	sundin	sundin
+0    1    1	0    1    1	0    1    1
+young	young	young
+1    0    1	1    0    1	1    0    1
+
+montreal	montreal	montreal
+:	:	:
+2	2	2
+power	power	power
+play	play	play
+:	:	:
+1	1	1
+-	-	-
+0	0	0
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+bellows	bellow	bellow
+1    0    1	1    0    1	1    0    1
+brunet	brunet	brunet
+0    1    1	0    1    1	0    1    1
+desjardins	desjardin	desjardins
+0    1    1	0    1    1	0    1    1
+dionne	dionn	dionne
+1    0    1	1    0    1	1    0    1
+dipietro	dipietro	dipietro
+0    1    1	0    1    1	0    1    1
+muller	muller	muller
+0    1    1	0    1    1	0    1    1
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-

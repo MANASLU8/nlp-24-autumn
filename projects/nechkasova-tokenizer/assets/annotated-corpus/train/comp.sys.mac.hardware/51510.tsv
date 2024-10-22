@@ -1,0 +1,408 @@
+from	from	from
+:	:	:
+jbailey@world.std.com	jbailey@world.std.com	jbailey@world.std.com
+(	(	(
+jim	jim	jim
+bailey	bailey	bailey
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+quadra	quadra	quadra
+900	900	900
+/	/	/
+950	950	950
+differences	differ	difference
+
+organization	organ	organization
+:	:	:
+the	the	the
+world	world	world
+public	public	public
+access	access	access
+unix	unix	unix
+,	,	,
+brookline	brooklin	brookline
+,	,	,
+ma	ma	ma
+
+lines	line	line
+:	:	:
+43	43	43
+
+jim@jagubox.gsfc.nasa.gov	jim@jagubox.gsfc.nasa.gov	jim@jagubox.gsfc.nasa.gov
+(	(	(
+jim	jim	jim
+jagielski	jagielski	jagielski
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+jbailey@world.std.com	jbailey@world.std.com	jbailey@world.std.com
+(	(	(
+jim	jim	jim
+bailey	bailey	bailey
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+rdk2@cec2.wustl.edu	rdk2@cec2.wustl.edu	rdk2@cec2.wustl.edu
+(	(	(
+robert	robert	robert
+david	david	david
+klapper	klapper	klapper
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+>	>	>
+i	i	i
+also	also	also
+believe	believ	believe
+that	that	that
+the	the	the
+950	950	950
+fixed	fix	fixed
+a	a	a
+bug	bug	bug
+in	in	in
+the	the	the
+cpu	cpu	cpu
+which	which	which
+screwed	screw	screwed
+up	up	up
+
+>	>	>
+>	>	>
+>	>	>
+some	some	some
+floating	float	floating
+point	point	point
+calculations	calcul	calculation
+.	.	.
+
+>	>	>
+>	>	>
+>	>	>
+-	-	-
+-	-	-
+
+>	>	>
+>	>	>
+>	>	>
+robert	robert	robert
+d	d	d
+.	.	.
+
+klapper	klapper	klapper
+
+>	>	>
+>	>	>
+>	>	>
+washington	washington	washington
+university	univers	university
+in	in	in
+st. louis	st. loui	st. louis
+
+>	>	>
+>	>	>
+>	>	>
+rdk2@cec2.wustl.edu	rdk2@cec2.wustl.edu	rdk2@cec2.wustl.edu
+
+>	>	>
+>	>	>
+>	>	>
+lubarsky	lubarski	lubarsky
+'	'	'
+s	s	s
+law	law	law
+of	of	of
+cybernetic	cybernet	cybernetic
+entomology	entomolog	entomology
+:	:	:
+there	there	there
+'	'	'
+s	s	s
+always	alway	always
+one	one	one
+more	more	more
+bug	bug	bug
+.	.	.
+
+>	>	>
+>	>	>
+does	doe	doe
+someone	someon	someone
+have	have	have
+any	ani	any
+definite	definit	definite
+information	inform	information
+on	on	on
+this	this	this
+.	.	.
+
+this	this	this
+is	is	is
+the	the	the
+
+>	>	>
+>	>	>
+first	first	first
+i	i	i
+'	'	'
+ve	ve	ve
+heard	heard	heard
+of	of	of
+it	it	it
+.	.	.
+
+how	how	how
+does	doe	doe
+the	the	the
+cpu	cpu	cpu
+get	get	get
+fixed	fix	fixed
+by	by	by
+a	a	a
+hardware	hardwar	hardware
+
+>	>	>
+>	>	>
+upgrade	upgrad	upgrade
+?	?	?
+
+this	this	this
+doesn	doesn	doesn
+'	'	'
+t	t	t
+make	make	make
+much	much	much
+sense	sens	sense
+to	to	to
+me	me	me
+.	.	.
+
+>	>	>
+let	let	let
+'	'	'
+s	s	s
+see	see	see
+now	now	now
+.	.	.
+.	.	.
+.	.	.
+
+the	the	the
+differences	differ	difference
+between	between	between
+the	the	the
+950	950	950
+and	and	and
+900	900	900
+are	are	are
+
+>	>	>
+basically	basic	basically
+:	:	:
+
+>	>	>
+1	1	1
+.	.	.
+
+runs	run	run
+at	at	at
+33mhz	33mhz	33mhz
+,	,	,
+not	not	not
+25mhz	25mhz	25mhz
+
+>	>	>
+2	2	2
+.	.	.
+
+has	has	ha
+25mhz	25mhz	25mhz
+i	i	i
+/	/	/
+o	o	o
+bus	bus	bus
+,	,	,
+not	not	not
+16mhz	16mhz	16mhz
+
+>	>	>
+3	3	3
+.	.	.
+
+upgraded	upgrad	upgraded
+graphics	graphic	graphic
+controller	control	controller
+
+>	>	>
+4	4	4
+.	.	.
+
+#	#	#
+3	3	3
+results	result	result
+in	in	in
+q950	q950	q950
+requiring	requir	requiring
+80ns	80ns	80ns
+vram	vram	vram
+,	,	,
+not	not	not
+100ns	100ns	100ns
+
+>	>	>
+5	5	5
+.	.	.
+
+rom	rom	rom
+fixes	fix	fix
+:	:	:
+
+>	>	>
+a	a	a
+.	.	.
+
+rounding	round	rounding
+errors	error	error
+in	in	in
+floating	float	floating
+point	point	point
+calculations	calcul	calculation
+
+>	>	>
+at	at	at
+15th	15th	15th
+digit	digit	digit
+
+so	so	so
+patch	patch	patch
+the	the	the
+roms	rom	rom
+with	with	with
+the	the	the
+latest	latest	latest
+os	os	o
+version	version	version
+.	.	.
+
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+see	see	see
+how	how	how
+this	this	this
+is	is	is
+a	a	a
+problem	problem	problem
+.	.	.
+
+>	>	>
+b	b	b
+.	.	.
+
+ethernet	ethernet	ethernet
+problems	problem	problem
+with	with	with
+more	more	more
+than	than	than
+16	16	16
+buffers	buffer	buffer
+
+>	>	>
+so	so	so
+,	,	,
+no	no	no
+doubt	doubt	doubt
+,	,	,
+the	the	the
+person	person	person
+was	was	wa
+refering	refer	refering
+to	to	to
+5a	5a	5a
+,	,	,
+hardly	hard	hardly
+"	"	"
+screwing	screw	screwing
+
+>	>	>
+up	up	up
+"	"	"
+though	though	though
+:	:	:
+)	)	)
+
+>	>	>
+-	-	-
+-	-	-
+
+>	>	>
+jim	jim	jim
+jagielski	jagielski	jagielski
+|	|	|
+"	"	"
+and	and	and
+he	he	he
+'	'	'
+s	s	s
+gonna	gonna	gonna
+stiff	stiff	stiff
+me	me	me
+.	.	.
+
+so	so	so
+i	i	i
+say	say	say
+,	,	,
+>	>	>
+jim@jagubox.gsfc.nasa.gov	jim@jagubox.gsfc.nasa.gov	jim@jagubox.gsfc.nasa.gov
+|	|	|
+'	'	'
+hey	hey	hey
+!	!	!
+
+lama	lama	lama
+!	!	!
+
+how	how	how
+about	about	about
+something	someth	something
+,	,	,
+>	>	>
+nasa	nasa	nasa
+/	/	/
+gsfc	gsfc	gsfc
+,	,	,
+code	code	code
+734	734	734
+.	.	.
+4	4	4
+|	|	|
+you	you	you
+know	know	know
+,	,	,
+for	for	for
+the	the	the
+effort	effort	effort
+!	!	!
+'	'	'
+"	"	"
+
+>	>	>
+greenbelt	greenbelt	greenbelt
+,	,	,
+md	md	md
+20771	20771	20771
+|	|	|

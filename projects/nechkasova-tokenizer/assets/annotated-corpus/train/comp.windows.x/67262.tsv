@@ -1,0 +1,223 @@
+from	from	from
+:	:	:
+jimf@centerline.com	jimf@centerline.com	jimf@centerline.com
+(	(	(
+jim	jim	jim
+frost	frost	frost
+)	)	)
+
+subject	subject	subject
+:	:	:
+how	how	how
+to	to	to
+make	make	make
+simplest	simplest	simplest
+possible	possibl	possible
+composite	composit	composite
+widget	widget	widget
+?	?	?
+
+organization	organ	organization
+:	:	:
+centerline	centerlin	centerline
+software	softwar	software
+,	,	,
+inc	inc	inc
+.	.	.
+
+lines	line	line
+:	:	:
+33	33	33
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+140	140	140
+.	.	.
+239	239	239
+.	.	.
+3	3	3
+.	.	.
+202	202	202
+
+not	not	not
+being	be	being
+an	an	an
+xt	xt	xt
+programmer	programm	programmer
+by	by	by
+any	ani	any
+stretch	stretch	stretch
+of	of	of
+the	the	the
+imagination	imagin	imagination
+,	,	,
+this	this	this
+is	is	is
+driving	drive	driving
+me	me	me
+crazy	crazi	crazy
+and	and	and
+it	it	it
+'	'	'
+s	s	s
+probably	probabl	probably
+really	realli	really
+simple	simpl	simple
+to	to	to
+do	do	do
+.	.	.
+
+i	i	i
+need	need	need
+to	to	to
+make	make	make
+a	a	a
+composite	composit	composite
+widget	widget	widget
+that	that	that
+does	doe	doe
+nothing	noth	nothing
+at	at	at
+all	all	all
+but	but	but
+is	is	is
+merely	mere	merely
+a	a	a
+placeholder	placehold	placeholder
+in	in	in
+a	a	a
+widget	widget	widget
+instance	instanc	instance
+heirarchy	heirarchi	heirarchy
+-	-	-
+-	-	-
+allowing	allow	allowing
+me	me	me
+an	an	an
+additional	addit	additional
+resource	resourc	resource
+name	name	name
+level	level	level
+.	.	.
+
+to	to	to
+illustrate	illustr	illustrate
+i	i	i
+have	have	have
+an	an	an
+application	applic	application
+with	with	with
+the	the	the
+following	follow	following
+widget	widget	widget
+heirarchy	heirarchi	heirarchy
+:	:	:
+
+shell	shell	shell
+widget	widget	widget
+
+|	|	|
+
+application	applic	application
+widghet	widghet	widghet
+
+i	i	i
+want	want	want
+the	the	the
+following	follow	following
+:	:	:
+
+shell	shell	shell
+widget	widget	widget
+
+|	|	|
+
+intermediate	intermedi	intermediate
+widget	widget	widget
+
+|	|	|
+
+application	applic	application
+widget	widget	widget
+
+where	where	where
+the	the	the
+intermediate	intermedi	intermediate
+widget	widget	widget
+has	has	ha
+a	a	a
+name	name	name
+but	but	but
+gets	get	get
+all	all	all
+its	it	it
+other	other	other
+properties	properti	property
+(	(	(
+and	and	and
+propagates	propag	propagates
+down	down	down
+new	new	new
+values	valu	value
+)	)	)
+from	from	from
+the	the	the
+shell	shell	shell
+widget	widget	widget
+.	.	.
+
+i	i	i
+assume	assum	assume
+there	there	there
+'	'	'
+s	s	s
+a	a	a
+simple	simpl	simple
+way	way	way
+to	to	to
+do	do	do
+this	this	this
+but	but	but
+i	i	i
+can	can	can
+'	'	'
+t	t	t
+find	find	find
+an	an	an
+example	exampl	example
+and	and	and
+the	the	the
+documentation	document	documentation
+i	i	i
+have	have	have
+is	is	is
+rather	rather	rather
+vague	vagu	vague
+about	about	about
+implementing	implement	implementing
+composite	composit	composite
+widgets	widget	widget
+.	.	.
+
+please	pleas	please
+respond	respond	respond
+via	via	via
+email	email	email
+.	.	.
+
+any	ani	any
+help	help	help
+will	will	will
+be	be	be
+very	veri	very
+much	much	much
+appreciated	appreci	appreciated
+.	.	.
+
+jim	jim	jim
+frost	frost	frost
+jimf@centerline.com	jimf@centerline.com	jimf@centerline.com

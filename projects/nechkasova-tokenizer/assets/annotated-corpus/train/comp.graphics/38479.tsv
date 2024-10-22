@@ -1,0 +1,244 @@
+from	from	from
+:	:	:
+ani@ms.uky.edu	ani@ms.uky.edu	ani@ms.uky.edu
+(	(	(
+aniruddha	aniruddha	aniruddha
+b	b	b
+.	.	.
+
+deglurkar	deglurkar	deglurkar
+)	)	)
+subject	subject	subject
+:	:	:
+help	help	help
+:	:	:
+splitting	split	splitting
+a	a	a
+trimming	trim	trimming
+region	region	region
+along	along	along
+a	a	a
+mesh	mesh	mesh
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+kentucky	kentucki	kentucky
+,	,	,
+dept	dept	dept
+.	.	.
+
+of	of	of
+math	math	math
+sciences	scienc	science
+lines	line	line
+:	:	:
+28	28	28
+
+hi	hi	hi
+,	,	,
+
+i	i	i
+have	have	have
+a	a	a
+problem	problem	problem
+,	,	,
+i	i	i
+hope	hope	hope
+some	some	some
+of	of	of
+the	the	the
+'	'	'
+gurus	gurus	guru
+'	'	'
+can	can	can
+help	help	help
+me	me	me
+solve	solv	solve
+.	.	.
+
+background	background	background
+of	of	of
+the	the	the
+problem	problem	problem
+:	:	:
+
+i	i	i
+have	have	have
+a	a	a
+rectangular	rectangular	rectangular
+mesh	mesh	mesh
+in	in	in
+the	the	the
+uv	uv	uv
+domain	domain	domain
+,	,	,
+i	i	i
+.	.	.
+e	e	e
+the	the	the
+mesh	mesh	mesh
+is	is	is
+a	a	a
+
+mapping	map	mapping
+of	of	of
+a	a	a
+3d	3d	3d
+bezier	bezier	bezier
+patch	patch	patch
+into	into	into
+2d	2d	2d
+.	.	.
+
+the	the	the
+area	area	area
+in	in	in
+this	this	this
+domain	domain	domain
+
+which	which	which
+is	is	is
+inside	insid	inside
+a	a	a
+trimming	trim	trimming
+loop	loop	loop
+had	had	had
+to	to	to
+be	be	be
+rendered	render	rendered
+.	.	.
+
+the	the	the
+trimming	trim	trimming
+
+loop	loop	loop
+is	is	is
+a	a	a
+set	set	set
+of	of	of
+2d	2d	2d
+bezier	bezier	bezier
+curve	curv	curve
+segments	segment	segment
+.	.	.
+
+for	for	for
+the	the	the
+sake	sake	sake
+of	of	of
+notation	notat	notation
+:	:	:
+the	the	the
+mesh	mesh	mesh
+is	is	is
+made	made	made
+up	up	up
+of	of	of
+cells	cell	cell
+.	.	.
+
+my	my	my
+problem	problem	problem
+is	is	is
+this	this	this
+:	:	:
+
+the	the	the
+trimming	trim	trimming
+area	area	area
+has	has	ha
+to	to	to
+be	be	be
+split	split	split
+up	up	up
+into	into	into
+individual	individu	individual
+smaller	smaller	smaller
+
+cells	cell	cell
+bounded	bound	bounded
+by	by	by
+the	the	the
+trimming	trim	trimming
+curve	curv	curve
+segments	segment	segment
+.	.	.
+
+if	if	if
+a	a	a
+cell	cell	cell
+
+is	is	is
+wholly	wholli	wholly
+inside	insid	inside
+the	the	the
+area	area	area
+.	.	.
+.	.	.
+.	.	.
+then	then	then
+it	it	it
+is	is	is
+output	output	output
+as	as	a
+a	a	a
+whole	whole	whole
+,	,	,
+else	els	else
+it	it	it
+is	is	is
+trivially	trivial	trivially
+rejected	reject	rejected
+.	.	.
+
+does	doe	doe
+any	ani	any
+body	bodi	body
+know	know	know
+how	how	how
+thiss	thiss	thiss
+can	can	can
+be	be	be
+done	done	done
+,	,	,
+or	or	or
+is	is	is
+there	there	there
+any	ani	any
+algo	algo	algo
+.	.	.
+
+somewhere	somewher	somewhere
+for	for	for
+doing	do	doing
+this	this	this
+.	.	.
+
+any	ani	any
+help	help	help
+would	would	would
+be	be	be
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+,	,	,
+
+ani	ani	ani
+.	.	.
+
+-	-	-
+-	-	-
+to	to	to
+get	get	get
+irritated	irrit	irritated
+is	is	is
+human	human	human
+,	,	,
+to	to	to
+stay	stay	stay
+cool	cool	cool
+,	,	,
+divine	divin	divine
+.	.	.

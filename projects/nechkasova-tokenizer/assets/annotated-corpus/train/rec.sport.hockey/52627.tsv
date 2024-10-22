@@ -1,0 +1,349 @@
+from	from	from
+:	:	:
+c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca	c5ff@jupiter.sun.csd.unb.ca
+(	(	(
+cook	cook	cook
+charlie	charli	charlie
+)	)	)
+
+subject	subject	subject
+:	:	:
+nhl	nhl	nhl
+summary	summari	summary
+parse	pars	parse
+results	result	result
+for	for	for
+games	game	game
+played	play	played
+mon	mon	mon
+,	,	,
+april	april	april
+5	5	5
+,	,	,
+1993	1993	1993
+
+article	articl	article
+-	-	-
+i	i	i
+.	.	.
+d	d	d
+.	.	.
+:	:	:
+jupiter	jupit	jupiter
+.	.	.
+1993apr6	1993apr6	1993apr6
+.	.	.
+131610	131610	131610
+.	.	.
+17465	17465	17465
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+new	new	new
+brunswick	brunswick	brunswick
+
+lines	line	line
+:	:	:
+39	39	39
+
+hartford	hartford	hartford
+1	1	1
+1	1	1
+3	3	3
+-	-	-
+-	-	-
+5	5	5
+ny	ny	ny
+rangers	ranger	ranger
+1	1	1
+2	2	2
+1	1	1
+-	-	-
+-	-	-
+4	4	4
+first	first	first
+period	period	period
+
+1	1	1
+,	,	,
+hartford	hartford	hartford
+,	,	,
+cunneyworth	cunneyworth	cunneyworth
+5	5	5
+(	(	(
+janssens	janssen	janssens
+,	,	,
+greig	greig	greig
+)	)	)
+12	12	12
+:	:	:
+21	21	21
+.	.	.
+
+2	2	2
+,	,	,
+ny	ny	ny
+rangers	ranger	ranger
+,	,	,
+graves	grave	graf
+34	34	34
+(	(	(
+turcotte	turcott	turcotte
+,	,	,
+zubov	zubov	zubov
+)	)	)
+18	18	18
+:	:	:
+39	39	39
+.	.	.
+
+second	second	second
+period	period	period
+
+3	3	3
+,	,	,
+ny	ny	ny
+rangers	ranger	ranger
+,	,	,
+kovalev	kovalev	kovalev
+19	19	19
+(	(	(
+turcotte	turcott	turcotte
+,	,	,
+graves	grave	graf
+)	)	)
+2	2	2
+:	:	:
+12	12	12
+.	.	.
+
+4	4	4
+,	,	,
+hartford	hartford	hartford
+,	,	,
+sanderson	sanderson	sanderson
+44	44	44
+(	(	(
+cassels	cassel	cassels
+)	)	)
+pp	pp	pp
+,	,	,
+4	4	4
+:	:	:
+54	54	54
+.	.	.
+
+5	5	5
+,	,	,
+ny	ny	ny
+rangers	ranger	ranger
+,	,	,
+amonte	amont	amonte
+30	30	30
+(	(	(
+andersson	andersson	andersson
+,	,	,
+vanbiesbrouck	vanbiesbrouck	vanbiesbrouck
+)	)	)
+pp	pp	pp
+,	,	,
+19	19	19
+:	:	:
+13	13	13
+.	.	.
+
+third	third	third
+period	period	period
+
+6	6	6
+,	,	,
+ny	ny	ny
+rangers	ranger	ranger
+,	,	,
+m	m	m
+.	.	.
+messier	messier	messier
+25	25	25
+(	(	(
+amonte	amont	amonte
+,	,	,
+andersson	andersson	andersson
+)	)	)
+2	2	2
+:	:	:
+26	26	26
+.	.	.
+
+7	7	7
+,	,	,
+hartford	hartford	hartford
+,	,	,
+sanderson	sanderson	sanderson
+45	45	45
+(	(	(
+cassels	cassel	cassels
+)	)	)
+sh	sh	sh
+,	,	,
+5	5	5
+:	:	:
+23	23	23
+.	.	.
+
+8	8	8
+,	,	,
+hartford	hartford	hartford
+,	,	,
+nylander	nyland	nylander
+6	6	6
+(	(	(
+ladouceur	ladouceur	ladouceur
+)	)	)
+8	8	8
+:	:	:
+35	35	35
+.	.	.
+
+9	9	9
+,	,	,
+hartford	hartford	hartford
+,	,	,
+verbeek	verbeek	verbeek
+36	36	36
+(	(	(
+zalapski	zalapski	zalapski
+)	)	)
+17	17	17
+:	:	:
+43	43	43
+.	.	.
+
+hartford	hartford	hartford
+:	:	:
+5	5	5
+power	power	power
+play	play	play
+:	:	:
+4	4	4
+-	-	-
+1	1	1
+special	special	special
+goals	goal	goal
+:	:	:
+pp	pp	pp
+:	:	:
+1	1	1
+sh	sh	sh
+:	:	:
+1	1	1
+total	total	total
+:	:	:
+2	2	2
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+cassels	cassel	cassels
+0    2    2	0    2    2	0    2    2
+cunneyworth	cunneyworth	cunneyworth
+1    0    1	1    0    1	1    0    1
+greig	greig	greig
+0    1    1	0    1    1	0    1    1
+janssens	janssen	janssens
+0    1    1	0    1    1	0    1    1
+ladouceur	ladouceur	ladouceur
+0    1    1	0    1    1	0    1    1
+nylander	nyland	nylander
+1    0    1	1    0    1	1    0    1
+sanderson	sanderson	sanderson
+2    0    2	2    0    2	2    0    2
+verbeek	verbeek	verbeek
+1    0    1	1    0    1	1    0    1
+zalapski	zalapski	zalapski
+0    1    1	0    1    1	0    1    1
+
+ny	ny	ny
+rangers	ranger	ranger
+:	:	:
+4	4	4
+power	power	power
+play	play	play
+:	:	:
+4	4	4
+-	-	-
+1	1	1
+
+scorer	scorer	scorer
+g	g	g
+a	a	a
+pts	pts	pt
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+amonte	amont	amonte
+1    1    2	1    1    2	1    1    2
+andersson	andersson	andersson
+0    2    2	0    2    2	0    2    2
+graves	grave	graf
+1    1    2	1    1    2	1    1    2
+kovalev	kovalev	kovalev
+1    0    1	1    0    1	1    0    1
+messier	messier	messier
+m	m	m
+1    0    1	1    0    1	1    0    1
+turcotte	turcott	turcotte
+0    2    2	0    2    2	0    2    2
+vanbiesbrouck	vanbiesbrouck	vanbiesbrouck
+0    1    1	0    1    1	0    1    1
+zubov	zubov	zubov
+0    1    1	0    1    1	0    1    1

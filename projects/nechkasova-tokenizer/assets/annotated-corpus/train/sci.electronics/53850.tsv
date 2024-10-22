@@ -1,0 +1,212 @@
+from	from	from
+:	:	:
+gray@feline.uucp	gray@feline.uucp	gray@feline.uucp
+(	(	(
+kelly	kelli	kelly
+gray	gray	gray
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+pinout	pinout	pinout
+needed	need	needed
+for	for	for
+til311	til311	til311
+
+organization	organ	organization
+:	:	:
+humber	humber	humber
+college	colleg	college
+technology	technolog	technology
+dept	dept	dept
+.	.	.
+
+lines	line	line
+:	:	:
+29	29	29
+
+according	accord	according
+to	to	to
+my	my	my
+ti	ti	ti
+databook	databook	databook
+,	,	,
+the	the	the
+pinouts	pinout	pinouts
+for	for	for
+the	the	the
+til311	til311	til311
+display	display	display
+are	are	are
+as	as	a
+follows	follow	follows
+:	:	:
+
+pin	pin	pin
+1	1	1
+-	-	-
+led	led	led
+supply	suppli	supply
+voltage	voltag	voltage
+
+pin	pin	pin
+2	2	2
+-	-	-
+latch	latch	latch
+data	data	data
+input	input	input
+b	b	b
+
+pin	pin	pin
+3	3	3
+-	-	-
+latch	latch	latch
+data	data	data
+input	input	input
+a	a	a
+
+pin	pin	pin
+4	4	4
+-	-	-
+left	left	left
+decimal	decim	decimal
+point	point	point
+cathode	cathod	cathode
+
+pin	pin	pin
+5	5	5
+-	-	-
+latch	latch	latch
+strobe	strobe	strobe
+input	input	input
+
+pin	pin	pin
+6	6	6
+-	-	-
+omitted	omit	omitted
+
+pin	pin	pin
+7	7	7
+-	-	-
+common	common	common
+ground	ground	ground
+
+pin	pin	pin
+8	8	8
+-	-	-
+blanking	blank	blanking
+input	input	input
+
+pin	pin	pin
+9	9	9
+-	-	-
+omitted	omit	omitted
+
+pin	pin	pin
+10	10	10
+-	-	-
+right	right	right
+decimal	decim	decimal
+point	point	point
+cathode	cathod	cathode
+
+pin	pin	pin
+11	11	11
+-	-	-
+omitted	omit	omitted
+
+pin	pin	pin
+12	12	12
+-	-	-
+latch	latch	latch
+data	data	data
+input	input	input
+d	d	d
+
+pin	pin	pin
+13	13	13
+-	-	-
+latch	latch	latch
+data	data	data
+input	input	input
+c	c	c
+
+pin	pin	pin
+14	14	14
+-	-	-
+logic	logic	logic
+supply	suppli	supply
+voltage	voltag	voltage
+,	,	,
+vcc	vcc	vcc
+
+the	the	the
+logic	logic	logic
+supply	suppli	supply
+voltage	voltag	voltage
+is	is	is
+5v	5v	5v
+@	@	@
+60	60	60
+-	-	-
+90ma	90ma	90ma
+.	.	.
+
+the	the	the
+led	led	led
+supply	suppli	supply
+is	is	is
+also	also	also
+5v	5v	5v
+,	,	,
+but	but	but
+it	it	it
+need	need	need
+not	not	not
+be	be	be
+particularly	particular	particularly
+well	well	well
+regulated	regul	regulated
+.	.	.
+
+the	the	the
+led	led	led
+drivers	driver	driver
+on	on	on
+the	the	the
+chip	chip	chip
+use	use	use
+a	a	a
+constant	constant	constant
+current	current	current
+source	sourc	source
+,	,	,
+so	so	so
+led	led	led
+intensity	intens	intensity
+is	is	is
+not	not	not
+affected	affect	affected
+by	by	by
+the	the	the
+supply	suppli	supply
+voltage	voltag	voltage
+.	.	.
+
+-	-	-
+-	-	-
+
+<	<	<
+o_o	o_o	o_o
+>	>	>
+kelly	kelli	kelly
+gray	gray	gray
+
+gray@feline.uucp	gray@feline.uucp	gray@feline.uucp
+(	(	(
+preferred	prefer	preferred
+)	)	)
+
+gray@admin.humberc.on.ca	gray@admin.humberc.on.ca	gray@admin.humberc.on.ca

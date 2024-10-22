@@ -1,0 +1,285 @@
+from	from	from
+:	:	:
+graeme@labtam.labtam.oz.au	graeme@labtam.labtam.oz.au	graeme@labtam.labtam.oz.au
+(	(	(
+graeme	graem	graeme
+gill	gill	gill
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+looking	look	looking
+for	for	for
+circle	circl	circle
+algorithm	algorithm	algorithm
+faster	faster	faster
+than	than	than
+bresenhams	bresenham	bresenhams
+
+organization	organ	organization
+:	:	:
+labtam	labtam	labtam
+australia	australia	australia
+pty	pti	pty
+.	.	.
+
+ltd	ltd	ltd
+.	.	.
+,	,	,
+melbourne	melbourn	melbourne
+,	,	,
+australia	australia	australia
+lines	line	line
+:	:	:
+28	28	28
+
+in	in	in
+article	articl	article
+<	<	<
+1993apr13.025240.8884@nwnexus.wa.com	1993apr13.025240.8884@nwnexus.wa.com	1993apr13.025240.8884@nwnexus.wa.com
+>	>	>
+,	,	,
+mpdillon@halcyon.com	mpdillon@halcyon.com	mpdillon@halcyon.com
+(	(	(
+michael	michael	michael
+dillon	dillon	dillon
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+i	i	i
+have	have	have
+an	an	an
+algorithm	algorithm	algorithm
+similar	similar	similar
+to	to	to
+bresenhams	bresenham	bresenhams
+line	line	line
+drawing	draw	drawing
+algorithm	algorithm	algorithm
+,	,	,
+that	that	that
+
+>	>	>
+draws	draw	draw
+a	a	a
+line	line	line
+by	by	by
+stepping	step	stepping
+along	along	along
+the	the	the
+minor	minor	minor
+axis	axi	axis
+and	and	and
+drawing	draw	drawing
+slices	slice	slice
+like	like	like
+
+>	>	>
+aaaa	aaaa	aaaa
+,	,	,
+bbbb	bbbb	bbbb
+,	,	,
+cccc	cccc	cccc
+in	in	in
+the	the	the
+following	follow	following
+diagram	diagram	diagram
+.	.	.
+
+>	>	>
+
+>	>	>
+aaaa	aaaa	aaaa
+
+>	>	>
+bbbb	bbbb	bbbb
+
+>	>	>
+cccc	cccc	cccc
+
+>	>	>
+
+yes	yes	yes
+,	,	,
+that	that	that
+'	'	'
+s	s	s
+known	known	known
+as	as	a
+"	"	"
+bresenhams	bresenham	bresenhams
+run	run	run
+length	length	length
+slice	slice	slice
+algorithm	algorithm	algorithm
+for	for	for
+incremental	increment	incremental
+lines	line	line
+"	"	"
+.	.	.
+
+see	see	see
+fundamental	fundament	fundamental
+algorithms	algorithm	algorithm
+for	for	for
+computer	comput	computer
+graphics	graphic	graphic
+,	,	,
+springer	springer	springer
+-	-	-
+verlag	verlag	verlag
+,	,	,
+berlin	berlin	berlin
+heidelberg	heidelberg	heidelberg
+1985	1985	1985
+.	.	.
+
+>	>	>
+i	i	i
+have	have	have
+tried	tri	tried
+to	to	to
+extrapolate	extrapol	extrapolate
+this	this	this
+to	to	to
+circles	circl	circle
+but	but	but
+i	i	i
+can	can	can
+'	'	'
+t	t	t
+figure	figur	figure
+out	out	out
+
+>	>	>
+how	how	how
+to	to	to
+determine	determin	determine
+the	the	the
+length	length	length
+of	of	of
+the	the	the
+slices	slice	slice
+.	.	.
+
+any	ani	any
+ideas	idea	idea
+?	?	?
+
+hmm	hmm	hmm
+.	.	.
+
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+think	think	think
+i	i	i
+can	can	can
+help	help	help
+you	you	you
+with	with	with
+this	this	this
+,	,	,
+but	but	but
+you	you	you
+might	might	might
+take	take	take
+a	a	a
+look	look	look
+at	at	at
+the	the	the
+following	follow	following
+:	:	:
+
+"	"	"
+double	doubl	double
+-	-	-
+step	step	step
+incremental	increment	incremental
+generation	generat	generation
+of	of	of
+lines	line	line
+and	and	and
+circles	circl	circle
+"	"	"
+,	,	,
+x	x	x
+.	.	.
+
+wu	wu	wu
+and	and	and
+j	j	j
+.	.	.
+g	g	g
+.	.	.
+rokne	rokn	rokne
+,	,	,
+computer	comput	computer
+graphics	graphic	graphic
+and	and	and
+image	imag	image
+processing	process	processing
+,	,	,
+vol	vol	vol
+37	37	37
+,	,	,
+no	no	no
+.	.	.
+4	4	4
+,	,	,
+mar	mar	mar
+.	.	.
+
+1987	1987	1987
+,	,	,
+pp	pp	pp
+.	.	.
+
+331	331	331
+-	-	-
+334	334	334
+
+"	"	"
+double	doubl	double
+-	-	-
+step	step	step
+generation	generat	generation
+of	of	of
+ellipses	ellips	ellipsis
+"	"	"
+,	,	,
+x	x	x
+.	.	.
+
+wu	wu	wu
+and	and	and
+j	j	j
+.	.	.
+g	g	g
+.	.	.
+rokne	rokn	rokne
+,	,	,
+ieee	ieee	ieee
+computer	comput	computer
+graphics	graphic	graphic
+&	&	&
+applications	applic	application
+,	,	,
+may	may	may
+1989	1989	1989
+,	,	,
+pp	pp	pp
+.	.	.
+
+56	56	56
+-	-	-
+69	69	69
+
+graeme	graem	graeme
+gill	gill	gill
+.	.	.

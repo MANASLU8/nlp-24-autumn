@@ -1,0 +1,434 @@
+from	from	from
+:	:	:
+ksc@cbnewsk.cb.att.com	ksc@cbnewsk.cb.att.com	ksc@cbnewsk.cb.att.com
+(	(	(
+kenneth	kenneth	kenneth
+.	.	.
+s	s	s
+.	.	.
+cobler	cobler	cobler
+)	)	)
+
+subject	subject	subject
+:	:	:
+xfree86	xfree86	xfree86
+and	and	and
+esix	esix	esix
+4	4	4
+.	.	.
+0	0	0
+.	.	.
+4	4	4
+
+organization	organ	organization
+:	:	:
+at	at	at
+&	&	&
+t	t	t
+
+distribution	distribut	distribution
+:	:	:
+na	na	na
+
+keywords	keyword	keywords
+:	:	:
+esix	esix	esix
+
+lines	line	line
+:	:	:
+39	39	39
+
+hello	hello	hello
+netlanders	netland	netlanders
+:	:	:
+
+i	i	i
+am	am	am
+a	a	a
+novice	novic	novice
+x	x	x
+user	user	user
+with	with	with
+a	a	a
+question	question	question
+for	for	for
+any	ani	any
+xgod	xgod	xgod
+.	.	.
+
+my	my	my
+computer	comput	computer
+configuration	configur	configuration
+with	with	with
+the	the	the
+x	x	x
+problem	problem	problem
+is	is	is
+as	as	a
+follows	follow	follows
+:	:	:
+
+486dx50	486dx50	486dx50
+/	/	/
+256	256	256
+/	/	/
+16ram	16ram	16ram
+running	run	running
+esix	esix	esix
+4	4	4
+.	.	.
+0	0	0
+.	.	.
+4	4	4
+
+wangtek	wangtek	wangtek
+at	at	at
+-	-	-
+style	style	style
+interface	interfac	interface
+250	250	250
+m	m	m
+tape	tape	tape
+drive	drive	drive
+.	.	.
+
+i	i	i
+have	have	have
+loaded	load	loaded
+the	the	the
+basic	basic	basic
+os	os	o
+(	(	(
+which	which	which
+includes	includ	includes
+nsu	nsu	nsu
+)	)	)
+and	and	and
+
+inet	inet	inet
+utilities	util	utility
+(	(	(
+tcp	tcp	tcp
+/	/	/
+ip	ip	ip
+)	)	)
+.	.	.
+
+i	i	i
+ftp	ftp	ftp
+-	-	-
+ed	ed	ed
+the	the	the
+xfree86	xfree86	xfree86
+(	(	(
+x11r5	x11r5	x11r5
+)	)	)
+binaries	binari	binary
+and	and	and
+installed	instal	installed
+properly	proper	properly
+.	.	.
+
+i	i	i
+can	can	can
+execute	execut	execute
+startx	startx	startx
+and	and	and
+run	run	run
+x	x	x
+-	-	-
+windows	window	window
+with	with	with
+no	no	no
+problems	problem	problem
+.	.	.
+
+however	howev	however
+,	,	,
+if	if	if
+i	i	i
+try	tri	try
+to	to	to
+access	access	access
+the	the	the
+tape	tape	tape
+drive	drive	drive
+while	while	while
+in	in	in
+x	x	x
+,	,	,
+the	the	the
+
+machine	machin	machine
+locks	lock	lock
+up	up	up
+instantly	instant	instantly
+.	.	.
+
+if	if	if
+i	i	i
+am	am	am
+out	out	out
+of	of	of
+x	x	x
+and	and	and
+access	access	access
+the	the	the
+
+tape	tape	tape
+,	,	,
+the	the	the
+tape	tape	tape
+drive	drive	drive
+works	work	work
+fine	fine	fine
+.	.	.
+
+soon	soon	soon
+as	as	a
+i	i	i
+try	tri	try
+to	to	to
+
+startx	startx	startx
+again	again	again
+;	;	;
+the	the	the
+screen	screen	screen
+changes	chang	change
+modes	mode	mode
+,	,	,
+but	but	but
+,	,	,
+the	the	the
+grey	grey	grey
+background	background	background
+
+pattern	pattern	pattern
+does	doe	doe
+not	not	not
+come	come	come
+up	up	up
+and	and	and
+no	no	no
+xterm	xterm	xterm
+is	is	is
+forked	fork	forked
+.	.	.
+
+i	i	i
+have	have	have
+to	to	to
+login	login	login
+
+from	from	from
+another	anoth	another
+terminal	termin	terminal
+and	and	and
+execute	execut	execute
+a	a	a
+shutdown	shutdown	shutdown
+to	to	to
+reset	reset	reset
+the	the	the
+system	system	system
+.	.	.
+
+i	i	i
+'	'	'
+ve	ve	ve
+contacted	contact	contacted
+esix	esix	esix
+about	about	about
+this	this	this
+problem	problem	problem
+.	.	.
+
+they	they	they
+claim	claim	claim
+their	their	their
+x	x	x
+-	-	-
+window	window	window
+x11r4	x11r4	x11r4
+
+server	server	server
+(	(	(
+which	which	which
+i	i	i
+have	have	have
+)	)	)
+works	work	work
+with	with	with
+the	the	the
+wangtek	wangtek	wangtek
+tape	tape	tape
+drive	drive	drive
+.	.	.
+
+they	they	they
+also	also	also
+
+claim	claim	claim
+i	i	i
+only	onli	only
+need	need	need
+the	the	the
+nsu	nsu	nsu
+(	(	(
+network	network	network
+system	system	system
+utilities	util	utility
+)	)	)
+to	to	to
+run	run	run
+x	x	x
+;	;	;
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+
+need	need	need
+inet	inet	inet
+(	(	(
+tcp	tcp	tcp
+/	/	/
+ip	ip	ip
+)	)	)
+.	.	.
+
+my	my	my
+experience	experi	experience
+has	has	ha
+been	been	been
+that	that	that
+i	i	i
+need	need	need
+both	both	both
+to	to	to
+get	get	get
+
+xfree86	xfree86	xfree86
+to	to	to
+work	work	work
+.	.	.
+
+i	i	i
+'	'	'
+m	m	m
+not	not	not
+too	too	too
+concerned	concern	concerned
+about	about	about
+having	have	having
+to	to	to
+load	load	load
+both	both	both
+nsu	nsu	nsu
+and	and	and
+inet	inet	inet
+
+packages	packag	package
+to	to	to
+get	get	get
+x	x	x
+to	to	to
+work	work	work
+unless	unless	unless
+the	the	the
+inet	inet	inet
+package	packag	package
+is	is	is
+causing	caus	causing
+my	my	my
+problem	problem	problem
+.	.	.
+
+i	i	i
+would	would	would
+like	like	like
+to	to	to
+get	get	get
+both	both	both
+x	x	x
+and	and	and
+my	my	my
+tape	tape	tape
+drive	drive	drive
+to	to	to
+co	co	co
+-	-	-
+exist	exist	exist
+on	on	on
+the	the	the
+same	same	same
+
+system	system	system
+.	.	.
+
+if	if	if
+you	you	you
+can	can	can
+shed	shed	shed
+any	ani	any
+light	light	light
+on	on	on
+the	the	the
+problem	problem	problem
+,	,	,
+it	it	it
+would	would	would
+be	be	be
+appreciated	appreci	appreciated
+.	.	.
+
+one	one	one
+colleague	colleagu	colleague
+implied	impli	implied
+this	this	this
+might	might	might
+be	be	be
+a	a	a
+hardware	hardwar	hardware
+conflict	conflict	conflict
+.	.	.
+
+if	if	if
+this	this	this
+is	is	is
+true	true	true
+,	,	,
+what	what	what
+direction	direct	direction
+should	should	should
+i	i	i
+look	look	look
+to	to	to
+resolve	resolv	resolve
+the	the	the
+conflict	conflict	conflict
+?	?	?
+
+thanks	thank	thanks
+,	,	,
+
+kenneth	kenneth	kenneth
+cobler	cobler	cobler
+ksc@ihlpv.att.com	ksc@ihlpv.att.com	ksc@ihlpv.att.com
+
+at	at	at
+&	&	&
+t	t	t
+bell	bell	bell
+laboratories	laboratori	laboratory
+
+263	263	263
+shuman	shuman	shuman
+blvd	blvd	blvd
+.	.	.
+
+naperville	napervill	naperville
+,	,	,
+il	il	il
+60566	60566	60566

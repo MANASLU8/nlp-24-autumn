@@ -1,0 +1,145 @@
+from	from	from
+:	:	:
+jad@nsa.hp.com	jad@nsa.hp.com	jad@nsa.hp.com
+(	(	(
+john	john	john
+dilley	dilley	dilley
+)	)	)
+
+subject	subject	subject
+:	:	:
+compress	compress	compress
+|	|	|
+crypt	crypt	crypt
+foo	foo	foo
+|	|	|
+des	des	de
+-	-	-
+e	e	e
+-	-	-
+k	k	k
+foo	foo	foo
+
+distribution	distribut	distribution
+:	:	:
+sci	sci	sci
+
+lines	line	line
+:	:	:
+12	12	12
+
+organization	organ	organization
+:	:	:
+networked	network	networked
+systems	system	system
+architecture	architectur	architecture
+
+i	i	i
+have	have	have
+a	a	a
+bunch	bunch	bunch
+of	of	of
+questions	question	question
+about	about	about
+the	the	the
+encryption	encrypt	encryption
+scheme	scheme	scheme
+referenced	referenc	referenced
+in	in	in
+the	the	the
+subject	subject	subject
+of	of	of
+this	this	this
+message	messag	message
+.	.	.
+
+what	what	what
+is	is	is
+the	the	the
+relative	relat	relative
+data	data	data
+privacy	privaci	privacy
+provided	provid	provided
+by	by	by
+the	the	the
+above	abov	above
+sequence	sequenc	sequence
+as	as	a
+compared	compar	compared
+with	with	with
+straight	straight	straight
+des	des	de
+?	?	?
+
+does	doe	doe
+the	the	the
+addition	addit	addition
+of	of	of
+compression	compress	compression
+then	then	then
+encrypting	encrypt	encrypting
+make	make	make
+the	the	the
+cyphertext	cyphertext	cyphertext
+significantly	signific	significantly
+harder	harder	harder
+to	to	to
+crack	crack	crack
+using	use	using
+current	current	current
+methods	method	method
+than	than	than
+straight	straight	straight
+des	des	de
+?	?	?
+
+would	would	would
+running	run	running
+crypt	crypt	crypt
+after	after	after
+des	des	de
+provide	provid	provide
+greater	greater	greater
+data	data	data
+privacy	privaci	privacy
+?	?	?
+
+is	is	is
+it	it	it
+important	import	important
+to	to	to
+remove	remov	remove
+the	the	the
+(	(	(
+constant	constant	constant
+)	)	)
+compress	compress	compress
+header	header	header
+before	befor	before
+encryption	encrypt	encryption
+?	?	?
+
+thank	thank	thank
+you	you	you
+,	,	,
+net	net	net
+,	,	,
+for	for	for
+your	your	your
+wisdom	wisdom	wisdom
+.	.	.
+
+-	-	-
+-	-	-
+jad	jad	jad
+-	-	-
+-	-	-
+
+john	john	john
+a	a	a
+.	.	.
+
+dilley	dilley	dilley
+<	<	<
+jad@nsa.hp.com	jad@nsa.hp.com	jad@nsa.hp.com
+>	>	>

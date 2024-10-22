@@ -1,0 +1,714 @@
+from	from	from
+:	:	:
+amann@iam.unibe.ch	amann@iam.unibe.ch	amann@iam.unibe.ch
+(	(	(
+stephan	stephan	stephan
+amann	amann	amann
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+more	more	more
+on	on	on
+radiosity	radios	radiosity
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+amann@iam.unibe.ch	amann@iam.unibe.ch	amann@iam.unibe.ch
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+berne	bern	berne
+,	,	,
+institute	institut	institute
+of	of	of
+computer	comput	computer
+science	scienc	science
+and	and	and
+applied	appli	applied
+mathematics	mathemat	mathematics
+,	,	,
+special	special	special
+interest	interest	interest
+group	group	group
+computer	comput	computer
+graphics	graphic	graphic
+
+lines	line	line
+:	:	:
+80	80	80
+
+in	in	in
+article	articl	article
+66319@yuma.acns.colostate.edu	66319@yuma.acns.colostate.edu	66319@yuma.acns.colostate.edu
+,	,	,
+xz775327@longs.lance.colostate.edu	xz775327@longs.lance.colostate.edu	xz775327@longs.lance.colostate.edu
+(	(	(
+xia	xia	xia
+zhao	zhao	zhao
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+
+>	>	>
+
+>	>	>
+in	in	in
+article	articl	article
+<	<	<
+1993apr19.131239.11670@aragorn.unibe.ch	1993apr19.131239.11670@aragorn.unibe.ch	1993apr19.131239.11670@aragorn.unibe.ch
+>	>	>
+,	,	,
+you	you	you
+write	write	write
+:	:	:
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+let	let	let
+'	'	'
+s	s	s
+be	be	be
+serious	serious	serious
+.	.	.
+.	.	.
+.	.	.
+
+i	i	i
+'	'	'
+m	m	m
+working	work	working
+on	on	on
+a	a	a
+radiosity	radios	radiosity
+package	packag	package
+,	,	,
+written	written	written
+in	in	in
+c	c	c
++	+	+
++	+	+
+.	.	.
+
+>	>	>
+|	|	|
+>	>	>
+i	i	i
+would	would	would
+like	like	like
+to	to	to
+make	make	make
+it	it	it
+public	public	public
+domain	domain	domain
+.	.	.
+
+i	i	i
+'	'	'
+ll	ll	ll
+announce	announc	announce
+it	it	it
+in	in	in
+c	c	c
+.	.	.
+g	g	g
+.	.	.
+the	the	the
+minute	minut	minute
+
+>	>	>
+|	|	|
+>	>	>
+i	i	i
+finished	finish	finished
+it	it	it
+.	.	.
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+that	that	that
+were	were	were
+the	the	the
+good	good	good
+news	news	news
+.	.	.
+
+the	the	the
+bad	bad	bad
+news	news	news
+:	:	:
+it	it	it
+'	'	'
+ll	ll	ll
+take	take	take
+another	anoth	another
+2	2	2
+months	month	month
+(	(	(
+at	at	at
+least	least	least
+)	)	)
+
+>	>	>
+|	|	|
+>	>	>
+to	to	to
+finish	finish	finish
+it	it	it
+.	.	.
+
+>	>	>
+
+>	>	>
+
+>	>	>
+are	are	are
+you	you	you
+using	use	using
+the	the	the
+traditional	tradit	traditional
+radiosity	radios	radiosity
+method	method	method
+,	,	,
+progressive	progress	progressive
+refinement	refin	refinement
+,	,	,
+or	or	or
+
+>	>	>
+something	someth	something
+else	els	else
+in	in	in
+your	your	your
+package	packag	package
+?	?	?
+
+>	>	>
+
+my	my	my
+package	packag	package
+is	is	is
+based	base	based
+on	on	on
+several	sever	several
+articles	articl	article
+about	about	about
+non	non	non
+-	-	-
+standard	standard	standard
+radiosity	radios	radiosity
+and	and	and
+some	some	some
+unpublished	unpublish	unpublished
+methods	method	method
+.	.	.
+
+the	the	the
+main	main	main
+articles	articl	article
+are	are	are
+:	:	:
+
+-	-	-
+cohen	cohen	cohen
+,	,	,
+chen	chen	chen
+,	,	,
+wallace	wallac	wallace
+,	,	,
+greenberg	greenberg	greenberg
+:	:	:
+
+a	a	a
+progressive	progress	progressive
+refinement	refin	refinement
+approach	approach	approach
+to	to	to
+fast	fast	fast
+radiosity	radios	radiosity
+image	imag	image
+generation	generat	generation
+
+computer	comput	computer
+graphics	graphic	graphic
+(	(	(
+siggraph	siggraph	siggraph
+)	)	)
+,	,	,
+v	v	v
+.	.	.
+
+22	22	22
+(	(	(
+no	no	no
+.	.	.
+4	4	4
+)	)	)
+,	,	,
+pp	pp	pp
+75	75	75
+-	-	-
+84	84	84
+,	,	,
+august	august	august
+1988	1988	1988
+
+-	-	-
+silion	silion	silion
+,	,	,
+puech	puech	puech
+
+a	a	a
+general	general	general
+two	two	two
+-	-	-
+pass	pass	pas
+method	method	method
+integrating	integr	integrating
+specular	specular	specular
+and	and	and
+diffuse	diffus	diffuse
+reflection	reflect	reflection
+
+computer	comput	computer
+graphics	graphic	graphic
+(	(	(
+siggraph	siggraph	siggraph
+)	)	)
+,	,	,
+v23	v23	v23
+(	(	(
+no	no	no
+.	.	.
+3	3	3
+)	)	)
+,	,	,
+pp335	pp335	pp335
+-	-	-
+344	344	344
+,	,	,
+july	juli	july
+1989	1989	1989
+
+>	>	>
+if	if	if
+you	you	you
+need	need	need
+to	to	to
+project	project	project
+patches	patch	patch
+on	on	on
+the	the	the
+hemi	hemi	hemi
+-	-	-
+cube	cube	cube
+surfaces	surfac	surface
+,	,	,
+what	what	what
+technique	techniqu	technique
+are	are	are
+
+>	>	>
+you	you	you
+using	use	using
+?	?	?
+
+do	do	do
+you	you	you
+have	have	have
+hardware	hardwar	hardware
+to	to	to
+facilitate	facilit	facilitate
+the	the	the
+projection	project	projection
+?	?	?
+
+>	>	>
+
+i	i	i
+do	do	do
+not	not	not
+use	use	use
+hemi	hemi	hemi
+-	-	-
+cubes	cube	cube
+.	.	.
+
+i	i	i
+have	have	have
+no	no	no
+special	special	special
+hardware	hardwar	hardware
+(	(	(
+sun	sun	sun
+sparcstation	sparcstat	sparcstation
+)	)	)
+.	.	.
+
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+in	in	in
+the	the	the
+meantime	meantim	meantime
+you	you	you
+may	may	may
+have	have	have
+a	a	a
+look	look	look
+at	at	at
+the	the	the
+file	file	file
+
+>	>	>
+|	|	|
+>	>	>
+radiosity_code	radiosity_cod	radiosity_code
+.	.	.
+tar	tar	tar
+.	.	.
+z	z	z
+
+>	>	>
+|	|	|
+>	>	>
+located	locat	located
+at	at	at
+
+>	>	>
+|	|	|
+>	>	>
+compute1	compute1	compute1
+.	.	.
+cc	cc	cc
+.	.	.
+ncsu	ncsu	ncsu
+.	.	.
+edu	edu	edu
+
+>	>	>
+
+>	>	>
+
+>	>	>
+what	what	what
+are	are	are
+the	the	the
+guest	guest	guest
+username	usernam	username
+and	and	and
+password	password	password
+for	for	for
+this	this	this
+ftp	ftp	ftp
+site	site	site
+?	?	?
+
+>	>	>
+
+use	use	use
+anonymous	anonym	anonymous
+as	as	a
+username	usernam	username
+and	and	and
+your	your	your
+e	e	e
+-	-	-
+mail	mail	mail
+address	address	address
+as	as	a
+password	password	password
+.	.	.
+
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+(	(	(
+there	there	there
+are	are	are
+some	some	some
+other	other	other
+locations	locat	location
+;	;	;
+have	have	have
+a	a	a
+look	look	look
+at	at	at
+archie	archi	archie
+to	to	to
+get	get	get
+the	the	the
+nearest	nearest	nearest
+)	)	)
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+hope	hope	hope
+that	that	that
+'	'	'
+ll	ll	ll
+help	help	help
+.	.	.
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+yours	your	yours
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+|	|	|
+>	>	>
+stephan	stephan	stephan
+
+>	>	>
+|	|	|
+>	>	>
+
+>	>	>
+
+>	>	>
+
+>	>	>
+thanks	thank	thanks
+,	,	,
+stephan	stephan	stephan
+.	.	.
+
+>	>	>
+
+>	>	>
+
+>	>	>
+josephine	josephin	josephine
+
+stephan	stephan	stephan
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+
+stephan	stephan	stephan
+amann	amann	amann
+sig	sig	sig
+computer	comput	computer
+graphics	graphic	graphic
+,	,	,
+university	univers	university
+of	of	of
+berne	bern	berne
+,	,	,
+switzerland	switzerland	switzerland
+
+amann@iam.unibe.ch	amann@iam.unibe.ch	amann@iam.unibe.ch
+
+tel	tel	tel
++41 31 65 46 79	+41 31 65 46 79	+41 31 65 46 79
+fax	fax	fax
++41 31 65 39 65	+41 31 65 39 65	+41 31 65 39 65
+
+projects	project	project
+:	:	:
+radiosity	radios	radiosity
+,	,	,
+raytracing	raytrac	raytracing
+,	,	,
+computer	comput	computer
+graphics	graphic	graphic
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-

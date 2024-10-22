@@ -1,0 +1,393 @@
+from	from	from
+:	:	:
+cui@maccs.mcmaster.ca	cui@maccs.mcmaster.ca	cui@maccs.mcmaster.ca
+(	(	(
+jun	jun	jun
+cui	cui	cui
+)	)	)
+
+subject	subject	subject
+:	:	:
+how	how	how
+to	to	to
+hold	hold	hold
+the	the	the
+control	control	control
+to	to	to
+a	a	a
+window	window	window
+object	object	object
+?	?	?
+
+keywords	keyword	keywords
+:	:	:
+objectwindows	objectwindow	objectwindows
+,	,	,
+ms	ms	m
+-	-	-
+windows	window	window
+,	,	,
+sdk	sdk	sdk
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+maccs	macc	maccs
+.	.	.
+dcss	dcss	dcss
+.	.	.
+mcmaster	mcmaster	mcmaster
+.	.	.
+ca	ca	ca
+
+organization	organ	organization
+:	:	:
+department	depart	department
+of	of	of
+computer	comput	computer
+science	scienc	science
+,	,	,
+mcmaster	mcmaster	mcmaster
+university	univers	university
+
+distribution	distribut	distribution
+:	:	:
+comp	comp	comp
+.	.	.
+os	os	o
+.	.	.
+ms	ms	m
+-	-	-
+windows	window	window
+.	.	.
+misc	misc	misc
+comp	comp	comp
+.	.	.
+windows	window	window
+.	.	.
+ms	ms	m
+
+lines	line	line
+:	:	:
+30	30	30
+
+/	/	/
+/	/	/
+i	i	i
+'	'	'
+m	m	m
+using	use	using
+bc	bc	bc
++	+	+
++	+	+
+'	'	'
+s	s	s
+objectwindows	objectwindow	objectwindows
+(	(	(
+version	version	version
+3	3	3
+.	.	.
+1	1	1
+)	)	)
+and	and	and
+trying	tri	trying
+to	to	to
+get	get	get
+some	some	some
+data	data	data
+
+/	/	/
+/	/	/
+processed	process	processed
+in	in	in
+a	a	a
+window	window	window
+object	object	object
+.	.	.
+
+however	howev	however
+,	,	,
+when	when	when
+the	the	the
+calling	call	calling
+program	program	program
+invokes	invok	invokes
+
+/	/	/
+/	/	/
+the	the	the
+window	window	window
+object	object	object
+,	,	,
+it	it	it
+gives	give	give
+up	up	up
+the	the	the
+control	control	control
+to	to	to
+the	the	the
+window	window	window
+object	object	object
+,	,	,
+and	and	and
+keeps	keep	keep
+
+/	/	/
+/	/	/
+executing	execut	executing
+the	the	the
+next	next	next
+statement	statement	statement
+.	.	.
+
+i	i	i
+would	would	would
+like	like	like
+the	the	the
+calling	call	calling
+program	program	program
+,	,	,
+after	after	after
+
+/	/	/
+/	/	/
+invoking	invok	invoking
+the	the	the
+window	window	window
+object	object	object
+,	,	,
+to	to	to
+wait	wait	wait
+until	until	until
+the	the	the
+window	window	window
+object	object	object
+is	is	is
+closed	close	closed
+.	.	.
+
+/	/	/
+/	/	/
+can	can	can
+i	i	i
+do	do	do
+that	that	that
+?	?	?
+
+my	my	my
+program	program	program
+may	may	may
+look	look	look
+like	like	like
+:	:	:
+
+class	class	class
+mywindow	mywindow	mywindow
+:	:	:
+public	public	public
+twindow	twindow	twindow
+
+{	{	{
+
+.	.	.
+.	.	.
+.	.	.
+
+}	}	}
+;	;	;
+
+void	void	void
+mycallingprog	mycallingprog	mycallingprog
+(	(	(
+.	.	.
+.	.	.
+.	.	.
+)	)	)
+/	/	/
+/	/	/
+could	could	could
+the	the	the
+calling	call	calling
+program	program	program
+be	be	be
+a	a	a
+c	c	c
+function	function	function
+?	?	?
+
+{	{	{
+.	.	.
+.	.	.
+.	.	.
+
+mywindow	mywindow	mywindow
+*	*	*
+mywinobj	mywinobj	mywinobj
+;	;	;
+
+mywinobj	mywinobj	mywinobj
+=	=	=
+new	new	new
+mywindow	mywindow	mywindow
+(	(	(
+.	.	.
+.	.	.
+.	.	.
+)	)	)
+;	;	;
+
+getapplication	getappl	getapplication
+(	(	(
+)	)	)
+-	-	-
+>	>	>
+makewindow	makewindow	makewindow
+(	(	(
+mywinobj	mywinobj	mywinobj
+)	)	)
+;	;	;
+
+mywinobj	mywinobj	mywinobj
+-	-	-
+>	>	>
+show	show	show
+(	(	(
+sw_shownormal	sw_shownorm	sw_shownormal
+)	)	)
+;	;	;
+
+next	next	next
+statement	statement	statement
+;	;	;
+/	/	/
+/	/	/
+i	i	i
+want	want	want
+the	the	the
+program	program	program
+to	to	to
+wait	wait	wait
+here	here	here
+until	until	until
+mywinobj	mywinobj	mywinobj
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+is	is	is
+closed	close	closed
+so	so	so
+that	that	that
+i	i	i
+can	can	can
+get	get	get
+some	some	some
+data	data	data
+back	back	back
+from	from	from
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+mywinobj	mywinobj	mywinobj
+.	.	.
+
+i	i	i
+specified	specifi	specified
+the	the	the
+window	window	window
+style	style	style
+to	to	to
+be	be	be
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+ws_popupwindow	ws_popupwindow	ws_popupwindow
+,	,	,
+didn	didn	didn
+'	'	'
+t	t	t
+help	help	help
+.	.	.
+
+is	is	is
+there	there	there
+any	ani	any
+other	other	other
+way	way	way
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+to	to	to
+execute	execut	execute
+the	the	the
+window	window	window
+object	object	object
+so	so	so
+that	that	that
+the	the	the
+calling	call	calling
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+program	program	program
+won	won	won
+'	'	'
+t	t	t
+give	give	give
+up	up	up
+the	the	the
+control	control	control
+?	?	?
+
+any	ani	any
+help	help	help
+would	would	would
+
+}	}	}
+/	/	/
+/	/	/
+be	be	be
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+.	.	.
+
+-	-	-
+-	-	-
+jun	jun	jun
+to	to	to
+talk	talk	talk
+to	to	to
+the	the	the
+lord	lord	lord
+with	with	with
+ps	ps	p
+/	/	/
+2	2	2
+through	through	through
+ms	ms	m
+-	-	-
+windows	window	window

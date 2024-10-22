@@ -1,0 +1,153 @@
+from	from	from
+:	:	:
+ferdinan@oeinck.waterland.wlink.nl	ferdinan@oeinck.waterland.wlink.nl	ferdinan@oeinck.waterland.wlink.nl
+(	(	(
+ferdinand	ferdinand	ferdinand
+oeinck	oeinck	oeinck
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+distance	distanc	distance
+between	between	between
+two	two	two
+bezier	bezier	bezier
+curves	curv	curve
+
+organization	organ	organization
+:	:	:
+my	my	my
+own	own	own
+node	node	node
+in	in	in
+groningen	groningen	groningen
+,	,	,
+nl	nl	nl
+.	.	.
+
+lines	line	line
+:	:	:
+14	14	14
+
+pes@hutcs.cs.hut.fi	pes@hutcs.cs.hut.fi	pes@hutcs.cs.hut.fi
+(	(	(
+pekka	pekka	pekka
+siltanen	siltanen	siltanen
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+suppose	suppos	suppose
+two	two	two
+cubic	cubic	cubic
+bezier	bezier	bezier
+curves	curv	curve
+(	(	(
+control	control	control
+points	point	point
+v1	v1	v1
+,	,	,
+.	.	.
+.	.	.
+,	,	,
+v4	v4	v4
+and	and	and
+w1	w1	w1
+,	,	,
+.	.	.
+.	.	.
+,	,	,
+w4	w4	w4
+)	)	)
+
+>	>	>
+which	which	which
+have	have	have
+equal	equal	equal
+first	first	first
+and	and	and
+last	last	last
+control	control	control
+points	point	point
+(	(	(
+v1	v1	v1
+=	=	=
+w1	w1	w1
+,	,	,
+v4	v4	v4
+=	=	=
+w4	w4	w4
+)	)	)
+.	.	.
+
+how	how	how
+do	do	do
+i	i	i
+
+>	>	>
+get	get	get
+upper	upper	upper
+bound	bound	bound
+for	for	for
+distance	distanc	distance
+between	between	between
+these	these	these
+curves	curv	curve
+.	.	.
+
+which	which	which
+distance	distanc	distance
+?	?	?
+
+the	the	the
+distance	distanc	distance
+between	between	between
+one	one	one
+point	point	point
+(	(	(
+t	t	t
+=	=	=
+ti	ti	ti
+)	)	)
+on	on	on
+the	the	the
+first	first	first
+curve	curv	curve
+and	and	and
+a	a	a
+point	point	point
+on	on	on
+the	the	the
+other	other	other
+curve	curv	curve
+with	with	with
+same	same	same
+parameter	paramet	parameter
+(	(	(
+u	u	u
+=	=	=
+ti	ti	ti
+)	)	)
+?	?	?
+
+>	>	>
+
+>	>	>
+any	ani	any
+references	refer	reference
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+in	in	in
+anvance	anvanc	anvance
+.	.	.
+
+>	>	>
+
+>	>	>
+pekka	pekka	pekka
+siltanen	siltanen	siltanen

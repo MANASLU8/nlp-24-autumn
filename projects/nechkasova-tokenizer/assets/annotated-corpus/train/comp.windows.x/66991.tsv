@@ -1,0 +1,169 @@
+from	from	from
+:	:	:
+gerard@dps.co.uk	gerard@dps.co.uk	gerard@dps.co.uk
+(	(	(
+gerard	gerard	gerard
+o	o	o
+'	'	'
+driscoll	driscol	driscoll
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+xwindows	xwindow	xwindows
+always	alway	always
+opaque	opaqu	opaque
+
+organization	organ	organization
+:	:	:
+the	the	the
+internet	internet	internet
+
+lines	line	line
+:	:	:
+16	16	16
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+enterpoop	enterpoop	enterpoop
+.	.	.
+mit	mit	mit
+.	.	.
+edu	edu	edu
+
+to	to	to
+:	:	:
+xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu	xpert@expo.lcs.mit.edu
+
+hess@swt1.informatik.uni-hamburg.de	hess@swt1.informatik.uni-hamburg.d	hess@swt1.informatik.uni-hamburg.de
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+i	i	i
+wonder	wonder	wonder
+if	if	if
+it	it	it
+is	is	is
+possible	possibl	possible
+for	for	for
+a	a	a
+parent	parent	parent
+window	window	window
+to	to	to
+paint	paint	paint
+over	over	over
+the	the	the
+area	area	area
+of	of	of
+
+>	>	>
+>	>	>
+its	it	it
+childs	child	child
+.	.	.
+
+if	if	if
+it	it	it
+is	is	is
+not	not	not
+,	,	,
+then	then	then
+how	how	how
+could	could	could
+it	it	it
+be	be	be
+possible	possibl	possible
+to	to	to
+implement	implement	implement
+a	a	a
+
+>	>	>
+>	>	>
+rubberband	rubberband	rubberband
+across	across	across
+multiple	multipl	multiple
+xwindows	xwindow	xwindows
+to	to	to
+select	select	select
+the	the	the
+objects	object	object
+that	that	that
+are	are	are
+
+>	>	>
+>	>	>
+displayed	display	displayed
+one	one	one
+in	in	in
+each	each	each
+window	window	window
+?	?	?
+
+use	use	use
+a	a	a
+gc	gc	gc
+with	with	with
+the	the	the
+subwindow_mode	subwindow_mod	subwindow_mode
+attribute	attribut	attribute
+set	set	set
+to	to	to
+includeinferiors	includeinferior	includeinferiors
+.	.	.
+
+the	the	the
+default	default	default
+is	is	is
+clipbychildren	clipbychildren	clipbychildren
+.	.	.
+
+however	howev	however
+,	,	,
+beware	bewar	beware
+if	if	if
+any	ani	any
+of	of	of
+the	the	the
+children	children	child
+are	are	are
+of	of	of
+a	a	a
+different	differ	different
+depth	depth	depth
+to	to	to
+the	the	the
+parent	parent	parent
+;	;	;
+the	the	the
+semantics	semant	semantics
+of	of	of
+this	this	this
+are	are	are
+undefined	undefin	undefined
+by	by	by
+the	the	the
+protocol	protocol	protocol
+.	.	.
+
+gerard	gerard	gerard
+o	o	o
+'	'	'
+driscoll	driscol	driscoll
+(	(	(
+gerard.odriscoll@dps.co.uk	gerard.odriscoll@dps.co.uk	gerard.odriscoll@dps.co.uk
+)	)	)
+
+du	du	du
+pont	pont	pont
+pixel	pixel	pixel
+systems	system	system
+ltd	ltd	ltd
+.	.	.

@@ -1,0 +1,336 @@
+from	from	from
+:	:	:
+cui@maccs.mcmaster.ca	cui@maccs.mcmaster.ca	cui@maccs.mcmaster.ca
+(	(	(
+jun	jun	jun
+cui	cui	cui
+)	)	)
+
+subject	subject	subject
+:	:	:
+how	how	how
+to	to	to
+hold	hold	hold
+the	the	the
+control	control	control
+to	to	to
+a	a	a
+window	window	window
+object	object	object
+?	?	?
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+maccs	macc	maccs
+.	.	.
+dcss	dcss	dcss
+.	.	.
+mcmaster	mcmaster	mcmaster
+.	.	.
+ca	ca	ca
+
+organization	organ	organization
+:	:	:
+mcmaster	mcmaster	mcmaster
+university	univers	university
+,	,	,
+hamilton	hamilton	hamilton
+,	,	,
+ontario	ontario	ontario
+.	.	.
+
+lines	line	line
+:	:	:
+28	28	28
+
+/	/	/
+/	/	/
+hope	hope	hope
+i	i	i
+am	am	am
+in	in	in
+the	the	the
+right	right	right
+group	group	group
+!	!	!
+
+i	i	i
+'	'	'
+m	m	m
+using	use	using
+bc	bc	bc
++	+	+
++	+	+
+'	'	'
+s	s	s
+objectwindows	objectwindow	objectwindows
+(	(	(
+version	version	version
+3	3	3
+.	.	.
+1	1	1
+)	)	)
+,	,	,
+/	/	/
+/	/	/
+trying	tri	trying
+to	to	to
+get	get	get
+some	some	some
+date	date	date
+processed	process	processed
+in	in	in
+a	a	a
+window	window	window
+object	object	object
+.	.	.
+
+however	howev	however
+,	,	,
+when	when	when
+invoking	invok	invoking
+
+/	/	/
+/	/	/
+the	the	the
+window	window	window
+object	object	object
+,	,	,
+the	the	the
+calling	call	calling
+program	program	program
+gives	give	give
+up	up	up
+the	the	the
+control	control	control
+to	to	to
+the	the	the
+window	window	window
+
+/	/	/
+/	/	/
+object	object	object
+,	,	,
+and	and	and
+keeps	keep	keep
+executing	execut	executing
+the	the	the
+next	next	next
+statement	statement	statement
+.	.	.
+
+the	the	the
+source	sourc	source
+code	code	code
+may	may	may
+look	look	look
+
+/	/	/
+/	/	/
+like	like	like
+the	the	the
+following	follow	following
+:	:	:
+
+class	class	class
+mywindow	mywindow	mywindow
+:	:	:
+public	public	public
+twindow	twindow	twindow
+
+{	{	{
+
+.	.	.
+.	.	.
+.	.	.
+
+}	}	}
+;	;	;
+
+void	void	void
+mycallingprog	mycallingprog	mycallingprog
+(	(	(
+.	.	.
+.	.	.
+.	.	.
+)	)	)
+/	/	/
+/	/	/
+could	could	could
+the	the	the
+calling	call	calling
+program	program	program
+be	be	be
+a	a	a
+c	c	c
+function	function	function
+?	?	?
+
+{	{	{
+.	.	.
+.	.	.
+.	.	.
+
+mywindow	mywindow	mywindow
+*	*	*
+mywinobj	mywinobj	mywinobj
+;	;	;
+
+mywinobj	mywinobj	mywinobj
+=	=	=
+new	new	new
+mywindow	mywindow	mywindow
+(	(	(
+.	.	.
+.	.	.
+.	.	.
+)	)	)
+;	;	;
+
+getapplication	getappl	getapplication
+(	(	(
+)	)	)
+-	-	-
+>	>	>
+makewindow	makewindow	makewindow
+(	(	(
+mywinobj	mywinobj	mywinobj
+)	)	)
+;	;	;
+
+mywinobj	mywinobj	mywinobj
+-	-	-
+>	>	>
+show	show	show
+(	(	(
+sw_shownormal	sw_shownorm	sw_shownormal
+)	)	)
+;	;	;
+
+next	next	next
+statement	statement	statement
+;	;	;
+/	/	/
+/	/	/
+i	i	i
+want	want	want
+the	the	the
+program	program	program
+to	to	to
+wait	wait	wait
+here	here	here
+until	until	until
+mywinobj	mywinobj	mywinobj
+is	is	is
+closed	close	closed
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+so	so	so
+that	that	that
+i	i	i
+can	can	can
+get	get	get
+some	some	some
+data	data	data
+back	back	back
+from	from	from
+mywinobj	mywinobj	mywinobj
+.	.	.
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+i	i	i
+specified	specifi	specified
+the	the	the
+window	window	window
+style	style	style
+to	to	to
+be	be	be
+ws_popupwindow	ws_popupwindow	ws_popupwindow
+,	,	,
+didn	didn	didn
+'	'	'
+t	t	t
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+help	help	help
+.	.	.
+
+is	is	is
+there	there	there
+any	ani	any
+other	other	other
+way	way	way
+to	to	to
+execute	execut	execute
+the	the	the
+window	window	window
+object	object	object
+
+.	.	.
+.	.	.
+.	.	.
+
+/	/	/
+/	/	/
+so	so	so
+that	that	that
+the	the	the
+calling	call	calling
+program	program	program
+won	won	won
+'	'	'
+t	t	t
+give	give	give
+up	up	up
+the	the	the
+control	control	control
+?	?	?
+
+}	}	}
+/	/	/
+/	/	/
+any	ani	any
+help	help	help
+would	would	would
+be	be	be
+appreciated	appreci	appreciated
+.	.	.
+
+thanks	thank	thanks
+!	!	!
+
+-	-	-
+-	-	-
+jun	jun	jun
+to	to	to
+talk	talk	talk
+to	to	to
+the	the	the
+lord	lord	lord
+with	with	with
+ps	ps	p
+/	/	/
+2	2	2
+through	through	through
+ms	ms	m
+-	-	-
+windows	window	window

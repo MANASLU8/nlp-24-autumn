@@ -1,0 +1,188 @@
+from	from	from
+:	:	:
+zemcik	zemcik	zemcik
+@	@	@
+ls	ls	l
+(	(	(
+pavel	pavel	pavel
+zemcik	zemcik	zemcik
+)	)	)
+
+subject	subject	subject
+:	:	:
+tseng	tseng	tseng
+et4000	et4000	et4000
+pixel	pixel	pixel
+clock	clock	clock
+
+organization	organ	organization
+:	:	:
+technical	technic	technical
+university	univers	university
+of	of	of
+brno	brno	brno
+,	,	,
+czech	czech	czech
+republic	republ	republic
+
+keywords	keyword	keywords
+:	:	:
+et4000	et4000	et4000
+svga	svga	svga
+pixel	pixel	pixel
+clock	clock	clock
+
+summary	summari	summary
+:	:	:
+is	is	is
+there	there	there
+anybody	anybodi	anybody
+who	who	who
+knows	know	know
+how	how	how
+to	to	to
+set	set	set
+et4000	et4000	et4000
+svga	svga	svga
+pixel	pixel	pixel
+clock	clock	clock
+?	?	?
+
+lines	line	line
+:	:	:
+19	19	19
+
+i	i	i
+would	would	would
+like	like	like
+to	to	to
+program	program	program
+tseng	tseng	tseng
+et4000	et4000	et4000
+to	to	to
+nonstandard	nonstandard	nonstandard
+1024x768	1024x768	1024x768
+mode	mode	mode
+by	by	by
+switching	switch	switching
+to	to	to
+standard	standard	standard
+1024x768	1024x768	1024x768
+mode	mode	mode
+using	use	using
+bios	bio	bios
+and	and	and
+than	than	than
+changing	chang	changing
+some	some	some
+timing	time	timing
+details	detail	detail
+(	(	(
+0x3d4	0x3d4	0x3d4
+registers	regist	register
+0x00	0x00	0x00
+-	-	-
+0x1f	0x1f	0x1f
+)	)	)
+but	but	but
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+know	know	know
+how	how	how
+to	to	to
+select	select	select
+36	36	36
+mhz	mhz	mhz
+pixel	pixel	pixel
+clock	clock	clock
+i	i	i
+need	need	need
+.	.	.
+
+the	the	the
+bios	bio	bios
+function	function	function
+selects	select	selects
+40	40	40
+mhz	mhz	mhz
+.	.	.
+
+is	is	is
+there	there	there
+anybody	anybodi	anybody
+who	who	who
+knows	know	know
+where	where	where
+to	to	to
+obtain	obtain	obtain
+technical	technic	technical
+info	info	info
+about	about	about
+this	this	this
+.	.	.
+
+i	i	i
+am	am	am
+also	also	also
+interested	interest	interested
+in	in	in
+any	ani	any
+other	other	other
+technical	technic	technical
+information	inform	information
+about	about	about
+tseng	tseng	tseng
+et4000	et4000	et4000
+and	and	and
+trident	trident	trident
+8900	8900	8900
+and	and	and
+9000	9000	9000
+chipsets	chipset	chipsets
+.	.	.
+
+thanks	thank	thanks
+very	veri	very
+much	much	much
+
+pavel	pavel	pavel
+zemcik	zemcik	zemcik
+
+dept	dept	dept
+.	.	.
+
+of	of	of
+comp	comp	comp
+.	.	.
+
+sci	sci	sci
+.	.	.
+
+&	&	&
+eng	eng	eng
+.	.	.
+
+technical	technic	technical
+university	univers	university
+of	of	of
+brno	brno	brno
+
+bozetechova	bozetechova	bozetechova
+2	2	2
+
+cs	cs	c
+-	-	-
+612	612	612
+66	66	66
+brno	brno	brno
+
+czech	czech	czech
+republic	republ	republic
+
+e	e	e
+-	-	-
+mail	mail	mail
+:	:	:
+zemcik@dcse.fee.vutbr.cs	zemcik@dcse.fee.vutbr.c	zemcik@dcse.fee.vutbr.cs

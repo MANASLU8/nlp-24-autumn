@@ -1,0 +1,169 @@
+from	from	from
+:	:	:
+schneck@physik.tu-muenchen.de	schneck@physik.tu-muenchen.d	schneck@physik.tu-muenchen.de
+(	(	(
+bernhard	bernhard	bernhard
+schneck	schneck	schneck
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+trouble	troubl	trouble
+compiling	compil	compiling
+x11r5	x11r5	x11r5
+on	on	on
+sunos_4	sunos_4	sunos_4
+.	.	.
+1	1	1
+.	.	.
+3	3	3
+
+organization	organ	organization
+:	:	:
+leibniz	leibniz	leibniz
+-	-	-
+rechenzentrum	rechenzentrum	rechenzentrum
+,	,	,
+muenchen	muenchen	muenchen
+(	(	(
+germany	germani	germany
+)	)	)
+
+lines	line	line
+:	:	:
+14	14	14
+
+nemo@aguirre.dia.fi.upm.es	nemo@aguirre.dia.fi.upm.	nemo@aguirre.dia.fi.upm.es
+(	(	(
+francisco	francisco	francisco
+j	j	j
+.	.	.
+
+ballesteros	ballestero	ballesteros
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+>	>	>
+the	the	the
+problem	problem	problem
+occurs	occur	occurs
+during	dure	during
+the	the	the
+initial	initi	initial
+"	"	"
+make	make	make
+world	world	world
+"	"	"
+.	.	.
+
+when	when	when
+
+>	>	>
+>	>	>
+it	it	it
+gets	get	get
+up	up	up
+to	to	to
+compiling	compil	compiling
+the	the	the
+standard	standard	standard
+x	x	x
+clients	client	client
+,	,	,
+it	it	it
+can	can	can
+'	'	'
+t	t	t
+seem	seem	seem
+to	to	to
+find	find	find
+
+>	>	>
+>	>	>
+some	some	some
+of	of	of
+the	the	the
+libraries	librari	library
+.	.	.
+
+right	right	right
+now	now	now
+we	we	we
+highly	high	highly
+suspect	suspect	suspect
+the	the	the
+program	program	program
+"	"	"
+ld	ld	ld
+"	"	"
+
+>	>	>
+>	>	>
+which	which	which
+was	was	wa
+updated	updat	updated
+for	for	for
+4_1_3	4_1_3	4_1_3
+.	.	.
+
+>	>	>
+>	>	>
+
+>	>	>
+yip	yip	yip
+,	,	,
+we	we	we
+had	had	had
+the	the	the
+same	same	same
+problem	problem	problem
+;	;	;
+the	the	the
+only	onli	only
+fix	fix	fix
+we	we	we
+found	found	found
+was	was	wa
+to	to	to
+link	link	link
+static	static	static
+
+>	>	>
+some	some	some
+of	of	of
+the	the	the
+clients	client	client
+,	,	,
+(	(	(
+btw	btw	btw
+,	,	,
+we	we	we
+used	use	used
+cc	cc	cc
+)	)	)
+.	.	.
+
+:	:	:
+-	-	-
+(	(	(
+.	.	.
+
+or	or	or
+use	use	use
+a	a	a
+sunos	suno	sunos
+4	4	4
+.	.	.
+1	1	1
+.	.	.
+1	1	1
+ld	ld	ld
+.	.	.
+
+\	\	\
+bernhard	bernhard	bernhard
+.	.	.

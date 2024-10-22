@@ -1,0 +1,421 @@
+from	from	from
+:	:	:
+jimc@tau-ceti.isc-br.com	jimc@tau-ceti.isc-br.com	jimc@tau-ceti.isc-br.com
+(	(	(
+jim	jim	jim
+cathey	cathey	cathey
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+few	few	few
+video	video	video
+questions	question	question
+
+organization	organ	organization
+:	:	:
+olivetti	olivetti	olivetti
+north	north	north
+america	america	america
+,	,	,
+spokane	spokan	spokane
+,	,	,
+wa	wa	wa
+
+lines	line	line
+:	:	:
+28	28	28
+
+in	in	in
+article	articl	article
+<	<	<
+7480224@hpfcso.fc.hp.com	7480224@hpfcso.fc.hp.com	7480224@hpfcso.fc.hp.com
+>	>	>
+myers@hpfcso.fc.hp.com	myers@hpfcso.fc.hp.com	myers@hpfcso.fc.hp.com
+(	(	(
+bob	bob	bob
+myers	myer	myers
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+situation	situat	situation
+sometimes	sometim	sometimes
+called	call	called
+"	"	"
+block	block	block
+"	"	"
+sync	sync	sync
+)	)	)
+.	.	.
+
+you	you	you
+can	can	can
+generate	generat	generate
+such	such	such
+a	a	a
+combined	combin	combined
+
+>	>	>
+(	(	(
+or	or	or
+"	"	"
+composite	composit	composite
+"	"	"
+)	)	)
+sync	sync	sync
+in	in	in
+two	two	two
+simple	simpl	simple
+ways	way	way
+-	-	-
+or	or	or
+the	the	the
+h	h	h
+.	.	.
+
+and	and	and
+v	v	v
+.	.	.
+
+syncs	sync	syncs
+together	togeth	together
+,	,	,
+>	>	>
+which	which	which
+gives	give	give
+you	you	you
+the	the	the
+non	non	non
+-	-	-
+serrated	serrat	serrated
+"	"	"
+block	block	block
+"	"	"
+sync	sync	sync
+,	,	,
+or	or	or
+exor	exor	exor
+them	them	them
+,	,	,
+which	which	which
+makes	make	make
+
+>	>	>
+serrations	serrat	serration
+.	.	.
+
+(	(	(
+try	tri	try
+it	it	it
+!	!	!
+)	)	)
+actually	actual	actually
+,	,	,
+the	the	the
+exor	exor	exor
+doesn	doesn	doesn
+'	'	'
+t	t	t
+really	realli	really
+do	do	do
+kosher	kosher	kosher
+serrated	serrat	serrated
+
+>	>	>
+sync	sync	sync
+,	,	,
+since	sinc	since
+it	it	it
+puts	put	put
+the	the	the
+rising	rise	rising
+(	(	(
+and	and	and
+falling	fall	falling
+,	,	,
+for	for	for
+that	that	that
+matter	matter	matter
+)	)	)
+edge	edg	edge
+of	of	of
+the	the	the
+h	h	h
+.	.	.
+
+>	>	>
+sync	sync	sync
+pulse	puls	pulse
+off	off	off
+by	by	by
+a	a	a
+pulse	puls	pulse
+width	width	width
+.	.	.
+
+but	but	but
+that	that	that
+usually	usual	usually
+makes	make	make
+no	no	no
+difference	differ	difference
+.	.	.
+
+sometimes	sometim	sometimes
+.	.	.
+
+it	it	it
+depends	depend	depends
+on	on	on
+your	your	your
+monitor	monitor	monitor
+and	and	and
+your	your	your
+timing	time	timing
+.	.	.
+
+if	if	if
+you	you	you
+don	don	don
+'	'	'
+t	t	t
+have	have	have
+enough	enough	enough
+vertical	vertic	vertical
+front	front	front
+porch	porch	porch
+and	and	and
+you	you	you
+use	use	use
+xor	xor	xor
+composite	composit	composite
+sync	sync	sync
+you	you	you
+can	can	can
+get	get	get
+even	even	even
+/	/	/
+odd	odd	odd
+tearing	tear	tearing
+at	at	at
+the	the	the
+top	top	top
+of	of	of
+the	the	the
+screen	screen	screen
+,	,	,
+which	which	which
+is	is	is
+very	veri	very
+sensitive	sensit	sensitive
+to	to	to
+the	the	the
+hhold	hhold	hhold
+control	control	control
+.	.	.
+
+it	it	it
+looks	look	look
+like	like	like
+what	what	what
+you	you	you
+would	would	would
+expect	expect	expect
+if	if	if
+you	you	you
+scanned	scan	scanned
+the	the	the
+even	even	even
+fields	field	field
+(	(	(
+say	say	say
+)	)	)
+onto	onto	onto
+a	a	a
+sheet	sheet	sheet
+of	of	of
+mylar	mylar	mylar
+and	and	and
+had	had	had
+pinched	pinch	pinched
+the	the	the
+upper	upper	upper
+left	left	left
+corner	corner	corner
+with	with	with
+your	your	your
+fingers	finger	finger
+and	and	and
+started	start	started
+to	to	to
+tear	tear	tear
+it	it	it
+off	off	off
+the	the	the
+tube	tube	tube
+.	.	.
+
+with	with	with
+proper	proper	proper
+composite	composit	composite
+sync	sync	sync
+(	(	(
+equalizing	equal	equalizing
+pulses	puls	pulse
+)	)	)
+the	the	the
+interlace	interlac	interlace
+is	is	is
+rock	rock	rock
+solid	solid	solid
+.	.	.
+
+-	-	-
+-	-	-
+
++	+	+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
++	+	+
+
+!	!	!
+
+ii	ii	ii
+cccccc	cccccc	cccccc
+!	!	!
+
+jim	jim	jim
+cathey	cathey	cathey
+
+!	!	!
+
+ii	ii	ii
+sssscc	sssscc	sssscc
+!	!	!
+
+isc	isc	isc
+-	-	-
+bunker	bunker	bunker
+ramo	ramo	ramo
+
+!	!	!
+
+ii	ii	ii
+cc	cc	cc
+!	!	!
+
+taf	taf	taf
+-	-	-
+c8	c8	c8
+;	;	;
+spokane	spokan	spokane
+,	,	,
+wa	wa	wa
+99220	99220	99220
+
+!	!	!
+
+iissss	iissss	iissss
+cc	cc	cc
+!	!	!
+
+uucp	uucp	uucp
+:	:	:
+uunet	uunet	uunet
+!	!	!
+isc	isc	isc
+-	-	-
+br	br	br
+!	!	!
+jimc	jimc	jimc
+(	(	(
+jimc@isc-br.isc-br.com	jimc@isc-br.isc-br.com	jimc@isc-br.isc-br.com
+)	)	)
+
+!	!	!
+
+ii	ii	ii
+cccccc	cccccc	cccccc
+!	!	!
+
+(	(	(
+509) 927-5757	509) 927-5757	509) 927-5757
+
++	+	+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
++	+	+
+
+one	one	one
+design	design	design
+to	to	to
+rule	rule	rule
+them	them	them
+all	all	all
+;	;	;
+one	one	one
+design	design	design
+to	to	to
+find	find	find
+them	them	them
+.	.	.
+
+one	one	one
+design	design	design
+to	to	to
+bring	bring	bring
+them	them	them
+all	all	all
+and	and	and
+in	in	in
+the	the	the
+darkness	dark	darkness
+bind	bind	bind
+
+them	them	them
+.	.	.
+
+in	in	in
+the	the	the
+land	land	land
+of	of	of
+mediocrity	mediocr	mediocrity
+where	where	where
+the	the	the
+pc	pc	pc
+'	'	'
+s	s	s
+lie	lie	lie
+.	.	.

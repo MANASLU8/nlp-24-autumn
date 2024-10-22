@@ -1,0 +1,52 @@
+from	from	from
+:	:	:
+bob@nntp.crl.com	bob@nntp.crl.com	bob@nntp.crl.com
+(	(	(
+bob	bob	bob
+ames	ame	ames
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+unix	unix	unix
+pc	pc	pc
+software	softwar	software
+for	for	for
+sale	sale	sale
+
+organization	organ	organization
+:	:	:
+crl	crl	crl
+internet	internet	internet
+dialup	dialup	dialup
+access	access	access
+(	(	(
+415	415	415
+-	-	-
+389	389	389
+-	-	-
+unix	unix	unix
+login	login	login
+:	:	:
+guest	guest	guest
+)	)	)
+
+lines	line	line
+:	:	:
+1	1	1
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+crl	crl	crl
+.	.	.
+com	com	com

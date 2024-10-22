@@ -1,0 +1,290 @@
+from	from	from
+:	:	:
+s106275@ee.tut.fi	s106275@ee.tut.fi	s106275@ee.tut.fi
+(	(	(
+anssi	anssi	anssi
+saari	saari	saari
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+80386	80386	80386
+and	and	and
+80486	80486	80486
+:	:	:
+what	what	what
+'	'	'
+s	s	s
+the	the	the
+difference	differ	difference
+?	?	?
+
+organization	organ	organization
+:	:	:
+tampere	tamper	tampere
+university	univers	university
+of	of	of
+technology	technolog	technology
+,	,	,
+computing	comput	computing
+centre	centr	centre
+
+lines	line	line
+:	:	:
+38	38	38
+
+distribution	distribut	distribution
+:	:	:
+inet	inet	inet
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+ee	ee	ee
+.	.	.
+tut	tut	tut
+.	.	.
+fi	fi	fi
+
+in	in	in
+<	<	<
+joedal.735221221@dfi.aau.dk	joedal.735221221@dfi.aau.dk	joedal.735221221@dfi.aau.dk
+>	>	>
+joedal@dfi.aau.dk	joedal@dfi.aau.dk	joedal@dfi.aau.dk
+(	(	(
+lars	lar	lars
+joedal	joedal	joedal
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+except	except	except
+from	from	from
+clock	clock	clock
+frequency	frequenc	frequency
+,	,	,
+what	what	what
+are	are	are
+the	the	the
+differences	differ	difference
+between	between	between
+the	the	the
+
+>	>	>
+various	various	various
+types	type	type
+of	of	of
+386	386	386
+and	and	and
+486	486	486
+processors	processor	processor
+?	?	?
+
+>	>	>
+the	the	the
+following	follow	following
+is	is	is
+a	a	a
+list	list	list
+with	with	with
+what	what	what
+i	i	i
+know	know	know
+(	(	(
+or	or	or
+perhaps	perhap	perhaps
+only	onli	only
+what	what	what
+i	i	i
+
+>	>	>
+think	think	think
+i	i	i
+know	know	know
+!	!	!
+)	)	)
+.	.	.
+
+can	can	can
+anybody	anybodi	anybody
+extend	extend	extend
+&	&	&
+correct	correct	correct
+?	?	?
+
+>	>	>
+80386	80386	80386
+:	:	:
+true	true	true
+32	32	32
+bit	bit	bit
+processor	processor	processor
+.	.	.
+
+>	>	>
+(	(	(
+cache	cach	cache
+?	?	?
+)	)	)
+no	no	no
+cache	cach	cache
+.	.	.
+
+>	>	>
+80386sx	80386sx	80386sx
+:	:	:
+emulates	emul	emulates
+80386	80386	80386
+with	with	with
+a	a	a
+16	16	16
+bit	bit	bit
+bus	bus	bus
+.	.	.
+
+>	>	>
+80486	80486	80486
+:	:	:
+true	true	true
+32	32	32
+bit	bit	bit
+processor	processor	processor
+.	.	.
+
+>	>	>
+internal	intern	internal
+mathematical	mathemat	mathematical
+coprocessor	coprocessor	coprocessor
+(	(	(
+correct	correct	correct
+?	?	?
+)	)	)
+correct	correct	correct
+.	.	.
+
+>	>	>
+internal	intern	internal
+cache	cach	cache
+(	(	(
+correct	correct	correct
+?	?	?
+
+how	how	how
+big	big	big
+?	?	?
+)	)	)
+8kb	8kb	8kb
+.	.	.
+
+>	>	>
+(	(	(
+extended	extend	extended
+instruction	instruct	instruction
+set	set	set
+in	in	in
+any	ani	any
+way	way	way
+?	?	?
+)	)	)
+was	was	wa
+it	it	it
+six	six	six
+instructions	instruct	instruction
+?	?	?
+
+>	>	>
+80486sx	80486sx	80486sx
+:	:	:
+probably	probabl	probably
+sorta	sorta	sorta
+like	like	like
+80486	80486	80486
+.	.	.
+.	.	.
+.	.	.
+
+80486dx	80486dx	80486dx
+without	without	without
+the	the	the
+mathematical	mathemat	mathematical
+coprocessor	coprocessor	coprocessor
+(	(	(
+fpu	fpu	fpu
+)	)	)
+.	.	.
+
+>	>	>
+80486dx	80486dx	80486dx
+:	:	:
+probably	probabl	probably
+sorta	sorta	sorta
+like	like	like
+80386	80386	80386
+.	.	.
+.	.	.
+.	.	.
+
+actually	actual	actually
+,	,	,
+the	the	the
+80486	80486	80486
+you	you	you
+described	describ	described
+above	abov	above
+is	is	is
+80486dx	80486dx	80486dx
+.	.	.
+
+(	(	(
+there	there	there
+is	is	is
+no	no	no
+separate	separ	separate
+80486	80486	80486
+nor	nor	nor
+80386	80386	80386
+,	,	,
+either	either	either
+)	)	)
+.	.	.
+
+this	this	this
+is	is	is
+for	for	for
+intel	intel	intel
+processors	processor	processor
+.	.	.
+
+does	doe	doe
+anyone	anyon	anyone
+have	have	have
+a	a	a
+complete	complet	complete
+list	list	list
+with	with	with
+cyrix	cyrix	cyrix
+and	and	and
+ibm	ibm	ibm
+products	product	product
+?	?	?
+
+anssi	anssi	anssi
+
+-	-	-
+-	-	-
+anssi	anssi	anssi
+saari	saari	saari
+s106275@ee.tut.fi	s106275@ee.tut.fi	s106275@ee.tut.fi
+tampere	tamper	tampere
+university	univers	university
+of	of	of
+technology	technolog	technology
+finland	finland	finland
+,	,	,
+europe	europ	europe

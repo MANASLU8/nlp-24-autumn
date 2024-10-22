@@ -1,0 +1,206 @@
+from	from	from
+:	:	:
+begolej@csgrad.cs.vt.edu	begolej@csgrad.cs.vt.edu	begolej@csgrad.cs.vt.edu
+(	(	(
+james	jame	james
+begole	begol	begole
+)	)	)
+
+subject	subject	subject
+:	:	:
+wincmd	wincmd	wincmd
+-	-	-
+trouble	troubl	trouble
+with	with	with
+string	string	string
+variables	variabl	variable
+
+organization	organ	organization
+:	:	:
+vpi	vpi	vpi
+&	&	&
+su	su	su
+computer	comput	computer
+science	scienc	science
+department	depart	department
+,	,	,
+blacksburg	blacksburg	blacksburg
+,	,	,
+va	va	va
+
+lines	line	line
+:	:	:
+19	19	19
+
+has	has	ha
+anyone	anyon	anyone
+else	els	else
+been	been	been
+playing	play	playing
+with	with	with
+that	that	that
+wincmd	wincmd	wincmd
+utility	util	utility
+from	from	from
+pc	pc	pc
+magazine	magazin	magazine
+?	?	?
+
+if	if	if
+so	so	so
+,	,	,
+i	i	i
+am	am	am
+having	have	having
+trouble	troubl	trouble
+concatenating	concaten	concatenating
+string	string	string
+variables	variabl	variable
+together	togeth	together
+and	and	and
+need	need	need
+your	your	your
+help	help	help
+.	.	.
+
+for	for	for
+example	exampl	example
+:	:	:
+
+temp	temp	temp
+=	=	=
+"	"	"
+path	path	path
+"	"	"
+
+temp2	temp2	temp2
+=	=	=
+"	"	"
+file	file	file
+.	.	.
+ext	ext	ext
+"	"	"
+
+fullpath	fullpath	fullpath
+=	=	=
+temp	temp	temp
++	+	+
+"	"	"
+/	/	/
+"	"	"
+
+say	say	say
+fullpath	fullpath	fullpath
+/	/	/
+/	/	/
+output	output	output
+=	=	=
+'	'	'
+th	th	th
+/	/	/
+'	'	'
+
+fullpath	fullpath	fullpath
+=	=	=
+fullpath	fullpath	fullpath
++	+	+
+temp2	temp2	temp2
+
+say	say	say
+fullpath	fullpath	fullpath
+/	/	/
+/	/	/
+output	output	output
+=	=	=
+'	'	'
+h	h	h
+/	/	/
+file	file	file
+.	.	.
+ext	ext	ext
+'	'	'
+
+so	so	so
+,	,	,
+it	it	it
+seems	seem	seems
+to	to	to
+be	be	be
+dropping	drop	dropping
+the	the	the
+first	first	first
+few	few	few
+characters	charact	character
+with	with	with
+each	each	each
+concatenations	concaten	concatenation
+.	.	.
+
+is	is	is
+it	it	it
+that	that	that
+i	i	i
+am	am	am
+out	out	out
+of	of	of
+memory	memori	memory
+-	-	-
+-	-	-
+i	i	i
+only	onli	only
+have	have	have
+maybe	mayb	maybe
+20	20	20
+variables	variabl	variable
+total	total	total
+-	-	-
+-	-	-
+the	the	the
+article	articl	article
+didn	didn	didn
+'	'	'
+t	t	t
+mention	mention	mention
+memory	memori	memory
+limits	limit	limit
+.	.	.
+
+email	email	email
+me	me	me
+if	if	if
+you	you	you
+have	have	have
+an	an	an
+idea	idea	idea
+or	or	or
+would	would	would
+like	like	like
+to	to	to
+see	see	see
+the	the	the
+actual	actual	actual
+source	sourc	source
+and	and	and
+output	output	output
+.	.	.
+
+thanks	thank	thanks
+for	for	for
+your	your	your
+help	help	help
+.	.	.
+
+-	-	-
+bo	bo	bo
+
+-	-	-
+-	-	-
+
+-	-	-
+-	-	-
+james	jame	james
+"	"	"
+bo	bo	bo
+"	"	"
+begole	begol	begole
+begolej@csgrad.cs.vt.edu	begolej@csgrad.cs.vt.edu	begolej@csgrad.cs.vt.edu

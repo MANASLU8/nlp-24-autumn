@@ -1,0 +1,284 @@
+from	from	from
+:	:	:
+tkelso@afit.af.mil	tkelso@afit.af.mil	tkelso@afit.af.mil
+(	(	(
+ts	ts	t
+kelso	kelso	kelso
+)	)	)
+
+subject	subject	subject
+:	:	:
+two	two	two
+-	-	-
+line	line	line
+orbital	orbit	orbital
+element	element	element
+set	set	set
+:	:	:
+space	space	space
+shuttle	shuttl	shuttle
+
+keywords	keyword	keywords
+:	:	:
+space	space	space
+shuttle	shuttl	shuttle
+,	,	,
+orbital	orbit	orbital
+elements	element	element
+,	,	,
+keplerian	keplerian	keplerian
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+scgraph	scgraph	scgraph
+.	.	.
+afit	afit	afit
+.	.	.
+af	af	af
+.	.	.
+mil	mil	mil
+
+organization	organ	organization
+:	:	:
+air	air	air
+force	forc	force
+institute	institut	institute
+of	of	of
+technology	technolog	technology
+
+lines	line	line
+:	:	:
+21	21	21
+
+the	the	the
+most	most	most
+current	current	current
+orbital	orbit	orbital
+elements	element	element
+from	from	from
+the	the	the
+norad	norad	norad
+two	two	two
+-	-	-
+line	line	line
+element	element	element
+sets	set	set
+are	are	are
+carried	carri	carried
+on	on	on
+the	the	the
+celestial	celesti	celestial
+bbs	bbs	bb
+,	,	,
+(	(	(
+513) 427-0674	513) 427-0674	513) 427-0674
+,	,	,
+and	and	and
+are	are	are
+updated	updat	updated
+daily	daili	daily
+(	(	(
+when	when	when
+possible	possibl	possible
+)	)	)
+.	.	.
+
+documentation	document	documentation
+and	and	and
+tracking	track	tracking
+software	softwar	software
+are	are	are
+also	also	also
+available	avail	available
+on	on	on
+this	this	this
+system	system	system
+.	.	.
+
+as	as	a
+a	a	a
+service	servic	service
+to	to	to
+the	the	the
+satellite	satellit	satellite
+user	user	user
+community	communiti	community
+,	,	,
+the	the	the
+most	most	most
+current	current	current
+elements	element	element
+for	for	for
+the	the	the
+current	current	current
+shuttle	shuttl	shuttle
+mission	mission	mission
+are	are	are
+provided	provid	provided
+below	below	below
+.	.	.
+
+the	the	the
+celestial	celesti	celestial
+bbs	bbs	bb
+may	may	may
+be	be	be
+accessed	access	accessed
+24	24	24
+hours	hour	hour
+/	/	/
+day	day	day
+at	at	at
+300	300	300
+,	,	,
+1200	1200	1200
+,	,	,
+2400	2400	2400
+,	,	,
+4800	4800	4800
+,	,	,
+or	or	or
+9600	9600	9600
+bps	bps	bps
+using	use	using
+8	8	8
+data	data	data
+bits	bit	bit
+,	,	,
+1	1	1
+stop	stop	stop
+bit	bit	bit
+,	,	,
+no	no	no
+parity	pariti	parity
+.	.	.
+
+element	element	element
+sets	set	set
+(	(	(
+also	also	also
+updated	updat	updated
+daily	daili	daily
+)	)	)
+,	,	,
+shuttle	shuttl	shuttle
+elements	element	element
+,	,	,
+and	and	and
+some	some	some
+documentation	document	documentation
+and	and	and
+software	softwar	software
+are	are	are
+also	also	also
+available	avail	available
+via	via	via
+anonymous	anonym	anonymous
+ftp	ftp	ftp
+from	from	from
+archive	archiv	archive
+.	.	.
+afit	afit	afit
+.	.	.
+af	af	af
+.	.	.
+mil	mil	mil
+
+(	(	(
+129	129	129
+.	.	.
+92	92	92
+.	.	.
+1	1	1
+.	.	.
+66	66	66
+)	)	)
+in	in	in
+the	the	the
+directory	directori	directory
+pub	pub	pub
+/	/	/
+space	space	space
+.	.	.
+
+sts	sts	sts
+56     
+1 22621	56     
+1 22621	56     
+1 22621
+u	u	u
+93	93	93
+23	23	23
+a	a	a
+93105	93105	93105
+.	.	.
+06179397	06179397	06179397
+.	.	.
+00044513  00000-0  12649-3 0   230
+2 22621  57	00044513  00000-0  12649-3 0   230
+2 22621  57	00044513  00000-0  12649-3 0   230
+2 22621  57
+.	.	.
+0022	0022	0022
+147	147	147
+.	.	.
+2850 0004246 288	2850 0004246 288	2850 0004246 288
+.	.	.
+7332	7332	7332
+38	38	38
+.	.	.
+0941	0941	0941
+15	15	15
+.	.	.
+92991629  1084
+1993 023	92991629  1084
+1993 023	92991629  1084
+1993 023
+b	b	b
+1	1	1
+22623u	22623u	22623u
+93	93	93
+23	23	23
+b	b	b
+93103	93103	93103
+.	.	.
+37312705	37312705	37312705
+.	.	.
+00041032  00000-0  11888-3 0    86
+2 22623  57	00041032  00000-0  11888-3 0    86
+2 22623  57	00041032  00000-0  11888-3 0    86
+2 22623  57
+.	.	.
+0000	0000	0000
+155	155	155
+.	.	.
+1150 0004422 293	1150 0004422 293	1150 0004422 293
+.	.	.
+4650	4650	4650
+66	66	66
+.	.	.
+5967	5967	5967
+15	15	15
+.	.	.
+92653917   803	92653917   803	92653917   803
+
+-	-	-
+-	-	-
+dr	dr	dr
+ts	ts	t
+kelso	kelso	kelso
+assistant	assist	assistant
+professor	professor	professor
+of	of	of
+space	space	space
+operations	oper	operation
+tkelso@afit.af.mil	tkelso@afit.af.mil	tkelso@afit.af.mil
+air	air	air
+force	forc	force
+institute	institut	institute
+of	of	of
+technology	technolog	technology

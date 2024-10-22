@@ -1,0 +1,3919 @@
+from	from	from
+:	:	:
+shavlik@cs.wisc.edu	shavlik@cs.wisc.edu	shavlik@cs.wisc.edu
+(	(	(
+jude	jude	jude
+shavlik	shavlik	shavlik
+)	)	)
+
+subject	subject	subject
+:	:	:
+program	program	program
+&	&	&
+reg	reg	reg
+forms	form	form
+:	:	:
+1st	1st	1st
+int	int	int
+conf	conf	conf
+on	on	on
+intell	intel	intell
+sys	sys	sys
+for	for	for
+molecular	molecular	molecular
+biology	biolog	biology
+
+keywords	keyword	keywords
+:	:	:
+computational	comput	computational
+biology	biolog	biology
+,	,	,
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+
+organization	organ	organization
+:	:	:
+u	u	u
+of	of	of
+wisconsin	wisconsin	wisconsin
+cs	cs	c
+dept	dept	dept
+
+lines	line	line
+:	:	:
+482	482	482
+
+[	[	[
+for	for	for
+those	those	those
+attending	attend	attending
+the	the	the
+aaai	aaai	aaai
+conf	conf	conf
+this	this	this
+summer	summer	summer
+,	,	,
+note	note	note
+that	that	that
+this	this	this
+conference	confer	conference
+is	is	is
+immediately	immedi	immediately
+preceding	preced	preceding
+it	it	it
+.	.	.
+]	]	]
+
+preliminary	preliminari	preliminary
+program	program	program
+and	and	and
+registration	registr	registration
+materials	materi	material
+
+first	first	first
+international	intern	international
+conference	confer	conference
+on	on	on
+
+intelligent	intellig	intelligent
+systems	system	system
+for	for	for
+molecular	molecular	molecular
+biology	biolog	biology
+
+washington	washington	washington
+,	,	,
+d	d	d
+.	.	.
+c	c	c
+.	.	.
+
+july	juli	july
+6	6	6
+-	-	-
+9	9	9
+,	,	,
+1993	1993	1993
+
+sponsored	sponsor	sponsored
+by	by	by
+:	:	:
+
+the	the	the
+national	nation	national
+institutes	institut	institute
+of	of	of
+health	health	health
+,	,	,
+
+national	nation	national
+library	librari	library
+of	of	of
+medicine	medicin	medicine
+
+the	the	the
+department	depart	department
+of	of	of
+energy	energi	energy
+,	,	,
+
+office	offic	office
+of	of	of
+health	health	health
+and	and	and
+environmental	environment	environmental
+research	research	research
+
+the	the	the
+biomatrix	biomatrix	biomatrix
+society	societi	society
+
+the	the	the
+american	american	american
+association	associ	association
+for	for	for
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+(	(	(
+aaai	aaai	aaai
+)	)	)
+
+poster	poster	poster
+session	session	session
+and	and	and
+tutorials	tutori	tutorial
+:	:	:
+
+bethesda	bethesda	bethesda
+ramada	ramada	ramada
+hotel	hotel	hotel
+
+technical	technic	technical
+sessions	session	session
+:	:	:
+
+lister	lister	lister
+hill	hill	hill
+center	center	center
+auditorium	auditorium	auditorium
+,	,	,
+national	nation	national
+library	librari	library
+of	of	of
+medicine	medicin	medicine
+
+for	for	for
+more	more	more
+information	inform	information
+contact	contact	contact
+ismb@nlm.nih.gov	ismb@nlm.nih.gov	ismb@nlm.nih.gov
+or	or	or
+fax	fax	fax
+(	(	(
+608)262-9777	608)262-9777	608)262-9777
+
+purpose	purpos	purpose
+this	this	this
+,	,	,
+the	the	the
+first	first	first
+international	intern	international
+conference	confer	conference
+on	on	on
+intelligent	intellig	intelligent
+systems	system	system
+for	for	for
+molecular	molecular	molecular
+biology	biolog	biology
+,	,	,
+is	is	is
+the	the	the
+inaugural	inaugur	inaugural
+meeting	meet	meeting
+in	in	in
+a	a	a
+series	seri	series
+intended	intend	intended
+to	to	to
+bring	bring	bring
+together	togeth	together
+scientists	scientist	scientist
+who	who	who
+are	are	are
+applying	appli	applying
+the	the	the
+technologies	technolog	technology
+of	of	of
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+,	,	,
+robotics	robot	robotics
+,	,	,
+machine	machin	machine
+learning	learn	learning
+,	,	,
+massively	massiv	massively
+parallel	parallel	parallel
+computing	comput	computing
+,	,	,
+advanced	advanc	advanced
+data	data	data
+modelling	model	modelling
+,	,	,
+and	and	and
+related	relat	related
+methods	method	method
+to	to	to
+problems	problem	problem
+in	in	in
+molecular	molecular	molecular
+biology	biolog	biology
+.	.	.
+
+the	the	the
+scope	scope	scope
+extends	extend	extends
+to	to	to
+any	ani	any
+computational	comput	computational
+or	or	or
+robotic	robot	robotic
+system	system	system
+supporting	support	supporting
+a	a	a
+biological	biolog	biological
+task	task	task
+that	that	that
+is	is	is
+cognitively	cognit	cognitively
+challenging	challeng	challenging
+,	,	,
+involves	involv	involves
+a	a	a
+synthesis	synthesi	synthesis
+of	of	of
+information	inform	information
+from	from	from
+multiple	multipl	multiple
+sources	sourc	source
+at	at	at
+multiple	multipl	multiple
+levels	level	level
+,	,	,
+or	or	or
+in	in	in
+some	some	some
+other	other	other
+way	way	way
+exhibits	exhibit	exhibit
+the	the	the
+abstraction	abstract	abstraction
+and	and	and
+emergent	emerg	emergent
+properties	properti	property
+of	of	of
+an	an	an
+"	"	"
+intelligent	intellig	intelligent
+system	system	system
+.	.	.
+"	"	"
+
+facilities	facil	facility
+the	the	the
+conference	confer	conference
+will	will	will
+be	be	be
+held	held	held
+at	at	at
+
+lister	lister	lister
+hill	hill	hill
+center	center	center
+
+national	nation	national
+library	librari	library
+of	of	of
+medicine	medicin	medicine
+
+8600	8600	8600
+rockville	rockvill	rockville
+pike	pike	pike
+
+nih	nih	nih
+,	,	,
+building	build	building
+38a	38a	38a
+
+bethesda	bethesda	bethesda
+md	md	md
+20894	20894	20894
+seating	seat	seating
+in	in	in
+the	the	the
+conference	confer	conference
+center	center	center
+is	is	is
+strictly	strict	strictly
+limited	limit	limited
+,	,	,
+so	so	so
+registrations	registr	registration
+will	will	will
+be	be	be
+accepted	accept	accepted
+on	on	on
+a	a	a
+first	first	first
+-	-	-
+come	come	come
+,	,	,
+first	first	first
+-	-	-
+serve	serv	serve
+basis	basi	basis
+.	.	.
+
+accomodations	accomod	accomodations
+,	,	,
+as	as	a
+well	well	well
+as	as	a
+a	a	a
+reception	recept	reception
+and	and	and
+poster	poster	poster
+session	session	session
+,	,	,
+will	will	will
+be	be	be
+at	at	at
+the	the	the
+
+bethesda	bethesda	bethesda
+ramada	ramada	ramada
+hotel	hotel	hotel
+
+8400	8400	8400
+wisconsin	wisconsin	wisconsin
+avenue	avenu	avenue
+
+bethesda	bethesda	bethesda
+md	md	md
+20814	20814	20814
+a	a	a
+special	special	special
+room	room	room
+rate	rate	rate
+has	has	ha
+been	been	been
+negotiated	negoti	negotiated
+with	with	with
+the	the	the
+hotel	hotel	hotel
+,	,	,
+of	of	of
+$	$	$
+92	92	92
+/	/	/
+day	day	day
+
+(	(	(
+expires	expir	expires
+6	6	6
+/	/	/
+21	21	21
+)	)	)
+.	.	.
+
+attendees	attende	attendee
+must	must	must
+make	make	make
+their	their	their
+own	own	own
+reservations	reserv	reservation
+,	,	,
+by	by	by
+writing	write	writing
+the	the	the
+hotel	hotel	hotel
+or	or	or
+calling	call	calling
+(	(	(
+800)331-5252	800)331-5252	800)331-5252
+and	and	and
+mentioning	mention	mentioning
+the	the	the
+ismb	ismb	ismb
+conference	confer	conference
+.	.	.
+
+to	to	to
+participate	particip	participate
+in	in	in
+a	a	a
+roommate	roommat	roommate
+-	-	-
+matching	match	matching
+service	servic	service
+,	,	,
+e	e	e
+-	-	-
+mail	mail	mail
+opitz@cs.wisc.edu	opitz@cs.wisc.edu	opitz@cs.wisc.edu
+.	.	.
+
+transportation	transport	transportation
+the	the	the
+two	two	two
+facilities	facil	facility
+are	are	are
+within	within	within
+easy	easi	easy
+walking	walk	walking
+distance	distanc	distance
+,	,	,
+convenient	conveni	convenient
+to	to	to
+the	the	the
+subway	subway	subway
+(	(	(
+metro	metro	metro
+red	red	red
+line	line	line
+,	,	,
+medical	medic	medical
+center	center	center
+stop	stop	stop
+)	)	)
+,	,	,
+and	and	and
+from	from	from
+there	there	there
+to	to	to
+the	the	the
+amtrak	amtrak	amtrak
+station	station	station
+.	.	.
+
+nearby	nearbi	nearby
+airports	airport	airport
+include	includ	include
+dulles	dull	dulles
+,	,	,
+national	nation	national
+,	,	,
+and	and	and
+baltimore	baltimor	baltimore
+-	-	-
+washington	washington	washington
+international	intern	international
+.	.	.
+
+proceedings	proceed	proceeding
+full	full	full
+-	-	-
+length	length	length
+papers	paper	paper
+from	from	from
+both	both	both
+talks	talk	talk
+and	and	and
+posters	poster	poster
+will	will	will
+be	be	be
+published	publish	published
+in	in	in
+archival	archiv	archival
+proceedings	proceed	proceeding
+.	.	.
+
+the	the	the
+citation	citat	citation
+is	is	is
+:	:	:
+
+proceedings	proceed	proceeding
+of	of	of
+the	the	the
+first	first	first
+international	intern	international
+
+conference	confer	conference
+on	on	on
+intelligent	intellig	intelligent
+systems	system	system
+for	for	for
+
+molecular	molecular	molecular
+biology	biolog	biology
+(	(	(
+eds	ed	ed
+.	.	.
+l	l	l
+.	.	.
+hunter	hunter	hunter
+,	,	,
+
+d	d	d
+.	.	.
+
+searls	searl	searls
+,	,	,
+and	and	and
+j	j	j
+.	.	.
+
+shavlik	shavlik	shavlik
+)	)	)
+aaai	aaai	aaai
+/	/	/
+mit	mit	mit
+
+press	press	press
+,	,	,
+menlo	menlo	menlo
+park	park	park
+ca	ca	ca
+,	,	,
+1993	1993	1993
+.	.	.
+
+copies	copi	copy
+will	will	will
+be	be	be
+distributed	distribut	distributed
+at	at	at
+the	the	the
+conference	confer	conference
+to	to	to
+registered	regist	registered
+attendees	attende	attendee
+,	,	,
+and	and	and
+will	will	will
+be	be	be
+available	avail	available
+for	for	for
+purchase	purchas	purchase
+from	from	from
+the	the	the
+publisher	publish	publisher
+afterwards	afterward	afterwards
+.	.	.
+
+talks	talk	talk
+wednesday	wednesday	wednesday
+,	,	,
+july	juli	july
+7	7	7
+,	,	,
+1993	1993	1993
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+8	8	8
+:	:	:
+00	00	00
+-	-	-
+9:00am	9:00am	9:00am
+continental	continent	continental
+breakfast	breakfast	breakfast
+
+9	9	9
+:	:	:
+00	00	00
+-	-	-
+9:15am	9:15am	9:15am
+opening	open	opening
+remarks	remark	remark
+
+9	9	9
+:	:	:
+15	15	15
+-	-	-
+10:30am	10:30am	10:30am
+invited	invit	invited
+talk	talk	talk
+
+"	"	"
+statistics	statist	statistic
+,	,	,
+protein	protein	protein
+cores	core	core
+,	,	,
+and	and	and
+predicted	predict	predicted
+structures	structur	structure
+"	"	"
+
+prof	prof	prof
+.	.	.
+
+temple	templ	temple
+smith	smith	smith
+(	(	(
+boston	boston	boston
+university	univers	university
+)	)	)
+
+10	10	10
+:	:	:
+30	30	30
+-	-	-
+11:00am	11:00am	11:00am
+break	break	break
+
+11:00am	11:00am	11:00am
+"	"	"
+constructive	construct	constructive
+induction	induct	induction
+and	and	and
+protein	protein	protein
+structure	structur	structure
+prediction	predict	prediction
+"	"	"
+
+t	t	t
+.	.	.
+r	r	r
+.	.	.
+ioerger	ioerger	ioerger
+,	,	,
+l	l	l
+.	.	.
+
+rendell	rendel	rendell
+,	,	,
+&	&	&
+s	s	s
+.	.	.
+
+surbramaniam	surbramaniam	surbramaniam
+
+11:30am	11:30am	11:30am
+"	"	"
+protein	protein	protein
+secondary	secondari	secondary
+-	-	-
+structure	structur	structure
+modeling	model	modeling
+with	with	with
+probabilistic	probabilist	probabilistic
+
+networks	network	network
+"	"	"
+a	a	a
+.	.	.
+l	l	l
+.	.	.
+delcher	delcher	delcher
+,	,	,
+s	s	s
+.	.	.
+
+kasif	kasif	kasif
+,	,	,
+h	h	h
+.	.	.
+r	r	r
+.	.	.
+goldberg	goldberg	goldberg
+,	,	,
+&	&	&
+w	w	w
+.	.	.
+
+hsu	hsu	hsu
+
+12	12	12
+:	:	:
+00	00	00
+-	-	-
+1:30pm	1:30pm	1:30pm
+lunch	lunch	lunch
+
+1:30pm	1:30pm	1:30pm
+"	"	"
+protein	protein	protein
+secondary	secondari	secondary
+structure	structur	structure
+using	use	using
+two	two	two
+-	-	-
+level	level	level
+case	case	case
+-	-	-
+based	base	based
+
+reasoning	reason	reasoning
+"	"	"
+b	b	b
+.	.	.
+
+leng	leng	leng
+,	,	,
+b	b	b
+.	.	.
+g	g	g
+.	.	.
+buchanan	buchanan	buchanan
+,	,	,
+&	&	&
+h	h	h
+.	.	.
+b	b	b
+.	.	.
+nicholas	nichola	nicholas
+
+2:00pm	2:00pm	2:00pm
+"	"	"
+automatic	automat	automatic
+derivation	deriv	derivation
+of	of	of
+substructures	substructur	substructure
+yields	yield	yield
+novel	novel	novel
+
+structural	structur	structural
+building	build	building
+blocks	block	block
+in	in	in
+globular	globular	globular
+proteins	protein	protein
+"	"	"
+
+x	x	x
+.	.	.
+
+zhang	zhang	zhang
+,	,	,
+j	j	j
+.	.	.
+s	s	s
+.	.	.
+fetrow	fetrow	fetrow
+,	,	,
+w	w	w
+.	.	.
+a	a	a
+.	.	.
+rennie	renni	rennie
+,	,	,
+d	d	d
+.	.	.
+l	l	l
+.	.	.
+waltz	waltz	waltz
+,	,	,
+&	&	&
+g	g	g
+.	.	.
+
+berg	berg	berg
+
+2:30pm	2:30pm	2:30pm
+"	"	"
+using	use	using
+dirichlet	dirichlet	dirichlet
+mixture	mixtur	mixture
+priors	prior	prior
+to	to	to
+derive	deriv	derive
+hidden	hidden	hidden
+markov	markov	markov
+
+models	model	model
+for	for	for
+protein	protein	protein
+families	famili	family
+"	"	"
+m	m	m
+.	.	.
+
+brown	brown	brown
+,	,	,
+r	r	r
+.	.	.
+
+hughey	hughey	hughey
+,	,	,
+a	a	a
+.	.	.
+
+krogh	krogh	krogh
+,	,	,
+
+i	i	i
+.	.	.
+s	s	s
+.	.	.
+mian	mian	mian
+,	,	,
+k	k	k
+.	.	.
+
+sjolander	sjoland	sjolander
+,	,	,
+&	&	&
+d	d	d
+.	.	.
+
+haussler	haussler	haussler
+
+3	3	3
+:	:	:
+00	00	00
+-	-	-
+3:30pm	3:30pm	3:30pm
+break	break	break
+
+3:30pm	3:30pm	3:30pm
+"	"	"
+protein	protein	protein
+classification	classif	classification
+using	use	using
+neural	neural	neural
+networks	network	network
+"	"	"
+
+e	e	e
+.	.	.
+a	a	a
+.	.	.
+ferran	ferran	ferran
+,	,	,
+b	b	b
+.	.	.
+
+pflugfelder	pflugfeld	pflugfelder
+,	,	,
+&	&	&
+p	p	p
+.	.	.
+
+ferrara	ferrara	ferrara
+
+4:00pm	4:00pm	4:00pm
+"	"	"
+neural	neural	neural
+networks	network	network
+for	for	for
+molecular	molecular	molecular
+sequence	sequenc	sequence
+classification	classif	classification
+"	"	"
+
+c	c	c
+.	.	.
+
+wu	wu	wu
+,	,	,
+m	m	m
+.	.	.
+
+berry	berri	berry
+,	,	,
+y	y	y
+-	-	-
+s	s	s
+.	.	.
+
+fung	fung	fung
+,	,	,
+&	&	&
+j	j	j
+.	.	.
+
+mclarty	mclarti	mclarty
+
+4:30pm	4:30pm	4:30pm
+"	"	"
+computationally	comput	computationally
+efficient	effici	efficient
+cluster	cluster	cluster
+representation	represent	representation
+in	in	in
+
+molecular	molecular	molecular
+sequence	sequenc	sequence
+megaclassification	megaclassif	megaclassification
+"	"	"
+d	d	d
+.	.	.
+j	j	j
+.	.	.
+states	state	state
+,	,	,
+n	n	n
+.	.	.
+
+harris	harri	harris
+,	,	,
+
+&	&	&
+l	l	l
+.	.	.
+
+hunter	hunter	hunter
+
+7	7	7
+:	:	:
+00	00	00
+-	-	-
+7:30pm	7:30pm	7:30pm
+poster	poster	poster
+setup	setup	setup
+7	7	7
+:	:	:
+30	30	30
+-	-	-
+10:00pm	10:00pm	10:00pm
+reception	recept	reception
+&	&	&
+poster	poster	poster
+session	session	session
+
+thursday	thursday	thursday
+,	,	,
+july	juli	july
+8	8	8
+,	,	,
+1993	1993	1993
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+8	8	8
+:	:	:
+00	00	00
+-	-	-
+9:00am	9:00am	9:00am
+continental	continent	continental
+breakfast	breakfast	breakfast
+
+9	9	9
+:	:	:
+00	00	00
+-	-	-
+10:15am	10:15am	10:15am
+invited	invit	invited
+talk	talk	talk
+
+"	"	"
+large	larg	large
+-	-	-
+scale	scale	scale
+dna	dna	dna
+sequencing	sequenc	sequencing
+:	:	:
+a	a	a
+tale	tale	tale
+of	of	of
+mice	mice	mouse
+and	and	and
+men	men	men
+"	"	"
+
+prof	prof	prof
+.	.	.
+
+leroy	leroy	leroy
+hood	hood	hood
+(	(	(
+university	univers	university
+of	of	of
+washington	washington	washington
+)	)	)
+
+10	10	10
+:	:	:
+15	15	15
+-	-	-
+10:45am	10:45am	10:45am
+break	break	break
+
+10:45am	10:45am	10:45am
+"	"	"
+pattern	pattern	pattern
+recognition	recognit	recognition
+for	for	for
+automated	autom	automated
+dna	dna	dna
+sequencing	sequenc	sequencing
+:	:	:
+
+i	i	i
+.	.	.
+
+on	on	on
+-	-	-
+line	line	line
+signal	signal	signal
+conditioning	condit	conditioning
+and	and	and
+feature	featur	feature
+extraction	extract	extraction
+for	for	for
+
+basecalling	basecal	basecalling
+"	"	"
+j	j	j
+.	.	.
+b	b	b
+.	.	.
+bolden	bolden	bolden
+iii	iii	iii
+,	,	,
+d	d	d
+.	.	.
+
+torgersen	torgersen	torgersen
+,	,	,
+&	&	&
+c	c	c
+.	.	.
+
+tibbetts	tibbett	tibbetts
+
+11:15am	11:15am	11:15am
+"	"	"
+genetic	genet	genetic
+algorithms	algorithm	algorithm
+for	for	for
+sequence	sequenc	sequence
+assembly	assembl	assembly
+"	"	"
+
+r	r	r
+.	.	.
+
+parsons	parson	parson
+,	,	,
+s	s	s
+.	.	.
+
+forrest	forrest	forrest
+,	,	,
+&	&	&
+c	c	c
+.	.	.
+
+burks	burk	burk
+
+11:45am	11:45am	11:45am
+"	"	"
+a	a	a
+partial	partial	partial
+digest	digest	digest
+approach	approach	approach
+to	to	to
+restriction	restrict	restriction
+site	site	site
+mapping	map	mapping
+"	"	"
+
+s	s	s
+.	.	.
+s	s	s
+.	.	.
+skiena	skiena	skiena
+&	&	&
+g	g	g
+.	.	.
+
+sundaram	sundaram	sundaram
+
+12	12	12
+:	:	:
+15	15	15
+-	-	-
+2:00pm	2:00pm	2:00pm
+lunch	lunch	lunch
+
+2:00pm	2:00pm	2:00pm
+"	"	"
+integrating	integr	integrating
+order	order	order
+and	and	and
+distance	distanc	distance
+relationships	relationship	relationship
+from	from	from
+
+heterogeneous	heterogen	heterogeneous
+maps	map	map
+"	"	"
+m	m	m
+.	.	.
+
+graves	grave	graf
+
+2:30pm	2:30pm	2:30pm
+"	"	"
+discovering	discov	discovering
+sequence	sequenc	sequence
+similarity	similar	similarity
+by	by	by
+the	the	the
+algorithmic	algorithm	algorithmic
+
+significance	signific	significance
+method	method	method
+"	"	"
+a	a	a
+.	.	.
+
+milosavljevic	milosavljev	milosavljevic
+
+3:00pm	3:00pm	3:00pm
+"	"	"
+identification	identif	identification
+of	of	of
+human	human	human
+gene	gene	gene
+functional	function	functional
+regions	region	region
+based	base	based
+on	on	on
+
+oligonucleotide	oligonucleotid	oligonucleotide
+composition	composit	composition
+"	"	"
+v	v	v
+.	.	.
+v	v	v
+.	.	.
+solovyev	solovyev	solovyev
+&	&	&
+c	c	c
+.	.	.
+b	b	b
+.	.	.
+lawrence	lawrenc	lawrence
+
+3:30pm	3:30pm	3:30pm
+"	"	"
+knowledge	knowledg	knowledge
+discovery	discoveri	discovery
+in	in	in
+genbank	genbank	genbank
+"	"	"
+
+j	j	j
+.	.	.
+s	s	s
+.	.	.
+aaronson	aaronson	aaronson
+,	,	,
+j	j	j
+.	.	.
+
+haas	haa	haas
+,	,	,
+&	&	&
+g	g	g
+.	.	.
+c	c	c
+.	.	.
+overton	overton	overton
+
+4	4	4
+:	:	:
+00	00	00
+-	-	-
+4:30pm	4:30pm	4:30pm
+break	break	break
+
+4:30pm	4:30pm	4:30pm
+"	"	"
+an	an	an
+expert	expert	expert
+system	system	system
+to	to	to
+generate	generat	generate
+machine	machin	machine
+learning	learn	learning
+
+experiments	experi	experiment
+:	:	:
+learning	learn	learning
+with	with	with
+dna	dna	dna
+crystallography	crystallographi	crystallography
+data	data	data
+"	"	"
+
+d	d	d
+.	.	.
+
+cohen	cohen	cohen
+,	,	,
+c	c	c
+.	.	.
+
+kulikowski	kulikowski	kulikowski
+,	,	,
+&	&	&
+h	h	h
+.	.	.
+
+berman	berman	berman
+
+5:00pm	5:00pm	5:00pm
+"	"	"
+detection	detect	detection
+of	of	of
+correlations	correl	correlation
+in	in	in
+trna	trna	trna
+sequences	sequenc	sequence
+with	with	with
+
+structural	structur	structural
+implications	implic	implication
+"	"	"
+t	t	t
+.	.	.
+m	m	m
+.	.	.
+klingler	klingler	klingler
+&	&	&
+d	d	d
+.	.	.
+
+brutlag	brutlag	brutlag
+
+5:30pm	5:30pm	5:30pm
+"	"	"
+probabilistic	probabilist	probabilistic
+structure	structur	structure
+calculations	calcul	calculation
+:	:	:
+a	a	a
+three	three	three
+-	-	-
+
+dimensional	dimension	dimensional
+trna	trna	trna
+structure	structur	structure
+from	from	from
+sequence	sequenc	sequence
+correlation	correl	correlation
+data	data	data
+"	"	"
+
+r	r	r
+.	.	.
+b	b	b
+.	.	.
+altman	altman	altman
+
+friday	friday	friday
+,	,	,
+july	juli	july
+9	9	9
+,	,	,
+1993	1993	1993
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+8	8	8
+:	:	:
+00	00	00
+-	-	-
+9:00am	9:00am	9:00am
+continental	continent	continental
+breakfast	breakfast	breakfast
+
+9	9	9
+:	:	:
+00	00	00
+-	-	-
+10:15am	10:15am	10:15am
+invited	invit	invited
+talk	talk	talk
+
+"	"	"
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+and	and	and
+a	a	a
+grand	grand	grand
+unified	unifi	unified
+theory	theori	theory
+of	of	of
+
+biochemistry	biochemistri	biochemistry
+"	"	"
+prof	prof	prof
+.	.	.
+
+harold	harold	harold
+morowitz	morowitz	morowitz
+(	(	(
+george	georg	george
+mason	mason	mason
+university	univers	university
+)	)	)
+
+10	10	10
+:	:	:
+15	15	15
+-	-	-
+10:45am	10:45am	10:45am
+break	break	break
+
+10:45am	10:45am	10:45am
+"	"	"
+testing	test	testing
+hiv	hiv	hiv
+molecular	molecular	molecular
+biology	biolog	biology
+in	in	in
+in	in	in
+silico	silico	silico
+physiologies	physiolog	physiology
+"	"	"
+
+h	h	h
+.	.	.
+b	b	b
+.	.	.
+sieburg	sieburg	sieburg
+&	&	&
+c	c	c
+.	.	.
+
+baray	baray	baray
+
+11:15am	11:15am	11:15am
+"	"	"
+identification	identif	identification
+of	of	of
+localized	local	localized
+and	and	and
+distributed	distribut	distributed
+bottlenecks	bottleneck	bottleneck
+
+in	in	in
+metabolic	metabol	metabolic
+pathways	pathway	pathway
+"	"	"
+m	m	m
+.	.	.
+l	l	l
+.	.	.
+mavrovouniotis	mavrovounioti	mavrovouniotis
+
+11:45am	11:45am	11:45am
+"	"	"
+fine	fine	fine
+-	-	-
+grain	grain	grain
+databases	databas	database
+for	for	for
+pattern	pattern	pattern
+discovery	discoveri	discovery
+in	in	in
+gene	gene	gene
+
+regulation	regul	regulation
+"	"	"
+s	s	s
+.	.	.
+m	m	m
+.	.	.
+veretnik	veretnik	veretnik
+&	&	&
+b	b	b
+.	.	.
+r	r	r
+.	.	.
+schatz	schatz	schatz
+
+12	12	12
+:	:	:
+15	15	15
+-	-	-
+2:00pm	2:00pm	2:00pm
+lunch	lunch	lunch
+
+2:00pm	2:00pm	2:00pm
+"	"	"
+representation	represent	representation
+for	for	for
+discovery	discoveri	discovery
+of	of	of
+protein	protein	protein
+motifs	motif	motif
+"	"	"
+
+d	d	d
+.	.	.
+
+conklin	conklin	conklin
+,	,	,
+s	s	s
+.	.	.
+
+fortier	fortier	fortier
+,	,	,
+&	&	&
+j	j	j
+.	.	.
+
+glasgow	glasgow	glasgow
+
+2:30pm	2:30pm	2:30pm
+"	"	"
+finding	find	finding
+relevant	relev	relevant
+biomolecular	biomolecular	biomolecular
+features	featur	feature
+"	"	"
+
+l	l	l
+.	.	.
+
+hunter	hunter	hunter
+&	&	&
+t	t	t
+.	.	.
+
+klein	klein	klein
+
+3:00pm	3:00pm	3:00pm
+"	"	"
+database	databas	database
+techniques	techniqu	technique
+for	for	for
+biological	biolog	biological
+materials	materi	material
+and	and	and
+
+methods	method	method
+"	"	"
+k	k	k
+.	.	.
+
+baclawski	baclawski	baclawski
+,	,	,
+r	r	r
+.	.	.
+
+futrelle	futrell	futrelle
+,	,	,
+n	n	n
+.	.	.
+
+fridman	fridman	fridman
+,	,	,
+
+&	&	&
+m	m	m
+.	.	.
+j	j	j
+.	.	.
+pescitelli	pescitelli	pescitelli
+
+3:30pm	3:30pm	3:30pm
+"	"	"
+a	a	a
+multi	multi	multi
+-	-	-
+level	level	level
+description	descript	description
+scheme	scheme	scheme
+of	of	of
+protein	protein	protein
+
+conformation	conform	conformation
+"	"	"
+k	k	k
+.	.	.
+
+onizuka	onizuka	onizuka
+,	,	,
+k	k	k
+.	.	.
+
+asai	asai	asai
+,	,	,
+m	m	m
+.	.	.
+
+ishikawa	ishikawa	ishikawa
+,	,	,
+&	&	&
+s	s	s
+.	.	.
+t	t	t
+.	.	.
+c	c	c
+.	.	.
+wong	wong	wong
+
+4	4	4
+:	:	:
+00	00	00
+-	-	-
+4:30pm	4:30pm	4:30pm
+break	break	break
+
+4:30pm	4:30pm	4:30pm
+"	"	"
+protein	protein	protein
+topology	topolog	topology
+prediction	predict	prediction
+through	through	through
+parallel	parallel	parallel
+constraint	constraint	constraint
+
+logic	logic	logic
+programming	program	programming
+"	"	"
+d	d	d
+.	.	.
+a	a	a
+.	.	.
+clark	clark	clark
+,	,	,
+c	c	c
+.	.	.
+j	j	j
+.	.	.
+rawlings	rawl	rawlings
+,	,	,
+j	j	j
+.	.	.
+
+shirazi	shirazi	shirazi
+,	,	,
+
+a	a	a
+.	.	.
+
+veron	veron	veron
+,	,	,
+&	&	&
+m	m	m
+.	.	.
+
+reeve	reev	reeve
+
+5:30pm	5:30pm	5:30pm
+"	"	"
+a	a	a
+constraint	constraint	constraint
+reasoning	reason	reasoning
+system	system	system
+for	for	for
+automating	autom	automating
+sequence	sequenc	sequence
+-	-	-
+
+specific	specif	specific
+resonance	reson	resonance
+assignments	assign	assignment
+in	in	in
+multidimensional	multidimension	multidimensional
+protein	protein	protein
+
+nmr	nmr	nmr
+spectra	spectra	spectrum
+"	"	"
+d	d	d
+.	.	.
+
+zimmerman	zimmerman	zimmerman
+,	,	,
+c	c	c
+.	.	.
+
+kulikowski	kulikowski	kulikowski
+,	,	,
+&	&	&
+g	g	g
+.	.	.
+t	t	t
+.	.	.
+montelione	montelion	montelione
+
+5	5	5
+:	:	:
+30	30	30
+-	-	-
+5:45pm	5:45pm	5:45pm
+closing	close	closing
+remarks	remark	remark
+
+poster	poster	poster
+session	session	session
+the	the	the
+following	follow	following
+posters	poster	poster
+will	will	will
+be	be	be
+on	on	on
+display	display	display
+at	at	at
+the	the	the
+bethesda	bethesda	bethesda
+ramada	ramada	ramada
+hotel	hotel	hotel
+from	from	from
+7	7	7
+:	:	:
+30	30	30
+-	-	-
+10:00pm	10:00pm	10:00pm
+,	,	,
+wednesday	wednesday	wednesday
+,	,	,
+july	juli	july
+7	7	7
+.	.	.
+
+[	[	[
+1	1	1
+]	]	]
+"	"	"
+the	the	the
+induction	induct	induction
+of	of	of
+rules	rule	rule
+for	for	for
+predicting	predict	predicting
+chemical	chemic	chemical
+
+carcinogenesis	carcinogenesi	carcinogenesis
+in	in	in
+rodents	rodent	rodent
+"	"	"
+d	d	d
+.	.	.
+
+bahler	bahler	bahler
+&	&	&
+d	d	d
+.	.	.
+
+bristol	bristol	bristol
+
+[	[	[
+2	2	2
+]	]	]
+"	"	"
+senex	senex	senex
+:	:	:
+a	a	a
+clos	clos	clos
+/	/	/
+clim	clim	clim
+application	applic	application
+for	for	for
+molecular	molecular	molecular
+pathology	patholog	pathology
+"	"	"
+
+s	s	s
+.	.	.
+s	s	s
+.	.	.
+ball	ball	ball
+&	&	&
+v	v	v
+.	.	.
+h	h	h
+.	.	.
+mah	mah	mah
+
+[	[	[
+3	3	3
+]	]	]
+"	"	"
+flash	flash	flash
+:	:	:
+a	a	a
+fast	fast	fast
+look	look	look
+-	-	-
+up	up	up
+algorithm	algorithm	algorithm
+for	for	for
+string	string	string
+homology	homolog	homology
+"	"	"
+
+a	a	a
+.	.	.
+
+califano	califano	califano
+&	&	&
+i	i	i
+.	.	.
+
+rigoutsos	rigoutso	rigoutsos
+
+[	[	[
+4	4	4
+]	]	]
+"	"	"
+toward	toward	toward
+multi	multi	multi
+-	-	-
+strategy	strategi	strategy
+parallel	parallel	parallel
+learning	learn	learning
+in	in	in
+sequence	sequenc	sequence
+
+analysis	analysi	analysis
+"	"	"
+p	p	p
+.	.	.
+k	k	k
+.	.	.
+chan	chan	chan
+&	&	&
+s	s	s
+.	.	.
+j	j	j
+.	.	.
+stolfo	stolfo	stolfo
+
+[	[	[
+5	5	5
+]	]	]
+"	"	"
+protein	protein	protein
+structure	structur	structure
+prediction	predict	prediction
+:	:	:
+selecting	select	selecting
+salient	salient	salient
+features	featur	feature
+
+from	from	from
+large	larg	large
+candidate	candid	candidate
+pools	pool	pool
+"	"	"
+k	k	k
+.	.	.
+j	j	j
+.	.	.
+cherkauer	cherkauer	cherkauer
+&	&	&
+j	j	j
+.	.	.
+w	w	w
+.	.	.
+shavlik	shavlik	shavlik
+
+[	[	[
+6	6	6
+]	]	]
+"	"	"
+comparison	comparison	comparison
+of	of	of
+two	two	two
+approaches	approach	approach
+to	to	to
+the	the	the
+prediction	predict	prediction
+of	of	of
+protein	protein	protein
+
+folding	fold	folding
+patterns	pattern	pattern
+"	"	"
+i	i	i
+.	.	.
+
+dubchak	dubchak	dubchak
+,	,	,
+s	s	s
+.	.	.
+r	r	r
+.	.	.
+holbrook	holbrook	holbrook
+,	,	,
+&	&	&
+s	s	s
+.	.	.
+-	-	-
+h	h	h
+.	.	.
+
+kim	kim	kim
+
+[	[	[
+7	7	7
+]	]	]
+"	"	"
+a	a	a
+modular	modular	modular
+learning	learn	learning
+environment	environ	environment
+for	for	for
+protein	protein	protein
+modeling	model	modeling
+"	"	"
+
+j	j	j
+.	.	.
+
+gracy	graci	gracy
+,	,	,
+l	l	l
+.	.	.
+
+chiche	chich	chiche
+&	&	&
+j	j	j
+.	.	.
+
+sallantin	sallantin	sallantin
+
+[	[	[
+8	8	8
+]	]	]
+"	"	"
+inference	infer	inference
+of	of	of
+order	order	order
+in	in	in
+genetic	genet	genetic
+systems	system	system
+"	"	"
+
+j	j	j
+.	.	.
+n	n	n
+.	.	.
+guidi	guidi	guidi
+&	&	&
+t	t	t
+.	.	.
+h	h	h
+.	.	.
+roderick	roderick	roderick
+
+[	[	[
+9	9	9
+]	]	]
+"	"	"
+palm	palm	palm
+-	-	-
+a	a	a
+pattern	pattern	pattern
+language	languag	language
+for	for	for
+molecular	molecular	molecular
+biology	biolog	biology
+"	"	"
+
+c	c	c
+.	.	.
+
+helgesen	helgesen	helgesen
+&	&	&
+p	p	p
+.	.	.
+r	r	r
+.	.	.
+sibbald	sibbald	sibbald
+
+[	[	[
+10	10	10
+]	]	]
+"	"	"
+grammatical	grammat	grammatical
+formalization	formal	formalization
+of	of	of
+metabolic	metabol	metabolic
+processes	process	process
+"	"	"
+
+r	r	r
+.	.	.
+
+hofestedt	hofestedt	hofestedt
+
+[	[	[
+11	11	11
+]	]	]
+"	"	"
+representations	represent	representation
+of	of	of
+metabolic	metabol	metabolic
+knowledge	knowledg	knowledge
+"	"	"
+
+p	p	p
+.	.	.
+d	d	d
+.	.	.
+karp	karp	karp
+&	&	&
+m	m	m
+.	.	.
+
+riley	riley	riley
+
+[	[	[
+12	12	12
+]	]	]
+"	"	"
+protein	protein	protein
+sequencing	sequenc	sequencing
+experiment	experi	experiment
+planning	plan	planning
+using	use	using
+analogy	analog	analogy
+"	"	"
+
+b	b	b
+.	.	.
+
+kettler	kettler	kettler
+&	&	&
+l	l	l
+.	.	.
+
+darden	darden	darden
+
+[	[	[
+13	13	13
+]	]	]
+"	"	"
+design	design	design
+of	of	of
+an	an	an
+object	object	object
+-	-	-
+oriented	orient	oriented
+database	databas	database
+for	for	for
+reverse	revers	reverse
+genetics	genet	genetics
+"	"	"
+
+k	k	k
+.	.	.
+j	j	j
+.	.	.
+kochut	kochut	kochut
+,	,	,
+j	j	j
+.	.	.
+
+arnold	arnold	arnold
+,	,	,
+j	j	j
+.	.	.
+a	a	a
+.	.	.
+miller	miller	miller
+,	,	,
+&	&	&
+w	w	w
+.	.	.
+d	d	d
+.	.	.
+potter	potter	potter
+
+[	[	[
+14	14	14
+]	]	]
+"	"	"
+a	a	a
+small	small	small
+automaton	automaton	automaton
+for	for	for
+word	word	word
+recognition	recognit	recognition
+in	in	in
+dna	dna	dna
+sequences	sequenc	sequence
+"	"	"
+
+c	c	c
+.	.	.
+
+lefevre	lefevr	lefevre
+&	&	&
+j	j	j
+.	.	.
+-	-	-
+e	e	e
+ikeda	ikeda	ikeda
+
+[	[	[
+15	15	15
+]	]	]
+"	"	"
+multimap	multimap	multimap
+:	:	:
+an	an	an
+expert	expert	expert
+system	system	system
+for	for	for
+automated	autom	automated
+genetic	genet	genetic
+linkage	linkag	linkage
+
+mapping	map	mapping
+"	"	"
+t	t	t
+.	.	.
+c	c	c
+.	.	.
+matise	matis	matise
+,	,	,
+m	m	m
+.	.	.
+
+perlin	perlin	perlin
+&	&	&
+a	a	a
+.	.	.
+
+chakravarti	chakravarti	chakravarti
+
+[	[	[
+16	16	16
+]	]	]
+"	"	"
+constructing	construct	constructing
+a	a	a
+distributed	distribut	distributed
+object	object	object
+-	-	-
+oriented	orient	oriented
+system	system	system
+with	with	with
+logical	logic	logical
+constraints	constraint	constraint
+for	for	for
+fluorescence	fluoresc	fluorescence
+-	-	-
+activated	activ	activated
+cell	cell	cell
+sorting	sort	sorting
+"	"	"
+
+t	t	t
+.	.	.
+
+matsushima	matsushima	matsushima
+
+[	[	[
+17	17	17
+]	]	]
+"	"	"
+prediction	predict	prediction
+of	of	of
+primate	primat	primate
+splice	splice	splice
+junction	junction	junction
+gene	gene	gene
+sequences	sequenc	sequence
+with	with	with
+
+a	a	a
+cooperative	cooper	cooperative
+knowledge	knowledg	knowledge
+acquisition	acquisit	acquisition
+system	system	system
+"	"	"
+
+e	e	e
+.	.	.
+m	m	m
+.	.	.
+nguifo	nguifo	nguifo
+&	&	&
+j	j	j
+.	.	.
+
+sallantin	sallantin	sallantin
+
+[	[	[
+18	18	18
+]	]	]
+"	"	"
+object	object	object
+-	-	-
+oriented	orient	oriented
+knowledge	knowledg	knowledge
+bases	base	base
+for	for	for
+the	the	the
+analysis	analysi	analysis
+of	of	of
+
+prokaryotic	prokaryot	prokaryotic
+and	and	and
+eukaryotic	eukaryot	eukaryotic
+genomes	genom	genome
+"	"	"
+
+g	g	g
+.	.	.
+
+perriere	perrier	perriere
+,	,	,
+f	f	f
+.	.	.
+
+dorkeld	dorkeld	dorkeld
+,	,	,
+f	f	f
+.	.	.
+
+rechenmann	rechenmann	rechenmann
+,	,	,
+&	&	&
+c	c	c
+.	.	.
+
+gautier	gautier	gautier
+
+[	[	[
+19	19	19
+]	]	]
+"	"	"
+petri	petri	petri
+net	net	net
+representations	represent	representation
+in	in	in
+metabolic	metabol	metabolic
+pathways	pathway	pathway
+"	"	"
+
+v	v	v
+.	.	.
+n	n	n
+.	.	.
+reddy	reddi	reddy
+,	,	,
+m	m	m
+.	.	.
+l	l	l
+.	.	.
+mavrovouniotis	mavrovounioti	mavrovouniotis
+,	,	,
+&	&	&
+m	m	m
+.	.	.
+l	l	l
+.	.	.
+liebman	liebman	liebman
+
+[	[	[
+20	20	20
+]	]	]
+"	"	"
+minimizing	minim	minimizing
+complexity	complex	complexity
+in	in	in
+cellular	cellular	cellular
+automata	automata	automaton
+models	model	model
+of	of	of
+
+self	self	self
+-	-	-
+replication	replic	replication
+"	"	"
+j	j	j
+.	.	.
+a	a	a
+.	.	.
+reggia	reggia	reggia
+,	,	,
+h	h	h
+.	.	.
+-	-	-
+h	h	h
+.	.	.
+
+chou	chou	chou
+,	,	,
+s	s	s
+.	.	.
+l	l	l
+.	.	.
+armentrout	armentrout	armentrout
+,	,	,
+
+&	&	&
+y	y	y
+.	.	.
+
+peng	peng	peng
+
+[	[	[
+21	21	21
+]	]	]
+"	"	"
+building	build	building
+large	larg	large
+knowledge	knowledg	knowledge
+bases	base	base
+in	in	in
+molecular	molecular	molecular
+biology	biolog	biology
+"	"	"
+
+o	o	o
+.	.	.
+
+schmeltzer	schmeltzer	schmeltzer
+,	,	,
+c	c	c
+.	.	.
+
+medigue	medigu	medigue
+,	,	,
+p	p	p
+.	.	.
+
+uvietta	uvietta	uvietta
+,	,	,
+f	f	f
+.	.	.
+
+rechenmann	rechenmann	rechenmann
+,	,	,
+
+f	f	f
+.	.	.
+
+dorkeld	dorkeld	dorkeld
+,	,	,
+g	g	g
+.	.	.
+
+perriere	perrier	perriere
+,	,	,
+&	&	&
+c	c	c
+.	.	.
+
+gautier	gautier	gautier
+
+[	[	[
+22	22	22
+]	]	]
+"	"	"
+a	a	a
+service	servic	service
+-	-	-
+oriented	orient	oriented
+information	inform	information
+sources	sourc	source
+database	databas	database
+for	for	for
+the	the	the
+
+biological	biolog	biological
+sciences	scienc	science
+"	"	"
+g	g	g
+.	.	.
+k	k	k
+.	.	.
+springer	springer	springer
+&	&	&
+t	t	t
+.	.	.
+b	b	b
+.	.	.
+patrick	patrick	patrick
+
+[	[	[
+23	23	23
+]	]	]
+"	"	"
+hidden	hidden	hidden
+markov	markov	markov
+models	model	model
+and	and	and
+iterative	iter	iterative
+aligners	align	aligners
+:	:	:
+study	studi	study
+of	of	of
+their	their	their
+
+equivalence	equival	equivalence
+and	and	and
+possibilities	possibl	possibility
+"	"	"
+h	h	h
+.	.	.
+
+tanaka	tanaka	tanaka
+,	,	,
+k	k	k
+.	.	.
+
+asai	asai	asai
+,	,	,
+m	m	m
+.	.	.
+
+ishikawa	ishikawa	ishikawa
+,	,	,
+&	&	&
+a	a	a
+.	.	.
+
+konagaya	konagaya	konagaya
+
+[	[	[
+24	24	24
+]	]	]
+"	"	"
+protein	protein	protein
+structure	structur	structure
+prediction	predict	prediction
+system	system	system
+based	base	based
+on	on	on
+artificial	artifici	artificial
+
+neural	neural	neural
+networks	network	network
+"	"	"
+j	j	j
+.	.	.
+
+vanhala	vanhala	vanhala
+&	&	&
+k	k	k
+.	.	.
+
+kaski	kaski	kaski
+
+[	[	[
+25	25	25
+]	]	]
+"	"	"
+transmembrane	transmembran	transmembrane
+segment	segment	segment
+prediction	predict	prediction
+from	from	from
+protein	protein	protein
+sequence	sequenc	sequence
+
+data	data	data
+"	"	"
+s	s	s
+.	.	.
+m	m	m
+.	.	.
+weiss	weiss	weiss
+,	,	,
+d	d	d
+.	.	.
+m	m	m
+.	.	.
+cohen	cohen	cohen
+&	&	&
+n	n	n
+.	.	.
+
+indurkhya	indurkhya	indurkhya
+
+tutorial	tutori	tutorial
+program	program	program
+tutorials	tutori	tutorial
+will	will	will
+be	be	be
+conducted	conduct	conducted
+at	at	at
+the	the	the
+bethesda	bethesda	bethesda
+ramada	ramada	ramada
+hotel	hotel	hotel
+on	on	on
+tuesday	tuesday	tuesday
+,	,	,
+july	juli	july
+6	6	6
+.	.	.
+
+12	12	12
+:	:	:
+00	00	00
+-	-	-
+2:45pm	2:45pm	2:45pm
+"	"	"
+introduction	introduct	introduction
+to	to	to
+molecular	molecular	molecular
+biology	biolog	biology
+for	for	for
+computer	comput	computer
+
+scientists	scientist	scientist
+"	"	"
+prof	prof	prof
+.	.	.
+
+mick	mick	mick
+noordewier	noordewi	noordewier
+(	(	(
+rutgers	rutger	rutgers
+university	univers	university
+)	)	)
+
+this	this	this
+overview	overview	overview
+of	of	of
+the	the	the
+essential	essenti	essential
+facts	fact	fact
+of	of	of
+molecular	molecular	molecular
+biology	biolog	biology
+is	is	is
+intended	intend	intended
+as	as	a
+an	an	an
+introduction	introduct	introduction
+to	to	to
+the	the	the
+field	field	field
+for	for	for
+computer	comput	computer
+scientists	scientist	scientist
+who	who	who
+wish	wish	wish
+to	to	to
+apply	appli	apply
+their	their	their
+tools	tool	tool
+to	to	to
+this	this	this
+rich	rich	rich
+and	and	and
+complex	complex	complex
+domain	domain	domain
+.	.	.
+
+material	materi	material
+covered	cover	covered
+will	will	will
+include	includ	include
+structural	structur	structural
+and	and	and
+informational	inform	informational
+molecules	molecul	molecule
+,	,	,
+the	the	the
+basic	basic	basic
+organization	organ	organization
+of	of	of
+the	the	the
+cell	cell	cell
+and	and	and
+of	of	of
+genetic	genet	genetic
+material	materi	material
+,	,	,
+the	the	the
+"	"	"
+central	central	central
+dogma	dogma	dogma
+"	"	"
+of	of	of
+gene	gene	gene
+expression	express	expression
+,	,	,
+and	and	and
+selected	select	selected
+other	other	other
+topics	topic	topic
+in	in	in
+the	the	the
+area	area	area
+of	of	of
+structure	structur	structure
+,	,	,
+function	function	function
+,	,	,
+and	and	and
+regulation	regul	regulation
+as	as	a
+relates	relat	relates
+to	to	to
+current	current	current
+computational	comput	computational
+approaches	approach	approach
+.	.	.
+
+dr. noordewier	dr. noordewi	dr. noordewier
+has	has	ha
+appointments	appoint	appointment
+in	in	in
+both	both	both
+computer	comput	computer
+science	scienc	science
+and	and	and
+biology	biolog	biology
+at	at	at
+rutgers	rutger	rutgers
+,	,	,
+and	and	and
+has	has	ha
+extensive	extens	extensive
+experience	experi	experience
+in	in	in
+basic	basic	basic
+biological	biolog	biological
+research	research	research
+in	in	in
+addition	addit	addition
+to	to	to
+his	his	his
+current	current	current
+work	work	work
+in	in	in
+computational	comput	computational
+biology	biolog	biology
+.	.	.
+
+12	12	12
+:	:	:
+00	00	00
+-	-	-
+2:45pm	2:45pm	2:45pm
+"	"	"
+introduction	introduct	introduction
+to	to	to
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+for	for	for
+
+biologists	biologist	biologist
+"	"	"
+dr. richard	dr. richard	dr. richard
+lathrop	lathrop	lathrop
+(	(	(
+mit	mit	mit
+&	&	&
+arris	arri	arris
+corp	corp	corp
+.	.	.
+)	)	)
+
+an	an	an
+overview	overview	overview
+of	of	of
+the	the	the
+field	field	field
+of	of	of
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+will	will	will
+be	be	be
+presented	present	presented
+,	,	,
+as	as	a
+it	it	it
+relates	relat	relates
+to	to	to
+actual	actual	actual
+and	and	and
+potential	potenti	potential
+biological	biolog	biological
+applications	applic	application
+.	.	.
+
+fundamental	fundament	fundamental
+techniques	techniqu	technique
+,	,	,
+symbolic	symbol	symbolic
+programming	program	programming
+languages	languag	language
+,	,	,
+and	and	and
+notions	notion	notion
+of	of	of
+search	search	search
+will	will	will
+be	be	be
+discussed	discuss	discussed
+,	,	,
+as	as	a
+well	well	well
+as	as	a
+selected	select	selected
+topics	topic	topic
+in	in	in
+somewhat	somewhat	somewhat
+greater	greater	greater
+detail	detail	detail
+,	,	,
+such	such	such
+as	as	a
+knowledge	knowledg	knowledge
+representation	represent	representation
+,	,	,
+inference	infer	inference
+,	,	,
+and	and	and
+machine	machin	machine
+learning	learn	learning
+.	.	.
+
+the	the	the
+intended	intend	intended
+audience	audienc	audience
+includes	includ	includes
+biologists	biologist	biologist
+with	with	with
+some	some	some
+computational	comput	computational
+background	background	background
+,	,	,
+but	but	but
+no	no	no
+extensive	extens	extensive
+exposure	exposur	exposure
+to	to	to
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+.	.	.
+
+dr	dr	dr
+.	.	.
+lathrop	lathrop	lathrop
+,	,	,
+co	co	co
+-	-	-
+developer	develop	developer
+of	of	of
+ariadne	ariadn	ariadne
+and	and	and
+related	relat	related
+technologies	technolog	technology
+,	,	,
+has	has	ha
+worked	work	worked
+in	in	in
+the	the	the
+area	area	area
+of	of	of
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+applied	appli	applied
+to	to	to
+biological	biolog	biological
+problems	problem	problem
+in	in	in
+both	both	both
+academia	academia	academia
+and	and	and
+industry	industri	industry
+.	.	.
+
+3	3	3
+:	:	:
+00	00	00
+-	-	-
+5:45pm	5:45pm	5:45pm
+"	"	"
+neural	neural	neural
+networks	network	network
+,	,	,
+statistics	statist	statistic
+,	,	,
+and	and	and
+information	inform	information
+theory	theori	theory
+
+in	in	in
+biological	biolog	biological
+sequence	sequenc	sequence
+analysis	analysi	analysis
+"	"	"
+dr. alan	dr. alan	dr. alan
+lapedes	laped	lapedes
+(	(	(
+los	los	los
+alamos	alamo	alamo
+
+national	nation	national
+laboratory	laboratori	laboratory
+)	)	)
+
+this	this	this
+tutorial	tutori	tutorial
+will	will	will
+cover	cover	cover
+the	the	the
+most	most	most
+rapidly	rapid	rapidly
+-	-	-
+expanding	expand	expanding
+facet	facet	facet
+of	of	of
+intelligent	intellig	intelligent
+systems	system	system
+for	for	for
+molecular	molecular	molecular
+biology	biolog	biology
+,	,	,
+that	that	that
+of	of	of
+machine	machin	machine
+learning	learn	learning
+techniques	techniqu	technique
+applied	appli	applied
+to	to	to
+sequence	sequenc	sequence
+analysis	analysi	analysis
+.	.	.
+
+closely	close	closely
+interrelated	interrel	interrelated
+topics	topic	topic
+to	to	to
+be	be	be
+addressed	address	addressed
+include	includ	include
+the	the	the
+use	use	use
+of	of	of
+artifical	artif	artifical
+neural	neural	neural
+networks	network	network
+to	to	to
+elicit	elicit	elicit
+both	both	both
+specific	specif	specific
+signals	signal	signal
+and	and	and
+general	general	general
+characteristics	characterist	characteristic
+of	of	of
+sequences	sequenc	sequence
+,	,	,
+and	and	and
+the	the	the
+relationship	relationship	relationship
+of	of	of
+such	such	such
+approaches	approach	approach
+to	to	to
+statistical	statist	statistical
+techniques	techniqu	technique
+and	and	and
+information	inform	information
+-	-	-
+theoretic	theoret	theoretic
+views	view	view
+of	of	of
+sequence	sequenc	sequence
+data	data	data
+.	.	.
+
+dr. lapedes	dr. laped	dr. lapedes
+,	,	,
+of	of	of
+the	the	the
+theoretical	theoret	theoretical
+division	divis	division
+at	at	at
+los	los	los
+alamos	alamo	alamo
+,	,	,
+has	has	ha
+long	long	long
+been	been	been
+a	a	a
+leader	leader	leader
+in	in	in
+the	the	the
+use	use	use
+of	of	of
+such	such	such
+techniques	techniqu	technique
+in	in	in
+this	this	this
+domain	domain	domain
+.	.	.
+
+3	3	3
+:	:	:
+00	00	00
+-	-	-
+5:45pm	5:45pm	5:45pm
+"	"	"
+genetic	genet	genetic
+algorithms	algorithm	algorithm
+and	and	and
+genetic	genet	genetic
+programming	program	programming
+"	"	"
+
+prof	prof	prof
+.	.	.
+
+john	john	john
+koza	koza	koza
+(	(	(
+stanford	stanford	stanford
+university	univers	university
+)	)	)
+
+the	the	the
+genetic	genet	genetic
+algorithm	algorithm	algorithm
+,	,	,
+an	an	an
+increasingly	increas	increasingly
+popular	popular	popular
+approach	approach	approach
+to	to	to
+highly	high	highly
+non	non	non
+-	-	-
+linear	linear	linear
+multi	multi	multi
+-	-	-
+dimensional	dimension	dimensional
+optimization	optim	optimization
+problems	problem	problem
+,	,	,
+was	was	wa
+originally	origin	originally
+inspired	inspir	inspired
+by	by	by
+a	a	a
+biological	biolog	biological
+metaphor	metaphor	metaphor
+.	.	.
+
+this	this	this
+tutorial	tutori	tutorial
+will	will	will
+cover	cover	cover
+both	both	both
+the	the	the
+biological	biolog	biological
+motivations	motiv	motivation
+,	,	,
+and	and	and
+the	the	the
+actual	actual	actual
+implementation	implement	implementation
+and	and	and
+characteristics	characterist	characteristic
+of	of	of
+the	the	the
+algorithm	algorithm	algorithm
+.	.	.
+
+genetic	genet	genetic
+programming	program	programming
+,	,	,
+an	an	an
+extension	extens	extension
+well	well	well
+-	-	-
+suited	suit	suited
+to	to	to
+problems	problem	problem
+where	where	where
+the	the	the
+discovery	discoveri	discovery
+of	of	of
+the	the	the
+size	size	size
+and	and	and
+shape	shape	shape
+of	of	of
+the	the	the
+solution	solut	solution
+is	is	is
+a	a	a
+major	major	major
+part	part	part
+of	of	of
+the	the	the
+problem	problem	problem
+,	,	,
+will	will	will
+also	also	also
+be	be	be
+addressed	address	addressed
+.	.	.
+
+particular	particular	particular
+attention	attent	attention
+will	will	will
+be	be	be
+paid	paid	paid
+to	to	to
+biological	biolog	biological
+applications	applic	application
+,	,	,
+and	and	and
+to	to	to
+identifying	identifi	identifying
+resources	resourc	resource
+and	and	and
+software	softwar	software
+that	that	that
+will	will	will
+permit	permit	permit
+attendees	attende	attendee
+to	to	to
+begin	begin	begin
+using	use	using
+the	the	the
+methods	method	method
+.	.	.
+
+dr. koza	dr. koza	dr. koza
+,	,	,
+a	a	a
+consulting	consult	consulting
+professor	professor	professor
+of	of	of
+computer	comput	computer
+science	scienc	science
+at	at	at
+stanford	stanford	stanford
+,	,	,
+has	has	ha
+taught	taught	taught
+this	this	this
+subject	subject	subject
+since	sinc	since
+1988	1988	1988
+and	and	and
+is	is	is
+the	the	the
+author	author	author
+of	of	of
+a	a	a
+standard	standard	standard
+text	text	text
+in	in	in
+the	the	the
+field	field	field
+.	.	.
+
+3	3	3
+:	:	:
+00	00	00
+-	-	-
+5:45pm	5:45pm	5:45pm
+"	"	"
+linguistic	linguist	linguistic
+methods	method	method
+in	in	in
+sequence	sequenc	sequence
+analysis	analysi	analysis
+"	"	"
+
+prof	prof	prof
+.	.	.
+
+david	david	david
+searls	searl	searls
+(	(	(
+university	univers	university
+of	of	of
+pennsylvania	pennsylvania	pennsylvania
+)	)	)
+
+&	&	&
+shmuel	shmuel	shmuel
+pietrokovski	pietrokovski	pietrokovski
+(	(	(
+weizmann	weizmann	weizmann
+institute	institut	institute
+)	)	)
+
+approaches	approach	approach
+to	to	to
+sequence	sequenc	sequence
+analysis	analysi	analysis
+based	base	based
+on	on	on
+linguistic	linguist	linguistic
+methodologies	methodolog	methodology
+are	are	are
+increasingly	increas	increasingly
+in	in	in
+evidence	evid	evidence
+.	.	.
+
+these	these	these
+involve	involv	involve
+the	the	the
+adaptation	adapt	adaptation
+of	of	of
+tools	tool	tool
+and	and	and
+techniques	techniqu	technique
+from	from	from
+computational	comput	computational
+linguistics	linguist	linguistics
+for	for	for
+syntactic	syntact	syntactic
+pattern	pattern	pattern
+recognition	recognit	recognition
+and	and	and
+gene	gene	gene
+prediction	predict	prediction
+,	,	,
+the	the	the
+classification	classif	classification
+of	of	of
+genetic	genet	genetic
+structures	structur	structure
+and	and	and
+phenomena	phenomena	phenomenon
+using	use	using
+formal	formal	formal
+language	languag	language
+theory	theori	theory
+,	,	,
+the	the	the
+identification	identif	identification
+of	of	of
+significant	signific	significant
+vocabularies	vocabulari	vocabulary
+and	and	and
+overlapping	overlap	overlapping
+codes	code	code
+in	in	in
+sequence	sequenc	sequence
+data	data	data
+,	,	,
+and	and	and
+sequence	sequenc	sequence
+comparison	comparison	comparison
+reflecting	reflect	reflecting
+taxonomic	taxonom	taxonomic
+and	and	and
+functional	function	functional
+relatedness	related	relatedness
+.	.	.
+
+dr. searls	dr. searl	dr. searls
+,	,	,
+who	who	who
+holds	hold	hold
+research	research	research
+faculty	faculti	faculty
+appointments	appoint	appointment
+in	in	in
+both	both	both
+genetics	genet	genetics
+and	and	and
+computer	comput	computer
+science	scienc	science
+at	at	at
+penn	penn	penn
+,	,	,
+represents	repres	represents
+the	the	the
+branch	branch	branch
+of	of	of
+this	this	this
+field	field	field
+that	that	that
+considers	consid	considers
+higher	higher	higher
+-	-	-
+order	order	order
+syntactic	syntact	syntactic
+approaches	approach	approach
+to	to	to
+sequence	sequenc	sequence
+data	data	data
+,	,	,
+while	while	while
+shmuel	shmuel	shmuel
+pietrokovski	pietrokovski	pietrokovski
+has	has	ha
+studied	studi	studied
+and	and	and
+published	publish	published
+with	with	with
+prof	prof	prof
+.	.	.
+
+edward	edward	edward
+trifinov	trifinov	trifinov
+in	in	in
+the	the	the
+area	area	area
+of	of	of
+word	word	word
+-	-	-
+based	base	based
+analyses	analys	analysis
+.	.	.
+
+registration	registr	registration
+form	form	form
+mail	mail	mail
+,	,	,
+with	with	with
+check	check	check
+made	made	made
+out	out	out
+to	to	to
+"	"	"
+ismb	ismb	ismb
+-	-	-
+93	93	93
+"	"	"
+,	,	,
+to	to	to
+:	:	:
+
+ismb	ismb	ismb
+conference	confer	conference
+,	,	,
+c	c	c
+/	/	/
+o	o	o
+j	j	j
+.	.	.
+
+shavlik	shavlik	shavlik
+
+computer	comput	computer
+sciences	scienc	science
+department	depart	department
+
+university	univers	university
+of	of	of
+wisconsin	wisconsin	wisconsin
+
+1210	1210	1210
+west	west	west
+dayton	dayton	dayton
+street	street	street
+
+madison	madison	madison
+,	,	,
+wi	wi	wi
+53706	53706	53706
+usa	usa	usa
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+name____________________________________________	name____________________________________________	name____________________________________________
+
+affiliation_____________________________________	affiliation_____________________________________	affiliation_____________________________________
+
+address_________________________________________	address_________________________________________	address_________________________________________
+
+________________________________________________	________________________________________________	________________________________________________
+
+________________________________________________	________________________________________________	________________________________________________
+
+________________________________________________	________________________________________________	________________________________________________
+
+phone___________________________________________	phone___________________________________________	phone___________________________________________
+
+fax_____________________________________________	fax_____________________________________________	fax_____________________________________________
+
+electronic	electron	electronic
+mail_________________________________	mail_________________________________	mail_________________________________
+
+registration	registr	registration
+status	status	status
+:	:	:
+____	____	____
+regular	regular	regular
+____	____	____
+student	student	student
+
+presenting	present	presenting
+?	?	?
+
+____	____	____
+talk	talk	talk
+____	____	____
+poster	poster	poster
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+tutorial	tutori	tutorial
+registration	registr	registration
+
+____	____	____
+"	"	"
+molecular	molecular	molecular
+biology	biolog	biology
+for	for	for
+computer	comput	computer
+scientists	scientist	scientist
+"	"	"
+
+or	or	or
+
+____	____	____
+"	"	"
+artificial	artifici	artificial
+intelligence	intellig	intelligence
+for	for	for
+biologists	biologist	biologist
+"	"	"
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+
+____	____	____
+"	"	"
+neural	neural	neural
+networks	network	network
+,	,	,
+statistics	statist	statistic
+,	,	,
+and	and	and
+
+or	or	or
+information	inform	information
+theory	theori	theory
+in	in	in
+sequence	sequenc	sequence
+analysis	analysi	analysis
+"	"	"
+
+____	____	____
+"	"	"
+genetic	genet	genetic
+algorithms	algorithm	algorithm
+and	and	and
+genetic	genet	genetic
+programming	program	programming
+"	"	"
+
+or	or	or
+
+____	____	____
+"	"	"
+linguistic	linguist	linguistic
+methods	method	method
+in	in	in
+sequence	sequenc	sequence
+analysis	analysi	analysis
+"	"	"
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+payment	payment	payment
+(	(	(
+early	earli	early
+registration	registr	registration
+before	befor	before
+june	june	june
+1	1	1
+)	)	)
+
+registration	registr	registration
+:	:	:
+early	earli	early
+late	late	late
+$	$	$
+___________	___________	___________
+
+regular	regular	regular
+$	$	$
+100	100	100
+$	$	$
+125	125	125
+
+student	student	student
+$	$	$
+75	75	75
+$	$	$
+100	100	100
+
+tutorials	tutori	tutorial
+:	:	:
+one	one	one
+two	two	two
+$	$	$
+___________	___________	___________
+
+regular	regular	regular
+$	$	$
+50	50	50
+$	$	$
+65	65	65
+
+student	student	student
+$	$	$
+25	25	25
+$	$	$
+35	35	35
+
+total	total	total
+:	:	:
+$	$	$
+___________	___________	___________
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+registration	registr	registration
+fees	fee	fee
+include	includ	include
+conference	confer	conference
+proceedings	proceed	proceeding
+,	,	,
+
+refreshments	refresh	refreshment
+,	,	,
+and	and	and
+general	general	general
+program	program	program
+expenses	expens	expense
+.	.	.
+
+organizing	organ	organizing
+committee	committe	committee
+
+lawrence	lawrenc	lawrence
+hunter	hunter	hunter
+nlm	nlm	nlm
+
+david	david	david
+searls	searl	searls
+u	u	u
+.	.	.
+
+of	of	of
+pennsylvania	pennsylvania	pennsylvania
+
+jude	jude	jude
+shavlik	shavlik	shavlik
+u	u	u
+.	.	.
+
+of	of	of
+wisconsin	wisconsin	wisconsin
+
+program	program	program
+committee	committe	committee
+
+douglas	dougla	douglas
+brutlag	brutlag	brutlag
+stanford	stanford	stanford
+u	u	u
+.	.	.
+
+bruce	bruce	bruce
+buchanan	buchanan	buchanan
+u	u	u
+.	.	.
+
+of	of	of
+pittsburgh	pittsburgh	pittsburgh
+
+christian	christian	christian
+burks	burk	burk
+los	los	los
+alamos	alamo	alamo
+national	nation	national
+lab	lab	lab
+
+fred	fred	fred
+cohen	cohen	cohen
+u	u	u
+.	.	.
+c	c	c
+.	.	.
+-	-	-
+san	san	san
+francisco	francisco	francisco
+
+chris	chris	chris
+fields	field	field
+inst	inst	inst
+.	.	.
+
+for	for	for
+genome	genom	genome
+research	research	research
+
+michael	michael	michael
+gribskov	gribskov	gribskov
+u	u	u
+.	.	.
+c	c	c
+.	.	.
+-	-	-
+san	san	san
+diego	diego	diego
+
+peter	peter	peter
+karp	karp	karp
+sri	sri	sri
+international	intern	international
+
+toni	toni	toni
+kazic	kazic	kazic
+washington	washington	washington
+u	u	u
+.	.	.
+
+alan	alan	alan
+lapedes	laped	lapedes
+los	los	los
+alamos	alamo	alamo
+national	nation	national
+lab	lab	lab
+
+richard	richard	richard
+lathrop	lathrop	lathrop
+mit	mit	mit
+&	&	&
+arris	arri	arris
+corp	corp	corp
+.	.	.
+
+charles	charl	charles
+lawrence	lawrenc	lawrence
+baylor	baylor	baylor
+
+michael	michael	michael
+mavrovouniotis	mavrovounioti	mavrovouniotis
+u	u	u
+.	.	.
+
+of	of	of
+maryland	maryland	maryland
+
+george	georg	george
+michaels	michael	michael
+nih	nih	nih
+
+harold	harold	harold
+morowitz	morowitz	morowitz
+george	georg	george
+mason	mason	mason
+u	u	u
+.	.	.
+
+katsumi	katsumi	katsumi
+nitta	nitta	nitta
+icot	icot	icot
+
+mick	mick	mick
+noordewier	noordewi	noordewier
+rutgers	rutger	rutgers
+u	u	u
+.	.	.
+
+ross	ross	ross
+overbeek	overbeek	overbeek
+argonne	argonn	argonne
+national	nation	national
+lab	lab	lab
+
+chris	chris	chris
+rawlings	rawl	rawlings
+icrf	icrf	icrf
+
+derek	derek	derek
+sleeman	sleeman	sleeman
+u	u	u
+.	.	.
+
+of	of	of
+aberdeen	aberdeen	aberdeen
+
+david	david	david
+states	state	state
+washington	washington	washington
+u	u	u
+.	.	.
+
+gary	gari	gary
+stormo	stormo	stormo
+u	u	u
+.	.	.
+
+of	of	of
+colorado	colorado	colorado
+
+ed	ed	ed
+uberbacher	uberbach	uberbacher
+oak	oak	oak
+ridge	ridg	ridge
+national	nation	national
+lab	lab	lab
+
+david	david	david
+waltz	waltz	waltz
+thinking	think	thinking
+machines	machin	machine
+corp	corp	corp
+.	.	.

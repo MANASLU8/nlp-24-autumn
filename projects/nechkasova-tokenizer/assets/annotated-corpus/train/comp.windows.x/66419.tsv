@@ -1,0 +1,238 @@
+from	from	from
+:	:	:
+etxmesa@eos.ericsson.se	etxmesa@eos.ericsson.s	etxmesa@eos.ericsson.se
+(	(	(
+michael	michael	michael
+salmon	salmon	salmon
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+xtshellstrings	xtshellstr	xtshellstrings
+,	,	,
+xtstrings	xtstring	xtstrings
+?	?	?
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+eos6c02	eos6c02	eos6c02
+.	.	.
+ericsson	ericsson	ericsson
+.	.	.
+se	se	se
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+etxmesa@eos.ericsson.se	etxmesa@eos.ericsson.s	etxmesa@eos.ericsson.se
+(	(	(
+michael	michael	michael
+salmon	salmon	salmon
+)	)	)
+
+organization	organ	organization
+:	:	:
+ericsson	ericsson	ericsson
+telecom	telecom	telecom
+ab	ab	ab
+
+lines	line	line
+:	:	:
+28	28	28
+
+in	in	in
+article	articl	article
+<	<	<
+1993apr5.145635.16857@informatik.tu-muenchen.de	1993apr5.145635.16857@informatik.tu-muenchen.d	1993apr5.145635.16857@informatik.tu-muenchen.de
+>	>	>
+wilk@informatik.tu-muenchen.de	wilk@informatik.tu-muenchen.d	wilk@informatik.tu-muenchen.de
+(	(	(
+christian	christian	christian
+wilk	wilk	wilk
+)	)	)
+writes	write	writes
+:	:	:
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+hello	hello	hello
+,	,	,
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+does	doe	doe
+somebody	somebodi	somebody
+know	know	know
+the	the	the
+functions	function	function
+xtshellstrings	xtshellstr	xtshellstrings
+and	and	and
+xtstrings	xtstring	xtstrings
+?	?	?
+
+|	|	|
+>	>	>
+i	i	i
+haven	haven	haven
+'	'	'
+t	t	t
+found	found	found
+them	them	them
+in	in	in
+any	ani	any
+librarys	librari	library
+not	not	not
+xm	xm	xm
+,	,	,
+xt	xt	xt
+,	,	,
+nor	nor	nor
+x11	x11	x11
+,	,	,
+and	and	and
+i	i	i
+need	need	need
+
+|	|	|
+>	>	>
+them	them	them
+to	to	to
+install	instal	install
+a	a	a
+tool	tool	tool
+.	.	.
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+any	ani	any
+hints	hint	hint
+greatly	great	greatly
+appreciated	appreci	appreciated
+!	!	!
+
+please	pleas	please
+reply	repli	reply
+via	via	via
+e	e	e
+-	-	-
+mail	mail	mail
+.	.	.
+
+they	they	they
+aren	aren	aren
+'	'	'
+t	t	t
+functions	function	function
+,	,	,
+they	they	they
+are	are	are
+character	charact	character
+arrays	array	array
+.	.	.
+
+the	the	the
+standard	standard	standard
+strings	string	string
+are	are	are
+either	either	either
+defined	defin	defined
+as	as	a
+string	string	string
+constants	constant	constant
+or	or	or
+character	charact	character
+pointers	pointer	pointer
+into	into	into
+xtshellstrings	xtshellstr	xtshellstrings
+and	and	and
+xtstrings	xtstring	xtstrings
+determined	determin	determined
+by	by	by
+xtstringdefines	xtstringdefin	xtstringdefines
+.	.	.
+
+your	your	your
+libraries	librari	library
+were	were	were
+compiled	compil	compiled
+with	with	with
+this	this	this
+defined	defin	defined
+and	and	and
+your	your	your
+application	applic	application
+with	with	with
+it	it	it
+undefined	undefin	undefined
+so	so	so
+simply	simpli	simply
+recompile	recompil	recompile
+one	one	one
+or	or	or
+the	the	the
+other	other	other
+.	.	.
+
+it	it	it
+is	is	is
+probably	probabl	probably
+worth	worth	worth
+adding	ad	adding
+-	-	-
+dxtstringdefines	dxtstringdefin	dxtstringdefines
+to	to	to
+your	your	your
+cflags	cflag	cflags
+.	.	.
+
+-	-	-
+-	-	-
+
+michael	michael	michael
+salmon	salmon	salmon
+
+#	#	#
+include	includ	include
+<	<	<
+standard	standard	standard
+.	.	.
+disclaimer	disclaim	disclaimer
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+witty	witti	witty
+.	.	.
+saying	say	saying
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+fancy	fanci	fancy
+.	.	.
+pseudo	pseudo	pseudo
+.	.	.
+graphics	graphic	graphic
+>	>	>
+
+ericsson	ericsson	ericsson
+telecom	telecom	telecom
+ab	ab	ab
+stockholm	stockholm	stockholm

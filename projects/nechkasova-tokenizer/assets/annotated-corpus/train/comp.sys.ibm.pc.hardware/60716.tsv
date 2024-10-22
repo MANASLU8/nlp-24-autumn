@@ -1,0 +1,475 @@
+from	from	from
+:	:	:
+swh@capella.cup.hp.com	swh@capella.cup.hp.com	swh@capella.cup.hp.com
+(	(	(
+steve	steve	steve
+harrold	harrold	harrold
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+need	need	need
+info	info	info
+on	on	on
+diamond	diamond	diamond
+viper	viper	viper
+video	video	video
+card	card	card
+
+organization	organ	organization
+:	:	:
+hewlett	hewlett	hewlett
+packard	packard	packard
+,	,	,
+cupertino	cupertino	cupertino
+
+lines	line	line
+:	:	:
+46	46	46
+
+experiences	experi	experience
+with	with	with
+diamond	diamond	diamond
+viper	viper	viper
+vlb	vlb	vlb
+video	video	video
+card	card	card
+
+several	sever	several
+problems	problem	problem
+:	:	:
+
+1	1	1
+)	)	)
+the	the	the
+ad	ad	ad
+specified	specifi	specified
+16	16	16
+.	.	.
+7	7	7
+million	million	million
+colors	color	color
+at	at	at
+640x480	640x480	640x480
+resolution	resolut	resolution
+with	with	with
+1mb	1mb	1mb
+
+of	of	of
+vram	vram	vram
+,	,	,
+which	which	which
+is	is	is
+what	what	what
+i	i	i
+have	have	have
+.	.	.
+
+this	this	this
+color	color	color
+depth	depth	depth
+is	is	is
+not	not	not
+supported	support	supported
+
+with	with	with
+video	video	video
+bios	bio	bios
+version	version	version
+1	1	1
+.	.	.
+00	00	00
+and	and	and
+drivers	driver	driver
+version	version	version
+1	1	1
+.	.	.
+01	01	01
+.	.	.
+
+a	a	a
+max	max	max
+of	of	of
+65k	65k	65k
+
+colors	color	color
+are	are	are
+supported	support	supported
+at	at	at
+640x800	640x800	640x800
+and	and	and
+800x600	800x600	800x600
+resolutions	resolut	resolution
+with	with	with
+1mb	1mb	1mb
+
+vram	vram	vram
+.	.	.
+
+2	2	2
+)	)	)
+with	with	with
+the	the	the
+65k	65k	65k
+color	color	color
+choice	choic	choice
+i	i	i
+notice	notic	notice
+two	two	two
+minor	minor	minor
+irritations	irrit	irritation
+:	:	:
+
+a	a	a
+)	)	)
+under	under	under
+ndw	ndw	ndw
+,	,	,
+when	when	when
+an	an	an
+entry	entri	entry
+in	in	in
+a	a	a
+list	list	list
+is	is	is
+highlighted	highlight	highlighted
+(	(	(
+such	such	such
+as	as	a
+in	in	in
+an	an	an
+
+open	open	open
+menu	menu	menu
+)	)	)
+and	and	and
+then	then	then
+is	is	is
+deselected	deselect	deselected
+,	,	,
+a	a	a
+faint	faint	faint
+vertical	vertic	vertical
+line	line	line
+often	often	often
+
+remains	remain	remains
+where	where	where
+the	the	the
+left	left	left
+edge	edg	edge
+of	of	of
+the	the	the
+highlighted	highlight	highlighted
+rectangle	rectangl	rectangle
+used	use	used
+to	to	to
+
+be	be	be
+.	.	.
+
+b	b	b
+)	)	)
+with	with	with
+word	word	word
+for	for	for
+windows	window	window
+,	,	,
+when	when	when
+you	you	you
+use	use	use
+shading	shade	shading
+in	in	in
+a	a	a
+table	tabl	table
+,	,	,
+the	the	the
+
+display	display	display
+shows	show	show
+the	the	the
+inverse	invers	inverse
+of	of	of
+the	the	the
+shading	shade	shading
+;	;	;
+for	for	for
+example	exampl	example
+,	,	,
+if	if	if
+you	you	you
+
+shade	shade	shade
+the	the	the
+cell	cell	cell
+as	as	a
+10	10	10
+%	%	%
+,	,	,
+the	the	the
+display	display	display
+is	is	is
+90	90	90
+%	%	%
+(	(	(
+the	the	the
+printout	printout	printout
+is	is	is
+ok	ok	ok
+)	)	)
+.	.	.
+
+3	3	3
+)	)	)
+the	the	the
+big	big	big
+killer	killer	killer
+bug	bug	bug
+is	is	is
+using	use	using
+the	the	the
+borland	borland	borland
+c	c	c
++	+	+
++	+	+
+integrated	integr	integrated
+development	develop	development
+
+environment	environ	environment
+.	.	.
+
+the	the	the
+problem	problem	problem
+occurs	occur	occurs
+when	when	when
+you	you	you
+click	click	click
+on	on	on
+the	the	the
+turbo	turbo	turbo
+debugger	debugg	debugger
+
+icon	icon	icon
+(	(	(
+or	or	or
+use	use	use
+the	the	the
+debugger	debugg	debugger
+option	option	option
+in	in	in
+the	the	the
+run	run	run
+command	command	command
+)	)	)
+,	,	,
+and	and	and
+the	the	the
+
+debugger	debugg	debugger
+application	applic	application
+goes	goe	go
+to	to	to
+vga	vga	vga
+character	charact	character
+mode	mode	mode
+(	(	(
+as	as	a
+it	it	it
+is	is	is
+designed	design	designed
+
+to	to	to
+do	do	do
+)	)	)
+.	.	.
+
+the	the	the
+screen	screen	screen
+goes	goe	go
+haywire	haywir	haywire
+,	,	,
+and	and	and
+is	is	is
+largely	larg	largely
+unreadable	unread	unreadable
+.	.	.
+
+the	the	the
+
+turbo	turbo	turbo
+debugger	debugg	debugger
+display	display	display
+is	is	is
+all	all	all
+garbled	garbl	garbled
+.	.	.
+
+through	through	through
+trial	trial	trial
+and	and	and
+error	error	error
+,	,	,
+i	i	i
+have	have	have
+found	found	found
+that	that	that
+when	when	when
+the	the	the
+disrupted	disrupt	disrupted
+screen	screen	screen
+
+is	is	is
+displayed	display	displayed
+you	you	you
+should	should	should
+do	do	do
+[	[	[
+alt	alt	alt
+-	-	-
+spacebar	spacebar	spacebar
+]	]	]
+followed	follow	followed
+by	by	by
+the	the	the
+letter	letter	letter
+
+"	"	"
+r	r	r
+"	"	"
+.	.	.
+
+this	this	this
+instructs	instruct	instructs
+turbo	turbo	turbo
+debugger	debugg	debugger
+to	to	to
+refresh	refresh	refresh
+the	the	the
+screen	screen	screen
+,	,	,
+and	and	and
+it	it	it
+
+does	doe	doe
+this	this	this
+satisfactorily	satisfactorili	satisfactorily
+.	.	.
+
+i	i	i
+wish	wish	wish
+i	i	i
+didn	didn	didn
+'	'	'
+t	t	t
+have	have	have
+to	to	to
+do	do	do
+this	this	this
+.	.	.
+
+the	the	the
+bug	bug	bug
+is	is	is
+more	more	more
+than	than	than
+with	with	with
+the	the	the
+diamond	diamond	diamond
+drivers	driver	driver
+.	.	.
+
+the	the	the
+same	same	same
+disruptive	disrupt	disruptive
+
+behavior	behavior	behavior
+happens	happen	happens
+with	with	with
+the	the	the
+standard	standard	standard
+vga	vga	vga
+driver	driver	driver
+that	that	that
+comes	come	come
+with	with	with
+
+windows	window	window
+.	.	.
+
+there	there	there
+must	must	must
+be	be	be
+something	someth	something
+in	in	in
+the	the	the
+video	video	video
+card	card	card
+that	that	that
+mishandles	mishandl	mishandles
+
+the	the	the
+vga	vga	vga
+mode	mode	mode
+.	.	.
+
+the	the	the
+problem	problem	problem
+is	is	is
+not	not	not
+my	my	my
+monitor	monitor	monitor
+.	.	.
+
+the	the	the
+same	same	same
+bug	bug	bug
+shows	show	show
+up	up	up
+when	when	when
+i	i	i
+use	use	use
+
+another	anoth	another
+monitor	monitor	monitor
+in	in	in
+place	place	place
+of	of	of
+my	my	my
+usual	usual	usual
+one	one	one
+.	.	.
+
+i	i	i
+still	still	still
+like	like	like
+this	this	this
+video	video	video
+card	card	card
+,	,	,
+and	and	and
+am	am	am
+hoping	hope	hoping
+its	it	it
+problems	problem	problem
+will	will	will
+be	be	be
+remedied	remedi	remedied
+(	(	(
+they	they	they
+do	do	do
+offer	offer	offer
+a	a	a
+5	5	5
+year	year	year
+warranty	warranti	warranty
+)	)	)
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+swh	swh	swh
+,	,	,
+20apr93	20apr93	20apr93

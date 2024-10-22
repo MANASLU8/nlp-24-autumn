@@ -1,0 +1,184 @@
+from	from	from
+:	:	:
+etxmesa@eos.ericsson.se	etxmesa@eos.ericsson.s	etxmesa@eos.ericsson.se
+(	(	(
+michael	michael	michael
+salmon	salmon	salmon
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+title	titl	title
+for	for	for
+xterm	xterm	xterm
+
+keywords	keyword	keywords
+:	:	:
+xterm	xterm	xterm
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+eos6c02	eos6c02	eos6c02
+.	.	.
+ericsson	ericsson	ericsson
+.	.	.
+se	se	se
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+etxmesa@eos.ericsson.se	etxmesa@eos.ericsson.s	etxmesa@eos.ericsson.se
+(	(	(
+michael	michael	michael
+salmon	salmon	salmon
+)	)	)
+
+organization	organ	organization
+:	:	:
+ericsson	ericsson	ericsson
+telecom	telecom	telecom
+ab	ab	ab
+
+lines	line	line
+:	:	:
+21	21	21
+
+in	in	in
+article	articl	article
+<	<	<
+1r3fe2inn10d@fbi-news.informatik.uni-dortmund.de	1r3fe2inn10d@fbi-news.informatik.uni-dortmund.d	1r3fe2inn10d@fbi-news.informatik.uni-dortmund.de
+>	>	>
+markhof@ls12r.informatik.uni-dortmund.de	markhof@ls12r.informatik.uni-dortmund.d	markhof@ls12r.informatik.uni-dortmund.de
+(	(	(
+ingolf	ingolf	ingolf
+markhof	markhof	markhof
+)	)	)
+writes	write	writes
+:	:	:
+
+[	[	[
+.	.	.
+.	.	.
+.	.	.
+]	]	]
+
+|	|	|
+>	>	>
+i	i	i
+have	have	have
+an	an	an
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+alias	alia	alias
+precmd	precmd	precmd
+echo	echo	echo
+-	-	-
+n	n	n
+'	'	'
+^	^	^
+[	[	[
+]	]	]
+2	2	2
+\	\	\
+;	;	;
+$	$	$
+{	{	{
+host	host	host
+}	}	}
+:	:	:
+$	$	$
+cwd	cwd	cwd
+^	^	^
+g	g	g
+'	'	'
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+in	in	in
+my	my	my
+~	~	~
+/	/	/
+.	.	.
+tcshrc	tcshrc	tcshrc
+.	.	.
+
+this	this	this
+is	is	is
+a	a	a
+special	special	special
+alias	alia	alias
+for	for	for
+tvtwm	tvtwm	tvtwm
+.	.	.
+
+i	i	i
+presume	presum	presume
+that	that	that
+you	you	you
+meant	meant	meant
+to	to	to
+say	say	say
+tcsh	tcsh	tcsh
+here	here	here
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+^	^	^
+^	^	^
+^	^	^
+^	^	^
+^	^	^
+
+-	-	-
+-	-	-
+
+michael	michael	michael
+salmon	salmon	salmon
+
+#	#	#
+include	includ	include
+<	<	<
+standard	standard	standard
+.	.	.
+disclaimer	disclaim	disclaimer
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+witty	witti	witty
+.	.	.
+saying	say	saying
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+fancy	fanci	fancy
+.	.	.
+pseudo	pseudo	pseudo
+.	.	.
+graphics	graphic	graphic
+>	>	>
+
+ericsson	ericsson	ericsson
+telecom	telecom	telecom
+ab	ab	ab
+stockholm	stockholm	stockholm

@@ -1,0 +1,321 @@
+from	from	from
+:	:	:
+hsteve@carina.unm.edu	hsteve@carina.unm.edu	hsteve@carina.unm.edu
+(	(	(
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+interface	interfac	interface
+to	to	to
+access	access	access
+separate	separ	separate
+appl	appl	appl
+.	.	.
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+new	new	new
+mexico	mexico	mexico
+,	,	,
+albuquerque	albuquerqu	albuquerque
+
+lines	line	line
+:	:	:
+27	27	27
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+carina	carina	carina
+.	.	.
+unm	unm	unm
+.	.	.
+edu	edu	edu
+
+in	in	in
+article	articl	article
+<	<	<
+9304121644	9304121644	9304121644
+.aa27256@expo.lcs.mit.edu	.aa27256@expo.lcs.mit.edu	.aa27256@expo.lcs.mit.edu
+>	>	>
+dbohdal@jaguar.ess.harris.com	dbohdal@jaguar.ess.harris.com	dbohdal@jaguar.ess.harris.com
+writes	write	writes
+:	:	:
+
+<	<	<
+dear	dear	dear
+xperts	xpert	xperts
+:	:	:
+
+<	<	<
+
+<	<	<
+here	here	here
+'	'	'
+s	s	s
+my	my	my
+problem	problem	problem
+:	:	:
+i	i	i
+am	am	am
+designing	design	designing
+several	sever	several
+related	relat	related
+x	x	x
+
+<	<	<
+applications	applic	application
+(	(	(
+each	each	each
+one	one	one
+is	is	is
+a	a	a
+separate	separ	separate
+executable	execut	executable
+)	)	)
+and	and	and
+i	i	i
+'	'	'
+d	d	d
+like	like	like
+
+<	<	<
+to	to	to
+build	build	build
+a	a	a
+single	singl	single
+control	control	control
+window	window	window
+that	that	that
+would	would	would
+allow	allow	allow
+the	the	the
+user	user	user
+to	to	to
+
+<	<	<
+access	access	access
+each	each	each
+application	applic	application
+(	(	(
+instead	instead	instead
+of	of	of
+having	have	having
+to	to	to
+locate	locat	locate
+the	the	the
+correct	correct	correct
+
+<	<	<
+icon	icon	icon
+)	)	)
+.	.	.
+
+the	the	the
+control	control	control
+window	window	window
+would	would	would
+contain	contain	contain
+a	a	a
+button	button	button
+for	for	for
+each	each	each
+
+<	<	<
+application	applic	application
+and	and	and
+by	by	by
+pressing	press	pressing
+it	it	it
+,	,	,
+the	the	the
+application	applic	application
+'	'	'
+s	s	s
+main	main	main
+window	window	window
+
+<	<	<
+would	would	would
+appear	appear	appear
+.	.	.
+
+i	i	i
+would	would	would
+also	also	also
+like	like	like
+to	to	to
+use	use	use
+the	the	the
+application	applic	application
+'	'	'
+s	s	s
+button	button	button
+
+<	<	<
+as	as	a
+a	a	a
+color	color	color
+status	status	status
+indicator	indic	indicator
+.	.	.
+
+has	has	ha
+anyone	anyon	anyone
+done	done	done
+this	this	this
+or	or	or
+have	have	have
+any	ani	any
+
+<	<	<
+good	good	good
+ideas	idea	idea
+?	?	?
+?	?	?
+
+because	becaus	because
+these	these	these
+are	are	are
+all	all	all
+separate	separ	separate
+executables	execut	executables
+this	this	this
+
+<	<	<
+seems	seem	seems
+like	like	like
+a	a	a
+communications	communic	communication
+nightmare	nightmar	nightmare
+to	to	to
+me	me	me
+,	,	,
+but	but	but
+maybe	mayb	maybe
+i	i	i
+'	'	'
+m	m	m
+
+<	<	<
+wrong	wrong	wrong
+.	.	.
+
+i	i	i
+'	'	'
+d	d	d
+appreciate	appreci	appreciate
+any	ani	any
+ideas	idea	idea
+!	!	!
+
+i	i	i
+'	'	'
+m	m	m
+using	use	using
+x11r5	x11r5	x11r5
+and	and	and
+motif	motif	motif
+1	1	1
+.	.	.
+2	2	2
+.	.	.
+1	1	1
+.	.	.
+
+<	<	<
+
+<	<	<
+thanks	thank	thanks
+,	,	,
+<	<	<
+dbohdal@jaguar.ess.harris.com	dbohdal@jaguar.ess.harris.com	dbohdal@jaguar.ess.harris.com
+
+i	i	i
+can	can	can
+think	think	think
+of	of	of
+two	two	two
+different	differ	different
+methods	method	method
+that	that	that
+you	you	you
+could	could	could
+try	tri	try
+.	.	.
+
+1	1	1
+)	)	)
+use	use	use
+fork	fork	fork
+and	and	and
+execv	execv	execv
+2	2	2
+)	)	)
+use	use	use
+the	the	the
+"	"	"
+system	system	system
+"	"	"
+called	call	called
+in	in	in
+your	your	your
+program	program	program
+.	.	.
+
+i	i	i
+'	'	'
+m	m	m
+assuming	assum	assuming
+that	that	that
+you	you	you
+'	'	'
+re	re	re
+running	run	running
+under	under	under
+the	the	the
+unix	unix	unix
+os	os	o
+of	of	of
+course	cours	course
+.	.	.
+
+-	-	-
+-	-	-
+
+_	_	_
+-	-	-
+-	-	-
+-	-	-
+_	_	_
+steve	steve	steve
+
+/	/	/
+o	o	o
+o	o	o
+\	\	\
+hsteve@hydra.unm.edu	hsteve@hydra.unm.edu	hsteve@hydra.unm.edu
+,	,	,
+hsteve@carina.unm.edu	hsteve@carina.unm.edu	hsteve@carina.unm.edu
+
+|	|	|
+\	\	\
+___	___	___
+/	/	/
+|	|	|
+
+just	just	just
+say	say	say
+no	no	no
+to	to	to
+vms	vms	vms
+!	!	!
+!	!	!

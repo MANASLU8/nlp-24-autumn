@@ -1,0 +1,1 @@
+Для запуска из директории nlp: `python .\nlp-24-autumn\projects\nechkasova-tokenizer\source\main.py C:\Users\lesya\Documents\STUDY\ML\nlp\probe\dataset\20news-bydate-train`

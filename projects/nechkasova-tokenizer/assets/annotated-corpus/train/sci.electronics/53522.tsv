@@ -1,0 +1,133 @@
+from	from	from
+:	:	:
+msf@skaro.as.arizona.edu	msf@skaro.as.arizona.edu	msf@skaro.as.arizona.edu
+(	(	(
+michael	michael	michael
+fulbright	fulbright	fulbright
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+analog	analog	analog
+switches	switch	switch
+/	/	/
+balanced	balanc	balanced
+demodulators	demodul	demodulator
+
+distribution	distribut	distribution
+:	:	:
+na	na	na
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+arizona	arizona	arizona
+unix	unix	unix
+users	user	user
+group	group	group
+
+lines	line	line
+:	:	:
+13	13	13
+
+caadams@atlas.cs.upei.ca	caadams@atlas.cs.upei.ca	caadams@atlas.cs.upei.ca
+(	(	(
+kenny	kenni	kenny
+adams	adam	adam
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+hi	hi	hi
+,	,	,
+>	>	>
+instead	instead	instead
+of	of	of
+using	use	using
+a	a	a
++	+	+
+15vdc	15vdc	15vdc
+supply	suppli	supply
+for	for	for
+the	the	the
+4066	4066	4066
+try	tri	try
+using	use	using
+a	a	a
++	+	+
+7	7	7
+and	and	and
+-	-	-
+7	7	7
+
+>	>	>
+volt	volt	volt
+supply	suppli	supply
+.	.	.
+
+i	i	i
+have	have	have
+some	some	some
+commercial	commerci	commercial
+audio	audio	audio
+equipment	equip	equipment
+that	that	that
+uses	use	us
+this	this	this
+approach	approach	approach
+
+>	>	>
+for	for	for
+ground	ground	ground
+referenced	referenc	referenced
+audio	audio	audio
+.	.	.
+
+they	they	they
+use	use	use
+the	the	the
+-	-	-
+7	7	7
+volt	volt	volt
+supply	suppli	supply
+as	as	a
+the	the	the
+logic	logic	logic
+
+>	>	>
+ground	ground	ground
+.	.	.
+
+in	in	in
+this	this	this
+case	case	case
+would	would	would
+the	the	the
+switch	switch	switch
+control	control	control
+voltages	voltag	voltage
+be	be	be
+-	-	-
+7v	7v	7v
+to	to	to
+turn	turn	turn
+the	the	the
+switch	switch	switch
+off	off	off
+and	and	and
+>	>	>
+0v	0v	0v
+to	to	to
+turn	turn	turn
+the	the	the
+switch	switch	switch
+on	on	on
+?	?	?
+
+michael	michael	michael
+fulbright	fulbright	fulbright
+msf@as.arizona.edu	msf@as.arizona.edu	msf@as.arizona.edu

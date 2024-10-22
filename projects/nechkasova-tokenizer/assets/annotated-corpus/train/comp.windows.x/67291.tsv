@@ -1,0 +1,359 @@
+from	from	from
+:	:	:
+azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com
+
+subject	subject	subject
+:	:	:
+compiling	compil	compiling
+x	x	x
+programs	program	program
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com
+(	(	(
+)	)	)
+
+distribution	distribut	distribution
+:	:	:
+usa	usa	usa
+
+organization	organ	organization
+:	:	:
+amdahl	amdahl	amdahl
+corporation	corpor	corporation
+,	,	,
+sunnyvale	sunnyval	sunnyvale
+ca	ca	ca
+
+lines	line	line
+:	:	:
+53	53	53
+
+hi	hi	hi
+guys	guy	guy
+,	,	,
+
+it	it	it
+has	has	ha
+been	been	been
+a	a	a
+long	long	long
+time	time	time
+since	sinc	since
+i	i	i
+wrote	wrote	wrote
+a	a	a
+program	program	program
+using	use	using
+x	x	x
+.	.	.
+
+i	i	i
+am	am	am
+trying	tri	trying
+to	to	to
+
+get	get	get
+myself	myself	myself
+re	re	re
+-	-	-
+familiarize	familiar	familiarize
+with	with	with
+x	x	x
+.	.	.
+
+i	i	i
+would	would	would
+appreciate	appreci	appreciate
+your	your	your
+help	help	help
+regarding	regard	regarding
+
+the	the	the
+following	follow	following
+problem	problem	problem
+.	.	.
+
+i	i	i
+am	am	am
+trying	tri	trying
+to	to	to
+compile	compil	compile
+a	a	a
+simple	simpl	simple
+x	x	x
+program	program	program
+on	on	on
+sun	sun	sun
+running	run	running
+sunos	suno	sunos
+4	4	4
+.	.	.
+1	1	1
+.	.	.
+2	2	2
+.	.	.
+
+using	use	using
+
+cc	cc	cc
+-	-	-
+o	o	o
+ex	ex	ex
+ex	ex	ex
+.	.	.
+c	c	c
+-	-	-
+lxaw	lxaw	lxaw
+-	-	-
+lxmu	lxmu	lxmu
+-	-	-
+lxt	lxt	lxt
+-	-	-
+lxext	lxext	lxext
+-	-	-
+lx11	lx11	lx11
+-	-	-
+lm	lm	lm
+
+i	i	i
+am	am	am
+getting	get	getting
+an	an	an
+error	error	error
+
+ld	ld	ld
+:	:	:
+undefined	undefin	undefined
+symbol	symbol	symbol
+
+_get_wmshellwidgetclass	_get_wmshellwidgetclass	_get_wmshellwidgetclass
+
+_get_applicationshellwidgetclass	_get_applicationshellwidgetclass	_get_applicationshellwidgetclass
+
+the	the	the
+simple	simpl	simple
+program	program	program
+i	i	i
+tried	tri	tried
+to	to	to
+compile	compil	compile
+is	is	is
+given	given	given
+below	below	below
+.	.	.
+
+#	#	#
+include	includ	include
+<	<	<
+stdio	stdio	stdio
+.	.	.
+h	h	h
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+x11	x11	x11
+/	/	/
+intrinsic	intrins	intrinsic
+.	.	.
+h	h	h
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+x11	x11	x11
+/	/	/
+stringdefs	stringdef	stringdefs
+.	.	.
+h	h	h
+>	>	>
+
+#	#	#
+include	includ	include
+<	<	<
+x11	x11	x11
+/	/	/
+xaw	xaw	xaw
+/	/	/
+form	form	form
+.	.	.
+h	h	h
+>	>	>
+
+main	main	main
+(	(	(
+argc	argc	argc
+,	,	,
+argv	argv	argv
+)	)	)
+int	int	int
+argc	argc	argc
+;	;	;
+char	char	char
+*	*	*
+*	*	*
+argv	argv	argv
+;	;	;
+
+{	{	{
+
+widget	widget	widget
+toplevel	toplevel	toplevel
+;	;	;
+
+widget	widget	widget
+frame	frame	frame
+;	;	;
+
+toplevel	toplevel	toplevel
+=	=	=
+xtinitialize	xtiniti	xtinitialize
+(	(	(
+"	"	"
+ex	ex	ex
+"	"	"
+,	,	,
+"	"	"
+ex	ex	ex
+"	"	"
+,	,	,
+null	null	null
+,	,	,
+0	0	0
+,	,	,
+&	&	&
+argc	argc	argc
+,	,	,
+*	*	*
+*	*	*
+argv	argv	argv
+)	)	)
+;	;	;
+
+frame	frame	frame
+=	=	=
+xtcreatemanagedwidget	xtcreatemanagedwidget	xtcreatemanagedwidget
+(	(	(
+"	"	"
+form	form	form
+"	"	"
+,	,	,
+formwidgetclass	formwidgetclass	formwidgetclass
+,	,	,
+toplevel	toplevel	toplevel
+,	,	,
+null	null	null
+,	,	,
+0	0	0
+)	)	)
+;	;	;
+
+xtrealizewidget	xtrealizewidget	xtrealizewidget
+(	(	(
+toplevel	toplevel	toplevel
+)	)	)
+;	;	;
+
+xtmainloop	xtmainloop	xtmainloop
+(	(	(
+)	)	)
+;	;	;
+
+}	}	}
+
+i	i	i
+got	got	got
+the	the	the
+same	same	same
+error	error	error
+when	when	when
+i	i	i
+tried	tri	tried
+to	to	to
+build	build	build
+"	"	"
+xpostit	xpostit	xpostit
+"	"	"
+using	use	using
+the	the	the
+imakefile	imakefil	imakefile
+
+provided	provid	provided
+with	with	with
+the	the	the
+software	softwar	software
+.	.	.
+
+i	i	i
+have	have	have
+compiled	compil	compiled
+x	x	x
+programs	program	program
+before	befor	before
+(	(	(
+not	not	not
+on	on	on
+this	this	this
+machine	machin	machine
+,	,	,
+but	but	but
+on	on	on
+other	other	other
+
+machines	machin	machine
+running	run	running
+sunos	suno	sunos
+4	4	4
+.	.	.
+0	0	0
+and	and	and
+x11	x11	x11
+r4	r4	r4
+)	)	)
+.	.	.
+
+i	i	i
+did	did	did
+not	not	not
+get	get	get
+this	this	this
+error	error	error
+message	messag	message
+
+can	can	can
+anybody	anybodi	anybody
+tell	tell	tell
+me	me	me
+why	whi	why
+i	i	i
+am	am	am
+getting	get	getting
+these	these	these
+messages	messag	message
+.	.	.
+
+i	i	i
+would	would	would
+appreciate	appreci	appreciate
+if	if	if
+you	you	you
+can	can	can
+email	email	email
+your	your	your
+responses	respons	response
+to	to	to
+me	me	me
+at	at	at
+
+azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com	azn30@ruts.ccc.amdahl.com
+.	.	.
+
+thanks	thank	thanks
+
+anand	anand	anand

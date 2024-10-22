@@ -1,0 +1,232 @@
+from	from	from
+:	:	:
+berger@chaos.cs.brandeis.edu	berger@chaos.cs.brandeis.edu	berger@chaos.cs.brandeis.edu
+(	(	(
+david	david	david
+berger	berger	berger
+)	)	)
+
+subject	subject	subject
+:	:	:
+need	need	need
+some	some	some
+graphics	graphic	graphic
+help	help	help
+!	!	!
+
+organization	organ	organization
+:	:	:
+brandeis	brandei	brandeis
+university	univers	university
+
+lines	line	line
+:	:	:
+32	32	32
+
+help	help	help
+!	!	!
+
+i	i	i
+'	'	'
+m	m	m
+trying	tri	trying
+to	to	to
+program	program	program
+my	my	my
+vga	vga	vga
+!	!	!
+
+i	i	i
+'	'	'
+ve	ve	ve
+got	got	got
+it	it	it
+working	work	working
+with	with	with
+in	in	in
+pascal	pascal	pascal
+with	with	with
+the	the	the
+following	follow	following
+routines	routin	routine
+for	for	for
+mode	mode	mode
+$	$	$
+13h	13h	13h
+
+(	(	(
+320	320	320
+*	*	*
+200	200	200
+*	*	*
+256	256	256
+)	)	)
+.	.	.
+
+i	i	i
+'	'	'
+ve	ve	ve
+got	got	got
+a	a	a
+vesa	vesa	vesa
+compatable	compat	compatable
+trident	trident	trident
+8900c	8900c	8900c
+w	w	w
+/	/	/
+1meg	1meg	1meg
+and	and	and
+need	need	need
+to	to	to
+program	program	program
+in	in	in
+1024	1024	1024
+*	*	*
+768	768	768
+mode	mode	mode
+.	.	.
+
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+care	care	care
+how	how	how
+many	mani	many
+colors	color	color
+.	.	.
+
+could	could	could
+someone	someon	someone
+take	take	take
+this	this	this
+code	code	code
+and	and	and
+help	help	help
+me	me	me
+write	write	write
+2	2	2
+new	new	new
+procedures	procedur	procedure
+to	to	to
+replace	replac	replace
+them	them	them
+so	so	so
+that	that	that
+it	it	it
+'	'	'
+ll	ll	ll
+work	work	work
+in	in	in
+1024	1024	1024
+*	*	*
+768	768	768
+*	*	*
+16	16	16
+or	or	or
+1024	1024	1024
+*	*	*
+768	768	768
+*	*	*
+256	256	256
+?	?	?
+
+that	that	that
+'	'	'
+d	d	d
+be	be	be
+great	great	great
+!	!	!
+
+thanks	thank	thanks
+.	.	.
+.	.	.
+.	.	.
+
+here	here	here
+is	is	is
+the	the	the
+code	code	code
+i	i	i
+currently	current	currently
+have	have	have
+for	for	for
+320	320	320
+*	*	*
+200	200	200
+*	*	*
+256	256	256
+mode	mode	mode
+:	:	:
+
+procedure	procedur	procedure
+graphmode	graphmod	graphmode
+;	;	;
+
+begin	begin	begin
+{	{	{
+videomode	videomod	videomode
+}	}	}
+
+asm	asm	asm
+
+mov	mov	mov
+ah	ah	ah
+,	,	,
+00	00	00
+
+mov	mov	mov
+al	al	al
+,	,	,
+13h	13h	13h
+
+int	int	int
+10h	10h	10h
+
+end	end	end
+;	;	;
+
+end	end	end
+;	;	;
+{	{	{
+videomode	videomod	videomode
+}	}	}
+
+procedure	procedur	procedure
+plotpoint	plotpoint	plotpoint
+(	(	(
+x	x	x
+,	,	,
+y	y	y
+,	,	,
+c	c	c
+:	:	:
+integer	integ	integer
+)	)	)
+;	;	;
+
+begin	begin	begin
+
+mem	mem	mem
+[	[	[
+$	$	$
+a000	a000	a000
+:	:	:
+x	x	x
++	+	+
+y	y	y
+*	*	*
+320	320	320
+]	]	]
+:	:	:
+=	=	=
+c	c	c
+;	;	;
+
+end	end	end
+;	;	;
+
+-	-	-
+-	-	-
+
+david	david	david

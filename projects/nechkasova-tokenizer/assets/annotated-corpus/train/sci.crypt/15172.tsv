@@ -1,0 +1,413 @@
+from	from	from
+:	:	:
+marc@tanda.isis.org	marc@tanda.isis.org	marc@tanda.isis.org
+(	(	(
+marc	marc	marc
+thibault	thibault	thibault
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+hard	hard	hard
+drive	drive	drive
+security	secur	security
+for	for	for
+fbi	fbi	fbi
+targets	target	target
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+marc@tanda.isis.org	marc@tanda.isis.org	marc@tanda.isis.org
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+organization	organ	organization
+:	:	:
+thibault	thibault	thibault
+&	&	&
+friends	friend	friend
+
+lines	line	line
+:	:	:
+45	45	45
+
+1	1	1
+.	.	.
+
+do	do	do
+a	a	a
+straight	straight	straight
+encryption	encrypt	encryption
+of	of	of
+your	your	your
+keyrings	keyr	keyrings
+and	and	and
+put	put	put
+the	the	the
+
+results	result	result
+with	with	with
+misleading	mislead	misleading
+names	name	name
+somewhere	somewher	somewhere
+they	they	they
+won	won	won
+'	'	'
+t	t	t
+be	be	be
+noticed	notic	noticed
+
+(	(	(
+eg	eg	eg
+.	.	.
+
+in	in	in
+the	the	the
+\	\	\
+windows	window	window
+directory	directori	directory
+;	;	;
+nobody	nobodi	nobody
+knows	know	know
+what	what	what
+half	half	half
+those	those	those
+
+files	file	file
+are	are	are
+)	)	)
+.	.	.
+
+2	2	2
+.	.	.
+
+do	do	do
+a	a	a
+straight	straight	straight
+encryption	encrypt	encryption
+of	of	of
+a	a	a
+.	.	.
+bat	bat	bat
+file	file	file
+that	that	that
+will	will	will
+decrypt	decrypt	decrypt
+
+the	the	the
+keyrings	keyr	keyrings
+to	to	to
+ramdisk	ramdisk	ramdisk
+and	and	and
+will	will	will
+set	set	set
+pgppath	pgppath	pgppath
+to	to	to
+point	point	point
+at	at	at
+it	it	it
+.	.	.
+
+3	3	3
+.	.	.
+
+set	set	set
+up	up	up
+another	anoth	another
+.	.	.
+bat	bat	bat
+file	file	file
+to	to	to
+decrypt	decrypt	decrypt
+and	and	and
+execute	execut	execute
+the	the	the
+first	first	first
+
+(	(	(
+again	again	again
+on	on	on
+ram	ram	ram
+disk	disk	disk
+)	)	)
+.	.	.
+
+have	have	have
+it	it	it
+take	take	take
+the	the	the
+name	name	name
+of	of	of
+the	the	the
+target	target	target
+file	file	file
+
+as	as	a
+an	an	an
+argument	argument	argument
+so	so	so
+that	that	that
+there	there	there
+is	is	is
+no	no	no
+link	link	link
+between	between	between
+this	this	this
+file	file	file
+and	and	and
+
+the	the	the
+(	(	(
+non	non	non
+-	-	-
+existent	exist	existent
+)	)	)
+batch	batch	batch
+file	file	file
+referred	refer	referred
+to	to	to
+by	by	by
+the	the	the
+rest	rest	rest
+of	of	of
+the	the	the
+
+system	system	system
+.	.	.
+
+comment	comment	comment
+it	it	it
+so	so	so
+it	it	it
+looks	look	look
+like	like	like
+a	a	a
+test	test	test
+script	script	script
+for	for	for
+fooling	fool	fooling
+
+around	around	around
+with	with	with
+pgp	pgp	pgp
+.	.	.
+
+set	set	set
+pgppath	pgppath	pgppath
+to	to	to
+the	the	the
+pgp	pgp	pgp
+directory	directori	directory
+.	.	.
+
+4	4	4
+.	.	.
+
+leave	leav	leave
+the	the	the
+original	origin	original
+keyrings	keyr	keyrings
+that	that	that
+came	came	came
+with	with	with
+pgp	pgp	pgp
+in	in	in
+the	the	the
+
+directory	directori	directory
+with	with	with
+pgp	pgp	pgp
+;	;	;
+a	a	a
+good	good	good
+indication	indic	indication
+that	that	that
+you	you	you
+are	are	are
+playing	play	playing
+
+with	with	with
+,	,	,
+but	but	but
+haven	haven	haven
+'	'	'
+t	t	t
+made	made	made
+serious	serious	serious
+use	use	use
+of	of	of
+pgp	pgp	pgp
+.	.	.
+
+add	add	add
+a	a	a
+set	set	set
+of	of	of
+keys	key	key
+
+with	with	with
+your	your	your
+name	name	name
+and	and	and
+a	a	a
+really	realli	really
+simple	simpl	simple
+passphrase	passphras	passphrase
+.	.	.
+
+never	never	never
+use	use	use
+it	it	it
+,	,	,
+or	or	or
+use	use	use
+it	it	it
+as	as	a
+your	your	your
+widely	wide	widely
+published	publish	published
+key	key	key
+for	for	for
+low	low	low
+-	-	-
+security	secur	security
+
+e	e	e
+-	-	-
+mail	mail	mail
+.	.	.
+
+5	5	5
+.	.	.
+
+when	when	when
+needed	need	needed
+,	,	,
+run	run	run
+the	the	the
+second	second	second
+.	.	.
+bat	bat	bat
+file	file	file
+.	.	.
+
+make	make	make
+sure	sure	sure
+all	all	all
+
+intermediate	intermedi	intermediate
+and	and	and
+plainfiles	plainfil	plainfiles
+are	are	are
+generated	generat	generated
+on	on	on
+ramdisk	ramdisk	ramdisk
+.	.	.
+
+6	6	6
+.	.	.
+
+when	when	when
+you	you	you
+hear	hear	hear
+the	the	the
+concussion	concuss	concussion
+grenade	grenad	grenade
+,	,	,
+hit	hit	hit
+the	the	the
+power	power	power
+switch	switch	switch
+.	.	.
+
+cheers	cheer	cheer
+,	,	,
+marc	marc	marc
+
+-	-	-
+-	-	-
+-	-	-
+
+marc	marc	marc
+thibault	thibault	thibault
+|	|	|
+cis	cis	ci
+:	:	:
+71441	71441	71441
+,	,	,
+2226	2226	2226
+|	|	|
+put	put	put
+another	anoth	another
+log	log	log
+
+marc@tanda.isis.org	marc@tanda.isis.org	marc@tanda.isis.org
+|	|	|
+nc	nc	nc
+freenet	freenet	freenet
+:	:	:
+aa185	aa185	aa185
+|	|	|
+on	on	on
+the	the	the
+fire	fire	fire
+.	.	.
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+begin	begin	begin
+pgp	pgp	pgp
+public	public	public
+key	key	key
+block	block	block
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+version	version	version
+:	:	:
+2	2	2
+.	.	.
+0	0	0
+
+mqbnaiqxytkaaaecalfehyp0yc80s1scfvjspj5escao	mqbnaiqxytkaaaecalfehyp0yc80s1scfvjspj5escao	mqbnaiqxytkaaaecalfehyp0yc80s1scfvjspj5escao
++	+	+
+hihtnefrrn	hihtnefrrn	hihtnefrrn
++	+	+
+vuecsavh	vuecsavh	vuecsavh
+aauwpiugyv2n8n	aauwpiugyv2n8n	aauwpiugyv2n8n
++	+	+
+lftpnnlc42ms	lftpnnlc42ms	lftpnnlc42ms
++	+	+
+c8pjupykvi8abrg0i01hcmmgvghpymf1bhqg	c8pjupykvi8abrg0i01hcmmgvghpymf1bhqg	c8pjupykvi8abrg0i01hcmmgvghpymf1bhqg
+pg1hcmnadgfuzgeuaxnpcy5vcmc	pg1hcmnadgfuzgeuaxnpcy5vcmc	pg1hcmnadgfuzgeuaxnpcy5vcmc
++	+	+
+
+=	=	=
+hlnv	hlnv	hlnv
+
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+end	end	end
+pgp	pgp	pgp
+public	public	public
+key	key	key
+block	block	block
+-	-	-
+-	-	-
+-	-	-
+-	-	-
+-	-	-

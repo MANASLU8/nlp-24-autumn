@@ -1,0 +1,494 @@
+from	from	from
+:	:	:
+rchui@nswc-wo.nswc.navy.mil	rchui@nswc-wo.nswc.navy.mil	rchui@nswc-wo.nswc.navy.mil
+(	(	(
+raymond	raymond	raymond
+chui	chui	chui
+)	)	)
+
+subject	subject	subject
+:	:	:
+a	a	a
+question	question	question
+i	i	i
+do	do	do
+not	not	not
+found	found	found
+in	in	in
+faq	faq	faq
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+rchui@opal.nswc.navy.mil	rchui@opal.nswc.navy.mil	rchui@opal.nswc.navy.mil
+
+organization	organ	organization
+:	:	:
+navswc	navswc	navswc
+dd	dd	dd
+white	white	white
+oak	oak	oak
+det	det	det
+.	.	.
+
+lines	line	line
+:	:	:
+52	52	52
+
+i	i	i
+created	creat	created
+a	a	a
+pixmap	pixmap	pixmap
+or	or	or
+drawable	drawabl	drawable
+window	window	window
+,	,	,
+then	then	then
+used	use	used
+xdrawline	xdrawlin	xdrawline
+(	(	(
+)	)	)
+function	function	function
+drawed	draw	drawed
+a	a	a
+line	line	line
+as	as	a
+below	below	below
+fingure	fingur	fingure
+:	:	:
+
+width	width	width
+=	=	=
+300	300	300
+
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+
+|	|	|
+|	|	|
+
+|	|	|
+|	|	|
+
+|	|	|
+p1	p1	p1
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+height	height	height
+=	=	=
+300	300	300
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+
+|	|	|
+\	\	\
+|	|	|
+p3	p3	p3
+
+|	|	|
+|	|	|
+
+|	|	|
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+=	=	=
+|	|	|
+\	\	\
+
+\	\	\
+
+p2	p2	p2
+
+i	i	i
+created	creat	created
+the	the	the
+pixmap	pixmap	pixmap
+or	or	or
+drawable	drawabl	drawable
+window	window	window
+only	onli	only
+with	with	with
+size	size	size
+300x300	300x300	300x300
+.	.	.
+
+but	but	but
+i	i	i
+draw	draw	draw
+line	line	line
+from	from	from
+p1	p1	p1
+(	(	(
+x1	x1	x1
+=	=	=
+270	270	270
+,	,	,
+y1	y1	y1
+=	=	=
+100	100	100
+)	)	)
+to	to	to
+p2	p2	p2
+(	(	(
+x2	x2	x2
+=	=	=
+500	500	500
+,	,	,
+y2	y2	y2
+=	=	=
+800	800	800
+)	)	)
+.	.	.
+
+my	my	my
+question	question	question
+is	is	is
+,	,	,
+dose	dose	dose
+the	the	the
+xdrawline	xdrawlin	xdrawline
+function	function	function
+can	can	can
+finger	finger	finger
+out	out	out
+that	that	that
+correct	correct	correct
+p3	p3	p3
+(	(	(
+x3	x3	x3
+and	and	and
+y3	y3	y3
+)	)	)
+for	for	for
+me	me	me
+?	?	?
+
+if	if	if
+you	you	you
+calculate	calcul	calculate
+x3	x3	x3
+and	and	and
+y3	y3	y3
+.	.	.
+
+x3	x3	x3
+=	=	=
+300	300	300
+;	;	;
+
+@	@	@
+=	=	=
+art	art	art
+tan	tan	tan
+(	(	(
+(	(	(
+800 - 100	800 - 100	800 - 100
+)	)	)
+/	/	/
+(	(	(
+500 - 270	500 - 270	500 - 270
+)	)	)
+)	)	)
+=	=	=
+71	71	71
+.	.	.
+81	81	81
+degrees	degre	degree
+;	;	;
+
+y3	y3	y3
+=	=	=
+100	100	100
++	+	+
+x3	x3	x3
+/	/	/
+tan	tan	tan
+(	(	(
+@	@	@
+)	)	)
+=	=	=
+100	100	100
++	+	+
+300	300	300
+/	/	/
+tan	tan	tan
+(	(	(
+71	71	71
+.	.	.
+81	81	81
+)	)	)
+=	=	=
+198	198	198
+.	.	.
+58	58	58
+~	~	~
+=	=	=
+(	(	(
+integer	integ	integer
+)	)	)
+199	199	199
+.	.	.
+
+how	how	how
+do	do	do
+i	i	i
+prove	prove	prove
+xdrawline	xdrawlin	xdrawline
+(	(	(
+)	)	)
+give	give	give
+me	me	me
+the	the	the
+right	right	right
+x3	x3	x3
+,	,	,
+y3	y3	y3
+or	or	or
+not	not	not
+?	?	?
+
+please	pleas	please
+don	don	don
+'	'	'
+t	t	t
+ask	ask	ask
+me	me	me
+why	whi	why
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+created	creat	created
+a	a	a
+900x900	900x900	900x900
+pixmap	pixmap	pixmap
+.	.	.
+
+no	no	no
+,	,	,
+i	i	i
+don	don	don
+'	'	'
+t	t	t
+wan	wan	wan
+to	to	to
+.	.	.
+
+thanks	thank	thanks
+in	in	in
+advance	advanc	advance
+!	!	!
+
+-	-	-
+-	-	-
+raymond	raymond	raymond
+h	h	h
+.	.	.
+
+chui	chui	chui
+nswc	nswc	nswc
+n62	n62	n62
+10901	10901	10901
+new	new	new
+hampshire	hampshir	hampshire
+ave	ave	ave
+.	.	.
+
+silver	silver	silver
+spring	spring	spring
+,	,	,
+md	md	md
+20903-5000	20903-5000	20903-5000
+u	u	u
+.	.	.
+s	s	s
+.	.	.
+a	a	a
+.	.	.
+voice	voic	voice
+:	:	:
+1(301)394-3807	1(301)394-3807	1(301)394-3807
+ext	ext	ext
+.	.	.
+
+45	45	45
+fax	fax	fax
+:	:	:
+1(301)394-4483	1(301)394-4483	1(301)394-4483
+email	email	email
+:	:	:
+rchui@opal.nswc.navy.mil	rchui@opal.nswc.navy.mil	rchui@opal.nswc.navy.mil
+
+_	_	_
+__	__	__
+_	_	_
+,	,	,
+__	__	__
+
+'	'	'
+)	)	)
+)	)	)
+/	/	/
+'	'	'
+)	)	)
+/	/	/
+/	/	/
+)	)	)
+/	/	/
+
+/	/	/
+-	-	-
+-	-	-
+'	'	'
+__	__	__
+.	.	.
+
+,	,	,
+,	,	,
+____	____	____
+______	______	______
+__	__	__
+/	/	/
+/	/	/
+-	-	-
+-	-	-
+/	/	/
+/	/	/
+/	/	/
+_	_	_
+.	.	.
+
+.	.	.
+
+o	o	o
+
+/	/	/
+\	\	\
+_	_	_
+(	(	(
+_	_	_
+(	(	(
+_	_	_
+(	(	(
+_	_	_
+/	/	/
+_	_	_
+/	/	/
+)	)	)
+)	)	)
+)	)	)
+_	_	_
+(	(	(
+_	_	_
+)	)	)
+/	/	/
+)	)	)
+)	)	)
+_	_	_
+(	(	(
+_	_	_
+(	(	(
+_	_	_
+/	/	/
+(	(	(
+o	o	o
+(	(	(
+__	__	__
+/	/	/
+/	/	/
+/	/	/
+_	_	_
+(	(	(
+_	_	_
+/	/	/
+_	_	_
+(	(	(
+_	_	_
+
+/	/	/
+
+'	'	'

@@ -1,0 +1,391 @@
+from	from	from
+:	:	:
+dwilson@csugrad.cs.vt.edu	dwilson@csugrad.cs.vt.edu	dwilson@csugrad.cs.vt.edu
+(	(	(
+david	david	david
+wilson	wilson	wilson
+)	)	)
+
+subject	subject	subject
+:	:	:
+computer	comput	computer
+/	/	/
+audio	audio	audio
+/	/	/
+video	video	video
+/	/	/
+furniture	furnitur	furniture
+needed	need	needed
+as	as	a
+of	of	of
+4	4	4
+/	/	/
+18	18	18
+
+lines	line	line
+:	:	:
+60	60	60
+
+organization	organ	organization
+:	:	:
+virginia	virginia	virginia
+tech	tech	tech
+computer	comput	computer
+science	scienc	science
+dept	dept	dept
+,	,	,
+blacksburg	blacksburg	blacksburg
+,	,	,
+va	va	va
+
+lines	line	line
+:	:	:
+60	60	60
+
+unless	unless	unless
+otherwise	otherwis	otherwise
+noted	note	noted
+,	,	,
+i	i	i
+am	am	am
+mainly	main	mainly
+interested	interest	interested
+in	in	in
+used	use	used
+items	item	item
+.	.	.
+
+if	if	if
+you	you	you
+have	have	have
+(	(	(
+any	ani	any
+of	of	of
+)	)	)
+the	the	the
+following	follow	following
+for	for	for
+sale	sale	sale
+,	,	,
+please	pleas	please
+contact	contact	contact
+me	me	me
+:	:	:
+
+email	email	email
+mbeck@vtssi.vt.edu	mbeck@vtssi.vt.edu	mbeck@vtssi.vt.edu
+
+phone	phone	phone
+(	(	(
+703)552-4381	703)552-4381	703)552-4381
+
+usmail	usmail	usmail
+michael	michael	michael
+beck	beck	beck
+
+1200	1200	1200
+progress	progress	progress
+street	street	street
+#	#	#
+5500e	5500e	5500e
+
+blacksburg	blacksburg	blacksburg
+,	,	,
+virginia	virginia	virginia
+24060	24060	24060
+
+please	pleas	please
+give	give	give
+as	as	a
+much	much	much
+info	info	info
+as	as	a
+possible	possibl	possible
+(	(	(
+brand	brand	brand
+,	,	,
+age	age	age
+,	,	,
+condition	condit	condition
+,	,	,
+etc	etc	etc
+)	)	)
+
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+wanted	want	wanted
+as	as	a
+of	of	of
+12am	12am	12am
+,	,	,
+4	4	4
+/	/	/
+16	16	16
+/	/	/
+93	93	93
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+~	~	~
+
+computer	comput	computer
+equip	equip	equip
+:	:	:
+
+1	1	1
+cheap	cheap	cheap
+tape	tape	tape
+drive	drive	drive
+-	-	-
+pretty	pretti	pretty
+much	much	much
+any	ani	any
+kind	kind	kind
+(	(	(
+used	use	used
+)	)	)
+
+1	1	1
+memory	memori	memory
+for	for	for
+ps	ps	p
+/	/	/
+2	2	2
+model	model	model
+50z	50z	50z
+(	(	(
+new	new	new
+or	or	or
+used	use	used
+)	)	)
+
+1	1	1
+macintosh	macintosh	macintosh
+computer	comput	computer
+
+1       486 66	1       486 66	1       486 66
+mhz	mhz	mhz
+chip	chip	chip
+(	(	(
+new	new	new
+or	or	or
+used	use	used
+)	)	)
+
+1	1	1
+colorado	colorado	colorado
+tape	tape	tape
+drive	drive	drive
+,	,	,
+250	250	250
+megabyte	megabyt	megabyte
+,	,	,
+preferr	preferr	preferr
+.	.	.
+
+w	w	w
+/	/	/
+5	5	5
+tapes	tape	tape
+(	(	(
+used	use	used
+)	)	)
+
+1       101	1       101	1       101
+key	key	key
+-	-	-
+at	at	at
+keyboard	keyboard	keyboard
+
+1	1	1
+high	high	high
+density	densiti	density
+(	(	(
+1	1	1
+.	.	.
+2	2	2
+mb	mb	mb
+)	)	)
+5	5	5
+1	1	1
+/	/	/
+4	4	4
+disk	disk	disk
+drive	drive	drive
+
+1	1	1
+printer	printer	printer
+-	-	-
+oms410	oms410	oms410
+or	or	or
+hp	hp	hp
+laser	laser	laser
+or	or	or
+hp	hp	hp
+deskjet	deskjet	deskjet
+series	seri	series
+
+1	1	1
+printer	printer	printer
+-	-	-
+24	24	24
+pin	pin	pin
+or	or	or
+deskjet	deskjet	deskjet
+
+1	1	1
+high	high	high
+density	densiti	density
+(	(	(
+1	1	1
+.	.	.
+2	2	2
+mb	mb	mb
+)	)	)
+5	5	5
+1	1	1
+/	/	/
+4	4	4
+disk	disk	disk
+drive	drive	drive
+external	extern	external
+
+1	1	1
+adaptec	adaptec	adaptec
+1542	1542	1542
+scsi	scsi	scsi
+16	16	16
+-	-	-
+bit	bit	bit
+hd	hd	hd
+/	/	/
+fd	fd	fd
+controller	control	controller
+(	(	(
+used	use	used
+)	)	)
+
+1	1	1
+piggy	piggi	piggy
+back	back	back
+memory	memori	memory
+expansion	expans	expansion
+for	for	for
+intel	intel	intel
+inboard	inboard	inboard
+386	386	386
+
+1       130	1       130	1       130
+mb	mb	mb
+ide	ide	ide
+hard	hard	hard
+drive	drive	drive
+
+2       17	2       17	2       17
+"	"	"
+monitor	monitor	monitor
+,	,	,
+1280	1280	1280
+resolution	resolut	resolution
+,	,	,
+.	.	.
+28	28	28
+dot	dot	dot
+pitch	pitch	pitch
+or	or	or
+better	better	better
+,	,	,
+digital	digit	digital
+
+non	non	non
+-	-	-
+computer	comput	computer
+equip	equip	equip
+:	:	:
+
+1	1	1
+drum	drum	drum
+set	set	set
+
+mult	mult	mult
+.	.	.
+
+amps	amp	amp
+for	for	for
+a	a	a
+band	band	band
+
+1	1	1
+tv	tv	tv
+-	-	-
+27	27	27
+"	"	"
+or	or	or
+bigger	bigger	bigger
+,	,	,
+stereo	stereo	stereo
+
+1	1	1
+vcr	vcr	vcr
+-	-	-
+4	4	4
+heads	head	head
+,	,	,
+stereo	stereo	stereo
+
+1	1	1
+receiver	receiv	receiver
+-	-	-
+100	100	100
+watts	watt	watt
+or	or	or
+more	more	more
+w	w	w
+/	/	/
+dolby	dolbi	dolby
+prologic	prolog	prologic
+surround	surround	surround
+sound	sound	sound
+
+capability	capabl	capability
+
+1	1	1
+bed	bed	bed
+-	-	-
+full	full	full
+or	or	or
+queen	queen	queen
+sized	size	sized
+-	-	-
+local	local	local
+offers	offer	offer
+only	onli	only
+,	,	,
+please	pleas	please
+
+1	1	1
+desk	desk	desk
+-	-	-
+local	local	local
+offers	offer	offer
+only	onli	only
+,	,	,
+please	pleas	please
+due	due	due
+to	to	to
+shipping	ship	shipping
+constraints	constraint	constraint

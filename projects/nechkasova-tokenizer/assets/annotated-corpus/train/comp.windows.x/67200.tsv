@@ -1,0 +1,339 @@
+from	from	from
+:	:	:
+reznik@robios5.me.wisc.edu	reznik@robios5.me.wisc.edu	reznik@robios5.me.wisc.edu
+(	(	(
+dan	dan	dan
+s	s	s
+reznik	reznik	reznik
+)	)	)
+
+subject	subject	subject
+:	:	:
+text	text	text
+field	field	field
+in	in	in
+dialog	dialog	dialog
+widget	widget	widget
+doesn	doesn	doesn
+'	'	'
+t	t	t
+get	get	get
+focus	focus	focus
+
+organization	organ	organization
+:	:	:
+college	colleg	college
+of	of	of
+engineering	engin	engineering
+,	,	,
+univ	univ	univ
+.	.	.
+
+of	of	of
+wisconsin	wisconsin	wisconsin
+-	-	-
+madison	madison	madison
+originator	origin	originator
+:	:	:
+reznik@robios5.me.wisc.edu	reznik@robios5.me.wisc.edu	reznik@robios5.me.wisc.edu
+lines	line	line
+:	:	:
+49	49	49
+
+i	i	i
+am	am	am
+using	use	using
+the	the	the
+glx	glx	glx
+widget	widget	widget
++	+	+
+athena	athena	athena
+widgets	widget	widget
+on	on	on
+a	a	a
+mixed	mix	mixed
+-	-	-
+model	model	model
+application	applic	application
+,	,	,
+under	under	under
+4dwm	4dwm	4dwm
+,	,	,
+but	but	but
+when	when	when
+the	the	the
+dialog	dialog	dialog
+gets	get	get
+popped	pop	popped
+up	up	up
+,	,	,
+its	it	it
+text	text	text
+entry	entri	entry
+field	field	field
+does	doe	doe
+not	not	not
+have	have	have
+focus	focus	focus
+.	.	.
+
+aimilar	aimilar	aimilar
+code	code	code
+works	work	work
+perfectly	perfect	perfectly
+if	if	if
+i	i	i
+use	use	use
+"	"	"
+pure	pure	pure
+x	x	x
+"	"	"
+(	(	(
+no	no	no
+mixed	mix	mixed
+-	-	-
+model	model	model
+)	)	)
+.	.	.
+
+here	here	here
+is	is	is
+the	the	the
+relevant	relev	relevant
+portion	portion	portion
+of	of	of
+the	the	the
+code	code	code
+.	.	.
+
+{	{	{
+
+int	int	int
+n	n	n
+;	;	;
+
+arg	arg	arg
+wargs	warg	wargs
+[	[	[
+16	16	16
+]	]	]
+;	;	;
+
+widget	widget	widget
+button	button	button
+,	,	,
+popupshell	popupshel	popupshell
+,	,	,
+dialog	dialog	dialog
+;	;	;
+
+/	/	/
+*	*	*
+initialize	initi	initialize
+toplevel	toplevel	toplevel
+here	here	here
+*	*	*
+/	/	/
+
+.	.	.
+
+.	.	.
+
+.	.	.
+
+n	n	n
+=	=	=
+0	0	0
+;	;	;
+
+xtsetarg	xtsetarg	xtsetarg
+(	(	(
+wargs	warg	wargs
+[	[	[
+n	n	n
+]	]	]
+,	,	,
+xtnlabel	xtnlabel	xtnlabel
+,	,	,
+"	"	"
+foo	foo	foo
+"	"	"
+)	)	)
+;	;	;
+n	n	n
++	+	+
++	+	+
+;	;	;
+
+button	button	button
+=	=	=
+xtcreatemanagedwidget	xtcreatemanagedwidget	xtcreatemanagedwidget
+(	(	(
+"	"	"
+foobtn	foobtn	foobtn
+"	"	"
+,	,	,
+commandwidgetclass	commandwidgetclass	commandwidgetclass
+,	,	,
+toplevel	toplevel	toplevel
+,	,	,
+wargs	warg	wargs
+,	,	,
+n	n	n
+)	)	)
+;	;	;
+
+popupshell	popupshel	popupshell
+=	=	=
+xtcreatepopupshell	xtcreatepopupshel	xtcreatepopupshell
+(	(	(
+"	"	"
+pupshell	pupshel	pupshell
+"	"	"
+,	,	,
+overrideshellwidgetclass	overrideshellwidgetclass	overrideshellwidgetclass
+,	,	,
+button	button	button
+,	,	,
+null	null	null
+,	,	,
+0	0	0
+)	)	)
+;	;	;
+
+xtaddcallback	xtaddcallback	xtaddcallback
+(	(	(
+popupshell	popupshel	popupshell
+,	,	,
+xtncallback	xtncallback	xtncallback
+,	,	,
+mypopup	mypopup	mypopup
+,	,	,
+(	(	(
+xtpointer	xtpointer	xtpointer
+)	)	)
+popupshell	popupshel	popupshell
+)	)	)
+;	;	;
+
+n	n	n
+=	=	=
+0	0	0
+;	;	;
+
+xtsetarg	xtsetarg	xtsetarg
+(	(	(
+wargs	warg	wargs
+[	[	[
+n	n	n
+]	]	]
+,	,	,
+xtnvalue	xtnvalu	xtnvalue
+,	,	,
+"	"	"
+"	"	"
+)	)	)
+;	;	;
+n	n	n
++	+	+
++	+	+
+;	;	;
+
+dialog	dialog	dialog
+=	=	=
+xtcreatemanagedwidget	xtcreatemanagedwidget	xtcreatemanagedwidget
+(	(	(
+"	"	"
+thedialog	thedialog	thedialog
+"	"	"
+,	,	,
+dialogwidgetclass	dialogwidgetclass	dialogwidgetclass
+,	,	,
+popupshell	popupshel	popupshell
+,	,	,
+wargs	warg	wargs
+,	,	,
+n	n	n
+)	)	)
+;	;	;
+
+.	.	.
+
+.	.	.
+
+.	.	.
+
+}	}	}
+
+void	void	void
+mypopup	mypopup	mypopup
+(	(	(
+w	w	w
+,	,	,
+popup_shell	popup_shel	popup_shell
+,	,	,
+call_data	call_data	call_data
+)	)	)
+widget	widget	widget
+w	w	w
+;	;	;
+widget	widget	widget
+popup_shell	popup_shel	popup_shell
+;	;	;
+xtpointer	xtpointer	xtpointer
+call_data	call_data	call_data
+;	;	;
+
+{	{	{
+
+xtpopup	xtpopup	xtpopup
+(	(	(
+popup_shell	popup_shel	popup_shell
+,	,	,
+xtgrabexclusive	xtgrabexclus	xtgrabexclusive
+)	)	)
+;	;	;
+
+}	}	}
+
+-	-	-
+-	-	-
+-	-	-
+
+a	a	a
+way	way	way
+i	i	i
+found	found	found
+to	to	to
+give	give	give
+focus	focus	focus
+to	to	to
+the	the	the
+text	text	text
+field	field	field
+is	is	is
+to	to	to
+move	move	move
+the	the	the
+application	applic	application
+window	window	window
+around	around	around
+a	a	a
+little	littl	little
+bit	bit	bit
+and	and	and
+place	place	place
+it	it	it
+right	right	right
+behind	behind	behind
+the	the	the
+popup	popup	popup
+.	.	.
+
+any	ani	any
+pointers	pointer	pointer
+would	would	would
+be	be	be
+greatly	great	greatly
+appreciated	appreci	appreciated
+.	.	.

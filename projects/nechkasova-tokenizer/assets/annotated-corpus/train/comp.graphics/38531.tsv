@@ -1,0 +1,279 @@
+from	from	from
+:	:	:
+zyeh@caspian.usc.edu	zyeh@caspian.usc.edu	zyeh@caspian.usc.edu
+(	(	(
+zhenghao	zhenghao	zhenghao
+yeh	yeh	yeh
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+need	need	need
+polygon	polygon	polygon
+splitting	split	splitting
+algo	algo	algo
+.	.	.
+.	.	.
+.	.	.
+
+organization	organ	organization
+:	:	:
+university	univers	university
+of	of	of
+southern	southern	southern
+california	california	california
+,	,	,
+los	los	los
+angeles	angel	angeles
+,	,	,
+ca	ca	ca
+
+lines	line	line
+:	:	:
+25	25	25
+
+distribution	distribut	distribution
+:	:	:
+world	world	world
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+caspian	caspian	caspian
+.	.	.
+usc	usc	usc
+.	.	.
+edu	edu	edu
+
+keywords	keyword	keywords
+:	:	:
+polygons	polygon	polygon
+,	,	,
+splitting	split	splitting
+,	,	,
+clipping	clip	clipping
+
+in	in	in
+article	articl	article
+<	<	<
+1qvq4b	1qvq4b	1qvq4b
+$	$	$
+r4t@wampyr.cc.uow.edu.au	r4t@wampyr.cc.uow.edu.au	r4t@wampyr.cc.uow.edu.au
+>	>	>
+,	,	,
+g9134255@wampyr.cc.uow.edu.au	g9134255@wampyr.cc.uow.edu.au	g9134255@wampyr.cc.uow.edu.au
+(	(	(
+coronado	coronado	coronado
+emmanuel	emmanuel	emmanuel
+abad	abad	abad
+)	)	)
+writes	write	writes
+:	:	:
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+the	the	the
+idea	idea	idea
+is	is	is
+to	to	to
+clip	clip	clip
+one	one	one
+polygon	polygon	polygon
+using	use	using
+another	anoth	another
+polygon	polygon	polygon
+(	(	(
+not	not	not
+
+|	|	|
+>	>	>
+necessarily	necessarili	necessarily
+rectangular	rectangular	rectangular
+)	)	)
+as	as	a
+a	a	a
+window	window	window
+.	.	.
+
+my	my	my
+problem	problem	problem
+then	then	then
+is	is	is
+in	in	in
+
+|	|	|
+>	>	>
+finding	find	finding
+out	out	out
+all	all	all
+the	the	the
+new	new	new
+vertices	vertic	vertex
+of	of	of
+the	the	the
+resulting	result	resulting
+"	"	"
+subpolygons	subpolygon	subpolygons
+"	"	"
+
+|	|	|
+>	>	>
+from	from	from
+the	the	the
+first	first	first
+one	one	one
+.	.	.
+
+is	is	is
+this	this	this
+simply	simpli	simply
+a	a	a
+matter	matter	matter
+of	of	of
+extending	extend	extending
+the	the	the
+
+|	|	|
+>	>	>
+usual	usual	usual
+algorithm	algorithm	algorithm
+whereby	wherebi	whereby
+each	each	each
+of	of	of
+the	the	the
+edges	edg	edge
+of	of	of
+one	one	one
+polygon	polygon	polygon
+is	is	is
+checked	check	checked
+
+|	|	|
+>	>	>
+against	against	against
+another	anoth	another
+polygon	polygon	polygon
+?	?	?
+?	?	?
+?	?	?
+
+is	is	is
+there	there	there
+a	a	a
+simpler	simpler	simpler
+way	way	way
+?	?	?
+?	?	?
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+comments	comment	comment
+welcome	welcom	welcome
+.	.	.
+
+|	|	|
+>	>	>
+
+|	|	|
+>	>	>
+noel	noel	noel
+.	.	.
+
+it	it	it
+depends	depend	depends
+on	on	on
+what	what	what
+kind	kind	kind
+of	of	of
+the	the	the
+polygons	polygon	polygon
+.	.	.
+
+convex	convex	convex
+-	-	-
+simple	simpl	simple
+,	,	,
+concave	concav	concave
+-	-	-
+trouble	troubl	trouble
+,	,	,
+concave	concav	concave
+with	with	with
+loop	loop	loop
+(	(	(
+s	s	s
+)	)	)
+
+inside	insid	inside
+-	-	-
+big	big	big
+trouble	troubl	trouble
+.	.	.
+
+of	of	of
+cause	caus	cause
+,	,	,
+you	you	you
+can	can	can
+use	use	use
+the	the	the
+box	box	box
+test	test	test
+to	to	to
+avoid	avoid	avoid
+checking	check	checking
+
+each	each	each
+edges	edg	edge
+.	.	.
+
+according	accord	according
+to	to	to
+my	my	my
+experience	experi	experience
+,	,	,
+there	there	there
+is	is	is
+not	not	not
+
+a	a	a
+simple	simpl	simple
+way	way	way
+to	to	to
+go	go	go
+.	.	.
+
+the	the	the
+headache	headach	headache
+stuff	stuff	stuff
+is	is	is
+to	to	to
+deal	deal	deal
+with	with	with
+
+the	the	the
+special	special	special
+cases	case	case
+,	,	,
+for	for	for
+example	exampl	example
+,	,	,
+the	the	the
+overlapped	overlap	overlapped
+lines	line	line
+.	.	.
+
+yeh	yeh	yeh
+
+usc	usc	usc

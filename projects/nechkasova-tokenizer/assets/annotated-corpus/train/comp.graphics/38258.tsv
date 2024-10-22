@@ -1,0 +1,524 @@
+from	from	from
+:	:	:
+ab@nova.cc.purdue.edu	ab@nova.cc.purdue.edu	ab@nova.cc.purdue.edu
+(	(	(
+allen	allen	allen
+b	b	b
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+point	point	point
+within	within	within
+a	a	a
+polygon	polygon	polygon
+
+keywords	keyword	keywords
+:	:	:
+obfuscated	obfusc	obfuscated
+postscript	postscript	postscript
+
+organization	organ	organization
+:	:	:
+purdue	purdu	purdue
+university	univers	university
+
+lines	line	line
+:	:	:
+60	60	60
+
+in	in	in
+article	articl	article
+<	<	<
+jonas	jona	jonas
+-	-	-
+y	y	y
+.	.	.
+734802983	734802983	734802983
+@	@	@
+gouraud	gouraud	gouraud
+>	>	>
+jonas-y@isy.liu.se	jonas-y@isy.liu.s	jonas-y@isy.liu.se
+(	(	(
+jonas	jona	jonas
+yngvesson	yngvesson	yngvesson
+)	)	)
+writes	write	writes
+:	:	:
+
+>	>	>
+intersection	intersect	intersection
+between	between	between
+a	a	a
+line	line	line
+and	and	and
+a	a	a
+polygon	polygon	polygon
+(	(	(
+undecidable	undecid	undecidable
+?	?	?
+?	?	?
+)	)	)
+,	,	,
+>	>	>
+by	by	by
+dave	dave	dave
+baraff	baraff	baraff
+,	,	,
+tom	tom	tom
+duff	duff	duff
+
+>	>	>
+
+>	>	>
+from	from	from
+:	:	:
+deb@charisma.graphics.cornell.edu	deb@charisma.graphics.cornell.edu	deb@charisma.graphics.cornell.edu
+
+>	>	>
+in	in	in
+recent	recent	recent
+years	year	year
+,	,	,
+many	mani	many
+geometric	geometr	geometric
+problems	problem	problem
+have	have	have
+been	been	been
+successfully	success	successfully
+modeled	model	modeled
+in	in	in
+a	a	a
+
+>	>	>
+new	new	new
+language	languag	language
+called	call	called
+postscript	postscript	postscript
+.	.	.
+
+(	(	(
+see	see	see
+"	"	"
+postscript	postscript	postscript
+language	languag	language
+"	"	"
+,	,	,
+by	by	by
+adobe	adob	adobe
+systems	system	system
+
+>	>	>
+incorporated	incorpor	incorporated
+,	,	,
+isbn	isbn	isbn
+#	#	#
+0-201-10179-3	0-201-10179-3	0-201-10179-3
+,	,	,
+co	co	co
+.	.	.
+
+1985	1985	1985
+)	)	)
+.	.	.
+
+>	>	>
+
+>	>	>
+so	so	so
+,	,	,
+given	given	given
+a	a	a
+line	line	line
+l	l	l
+and	and	and
+a	a	a
+polygon	polygon	polygon
+p	p	p
+,	,	,
+we	we	we
+can	can	can
+write	write	write
+a	a	a
+postscript	postscript	postscript
+program	program	program
+that	that	that
+
+>	>	>
+draws	draw	draw
+the	the	the
+line	line	line
+l	l	l
+and	and	and
+the	the	the
+polygon	polygon	polygon
+p	p	p
+,	,	,
+and	and	and
+then	then	then
+"	"	"
+outputs	output	output
+"	"	"
+the	the	the
+answer	answer	answer
+.	.	.
+
+by	by	by
+
+>	>	>
+"	"	"
+output	output	output
+"	"	"
+,	,	,
+we	we	we
+mean	mean	mean
+the	the	the
+program	program	program
+executes	execut	executes
+a	a	a
+command	command	command
+called	call	called
+"	"	"
+showpage	showpag	showpage
+"	"	"
+,	,	,
+which	which	which
+
+>	>	>
+actually	actual	actually
+prints	print	print
+a	a	a
+page	page	page
+of	of	of
+paper	paper	paper
+containing	contain	containing
+the	the	the
+line	line	line
+and	and	and
+the	the	the
+polygon	polygon	polygon
+.	.	.
+
+a	a	a
+quick	quick	quick
+
+>	>	>
+examination	examin	examination
+of	of	of
+the	the	the
+paper	paper	paper
+provides	provid	provides
+an	an	an
+answer	answer	answer
+to	to	to
+the	the	the
+reduced	reduc	reduced
+problem	problem	problem
+q	q	q
+,	,	,
+and	and	and
+thus	thus	thus
+
+>	>	>
+the	the	the
+original	origin	original
+problem	problem	problem
+.	.	.
+
+curiously	curious	curiously
+,	,	,
+in	in	in
+modern	modern	modern
+postscript	postscript	postscript
+,	,	,
+the	the	the
+point	point	point
+in	in	in
+a	a	a
+polygon	polygon	polygon
+problem	problem	problem
+can	can	can
+be	be	be
+solved	solv	solved
+even	even	even
+more	more	more
+easily	easili	easily
+.	.	.
+
+to	to	to
+wit	wit	wit
+:	:	:
+
+%	%	%
+!	!	!
+
+%	%	%
+%	%	%
+title	titl	title
+:	:	:
+point	point	point
+in	in	in
+polygon	polygon	polygon
+
+%	%	%
+%	%	%
+creator	creator	creator
+:	:	:
+allen	allen	allen
+b	b	b
+(	(	(
+ab@cc.purdue.edu	ab@cc.purdue.edu	ab@cc.purdue.edu
+)	)	)
+
+%	%	%
+%	%	%
+for	for	for
+:	:	:
+the	the	the
+amusement	amus	amusement
+of	of	of
+comp	comp	comp
+.	.	.
+graphics	graphic	graphic
+regulars	regular	regular
+
+%	%	%
+%	%	%
+languagelevel	languagelevel	languagelevel
+:	:	:
+2	2	2
+
+%	%	%
+%	%	%
+documentneededresource	documentneededresourc	documentneededresource
+:	:	:
+humor	humor	humor
+sense	sens	sense
+thereof	thereof	thereof
+
+%	%	%
+%	%	%
+endcomments	endcom	endcomments
+
+%	%	%
+this	this	this
+program	program	program
+will	will	will
+test	test	test
+whether	whether	whether
+a	a	a
+point	point	point
+is	is	is
+inside	insid	inside
+a	a	a
+given	given	given
+polygon	polygon	polygon
+.	.	.
+
+%	%	%
+currently	current	currently
+it	it	it
+uses	use	us
+the	the	the
+even	even	even
+-	-	-
+odd	odd	odd
+rule	rule	rule
+,	,	,
+but	but	but
+that	that	that
+can	can	can
+be	be	be
+changed	chang	changed
+by	by	by
+
+%	%	%
+replacing	replac	replacing
+ineofill	ineofil	ineofill
+with	with	with
+infill	infil	infill
+.	.	.
+
+these	these	these
+are	are	are
+level	level	level
+2	2	2
+operators	oper	operator
+,	,	,
+%	%	%
+so	so	so
+if	if	if
+you	you	you
+'	'	'
+ve	ve	ve
+only	onli	only
+got	got	got
+level	level	level
+1	1	1
+you	you	you
+'	'	'
+re	re	re
+out	out	out
+of	of	of
+luck	luck	luck
+.	.	.
+
+%	%	%
+
+%	%	%
+the	the	the
+result	result	result
+will	will	will
+be	be	be
+printed	print	printed
+on	on	on
+the	the	the
+output	output	output
+stream	stream	stream
+.	.	.
+
+%	%	%
+
+%	%	%
+caution	caution	caution
+:	:	:
+only	onli	only
+accurate	accur	accurate
+to	to	to
+device	devic	device
+pixels	pixel	pixel
+!	!	!
+
+%	%	%
+put	put	put
+a	a	a
+huge	huge	huge
+scale	scale	scale
+in	in	in
+first	first	first
+if	if	if
+you	you	you
+aren	aren	aren
+'	'	'
+t	t	t
+sure	sure	sure
+.	.	.
+
+%	%	%
+point	point	point
+to	to	to
+test	test	test
+
+%	%	%
+put	put	put
+x	x	x
+and	and	and
+y	y	y
+coordinates	coordin	coordinate
+here	here	here
+
+50	50	50
+75	75	75
+
+%	%	%
+vertices	vertic	vertex
+of	of	of
+polygon	polygon	polygon
+in	in	in
+counter	counter	counter
+-	-	-
+clockwise	clockwis	clockwise
+order	order	order
+
+%	%	%
+put	put	put
+array	array	array
+of	of	of
+pairs	pair	pair
+of	of	of
+coordinates	coordin	coordinate
+here	here	here
+
+[	[	[
+
+[	[	[
+0	0	0
+0	0	0
+]	]	]
+
+[	[	[
+100	100	100
+0	0	0
+]	]	]
+
+[	[	[
+100	100	100
+100	100	100
+]	]	]
+
+[	[	[
+67	67	67
+100	100	100
+]	]	]
+
+[	[	[
+67	67	67
+50	50	50
+]	]	]
+
+[	[	[
+33	33	33
+50	50	50
+]	]	]
+
+[	[	[
+33	33	33
+100	100	100
+]	]	]
+
+[	[	[
+0	0	0
+100	100	100
+]	]	]
+
+]	]	]
+
+dup	dup	dup
+0	0	0
+get	get	get
+aload	aload	aload
+pop	pop	pop
+moveto	moveto	moveto
+dup	dup	dup
+length	length	length
+1	1	1
+dup	dup	dup
+3	3	3
+1	1	1
+roll	roll	roll
+sub	sub	sub
+getinterval	getinterv	getinterval
+{	{	{
+aload	aload	aload
+pop	pop	pop
+lineto	lineto	lineto
+}	}	}
+forall	foral	forall
+closepath	closepath	closepath
+ineofill	ineofil	ineofill
+{	{	{
+(	(	(
+yes	yes	yes
+!	!	!
+)	)	)
+}	}	}
+{	{	{
+(	(	(
+no	no	no
+!	!	!
+)	)	)
+}	}	}
+ifelse	ifels	ifelse
+=	=	=

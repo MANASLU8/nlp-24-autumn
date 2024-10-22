@@ -1,0 +1,148 @@
+from	from	from
+:	:	:
+ba1634807@ntuvax.ntu.ac.sg	ba1634807@ntuvax.ntu.ac.sg	ba1634807@ntuvax.ntu.ac.sg
+
+subject	subject	subject
+:	:	:
+pwm	pwm	pwm
+control	control	control
+thru	thru	thru
+software	softwar	software
+
+lines	line	line
+:	:	:
+17	17	17
+
+nntp	nntp	nntp
+-	-	-
+posting	post	posting
+-	-	-
+host	host	host
+:	:	:
+v9001	v9001	v9001
+.	.	.
+ntu	ntu	ntu
+.	.	.
+ac	ac	ac
+.	.	.
+sg	sg	sg
+
+organization	organ	organization
+:	:	:
+nanyang	nanyang	nanyang
+technological	technolog	technological
+university	univers	university
+-	-	-
+singapore	singapor	singapore
+
+currently	current	currently
+i	i	i
+am	am	am
+using	use	using
+the	the	the
+8051	8051	8051
+microcontroller	microcontrol	microcontroller
+with	with	with
+external	extern	external
+eprom	eprom	eprom
+.	.	.
+.	.	.
+
+in	in	in
+order	order	order
+to	to	to
+drive	drive	drive
+the	the	the
+dc	dc	dc
+motor	motor	motor
+(	(	(
+with	with	with
+direction	direct	direction
+)	)	)
+i	i	i
+use	use	use
+the	the	the
+pulse	puls	pulse
+width	width	width
+modultion	modult	modultion
+
+thru	thru	thru
+software	softwar	software
+control	control	control
+(	(	(
+assembly	assembl	assembly
+language	languag	language
+programming	program	programming
+)	)	)
+.	.	.
+
+however	howev	however
+i	i	i
+am	am	am
+afraid	afraid	afraid
+that	that	that
+
+they	they	they
+will	will	will
+be	be	be
+overheads	overhead	overhead
+and	and	and
+thus	thus	thus
+alter	alter	alter
+the	the	the
+pulse	puls	pulse
+timing	time	timing
+.	.	.
+
+my	my	my
+question	question	question
+is	is	is
+
+is	is	is
+the	the	the
+software	softwar	software
+pwm	pwm	pwm
+control	control	control
+reliable	reliabl	reliable
+?	?	?
+.	.	.
+
+i	i	i
+understand	understand	understand
+that	that	that
+port	port	port
+0	0	0
+is	is	is
+a	a	a
+latch	latch	latch
+
+and	and	and
+so	so	so
+i	i	i
+vary	vari	vary
+the	the	the
+duty	duti	duty
+cycle	cycl	cycle
+by	by	by
+setting	set	setting
+it	it	it
+high	high	high
+first	first	first
+and	and	and
+at	at	at
+the	the	the
+desire	desir	desire
+
+duty	duti	duty
+cycle	cycl	cycle
+then	then	then
+i	i	i
+set	set	set
+low	low	low
+.	.	.
+.	.	.
+?	?	?
+
+any	ani	any
+improments	improment	improments
+?	?	?

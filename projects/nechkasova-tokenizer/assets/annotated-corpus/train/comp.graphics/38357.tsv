@@ -1,0 +1,454 @@
+from	from	from
+:	:	:
+schultz@schultz.kgn.ibm.com	schultz@schultz.kgn.ibm.com	schultz@schultz.kgn.ibm.com
+(	(	(
+karl	karl	karl
+schultz	schultz	schultz
+)	)	)
+
+subject	subject	subject
+:	:	:
+re	re	re
+:	:	:
+vesa	vesa	vesa
+standard	standard	standard
+vga	vga	vga
+/	/	/
+svga	svga	svga
+programming	program	programming
+?	?	?
+?	?	?
+?	?	?
+
+reply	repli	reply
+-	-	-
+to	to	to
+:	:	:
+schultz@vnet.ibm.com	schultz@vnet.ibm.com	schultz@vnet.ibm.com
+
+organization	organ	organization
+:	:	:
+ibm	ibm	ibm
+aws	aw	aws
+graphics	graphic	graphic
+systems	system	system
+
+keywords	keyword	keywords
+:	:	:
+vga	vga	vga
+
+lines	line	line
+:	:	:
+45	45	45
+
+|	|	|
+>	>	>
+1	1	1
+.	.	.
+
+how	how	how
+vesa	vesa	vesa
+standard	standard	standard
+works	work	work
+?	?	?
+
+any	ani	any
+documentation	document	documentation
+for	for	for
+vesa	vesa	vesa
+standard	standard	standard
+?	?	?
+
+the	the	the
+vesa	vesa	vesa
+standard	standard	standard
+can	can	can
+be	be	be
+requested	request	requested
+from	from	from
+vesa	vesa	vesa
+:	:	:
+
+vesa	vesa	vesa
+
+2150	2150	2150
+north	north	north
+first	first	first
+street	street	street
+,	,	,
+suite	suit	suite
+440	440	440
+
+san	san	san
+jose	jose	jose
+,	,	,
+ca	ca	ca
+95131-2029	95131-2029	95131-2029
+
+ask	ask	ask
+for	for	for
+the	the	the
+vesa	vesa	vesa
+vbe	vbe	vbe
+and	and	and
+super	super	super
+vga	vga	vga
+programming	program	programming
+starndards	starndard	starndards
+.	.	.
+
+vesa	vesa	vesa
+
+also	also	also
+defines	defin	defines
+local	local	local
+bus	bus	bus
+and	and	and
+other	other	other
+standards	standard	standard
+.	.	.
+
+the	the	the
+vesa	vesa	vesa
+standard	standard	standard
+only	onli	only
+addresses	address	address
+ways	way	way
+in	in	in
+which	which	which
+an	an	an
+application	applic	application
+
+can	can	can
+find	find	find
+out	out	out
+info	info	info
+and	and	and
+capabilities	capabl	capability
+of	of	of
+a	a	a
+specific	specif	specific
+super	super	super
+vga	vga	vga
+
+implementation	implement	implementation
+and	and	and
+to	to	to
+control	control	control
+the	the	the
+video	video	video
+mode	mode	mode
+selection	select	selection
+
+and	and	and
+video	video	video
+memory	memori	memory
+access	access	access
+.	.	.
+
+you	you	you
+still	still	still
+have	have	have
+to	to	to
+set	set	set
+your	your	your
+own	own	own
+pixels	pixel	pixel
+.	.	.
+
+|	|	|
+>	>	>
+2	2	2
+.	.	.
+
+at	at	at
+a	a	a
+higher	higher	higher
+resolution	resolut	resolution
+than	than	than
+320x200x256	320x200x256	320x200x256
+or	or	or
+640x480x16	640x480x16	640x480x16
+vga	vga	vga
+mode	mode	mode
+,	,	,
+|	|	|
+>	>	>
+where	where	where
+the	the	the
+video	video	video
+memory	memori	memory
+a0000	a0000	a0000
+-	-	-
+affff	affff	affff
+is	is	is
+no	no	no
+longer	longer	longer
+sufficient	suffici	sufficient
+to	to	to
+hold	hold	hold
+
+|	|	|
+>	>	>
+all	all	all
+info	info	info
+,	,	,
+what	what	what
+is	is	is
+the	the	the
+trick	trick	trick
+to	to	to
+do	do	do
+fast	fast	fast
+image	imag	image
+manipulation	manipul	manipulation
+?	?	?
+
+i	i	i
+
+|	|	|
+>	>	>
+heard	heard	heard
+about	about	about
+memory	memori	memory
+mapping	map	mapping
+or	or	or
+video	video	video
+memory	memori	memory
+bank	bank	bank
+switching	switch	switching
+but	but	but
+know	know	know
+
+|	|	|
+>	>	>
+nothing	noth	nothing
+on	on	on
+how	how	how
+it	it	it
+is	is	is
+implemented	implement	implemented
+.	.	.
+
+any	ani	any
+advice	advic	advice
+,	,	,
+anyone	anyon	anyone
+?	?	?
+
+vesa	vesa	vesa
+defines	defin	defines
+a	a	a
+"	"	"
+window	window	window
+"	"	"
+that	that	that
+is	is	is
+used	use	used
+to	to	to
+access	access	access
+video	video	video
+memory	memori	memory
+.	.	.
+
+this	this	this
+window	window	window
+is	is	is
+anchored	anchor	anchored
+at	at	at
+the	the	the
+spot	spot	spot
+where	where	where
+you	you	you
+want	want	want
+to	to	to
+write	write	write
+,	,	,
+and	and	and
+then	then	then
+you	you	you
+can	can	can
+write	write	write
+as	as	a
+far	far	far
+as	as	a
+the	the	the
+window	window	window
+takes	take	take
+you	you	you
+(	(	(
+usually	usual	usually
+
+64k	64k	64k
+)	)	)
+.	.	.
+
+windows	window	window
+have	have	have
+granularities	granular	granularity
+,	,	,
+so	so	so
+you	you	you
+can	can	can
+'	'	'
+t	t	t
+just	just	just
+anchor	anchor	anchor
+
+them	them	them
+anywhere	anywher	anywhere
+.	.	.
+
+also	also	also
+,	,	,
+some	some	some
+implementations	implement	implementation
+allow	allow	allow
+two	two	two
+windows	window	window
+.	.	.
+
+|	|	|
+>	>	>
+3	3	3
+.	.	.
+
+my	my	my
+interest	interest	interest
+is	is	is
+in	in	in
+640x480x256	640x480x256	640x480x256
+mode	mode	mode
+.	.	.
+
+should	should	should
+this	this	this
+mode	mode	mode
+be	be	be
+called	call	called
+
+|	|	|
+>	>	>
+svga	svga	svga
+mode	mode	mode
+?	?	?
+
+what	what	what
+is	is	is
+the	the	the
+technique	techniqu	technique
+for	for	for
+fast	fast	fast
+image	imag	image
+scrolling	scroll	scrolling
+for	for	for
+the	the	the
+
+|	|	|
+>	>	>
+above	abov	above
+mode	mode	mode
+?	?	?
+
+how	how	how
+to	to	to
+deal	deal	deal
+with	with	with
+different	differ	different
+svga	svga	svga
+cards	card	card
+?	?	?
+
+this	this	this
+is	is	is
+vesa	vesa	vesa
+mode	mode	mode
+101h	101h	101h
+.	.	.
+
+there	there	there
+is	is	is
+a	a	a
+set	set	set
+display	display	display
+start	start	start
+function	function	function
+
+that	that	that
+might	might	might
+be	be	be
+useful	use	useful
+for	for	for
+scrolling	scroll	scrolling
+.	.	.
+
+|	|	|
+>	>	>
+your	your	your
+guidance	guidanc	guidance
+to	to	to
+books	book	book
+or	or	or
+any	ani	any
+other	other	other
+sources	sourc	source
+to	to	to
+the	the	the
+above	abov	above
+questions	question	question
+
+|	|	|
+>	>	>
+would	would	would
+be	be	be
+greatly	great	greatly
+appreciated	appreci	appreciated
+.	.	.
+
+please	pleas	please
+send	send	send
+me	me	me
+mail	mail	mail
+.	.	.
+
+your	your	your
+best	best	best
+bet	bet	bet
+is	is	is
+to	to	to
+write	write	write
+vesa	vesa	vesa
+for	for	for
+the	the	the
+info	info	info
+.	.	.
+
+there	there	there
+have	have	have
+also	also	also
+
+been	been	been
+announcements	announc	announcement
+on	on	on
+this	this	this
+group	group	group
+of	of	of
+vesa	vesa	vesa
+software	softwar	software
+.	.	.
+
+-	-	-
+-	-	-
+karl	karl	karl
+schultz	schultz	schultz
+schultz@vnet.ibm.com	schultz@vnet.ibm.com	schultz@vnet.ibm.com
+these	these	these
+statements	statement	statement
+or	or	or
+opinions	opinion	opinion
+are	are	are
+not	not	not
+necessarily	necessarili	necessarily
+those	those	those
+of	of	of
+ibm	ibm	ibm
